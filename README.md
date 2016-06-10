@@ -1,8 +1,28 @@
 # Активные соревнования
 http://mltrainings.ru/?filter=active
 
+http://datahack.analyticsvidhya.com/contest/all
+
 # Решения
 http://dsguide.biz/competitions/
+
+http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/
+
+# Тьюториалы
+
+http://cs231n.github.io/
+
+http://cs231n.github.io/neural-networks-case-study/
+
+https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
+
+http://neuralnetworksanddeeplearning.com/index.html
+
+http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+
+https://habrahabr.ru/company/recognitor/blog/277163/
+
+http://learnds.com/
 
 # Курсы
 ## Начало начал
@@ -10,6 +30,9 @@ https://www.coursera.org/learn/machine-learning
 
 ## Отличный курс, я с него начинал
 https://www.coursera.org/course/econometrics
+
+## специализация яндекса
+https://www.coursera.org/specializations/machine-learning-data-analysis
 
 https://www.coursera.org/course/mmds
 
@@ -70,3 +93,12 @@ https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 
 # Просто ссылки
 opendatascience.ru/
+
+https://habrahabr.ru/company/piter/blog/302520/
+
+https://www.gatesnotes.com/Books/How-Not-to-be-Wrong
+
+# Боты
+https://habrahabr.ru/post/302688/
+
+https://habrahabr.ru/post/262247/
