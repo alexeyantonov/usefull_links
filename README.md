@@ -24,6 +24,8 @@ https://habrahabr.ru/company/recognitor/blog/277163/
 
 http://learnds.com/
 
+http://www.opennet.ru/opennews/art.shtml?num=43594
+
 # Курсы
 ## Начало начал
 https://www.coursera.org/learn/machine-learning
@@ -102,3 +104,5 @@ https://www.gatesnotes.com/Books/How-Not-to-be-Wrong
 https://habrahabr.ru/post/302688/
 
 https://habrahabr.ru/post/262247/
+
+https://github.com/yukuku/telebot
