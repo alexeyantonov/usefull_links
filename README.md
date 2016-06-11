@@ -30,6 +30,8 @@ http://www.opennet.ru/opennews/art.shtml?num=43594
 ## Начало начал
 https://www.coursera.org/learn/machine-learning
 
+http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
+
 ## Отличный курс, я с него начинал
 https://www.coursera.org/course/econometrics
 
