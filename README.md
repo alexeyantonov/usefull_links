@@ -89,6 +89,8 @@ https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 ## Еще одни отличные лекции, у автора есть еще курс по ML
 https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 
+https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
+
 ## Обзоры технологий глубинного обучения очень-очень общО
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
