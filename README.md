@@ -106,6 +106,8 @@ https://www.gatesnotes.com/Books/How-Not-to-be-Wrong
 
 http://www.prcconsulting.net/2016/05/expand-machine-learning-tools-configure-jupyteripython-notebook-for-pyspark-1-6-1/
 
+https://geektimes.ru/company/itinvest/blog/277086/
+
 # Боты
 https://habrahabr.ru/post/302688/
 
