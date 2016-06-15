@@ -26,6 +26,10 @@ http://learnds.com/
 
 http://www.opennet.ru/opennews/art.shtml?num=43594
 
+https://hackerlists.com/free-machine-learning-books/
+
+https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine_learning/
+
 # Курсы
 ## Начало начал
 https://www.coursera.org/learn/machine-learning
@@ -112,6 +116,8 @@ https://github.com/diefimov
 https://github.com/cs231n/cs231n.github.io
 
 https://github.com/gereleth/kaggle-telstra
+
+https://www.reddit.com/r/MachineLearning/
 
 ### Не смотрел
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
