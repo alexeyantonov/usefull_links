@@ -102,6 +102,17 @@ https://habrahabr.ru/post/302242/
 
 https://habrahabr.ru/post/303196/
 
+### Блоги // разные ресурсы
+https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
+
+https://alexanderdyakonov.wordpress.com/
+
+https://github.com/diefimov
+
+https://github.com/cs231n/cs231n.github.io
+
+https://github.com/gereleth/kaggle-telstra
+
 ### Не смотрел
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 
