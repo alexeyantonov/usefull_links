@@ -116,6 +116,8 @@ http://www.prcconsulting.net/2016/05/expand-machine-learning-tools-configure-jup
 
 https://geektimes.ru/company/itinvest/blog/277086/
 
+https://habrahabr.ru/company/dca/blog/303286/
+
 # Боты
 https://habrahabr.ru/post/302688/
 
