@@ -74,27 +74,35 @@ https://work.caltech.edu/lectures.html#lectures
 
 # Нейросети
 
-## Приятный начальный курс
+### Приятный начальный курс
 https://stepic.org/course/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-401
 
-## Шикарный курс по нейросетям и глубинному обучению (очень понятный)
+### Шикарный курс по нейросетям и глубинному обучению (очень понятный)
 https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 
-## Курс от Хинтона (отца глубинного обучения) Neural Networks for Machine Learning
+### Курс от Хинтона (отца глубинного обучения) Neural Networks for Machine Learning
 https://www.coursera.org/course/neuralnets (ссылка может не работать, т.к. курсера переформатирует свою систему ссылок)
 
-## Пока не смотрел, но, видимо, школьник развлекается
+### Пока не смотрел, но, видимо, школьник развлекается
 https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
-## Еще одни отличные лекции, у автора есть еще курс по ML
+### Еще одни отличные лекции, у автора есть еще курс по ML
 https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 
 https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
 
-## Обзоры технологий глубинного обучения очень-очень общО
+### Обзоры технологий глубинного обучения очень-очень общО
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
-## Не смотрел
+### Серия статей
+
+https://habrahabr.ru/post/301084/
+
+https://habrahabr.ru/post/302242/
+
+https://habrahabr.ru/post/303196/
+
+### Не смотрел
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 
 # Просто ссылки
@@ -114,3 +122,5 @@ https://habrahabr.ru/post/302688/
 https://habrahabr.ru/post/262247/
 
 https://github.com/yukuku/telebot
+
+https://slon.ru/posts/69412
