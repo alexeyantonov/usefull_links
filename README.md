@@ -178,3 +178,9 @@ https://github.com/yukuku/telebot
 https://slon.ru/posts/69412
 
 https://habrahabr.ru/company/spbau/blog/303478/
+
+https://medium.com/chat-bots-developers/tagged/telegram
+
+https://medium.com/chat-bots-news
+
+https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
