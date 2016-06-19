@@ -34,12 +34,6 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
-https://medium.com/@frgoitia/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371#.t7cfvz522
-
-http://www.wired.com/2016/06/deep-learning-isnt-dangerous-magic-genie-just-math/
-
-http://playittodeath.ru/%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-python-data-wrangling-and/
-
 # Курсы
 ## Начало начал
 https://www.coursera.org/learn/machine-learning
@@ -150,6 +144,12 @@ https://geektimes.ru/company/itinvest/blog/277086/
 https://docs.google.com/forms/d/1nV2fAnD1raHm8ipTcUwFmNRyDuZa_CLKcdYU7vlT3g0/viewform?c=0&w=1
 
 https://habrahabr.ru/company/dca/blog/303286/
+
+https://medium.com/@frgoitia/how-to-create-your-own-machine-learning-predictive-system-in-the-nba-using-python-7189d964a371#.t7cfvz522
+
+http://www.wired.com/2016/06/deep-learning-isnt-dangerous-magic-genie-just-math/
+
+http://playittodeath.ru/%D0%BC%D0%B0%D0%BD%D0%B8%D0%BF%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F-%D0%B8-%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%B2-python-data-wrangling-and/
 
 # Боты
 https://habrahabr.ru/post/302688/
