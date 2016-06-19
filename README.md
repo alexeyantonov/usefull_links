@@ -35,7 +35,7 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
 # Курсы
-## Начало начал
+### Начало начал
 https://www.coursera.org/learn/machine-learning
 
 http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
@@ -83,6 +83,23 @@ https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/info
 https://work.caltech.edu/lectures.html#lectures
 
 http://cs224d.stanford.edu/
+
+### Udacity
+###ML
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp
+
+### DS
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs
+
+https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 
 # Нейросети
 
