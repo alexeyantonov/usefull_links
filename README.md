@@ -12,6 +12,8 @@ http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-in
 
 http://cs231n.github.io/
 
+http://cs231n.github.io/python-numpy-tutorial/
+
 http://cs231n.github.io/neural-networks-case-study/
 
 https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/
@@ -41,6 +43,8 @@ https://www.coursera.org/course/econometrics
 
 ## специализация яндекса
 https://www.coursera.org/specializations/machine-learning-data-analysis
+
+https://www.udacity.com/course/deep-learning--ud730
 
 https://www.coursera.org/course/mmds
 
@@ -75,6 +79,8 @@ http://videolectures.net/deeplearning2015_montreal/
 https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/info
 
 https://work.caltech.edu/lectures.html#lectures
+
+http://cs224d.stanford.edu/
 
 # Нейросети
 
@@ -132,6 +138,8 @@ https://www.gatesnotes.com/Books/How-Not-to-be-Wrong
 http://www.prcconsulting.net/2016/05/expand-machine-learning-tools-configure-jupyteripython-notebook-for-pyspark-1-6-1/
 
 https://geektimes.ru/company/itinvest/blog/277086/
+
+https://docs.google.com/forms/d/1nV2fAnD1raHm8ipTcUwFmNRyDuZa_CLKcdYU7vlT3g0/viewform?c=0&w=1
 
 https://habrahabr.ru/company/dca/blog/303286/
 
