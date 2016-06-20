@@ -178,6 +178,10 @@ http://stackoverflow.com/questions/81584/what-ide-to-use-for-python
 
 https://habrahabr.ru/post/303600/
 
+http://www.emilyinamillion.me/blog/2016/5/30/the-making-of-a-cheatsheet-emoji-edition
+
+http://www.mlyearning.org/
+
 # Боты
 https://habrahabr.ru/post/302688/
 
