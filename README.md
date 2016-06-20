@@ -34,7 +34,9 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
-https://medium.com/@ageitgey
+https://medium.com/@ageitgey # look for ML e.g. https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.b3fjppyeg
+
+http://www.learnjavaonline.org/
 
 # Курсы
 ### Начало начал
@@ -198,3 +200,11 @@ https://medium.com/chat-bots-developers/tagged/telegram
 https://medium.com/chat-bots-news
 
 https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
+
+# FinTech
+
+https://habrahabr.ru/post/231163/
+
+https://slon.ru/posts/68649
+
+https://slon.ru/posts/68321
