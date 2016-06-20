@@ -172,6 +172,10 @@ https://www.mapr.com/blog/apache-spark-machine-learning-tutorial
 
 https://azure.microsoft.com/en-us/documentation/articles/machine-learning-algorithm-choice/
 
+http://stackoverflow.com/questions/81584/what-ide-to-use-for-python
+
+https://habrahabr.ru/post/303600/
+
 # Боты
 https://habrahabr.ru/post/302688/
 
