@@ -211,3 +211,5 @@ https://slon.ru/posts/68321
 
 ### SSL cert mention
 https://habrahabr.ru/post/231163/
+
+http://www.forbes.ru/tekhnologii/idei-i-izobreteniya/320325-slozhno-svyazat-kod-na-blokcheine-s-realnym-mirom-intervyu-s
