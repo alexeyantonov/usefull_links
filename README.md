@@ -135,7 +135,10 @@ https://habrahabr.ru/post/302242/
 
 https://habrahabr.ru/post/303196/
 
-### Блоги // разные ресурсы
+### Нормальные советы
+http://www.kdnuggets.com/2016/03/must-know-tips-deep-learning-part-1.html
+
+# Блоги // разные ресурсы
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
 https://alexanderdyakonov.wordpress.com/
