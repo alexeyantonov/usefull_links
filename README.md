@@ -34,6 +34,8 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
+https://medium.com/@ageitgey
+
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
