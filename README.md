@@ -34,7 +34,7 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
-https://medium.com/@ageitgey # look for ML e.g. https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.b3fjppyeg
+https://medium.com/@ageitgey look for ML e.g. https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.b3fjppyeg
 
 http://www.learnjavaonline.org/
 
@@ -209,4 +209,5 @@ https://slon.ru/posts/68649
 
 https://slon.ru/posts/68321
 
+### SSL cert mention
 https://habrahabr.ru/post/231163/
