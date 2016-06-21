@@ -38,6 +38,8 @@ https://medium.com/@ageitgey look for ML e.g. https://medium.com/@ageitgey/machi
 
 http://www.learnjavaonline.org/
 
+http://mlbootcamp.ru/article/tutorial/
+
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
