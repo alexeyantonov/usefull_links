@@ -216,3 +216,5 @@ https://slon.ru/posts/68321
 https://habrahabr.ru/post/231163/
 
 http://www.forbes.ru/tekhnologii/idei-i-izobreteniya/320325-slozhno-svyazat-kod-na-blokcheine-s-realnym-mirom-intervyu-s
+
+https://geektimes.ru/company/wirex/blog/277438/
