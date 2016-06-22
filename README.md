@@ -189,6 +189,8 @@ http://www.emilyinamillion.me/blog/2016/5/30/the-making-of-a-cheatsheet-emoji-ed
 
 http://www.mlyearning.org/
 
+https://habrahabr.ru/post/303802/
+
 # Боты
 https://habrahabr.ru/post/302688/
 
