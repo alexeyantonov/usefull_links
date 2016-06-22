@@ -60,7 +60,7 @@ http://www.learnjavaonline.org/
 
 http://mlbootcamp.ru/article/tutorial/
 
-
+http://www.kdnuggets.com/2016/06/mining-twitter-data-python-part-1.html
 
 
 
