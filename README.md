@@ -132,6 +132,8 @@ https://work.caltech.edu/lectures.html#lectures
 
 http://cs224d.stanford.edu/
 
+https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb
+
 ### Udacity
 ###ML
 https://www.youtube.com/playlist?list=PLAwxTw4SYaPkQXg8TkVdIvYv4HfLG7SiH
