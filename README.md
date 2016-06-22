@@ -3,13 +3,33 @@ http://mltrainings.ru/?filter=active
 
 http://datahack.analyticsvidhya.com/contest/all
 
+
+
+
+
+
+
+
+
+
+
+
 # Решения
 http://dsguide.biz/competitions/
 
 http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/
 
-# Тьюториалы
 
+
+
+
+
+
+
+
+
+
+# Тьюториалы
 http://cs231n.github.io/
 
 http://cs231n.github.io/python-numpy-tutorial/
@@ -40,16 +60,38 @@ http://www.learnjavaonline.org/
 
 http://mlbootcamp.ru/article/tutorial/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
 
 http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
-## Отличный курс, я с него начинал
+### Отличный курс, я с него начинал
 https://www.coursera.org/course/econometrics
 
-## специализация яндекса
+### специализация яндекса
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
 https://www.udacity.com/course/deep-learning--ud730
@@ -107,8 +149,25 @@ https://www.youtube.com/playlist?list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs
 
 https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 
-# Нейросети
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Нейросети
 ### Приятный начальный курс
 https://stepic.org/course/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-401
 
@@ -130,7 +189,6 @@ https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
 https://www.youtube.com/playlist?list=PLjJh1vlSEYgvGod9wWiydumYl8hOXixNu
 
 ### Серия статей
-
 https://habrahabr.ru/post/301084/
 
 https://habrahabr.ru/post/302242/
@@ -145,6 +203,8 @@ https://geektimes.ru/post/277492/ # read comments
 http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
 
 http://www.kdnuggets.com/2016/01/more-arxiv-deep-learning-papers-explained.html
+
+http://www.jtoy.net/2016/02/14/opening-up-deep-learning-for-everyone.html
 
 
 
@@ -172,6 +232,21 @@ https://www.reddit.com/r/MachineLearning/
 
 ### Не смотрел
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Просто ссылки
 opendatascience.ru/
@@ -208,6 +283,17 @@ http://www.mlyearning.org/
 
 https://habrahabr.ru/post/303802/
 
+
+
+
+
+
+
+
+
+
+
+
 # Боты
 https://habrahabr.ru/post/302688/
 
@@ -225,8 +311,20 @@ https://medium.com/chat-bots-news
 
 https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
 
-# FinTech
 
+
+
+
+
+
+
+
+
+
+
+
+
+# FinTech
 https://habrahabr.ru/post/231163/
 
 https://slon.ru/posts/68649
