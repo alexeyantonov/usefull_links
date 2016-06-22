@@ -140,6 +140,8 @@ https://habrahabr.ru/post/303196/
 ### Нормальные советы
 http://www.kdnuggets.com/2016/03/must-know-tips-deep-learning-part-1.html
 
+https://geektimes.ru/post/277492/ # read comments
+
 # Блоги // разные ресурсы
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
