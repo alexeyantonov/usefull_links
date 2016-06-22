@@ -144,6 +144,19 @@ https://geektimes.ru/post/277492/ # read comments
 
 http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
 
+http://www.kdnuggets.com/2016/01/more-arxiv-deep-learning-papers-explained.html
+
+
+
+
+
+
+
+
+
+
+
+
 # Блоги // разные ресурсы
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
