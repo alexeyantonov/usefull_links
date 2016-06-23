@@ -6,3 +6,5 @@ http://pora-valit.livejournal.com/4550952.html (*)
 https://slon.ru/posts/69471
 
 https://slon.ru/posts/69616
+
+https://meduza.io/feature/2016/06/22/brasletom-ne-vospolzueshsya-esli-tebya-derzhat-za-ruki
