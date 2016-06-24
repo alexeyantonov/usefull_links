@@ -208,7 +208,7 @@ http://www.kdnuggets.com/2016/01/more-arxiv-deep-learning-papers-explained.html
 
 http://www.jtoy.net/2016/02/14/opening-up-deep-learning-for-everyone.html
 
-
+https://www.oreilly.com/learning/hello-tensorflow # tensorflow
 
 
 
