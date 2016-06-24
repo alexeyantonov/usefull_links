@@ -287,6 +287,8 @@ https://habrahabr.ru/post/303802/
 
 http://www.datashaping.com/data_mining.shtml # data mining
 
+http://itebooks.website/book-1784396699.html # e-books
+
 
 
 
@@ -313,9 +315,11 @@ https://medium.com/chat-bots-news
 
 https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
 
+http://www.telegrambots.info/
 
+https://chatfuel.com/create-chatbot-for-telegram
 
-
+https://habrahabr.ru/company/spottle/blog/303528/
 
 
 
