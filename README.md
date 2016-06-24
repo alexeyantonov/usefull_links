@@ -285,7 +285,7 @@ http://www.mlyearning.org/
 
 https://habrahabr.ru/post/303802/
 
-
+http://www.datashaping.com/data_mining.shtml # data mining
 
 
 
