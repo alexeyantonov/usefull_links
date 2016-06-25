@@ -235,6 +235,8 @@ https://www.reddit.com/r/MachineLearning/
 ### Не смотрел
 https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 
+http://opendatascience.ru/problema-nehvatki-vichislitelnikh-resursov/
+
 
 
 
@@ -253,7 +255,7 @@ https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 # Просто ссылки
 https://www.packtpub.com/packt/offers/free-learning
 
-https://opendatascience.ru/
+http://opendatascience.ru/
 
 https://habrahabr.ru/company/piter/blog/302520/
 
