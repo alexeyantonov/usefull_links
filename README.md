@@ -330,7 +330,7 @@ https://habrahabr.ru/company/spottle/blog/303528/
 
 
 
-# FinTech
+# FinTech & E-Commerce
 https://habrahabr.ru/post/231163/
 
 https://slon.ru/posts/68649
@@ -343,3 +343,5 @@ https://habrahabr.ru/post/231163/
 http://www.forbes.ru/tekhnologii/idei-i-izobreteniya/320325-slozhno-svyazat-kod-na-blokcheine-s-realnym-mirom-intervyu-s
 
 https://geektimes.ru/company/wirex/blog/277438/
+
+https://roem.ru/24-06-2016/227219/ecwid-vk/
