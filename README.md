@@ -311,6 +311,8 @@ http://itebooks.website/book-1784396699.html # e-books
 
 
 # Боты
+https://github.com/python-telegram-bot/python-telegram-bot#learning-by-example # !
+
 https://habrahabr.ru/post/302688/
 
 https://habrahabr.ru/post/262247/
