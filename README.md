@@ -62,6 +62,14 @@ http://mlbootcamp.ru/article/tutorial/
 
 http://www.kdnuggets.com/2016/06/mining-twitter-data-python-part-1.html
 
+https://github.com/josephmisiti/awesome-machine-learning # !
+
+https://github.com/dmlc/xgboost/tree/master/demo # !
+
+http://xgboost.readthedocs.io/en/latest/python/python_intro.html
+
+http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # !
+
 
 
 
