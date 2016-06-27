@@ -333,7 +333,13 @@ https://chatfuel.com/create-chatbot-for-telegram
 
 https://habrahabr.ru/company/spottle/blog/303528/
 
+http://blizzy.ru/telegram/razmesaem-bota-na-platforme-heroku
 
+https://toster.ru/q/237782
+
+http://mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku/
+
+https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots
 
 
 
