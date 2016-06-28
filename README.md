@@ -102,6 +102,9 @@ https://www.coursera.org/course/econometrics
 ### специализация яндекса
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
+### islr
+https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/courseware/995220423fd14a4588d8e47920f1b5df/
+
 https://www.udacity.com/course/deep-learning--ud730
 
 https://www.coursera.org/course/mmds
