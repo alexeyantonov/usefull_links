@@ -221,6 +221,9 @@ http://www.jtoy.net/2016/02/14/opening-up-deep-learning-for-everyone.html
 
 https://www.oreilly.com/learning/hello-tensorflow # tensorflow
 
+https://habrahabr.ru/post/304230/
+
+
 
 
 
