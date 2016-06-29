@@ -311,6 +311,12 @@ http://itebooks.website/book-1784396699.html # e-books
 
 http://www.kdnuggets.com/software/automated-data-science.html
 
+https://medium.com/@alexrachnog/keras-lstm-to-java-a3124402d69#.8bye1bny6 # keras
+
+http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/
+
+
+
 
 
 
@@ -353,7 +359,7 @@ https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Te
 
 https://habrahabr.ru/post/304150/
 
-
+https://github.com/urandon/pyloggers
 
 
 
