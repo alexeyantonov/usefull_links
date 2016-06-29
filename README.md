@@ -70,7 +70,9 @@ http://xgboost.readthedocs.io/en/latest/python/python_intro.html
 
 http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # !
 
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 
+https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 
 
 
