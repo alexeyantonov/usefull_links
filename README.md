@@ -74,7 +74,7 @@ https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-
 
 https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 
-
+http://blog.yhat.com/posts/image-processing-with-scikit-image.html
 
 
 
