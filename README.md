@@ -309,7 +309,7 @@ http://www.datashaping.com/data_mining.shtml # data mining
 
 http://itebooks.website/book-1784396699.html # e-books
 
-
+http://www.kdnuggets.com/software/automated-data-science.html
 
 
 
