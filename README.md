@@ -349,7 +349,7 @@ http://mvalipour.github.io/node.js/2015/11/10/build-telegram-bot-nodejs-heroku/
 
 https://github.com/python-telegram-bot/python-telegram-bot/wiki/Where-to-host-Telegram-Bots
 
-
+https://habrahabr.ru/post/304150/
 
 
 
