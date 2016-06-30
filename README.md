@@ -1,3 +1,5 @@
+https://www.packtpub.com/packt/offers/free-learning
+
 # Активные соревнования
 http://mltrainings.ru/?filter=active
 
