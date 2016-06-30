@@ -323,7 +323,7 @@ https://medium.com/@alexrachnog/keras-lstm-to-java-a3124402d69#.8bye1bny6 # kera
 
 http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenting-your-work/
 
-
+https://habrahabr.ru/company/piter/blog/282167/
 
 
 
@@ -387,3 +387,5 @@ http://www.forbes.ru/tekhnologii/idei-i-izobreteniya/320325-slozhno-svyazat-kod-
 https://geektimes.ru/company/wirex/blog/277438/
 
 https://roem.ru/24-06-2016/227219/ecwid-vk/
+
+https://habrahabr.ru/company/piter/blog/277625/
