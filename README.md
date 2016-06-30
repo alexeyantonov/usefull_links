@@ -225,7 +225,13 @@ https://www.oreilly.com/learning/hello-tensorflow # tensorflow
 
 https://habrahabr.ru/post/304230/
 
+https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html
 
+https://www.tensorflow.org/versions/r0.9/tutorials/wide/index.html
+
+https://www.tensorflow.org/versions/r0.9/tutorials/wide_and_deep/index.html
+
+http://arxiv.org/abs/1606.07792
 
 
 
