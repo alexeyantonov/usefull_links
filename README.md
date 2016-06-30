@@ -80,7 +80,7 @@ http://www.win-vector.com/blog/tag/calculus-of-variations/
 
 http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
 
-
+https://habrahabr.ru/post/251225/
 
 
 
