@@ -76,7 +76,9 @@ https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-pe
 
 http://blog.yhat.com/posts/image-processing-with-scikit-image.html
 
+http://www.win-vector.com/blog/tag/calculus-of-variations/
 
+http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
 
 
 
