@@ -237,6 +237,11 @@ https://www.tensorflow.org/versions/r0.9/tutorials/wide_and_deep/index.html
 
 http://arxiv.org/abs/1606.07792
 
+https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html # !
+
+https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc
+
+
 
 
 
