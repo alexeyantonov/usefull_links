@@ -332,6 +332,10 @@ http://blog.kaggle.com/2016/06/29/communicating-data-science-a-guide-to-presenti
 
 https://habrahabr.ru/company/piter/blog/282167/
 
+http://ostatic.com/blog/google-offers-free-data-studio-analytics-tool
+
+https://www.weforum.org/agenda/2016/05/why-you-need-to-understand-machine-learning/
+
 
 
 
@@ -396,3 +400,5 @@ https://geektimes.ru/company/wirex/blog/277438/
 https://roem.ru/24-06-2016/227219/ecwid-vk/
 
 https://habrahabr.ru/company/piter/blog/277625/
+
+http://www.forbes.ru/news/324115-qiwi-i-ryad-rossiiskikh-bankov-sozdadut-konsortsium-dlya-raboty-nad-blockchain
