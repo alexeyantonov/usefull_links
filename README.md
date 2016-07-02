@@ -338,7 +338,7 @@ https://www.weforum.org/agenda/2016/05/why-you-need-to-understand-machine-learni
 
 https://habrahabr.ru/post/193242/
 
-
+https://habrahabr.ru/post/193242/
 
 
 
