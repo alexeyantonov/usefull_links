@@ -241,7 +241,7 @@ https://www.tensorflow.org/versions/r0.9/tutorials/mnist/beginners/index.html # 
 
 https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc
 
-
+https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
 
 
