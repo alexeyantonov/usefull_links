@@ -243,6 +243,13 @@ https://www.udacity.com/course/deep-learning--ud730?utm_campaign=chrome_series_m
 
 https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
+http://arxiv.org/pdf/1606.06031v1.pdf
+
+
+
+
+
+
 
 
 
@@ -339,6 +346,23 @@ https://www.weforum.org/agenda/2016/05/why-you-need-to-understand-machine-learni
 https://habrahabr.ru/post/193242/
 
 https://habrahabr.ru/post/193242/
+
+https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+
+https://habrahabr.ru/post/304770/
+
+https://roem.ru/06-07-2016/228294/frii-konstruktor/
+
+http://rusbase.com/news/alfa-bank-inno/
+
+
+
+
+
+
+
+
+
 
 
 
