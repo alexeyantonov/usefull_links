@@ -404,6 +404,23 @@ https://habrahabr.ru/post/304150/
 
 https://github.com/urandon/pyloggers
 
+https://drive.google.com/file/d/0B6RV1c6N3JOveGExZTQxZkxwOWc/view
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
