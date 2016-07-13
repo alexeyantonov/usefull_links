@@ -247,7 +247,7 @@ http://arxiv.org/pdf/1606.06031v1.pdf
 
 https://habrahabr.ru/post/305578/
 
-
+http://playground.tensorflow.org
 
 
 
