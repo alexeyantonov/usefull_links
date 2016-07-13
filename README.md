@@ -249,9 +249,15 @@ https://habrahabr.ru/post/305578/
 
 http://playground.tensorflow.org
 
+http://keras.io/
 
+http://keras.io/getting-started/sequential-model-guide/
 
+http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/
 
+http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
+
+https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
 
 
 
