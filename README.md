@@ -259,6 +259,24 @@ http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-
 
 https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_deck.pdf
 
+https://www.kaggle.com/c/predict-west-nile-virus/forums/t/13725/achieve-lb-0-684-in-seconds-with-a-deep-net-using-keras-python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
