@@ -390,7 +390,7 @@ https://habrahabr.ru/post/305738/
 
 http://4pda.ru/2016/03/22/285578/
 
-
+https://habrahabr.ru/company/selectel/blog/305422/ #! git
 
 
 
