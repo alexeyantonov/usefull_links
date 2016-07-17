@@ -272,7 +272,10 @@ https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
 http://stackoverflow.com/questions/34097988/how-do-i-install-keras-and-theano-in-anaconda-python-2-7-on-windows #! installing keras
 
-
+### tensorflow install
+https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html#pip-installation #1
+http://learningtensorflow.com/lesson1/ #2
+http://tflearn.org/installation/ #3
 
 
 
