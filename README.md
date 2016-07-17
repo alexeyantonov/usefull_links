@@ -251,8 +251,8 @@ https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
 http://arxiv.org/pdf/1606.06031v1.pdf
 
-### look throuhg
-https://habrahabr.ru/post/305578/
+### look through
+https://habrahabr.ru/post/305578/ #!
 
 http://playground.tensorflow.org
 
