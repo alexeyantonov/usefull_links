@@ -270,7 +270,7 @@ https://www.kaggle.com/c/predict-west-nile-virus/forums/t/13725/achieve-lb-0-684
 
 https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
-
+http://stackoverflow.com/questions/34097988/how-do-i-install-keras-and-theano-in-anaconda-python-2-7-on-windows #! installing keras
 
 
 
