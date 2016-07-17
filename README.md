@@ -32,6 +32,8 @@ http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-in
 
 
 # Тьюториалы
+http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/
+
 http://cs231n.github.io/
 
 http://cs231n.github.io/python-numpy-tutorial/
@@ -187,6 +189,10 @@ https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 
 
 # Нейросети
+http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html
+
+https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582#.2kx3a6bf6
+
 ### Приятный начальный курс
 https://stepic.org/course/%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B5%D1%82%D0%B8-401
 
@@ -379,7 +385,9 @@ https://roem.ru/06-07-2016/228294/frii-konstruktor/
 
 http://rusbase.com/news/alfa-bank-inno/
 
+https://habrahabr.ru/post/305738/
 
+http://4pda.ru/2016/03/22/285578/
 
 
 
@@ -430,7 +438,7 @@ https://github.com/urandon/pyloggers
 
 https://drive.google.com/file/d/0B6RV1c6N3JOveGExZTQxZkxwOWc/view
 
-
+https://habrahabr.ru/post/305694/
 
 
 
