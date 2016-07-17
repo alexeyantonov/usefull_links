@@ -251,6 +251,7 @@ https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
 http://arxiv.org/pdf/1606.06031v1.pdf
 
+### look throuhg
 https://habrahabr.ru/post/305578/
 
 http://playground.tensorflow.org
@@ -267,7 +268,7 @@ https://github.com/dylandrover/keras_tutorial/blob/master/keras_tutorial/keras_d
 
 https://www.kaggle.com/c/predict-west-nile-virus/forums/t/13725/achieve-lb-0-684-in-seconds-with-a-deep-net-using-keras-python
 
-
+https://www.microway.com/hpc-tech-tips/deep-learning-applications/
 
 
 
