@@ -281,6 +281,11 @@ http://ami.nstu.ru/~vms/lecture/data_mining/n_set.htm
 
 https://habrahabr.ru/company/meanotek/blog/271053/
 
+https://habrahabr.ru/company/meanotek/blog/271053/
+
+https://postnauka.ru/faq/27392
+
+
 
 
 
