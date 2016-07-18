@@ -279,7 +279,7 @@ http://tflearn.org/installation/ #3
 
 http://ami.nstu.ru/~vms/lecture/data_mining/n_set.htm
 
-
+https://habrahabr.ru/company/meanotek/blog/271053/
 
 
 
