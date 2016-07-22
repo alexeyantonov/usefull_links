@@ -86,6 +86,13 @@ http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html
 
 https://habrahabr.ru/post/251225/
 
+http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
+
+http://www.datadependence.com/2016/05/scientific-python-pandas/
+
+http://www.kdnuggets.com/2016/04/top-10-essential-books-data-enthusiast.html
+
+
 
 
 
@@ -260,6 +267,8 @@ http://keras.io/
 
 http://keras.io/getting-started/sequential-model-guide/
 
+http://keras.io/getting-started/sequential-model-guide/#examples 
+
 http://machinelearningmastery.com/introduction-python-deep-learning-library-keras/
 
 http://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
@@ -289,7 +298,7 @@ https://habrahabr.ru/company/meanotek/blog/271053/
 
 https://postnauka.ru/faq/27392
 
-
+https://habrahabr.ru/company/meanotek/blog/271053/
 
 
 
@@ -318,7 +327,7 @@ https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
 
 http://opendatascience.ru/problema-nehvatki-vichislitelnikh-resursov/
 
-
+https://habrahabr.ru/company/infopulse/blog/306184/ #обзор библиотек для R
 
 
 
