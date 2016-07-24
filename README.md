@@ -92,6 +92,11 @@ http://www.datadependence.com/2016/05/scientific-python-pandas/
 
 http://www.kdnuggets.com/2016/04/top-10-essential-books-data-enthusiast.html
 
+https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin
+
+http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
+
+
 
 
 
@@ -292,13 +297,11 @@ http://tflearn.org/installation/ #3
 
 http://ami.nstu.ru/~vms/lecture/data_mining/n_set.htm
 
-https://habrahabr.ru/company/meanotek/blog/271053/
-
-https://habrahabr.ru/company/meanotek/blog/271053/
-
 https://postnauka.ru/faq/27392
 
 https://habrahabr.ru/company/meanotek/blog/271053/
+
+https://meduza.io/shapito/2016/07/23/gid-po-neyrosetyam #shapito
 
 
 
@@ -413,7 +416,7 @@ http://4pda.ru/2016/03/22/285578/
 
 https://habrahabr.ru/company/selectel/blog/305422/ #! git
 
-
+https://habrahabr.ru/company/2gis/blog/306166/ # git
 
 
 
@@ -462,6 +465,7 @@ https://drive.google.com/file/d/0B6RV1c6N3JOveGExZTQxZkxwOWc/view
 
 https://habrahabr.ru/post/305694/
 
+http://click-or-die.ru/2016/07/fedor-skuratov/
 
 
 
