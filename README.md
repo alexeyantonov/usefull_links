@@ -303,6 +303,14 @@ https://habrahabr.ru/company/meanotek/blog/271053/
 
 https://meduza.io/shapito/2016/07/23/gid-po-neyrosetyam #shapito
 
+https://www.technologyreview.com/s/602025/how-vector-space-mathematics-reveals-the-hidden-sexism-in-language/?utm_campaign=socialflow&utm_source=facebook&utm_medium=post
+
+http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/ #!
+
+http://yerevann.github.io/2016/06/26/combining-cnn-and-rnn-for-spoken-language-identification/
+
+
+
 
 
 
@@ -418,6 +426,13 @@ https://habrahabr.ru/company/selectel/blog/305422/ #! git
 
 https://habrahabr.ru/company/2gis/blog/306166/ # git
 
+http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html
+
+http://r4ds.had.co.nz/ #! nice book
+
+
+
+
 
 
 
@@ -468,6 +483,7 @@ https://habrahabr.ru/post/305694/
 http://click-or-die.ru/2016/07/fedor-skuratov/
 
 https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
+
 
 
 
