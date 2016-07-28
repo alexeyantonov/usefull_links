@@ -430,7 +430,7 @@ http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html
 
 http://r4ds.had.co.nz/ #! nice book
 
-
+https://roem.ru/25-07-2016/229458/mail-ru-group-big-data/
 
 
 
