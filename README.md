@@ -309,6 +309,15 @@ http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/ #!
 
 http://yerevann.github.io/2016/06/26/combining-cnn-and-rnn-for-spoken-language-identification/
 
+https://techcrunch.com/2016/07/26/deep-learning-software-knows-that-a-rose-is-a-rose-is-a-rosa-rubiginosa/?sr_share=twitter
+
+
+
+
+
+
+
+
 
 
 
@@ -519,3 +528,5 @@ https://habrahabr.ru/company/piter/blog/277625/
 http://www.forbes.ru/news/324115-qiwi-i-ryad-rossiiskikh-bankov-sozdadut-konsortsium-dlya-raboty-nad-blockchain
 
 https://habrahabr.ru/company/Voximplant/blog/304538/
+
+https://geektimes.ru/company/hashflare/blog/279014/ #!
