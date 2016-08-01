@@ -311,8 +311,13 @@ http://yerevann.github.io/2016/06/26/combining-cnn-and-rnn-for-spoken-language-i
 
 https://techcrunch.com/2016/07/26/deep-learning-software-knows-that-a-rose-is-a-rose-is-a-rosa-rubiginosa/?sr_share=twitter
 
+http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/
 
+https://meduza.io/cards/roboty-nauchilis-pisat-stihi-i-risovat-eto-iskusstvo #shapito
 
+http://conf.startup.ml/blog/aml
+
+https://habrahabr.ru/post/306798/
 
 
 
