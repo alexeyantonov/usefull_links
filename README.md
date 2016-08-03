@@ -535,3 +535,9 @@ http://www.forbes.ru/news/324115-qiwi-i-ryad-rossiiskikh-bankov-sozdadut-konsort
 https://habrahabr.ru/company/Voximplant/blog/304538/
 
 https://geektimes.ru/company/hashflare/blog/279014/ #!
+
+https://meduza.io/news/2016/08/03/s-gonkongskoy-birzhi-ukrali-bitkoiny-na-65-millionov-dollarov
+
+https://www.cryptocoinsnews.com/bitcoin-price-falls-as-miners-meet-bitcoin-core-developers/
+
+
