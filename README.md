@@ -354,7 +354,7 @@ http://opendatascience.ru/problema-nehvatki-vichislitelnikh-resursov/
 
 https://habrahabr.ru/company/infopulse/blog/306184/ #обзор библиотек для R
 
-
+https://roem.ru/02-08-2016/229955/headhunter-view/
 
 
 
