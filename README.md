@@ -319,7 +319,7 @@ http://conf.startup.ml/blog/aml
 
 https://habrahabr.ru/post/306798/
 
-
+deephack.me
 
 
 
