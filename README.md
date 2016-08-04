@@ -446,7 +446,7 @@ http://r4ds.had.co.nz/ #! nice book
 
 https://roem.ru/25-07-2016/229458/mail-ru-group-big-data/
 
-
+https://slon.ru/posts/71255
 
 
 
