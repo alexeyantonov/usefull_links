@@ -1,5 +1,11 @@
 https://www.packtpub.com/packt/offers/free-learning
 
+
+
+
+
+
+
 # Активные соревнования
 http://mltrainings.ru/?filter=active
 
@@ -32,6 +38,10 @@ http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-in
 
 
 # Тьюториалы
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#5 # tf for poets
+
+https://habrahabr.ru/post/280562/ # aws renting
+
 http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/
 
 http://cs231n.github.io/
@@ -58,7 +68,8 @@ https://www.reddit.com/r/MachineLearning/comments/4o6u4i/books_for_start_machine
 
 http://www.datasciencecentral.com/profiles/blogs/top-10-ipython-tutorials-for-data-science-and-machine-learning?overrideMobileRedirect=1
 
-https://medium.com/@ageitgey look for ML e.g. https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.b3fjppyeg
+https://medium.com/@ageitgey look for ML e.g.
+https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.b3fjppyeg
 
 http://www.learnjavaonline.org/
 
@@ -72,7 +83,7 @@ https://github.com/dmlc/xgboost/tree/master/demo # !
 
 http://xgboost.readthedocs.io/en/latest/python/python_intro.html
 
-http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # !
+http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # ! xgb tuning
 
 https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
 
@@ -96,9 +107,9 @@ https://www.linkedin.com/pulse/mathematics-machine-learning-wale-akinfaderin
 
 http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/
 
+http://blog.kaggle.com/2016/08/02/facebook-v-predicting-check-ins-winners-interview-2nd-place-markus-kliegl/
 
-
-
+http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/
 
 
 
@@ -321,6 +332,9 @@ https://habrahabr.ru/post/306798/
 
 deephack.me
 
+https://roem.ru/08-08-2016/230300/vitalij-mahinov/ #! prisma et al.
+
+http://arxiv.org/abs/1603.03417 #! prisma et al.
 
 
 
@@ -447,6 +461,24 @@ http://r4ds.had.co.nz/ #! nice book
 https://roem.ru/25-07-2016/229458/mail-ru-group-big-data/
 
 https://slon.ru/posts/71255
+
+http://lectoriy.mipt.ru/lecture/Maths-StochastProc-L01-Shabanov-150402.02 # slupy!!!
+
+http://tceh.com/blog/dzen-programmista/?utm_source=12102m9799o&utm_medium=4112t111115s&utm_term=11116d99101n&utm_content=17100a122101t&utm_campaign=6112n121116o
+
+https://roem.ru/02-08-2016/229955/headhunter-view/
+
+https://geektimes.ru/company/gearbest/blog/279018/ # ! notebooks
+
+
+
+
+
+
+
+
+
+
 
 
 
