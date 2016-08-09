@@ -336,6 +336,10 @@ https://roem.ru/08-08-2016/230300/vitalij-mahinov/ #! prisma et al.
 
 http://arxiv.org/abs/1603.03417 #! prisma et al.
 
+### math for NN in RU
+https://habrahabr.ru/post/307004/ # 1
+
+https://habrahabr.ru/post/307312/ # 2
 
 
 
