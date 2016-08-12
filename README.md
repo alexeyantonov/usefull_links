@@ -338,6 +338,24 @@ http://arxiv.org/abs/1603.03417 #! prisma et al.
 
 https://nplus1.ru/news/2016/08/09/faceless-recognition-system
 
+https://github.com/aymericdamien/topdeeplearning # list of the best opensource DL projects
+
+https://habrahabr.ru/company/yandex/blog/307260/
+
+https://habrahabr.ru/users/mephistopheies/topics/ # !!
+
+https://habrahabr.ru/post/159909/
+
+https://habrahabr.ru/post/154369/
+
+https://habrahabr.ru/post/163819/
+
+https://habrahabr.ru/company/mailru/blog/252965/
+
+https://habrahabr.ru/company/mailru/blog/306916/ # !!!
+
+http://www.moscowpython.ru/meetup/37/watch-the-hands/
+
 ### math for NN in RU
 https://habrahabr.ru/post/307004/ # 1
 
@@ -536,7 +554,9 @@ http://click-or-die.ru/2016/07/fedor-skuratov/
 
 https://www.twilio.com/blog/2016/05/build-sms-slack-bot-python.html
 
+https://www.applozic.com/blog/how-to-build-bot-using-hubot/
 
+https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.6jbydysw9 # lots of links
 
 
 
