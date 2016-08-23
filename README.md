@@ -114,6 +114,14 @@ http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-intervie
 
 
 
+## feature selection
+http://machinelearningmastery.com/an-introduction-to-feature-selection/
+
+https://www.quora.com/How-do-I-perform-feature-selection
+
+http://scikit-learn.org/stable/modules/feature_selection.html
+
+http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
 
 
 
@@ -356,6 +364,12 @@ https://habrahabr.ru/company/mailru/blog/306916/ # !!!
 
 http://www.moscowpython.ru/meetup/37/watch-the-hands/
 
+http://ain.ua/2016/08/19/665093
+
+https://postnauka.ru/video/66872 # !
+
+https://postnauka.ru/faq/36677
+
 ### math for NN in RU
 https://habrahabr.ru/post/307004/ # 1
 
@@ -494,7 +508,9 @@ https://roem.ru/02-08-2016/229955/headhunter-view/
 
 https://geektimes.ru/company/gearbest/blog/279018/ # ! notebooks
 
+https://roem.ru/22-08-2016/231321/apple-gliimbse/ # ! medical startup
 
+https://habrahabr.ru/post/308162/ # graphics in python
 
 
 
@@ -558,9 +574,11 @@ https://www.applozic.com/blog/how-to-build-bot-using-hubot/
 
 https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca#.6jbydysw9 # lots of links
 
+https://roem.ru/22-08-2016/231299/6-chat-bot-problems/
 
+https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634fc4#.qklmx5dkd
 
-
+https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext/#
 
 
 
@@ -597,5 +615,23 @@ https://geektimes.ru/company/hashflare/blog/279014/ #!
 https://meduza.io/news/2016/08/03/s-gonkongskoy-birzhi-ukrali-bitkoiny-na-65-millionov-dollarov
 
 https://www.cryptocoinsnews.com/bitcoin-price-falls-as-miners-meet-bitcoin-core-developers/
+
+https://cryptoscope.blogspot.ru/2016/04/ethereum_51.html
+
+https://roem.ru/15-08-2016/230879/wef-blockchain/
+
+https://roem.ru/12-08-2016/230712/oborot-bitkoinov/
+
+
+
+
+
+
+
+
+
+
+#open data
+https://roem.ru/15-08-2016/230898/otkrytye-dannye-startap/
 
 
