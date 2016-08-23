@@ -25,6 +25,17 @@ https://habrahabr.ru/post/304394/
 
 https://habrahabr.ru/company/javarush/blog/304464/
 
+https://meduza.io/feature/2016/08/15/zashifrovannoe-podpolie
+
+https://slon.ru/posts/71581
+
+http://www.vokrugsveta.ru/vs/article/6790/
+
+https://geektimes.ru/post/279050/
+
+
+
+
 https://habrahabr.ru/post/306300/
 
 
