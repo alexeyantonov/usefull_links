@@ -375,7 +375,15 @@ https://habrahabr.ru/post/307004/ # 1
 
 https://habrahabr.ru/post/307312/ # 2
 
+### семинары в физтехе
+### пост
+https://www.facebook.com/groups/1505369016451458/1681049655550059/
+### семинары по этим курсам
+https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-SP16+SP16/20021a0a32d14a31b087db8d4bb582fd/
 
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+
+http://cs224d.stanford.edu/syllabus.html
 
 
 
