@@ -385,6 +385,34 @@ http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 
 http://cs224d.stanford.edu/syllabus.html
 
+### APIs for comp vision
+https://goberoi.com/comparing-the-top-five-computer-vision-apis-98e3e3d7c647#.vr7zwd7xq
+
+http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/ # ! see the name of the article
+
+http://deeplearning.net/tutorial/deeplearning.pdf
+
+https://github.com/jtoy/awesome-tensorflow
+
+https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -416,9 +444,9 @@ https://habrahabr.ru/company/infopulse/blog/306184/ #обзор библиоте
 
 https://roem.ru/02-08-2016/229955/headhunter-view/
 
+http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-with-sander-dieleman/ # !
 
-
-
+https://www.kaggle.com/antgoldbloom/d/lukebyrne/horses-for-courses/xgboost-vs-betting-markets/comments
 
 
 
@@ -519,6 +547,12 @@ https://geektimes.ru/company/gearbest/blog/279018/ # ! notebooks
 https://roem.ru/22-08-2016/231321/apple-gliimbse/ # ! medical startup
 
 https://habrahabr.ru/post/308162/ # graphics in python
+
+https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.yn3r8qb7t
+
+https://habrahabr.ru/post/308532/
+
+
 
 
 
@@ -630,7 +664,7 @@ https://roem.ru/15-08-2016/230879/wef-blockchain/
 
 https://roem.ru/12-08-2016/230712/oborot-bitkoinov/
 
-
+https://habrahabr.ru/company/itinvest/blog/308738/
 
 
 
