@@ -396,7 +396,7 @@ https://github.com/jtoy/awesome-tensorflow
 
 https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python
 
-
+http://videolectures.net/deeplearning2016_montreal/ # lots of nice lectures
 
 
 
@@ -551,6 +551,21 @@ https://habrahabr.ru/post/308162/ # graphics in python
 https://backchannel.com/an-exclusive-look-at-how-ai-and-machine-learning-work-at-apple-8dbfb131932b#.yn3r8qb7t
 
 https://habrahabr.ru/post/308532/
+
+http://tceh.com/blog/komyuniti-programmistov/ # python comunities
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
