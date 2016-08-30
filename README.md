@@ -677,3 +677,21 @@ https://habrahabr.ru/company/itinvest/blog/308738/
 https://roem.ru/15-08-2016/230898/otkrytye-dannye-startap/
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# medicine
+https://roem.ru/25-08-2016/231607/iri-generaly-za-zdorove/
