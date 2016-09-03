@@ -681,6 +681,7 @@ https://roem.ru/12-08-2016/230712/oborot-bitkoinov/
 
 https://habrahabr.ru/company/itinvest/blog/308738/
 
+https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270?utm_medium=twitter&utm_source=twitterfeed
 
 
 
