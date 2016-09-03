@@ -33,6 +33,8 @@ http://www.vokrugsveta.ru/vs/article/6790/
 
 https://geektimes.ru/post/279050/
 
+http://secretmag.ru/article/2016/08/30/kak-uderzhat-razrabotchikov-ot-pereezda-za-granicu/ # hr
+
 
 
 
