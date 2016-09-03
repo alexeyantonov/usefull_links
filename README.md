@@ -29,7 +29,7 @@ http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-in
 
 http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-interview-1st-place-alex-andreas-nurlan/
 
-
+http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
 
 
 
@@ -110,6 +110,12 @@ http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-proble
 http://blog.kaggle.com/2016/08/02/facebook-v-predicting-check-ins-winners-interview-2nd-place-markus-kliegl/
 
 http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/
+
+http://sebastianruder.com/optimizing-gradient-descent/ # SGD explanation
+
+
+
+
 
 
 
@@ -401,9 +407,9 @@ https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-lear
 
 http://videolectures.net/deeplearning2016_montreal/ # lots of nice lectures
 
+https://research.googleblog.com/2016/08/improving-inception-and-image.html
 
-
-
+https://www.reddit.com/r/MachineLearning/comments/50h9ri/very_interesting_and_complete_course_strongly/ # !!!
 
 
 
