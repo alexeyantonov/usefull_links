@@ -233,6 +233,9 @@ https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH
 ### Курс от Хинтона (отца глубинного обучения) Neural Networks for Machine Learning
 https://www.coursera.org/course/neuralnets (ссылка может не работать, т.к. курсера переформатирует свою систему ссылок)
 
+### обратить внимание!!!!! (deep learning)
+http://imatge-upc.github.io/telecombcn-2016-dlcv/
+
 ### Пока не смотрел, но, видимо, школьник развлекается
 https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
