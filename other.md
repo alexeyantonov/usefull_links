@@ -35,7 +35,7 @@ https://geektimes.ru/post/279050/
 
 http://secretmag.ru/article/2016/08/30/kak-uderzhat-razrabotchikov-ot-pereezda-za-granicu/ # hr
 
-
+https://spark.ru/startup/amazinghiring/blog/17123/handbook-github-dlya-poiska-razrabotchikov # hr
 
 
 https://habrahabr.ru/post/306300/
