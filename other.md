@@ -37,8 +37,12 @@ http://secretmag.ru/article/2016/08/30/kak-uderzhat-razrabotchikov-ot-pereezda-z
 
 https://spark.ru/startup/amazinghiring/blog/17123/handbook-github-dlya-poiska-razrabotchikov # hr
 
-
 https://habrahabr.ru/post/306300/
+
+http://tceh.com/blog/vneklassnoe-chtenie/?utm_source=12102m9799o&utm_medium=4112t111115s&utm_term=11116d99101n&utm_content=19118e110101i&utm_campaign=13105l110118o # books for investors
+
+
+
 
 
 
