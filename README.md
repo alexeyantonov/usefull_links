@@ -411,7 +411,9 @@ https://research.googleblog.com/2016/08/improving-inception-and-image.html
 
 https://www.reddit.com/r/MachineLearning/comments/50h9ri/very_interesting_and_complete_course_strongly/ # !!!
 
+http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html?utm_content=buffere186b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer # activation function explained
 
+https://deepmind.com/blog/wavenet-generative-model-raw-audio/ # !
 
 
 
@@ -563,7 +565,7 @@ https://habrahabr.ru/post/308532/
 
 http://tceh.com/blog/komyuniti-programmistov/ # python comunities
 
-
+https://habrahabr.ru/post/309556/ # docker !!
 
 
 
