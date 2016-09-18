@@ -226,6 +226,8 @@ https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 
 
 # Нейросети
+http://www.asimovinstitute.org/neural-network-zoo/ # all kinds of NN
+
 http://www.kdnuggets.com/2016/07/start-learning-deep-learning.html
 
 https://medium.com/learning-new-stuff/would-you-survive-the-titanic-a-guide-to-machine-learning-in-python-f80c9d7b7582#.2kx3a6bf6
@@ -722,3 +724,5 @@ https://roem.ru/15-08-2016/230898/otkrytye-dannye-startap/
 
 # medicine
 https://roem.ru/25-08-2016/231607/iri-generaly-za-zdorove/
+
+https://geektimes.ru/post/280520/
