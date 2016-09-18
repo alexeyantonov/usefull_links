@@ -31,6 +31,20 @@ http://blog.kaggle.com/2016/05/18/home-depot-product-search-relevance-winners-in
 
 http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
 
+http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
+
+http://blog.kaggle.com/2016/09/08/draper-satellite-image-chronology-damien-soukhavong/
+
+http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-interview-2nd-place-team-the-quants-mikel-peter-marios-sonny/
+
+http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-with-sander-dieleman/
+
+
+
+
+
+
+
 
 
 
@@ -138,6 +152,8 @@ http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regul
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
+
+https://www.reddit.com/r/MachineLearning/comments/52ug8o/i_just_open_source_my_implementation_of_famous/ # solutions in python for Ng course
 
 http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
@@ -417,7 +433,7 @@ http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html?ut
 
 https://deepmind.com/blog/wavenet-generative-model-raw-audio/ # !
 
-
+https://habrahabr.ru/post/309302/
 
 
 
@@ -461,7 +477,7 @@ http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-wi
 
 https://www.kaggle.com/antgoldbloom/d/lukebyrne/horses-for-courses/xgboost-vs-betting-markets/comments
 
-
+http://dobroflot.blogspot.ru/2014_11_01_archive.html # all kinds of sparse matrixes
 
 
 
@@ -469,7 +485,7 @@ https://www.kaggle.com/antgoldbloom/d/lukebyrne/horses-for-courses/xgboost-vs-be
 
 
 # Просто ссылки
-https://www.packtpub.com/packt/offers/free-learning
+http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/ # !
 
 http://opendatascience.ru/
 
@@ -568,6 +584,7 @@ https://habrahabr.ru/post/308532/
 http://tceh.com/blog/komyuniti-programmistov/ # python comunities
 
 https://habrahabr.ru/post/309556/ # docker !!
+
 
 
 
