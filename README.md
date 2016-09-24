@@ -1,6 +1,6 @@
 https://www.packtpub.com/packt/offers/free-learning
 
-
+https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 
 
 
@@ -434,6 +434,14 @@ http://www.kdnuggets.com/2016/08/role-activation-function-neural-network.html?ut
 https://deepmind.com/blog/wavenet-generative-model-raw-audio/ # !
 
 https://habrahabr.ru/post/309302/
+
+http://www.bayareadlschool.org/
+
+http://www.shortscience.org/paper?bibtexKey=journals%2Fcorr%2F1609.06693#felipe
+
+https://arxiv.org/pdf/1609.05521v1.pdf
+
+http://arxiv.org/pdf/1609.04836v1.pdf
 
 
 
