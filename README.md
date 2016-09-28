@@ -52,6 +52,8 @@ http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-wi
 
 
 # Тьюториалы
+http://scikit-learn.org/stable/tutorial/machine_learning_map/ # scikit learn BEST ESTIMATORS
+
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#5 # tf for poets
 
 https://habrahabr.ru/post/280562/ # aws renting
@@ -126,6 +128,12 @@ http://blog.kaggle.com/2016/08/02/facebook-v-predicting-check-ins-winners-interv
 http://blog.kaggle.com/2016/07/27/avito-duplicate-ads-detection-winners-interview-3rd-place-mario-gerard-kele-praveen-gilberto/
 
 http://sebastianruder.com/optimizing-gradient-descent/ # SGD explanation
+
+https://www.reddit.com/r/MachineLearning/comments/54llyj/is_it_a_bad_idea_to_read_tom_mitchells_ml_book/ # one good book
+
+https://www.reddit.com/r/MachineLearning/comments/54kvsu/machine_learning_wayr_what_are_you_reading_week_9/ # what to read
+
+https://mostafa-samir.github.io/ # theory for beginners
 
 
 
@@ -443,7 +451,7 @@ https://arxiv.org/pdf/1609.05521v1.pdf
 
 http://arxiv.org/pdf/1609.04836v1.pdf
 
-
+https://www.youtube.com/user/hvasslabs/playlists # tf youtube seriess
 
 
 
@@ -593,7 +601,7 @@ http://tceh.com/blog/komyuniti-programmistov/ # python comunities
 
 https://habrahabr.ru/post/309556/ # docker !!
 
-
+https://habrahabr.ru/post/193242/#first_unread # flask !!
 
 
 
