@@ -455,7 +455,10 @@ https://www.youtube.com/user/hvasslabs/playlists # tf youtube seriess
 
 http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/ # RNN LSTM
 
+https://swarbrickjones.wordpress.com/2015/04/29/convolutional-autoencoders-in-pythontheanolasagne/
 
+### Deep Learning School 2016: Individual Talks
+https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW
 
 
 
