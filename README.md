@@ -453,7 +453,7 @@ http://arxiv.org/pdf/1609.04836v1.pdf
 
 https://www.youtube.com/user/hvasslabs/playlists # tf youtube seriess
 
-
+http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/ # RNN LSTM
 
 
 
