@@ -135,7 +135,8 @@ https://www.reddit.com/r/MachineLearning/comments/54kvsu/machine_learning_wayr_w
 
 https://mostafa-samir.github.io/ # theory for beginners
 
-
+### Quantum Neural Machine Learning
+http://arxiv.org/abs/1609.06935
 
 
 
