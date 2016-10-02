@@ -135,10 +135,21 @@ https://www.reddit.com/r/MachineLearning/comments/54kvsu/machine_learning_wayr_w
 
 https://mostafa-samir.github.io/ # theory for beginners
 
+http://blog.kaggle.com/2016/09/30/profiling-top-kagglers-walter-reade-worlds-first-discussions-grandmaster/
+
+http://fastml.com/deep-learning-architecture-diagrams/
+
 ### Quantum Neural Machine Learning
 http://arxiv.org/abs/1609.06935
 
+### 18 полезных библиотек для анализа данных в Python
+https://tproger.ru/digest/python-data-library/
 
+### nice discussion
+https://www.reddit.com/r/MachineLearning/comments/55epnl/choosing_a_language_to_implement_ml_algorithms/
+
+### Top 10 Machine Learning Videos on YouTube
+http://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html
 
 
 
@@ -232,7 +243,8 @@ https://www.youtube.com/playlist?list=PLAwxTw4SYaPlSFCDRaseIGGxlGn81Adjs
 
 https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 
-
+### PGM
+http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
 
 
 
@@ -461,6 +473,18 @@ https://swarbrickjones.wordpress.com/2015/04/29/convolutional-autoencoders-in-py
 ### Deep Learning School 2016: Individual Talks
 https://www.youtube.com/playlist?list=PLrAXtmErZgOfMuxkACrYnD2fTgbzk2THW
 
+### GANs (Deep Learning Research Review Week 1: Generative Adversarial Nets)
+https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets
+
+https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/
+
+
+
+
+
+
+
+
 
 
 
@@ -687,7 +711,7 @@ https://medium.com/@tedlivingston/bots-are-better-without-conversation-fcf9e7634
 
 https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext/#
 
-
+https://vc.ru/p/xor
 
 
 
@@ -763,3 +787,20 @@ https://roem.ru/15-08-2016/230898/otkrytye-dannye-startap/
 https://roem.ru/25-08-2016/231607/iri-generaly-za-zdorove/
 
 https://geektimes.ru/post/280520/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# aviasales
+https://meduza.io/feature/2016/09/27/poshutit-v-druguyu-storonu
