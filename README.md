@@ -139,9 +139,6 @@ http://blog.kaggle.com/2016/09/30/profiling-top-kagglers-walter-reade-worlds-fir
 
 http://fastml.com/deep-learning-architecture-diagrams/
 
-### Quantum Neural Machine Learning
-http://arxiv.org/abs/1609.06935
-
 ### 18 полезных библиотек для анализа данных в Python
 https://tproger.ru/digest/python-data-library/
 
@@ -478,9 +475,13 @@ https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Revie
 
 https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/
 
+https://www.facebook.com/ufi/reaction/profile/browser/?ft_ent_identifier=1700730186915339&av=100009190311133
+http://www.raai.org/library/books/mcculloch/mcculloch.pdf
+https://arxiv.org/abs/1606.04474
+https://scirate.com/arxiv/1609.09106
 
-
-
+### Quantum Neural Machine Learning
+http://arxiv.org/abs/1609.06935
 
 
 
