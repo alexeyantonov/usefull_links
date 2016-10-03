@@ -148,6 +148,8 @@ https://www.reddit.com/r/MachineLearning/comments/55epnl/choosing_a_language_to_
 ### Top 10 Machine Learning Videos on YouTube
 http://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html
 
+### outliers
+http://charuaggarwal.net/outlierbook.pdf
 
 
 
