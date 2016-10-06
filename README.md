@@ -798,7 +798,7 @@ https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270
 
 https://roem.ru/05-10-2016/234272/spasibo-vitalik/
 
-
+https://slon.ru/posts/74244
 
 
 
