@@ -39,6 +39,9 @@ http://blog.kaggle.com/2016/08/31/avito-duplicate-ads-detection-winners-intervie
 
 http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-with-sander-dieleman/
 
+### cikm cup 2016
+https://github.com/alexeygrigorev/cikm-cup-2016-cross-device/
+https://github.com/namkhanhtran/cikm-cup-2016-cross-device
 
 
 
@@ -490,6 +493,35 @@ https://www.reddit.com/r/MachineLearning/comments/5614hh/how_do_you_deploy_your_
 ### DEEP LEARNING FOR ENTERPRISE
 http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks
 
+### about dropout
+https://arxiv.org/abs/1207.0580
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+
+### deeplearning courses (pros and cons)
+https://habrahabr.ru/company/npl/blog/311812/
+
+## approx with dl!!!!!
+https://arxiv.org/pdf/1610.01145v1.pdf
+
+### count objects with dl
+https://arxiv.org/pdf/1505.08082v1.pdf
+
+### nvidia autopilot tf implementation
+https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow?utm_content=buffer4756f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Recommending movies with deep learning
+http://blog.richardweiss.org/2016/09/25/movie-embeddings.html
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -637,7 +669,8 @@ https://habrahabr.ru/post/309556/ # docker !!
 
 https://habrahabr.ru/post/193242/#first_unread # flask !!
 
-
+### python vs all
+https://www.reddit.com/r/MachineLearning/comments/55zngl/why_is_everything_in_this_field_seemingly_built/
 
 
 
@@ -762,6 +795,12 @@ https://roem.ru/12-08-2016/230712/oborot-bitkoinov/
 https://habrahabr.ru/company/itinvest/blog/308738/
 
 https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270?utm_medium=twitter&utm_source=twitterfeed
+
+https://roem.ru/05-10-2016/234272/spasibo-vitalik/
+
+
+
+
 
 
 
