@@ -150,9 +150,7 @@ http://www.kdnuggets.com/2015/06/top-10-machine-learning-videos-youtube.html
 
 ### outliers
 http://charuaggarwal.net/outlierbook.pdf
-
-
-
+`
 ## feature selection
 http://machinelearningmastery.com/an-introduction-to-feature-selection/
 
@@ -245,7 +243,8 @@ https://www.youtube.com/playlist?list=PLAwxTw4SYaPk41og7PER4HBpGciPw6n3x
 ### PGM
 http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
 
-
+### mehryar_mohri_ML_foundations (copied to my disk)
+https://yadi.sk/d/4ctFLOTvvTENM
 
 
 
@@ -485,7 +484,11 @@ https://scirate.com/arxiv/1609.09106
 ### Quantum Neural Machine Learning
 http://arxiv.org/abs/1609.06935
 
+### model deployment
+https://www.reddit.com/r/MachineLearning/comments/5614hh/how_do_you_deploy_your_model/
 
+### DEEP LEARNING FOR ENTERPRISE
+http://engineering.skymind.io/distributed-deep-learning-part-1-an-introduction-to-distributed-training-of-neural-networks
 
 
 
