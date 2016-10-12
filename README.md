@@ -64,6 +64,8 @@ https://habrahabr.ru/post/280562/ # aws renting
 http://blog.kaggle.com/2016/07/14/kaggle-master-data-scientist-author-an-interview-with-luca-massaron/
 
 http://cs231n.github.io/
+### video lectures
+https://www.youtube.com/playlist?list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg
 
 http://cs231n.github.io/python-numpy-tutorial/
 
@@ -162,6 +164,31 @@ https://www.quora.com/How-do-I-perform-feature-selection
 http://scikit-learn.org/stable/modules/feature_selection.html
 
 http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/
+
+http://blog.kaggle.com/2016/10/11/profiling-kagglers-in-careers-a-conversation-with-david-duris/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -512,6 +539,29 @@ https://github.com/SullyChen/Nvidia-Autopilot-TensorFlow?utm_content=buffer4756f
 ### Recommending movies with deep learning
 http://blog.richardweiss.org/2016/09/25/movie-embeddings.html
 
+https://arxiv.org/abs/1609.05473
+
+### tf implementation of deepminds
+https://www.reddit.com/r/MachineLearning/comments/56ml9j/project_a_tensorflow_implementation_of_deepminds/
+
+http://www.russia.ai/single-post/2016/10/10/Deep-Learning-%E2%80%93-Present-and-Future-of-AI-Slides-from-Russian-Supercomputing-Days-Conference
+
+### Stochastic Variance Reduced Gradient
+http://cs.stanford.edu/~ppasupat/a9online/1321.html
+
+### Deep Pyramidal Residual Networks
+https://twitter.com/alexjc/status/785734183649808384
+https://arxiv.org/abs/1610.02915
+https://github.com/jhkim89/PyramidNet
+
+
+
+
+
+
+
+
+
 
 
 
@@ -667,12 +717,16 @@ http://tceh.com/blog/komyuniti-programmistov/ # python comunities
 
 https://habrahabr.ru/post/309556/ # docker !!
 
+### flask
 https://habrahabr.ru/post/193242/#first_unread # flask !!
+
+https://habrahabr.ru/post/312110/
 
 ### python vs all
 https://www.reddit.com/r/MachineLearning/comments/55zngl/why_is_everything_in_this_field_seemingly_built/
 
-
+### feature selection module
+https://github.com/danielhomola/boruta_py
 
 
 
