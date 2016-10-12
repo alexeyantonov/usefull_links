@@ -167,7 +167,10 @@ http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regul
 
 http://blog.kaggle.com/2016/10/11/profiling-kagglers-in-careers-a-conversation-with-david-duris/
 
+### MIT challenge
+https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
+https://github.com/jwasham/google-interview-university#machine-learning
 
 
 
@@ -728,7 +731,8 @@ https://www.reddit.com/r/MachineLearning/comments/55zngl/why_is_everything_in_th
 ### feature selection module
 https://github.com/danielhomola/boruta_py
 
-
+### good book on ml
+https://www.reddit.com/r/MachineLearning/comments/56aplk/great_free_book_about_the_theory_of_ml/
 
 
 
@@ -853,6 +857,23 @@ https://datafloq.com/read/what-is-the-blockchain-and-why-is-it-so-important/2270
 https://roem.ru/05-10-2016/234272/spasibo-vitalik/
 
 https://slon.ru/posts/74244
+
+https://www.linkedin.com/pulse/what-blockchain-part-2-public-vs-private-proof-work-mark-van-rijmenam
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
