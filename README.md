@@ -172,10 +172,17 @@ https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
 https://github.com/jwasham/google-interview-university#machine-learning
 
+### How to Use t-SNE Effectively
+http://distill.pub/2016/misread-tsne/
+https://www.reddit.com/r/MachineLearning/comments/57gios/project_how_to_use_tsne_effectively/
 
+### журнал по эконометрике
+http://www.appliedeconometrics.ru/r/archive/index.php?magazine_issues_id_4=190
 
+### NICE TRICK
+https://www.kaggle.com/anokas/outbrain-click-prediction/outbrain-eda
 
-
+http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 
 
 
@@ -279,7 +286,8 @@ http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html
 ### mehryar_mohri_ML_foundations (copied to my disk)
 https://yadi.sk/d/4ctFLOTvvTENM
 
-
+### xgboost
+https://www.youtube.com/watch?v=m_BUKRG1Hv0&list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG&index=3#t=0.735895
 
 
 
@@ -557,6 +565,11 @@ https://twitter.com/alexjc/status/785734183649808384
 https://arxiv.org/abs/1610.02915
 https://github.com/jhkim89/PyramidNet
 
+### FBLearner Flow
+https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/
+
+
+
 
 
 
@@ -734,7 +747,8 @@ https://github.com/danielhomola/boruta_py
 ### good book on ml
 https://www.reddit.com/r/MachineLearning/comments/56aplk/great_free_book_about_the_theory_of_ml/
 
-
+### Light Gradient Boosting Machine by microsoft
+https://github.com/Microsoft/LightGBM
 
 
 
@@ -860,11 +874,13 @@ https://slon.ru/posts/74244
 
 https://www.linkedin.com/pulse/what-blockchain-part-2-public-vs-private-proof-work-mark-van-rijmenam
 
+https://geektimes.ru/post/281516/
 
+https://habrahabr.ru/company/microsoft/blog/312308/
 
+https://habrahabr.ru/post/312654/
 
-
-
+http://www.vedomosti.ru/finance/news/2016/10/13/660797-nabiullina-lovushke
 
 
 
@@ -908,7 +924,7 @@ https://roem.ru/25-08-2016/231607/iri-generaly-za-zdorove/
 
 https://geektimes.ru/post/280520/
 
-
+https://roem.ru/13-10-2016/234692/doktor-ishet-rabotu-v-usa/
 
 
 
