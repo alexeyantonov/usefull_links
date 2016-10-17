@@ -43,7 +43,7 @@ http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-wi
 https://github.com/alexeygrigorev/cikm-cup-2016-cross-device/
 https://github.com/namkhanhtran/cikm-cup-2016-cross-device
 
-
+http://mabrek.github.io/blog/kaggle-forecasting/
 
 
 
@@ -184,8 +184,8 @@ https://www.kaggle.com/anokas/outbrain-click-prediction/outbrain-eda
 
 http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 
-
-
+### Что нужно знать, уметь и понимать, чтобы не иметь проблем с поиском работы питонистом
+https://habrahabr.ru/post/311642/
 
 
 
@@ -568,12 +568,14 @@ https://github.com/jhkim89/PyramidNet
 ### FBLearner Flow
 https://code.facebook.com/posts/1072626246134461/introducing-fblearner-flow-facebook-s-ai-backbone/
 
+### Great new introductory talks on various sub-fields of deep learning !!!!!
+https://www.reddit.com/r/MachineLearning/comments/54shmi/great_new_introductory_talks_on_various_subfields/
+
+### [Research] New Nature paper by DeepMind: Hybrid Computing using a Neural Network with Dynamic External Memory
+https://www.reddit.com/r/MachineLearning/comments/575hlx/research_new_nature_paper_by_deepmind_hybrid/
 
 
-
-
-
-
+https://habrahabr.ru/post/311642/
 
 
 
