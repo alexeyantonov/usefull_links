@@ -2,7 +2,8 @@ https://www.packtpub.com/packt/offers/free-learning
 
 https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 
-
+### Practical XGBoost in Python
+https://www.youtube.com/playlist?list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG
 
 
 
