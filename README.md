@@ -104,10 +104,10 @@ http://www.kdnuggets.com/2016/06/mining-twitter-data-python-part-1.html
 
 https://github.com/josephmisiti/awesome-machine-learning # !
 
+# xgboost nice info, params tuning etc...
 https://github.com/dmlc/xgboost/tree/master/demo # !
-
 http://xgboost.readthedocs.io/en/latest/python/python_intro.html
-
+http://xgboost.readthedocs.io/en/latest/how_to/param_tuning.html
 http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/ # ! xgb tuning
 
 https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
@@ -180,9 +180,6 @@ https://github.com/jwasham/google-interview-university#machine-learning
 http://distill.pub/2016/misread-tsne/
 https://www.reddit.com/r/MachineLearning/comments/57gios/project_how_to_use_tsne_effectively/
 
-### журнал по эконометрике
-http://www.appliedeconometrics.ru/r/archive/index.php?magazine_issues_id_4=190
-
 ### NICE TRICK
 https://www.kaggle.com/anokas/outbrain-click-prediction/outbrain-eda
 
@@ -191,9 +188,11 @@ http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 ### Что нужно знать, уметь и понимать, чтобы не иметь проблем с поиском работы питонистом
 https://habrahabr.ru/post/311642/
 
+### Open Source Tools & Data Science Competitions
+http://www.slideshare.net/odsc/owen-zhangopen-sourcetoolsanddscompetitions1
 
-
-
+### python ql
+http://www.pythonql.org/
 
 
 
@@ -293,7 +292,8 @@ https://yadi.sk/d/4ctFLOTvvTENM
 ### xgboost
 https://www.youtube.com/watch?v=m_BUKRG1Hv0&list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG&index=3#t=0.735895
 
-
+### 7 Free Machine Learning Courses
+http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses?overrideMobileRedirect=1&utm_content=buffer14621&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
 
@@ -580,6 +580,37 @@ https://www.reddit.com/r/MachineLearning/comments/575hlx/research_new_nature_pap
 
 https://habrahabr.ru/post/311642/
 
+https://people.eecs.berkeley.edu/~pabbeel/cs287-fa12/slides/inverseRL.pdf
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+### Обретение памяти. В Deepmind придумали гибрид нейросети и машины Тюринга
+https://nplus1.ru/material/2016/10/15/deepmind
+
+### Deep Learning и Artificial Intelligence podcast
+http://devzen.ru/episode-0114/
+
+### Artificial Intelligence Open Network
+http://ai-on.org/projects/
+
+### Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+### True Artificial Intelligence Will Change Everything - a presentation by professor Jürgen Schmidhuber
+http://www.russia.ai/single-post/2016/10/17/True-Artificial-Intelligence-Will-Change-Everything---a-presentation-by-professor-J%C3%BCrgen-Schmidhuber
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -757,6 +788,9 @@ https://github.com/Microsoft/LightGBM
 ### Binding for it
 https://github.com/ArdalanM/pyLightGBM
 
+### журнал по эконометрике
+http://www.appliedeconometrics.ru/r/archive/index.php?magazine_issues_id_4=190
+
 
 
 
@@ -831,6 +865,7 @@ https://code.facebook.com/posts/1438652669495149/fair-open-sources-fasttext/#
 
 https://vc.ru/p/xor
 
+https://habrahabr.ru/post/312886/
 
 
 
