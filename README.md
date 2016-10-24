@@ -5,6 +5,9 @@ https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 ### Practical XGBoost in Python
 https://www.youtube.com/playlist?list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG
 
+### google CS education
+https://www.google.com/edu/cs/participate.html
+
 
 
 # Активные соревнования
@@ -575,7 +578,6 @@ https://www.reddit.com/r/MachineLearning/comments/54shmi/great_new_introductory_
 ### [Research] New Nature paper by DeepMind: Hybrid Computing using a Neural Network with Dynamic External Memory
 https://www.reddit.com/r/MachineLearning/comments/575hlx/research_new_nature_paper_by_deepmind_hybrid/
 
-
 https://habrahabr.ru/post/311642/
 
 
@@ -752,6 +754,8 @@ https://www.reddit.com/r/MachineLearning/comments/56aplk/great_free_book_about_t
 
 ### Light Gradient Boosting Machine by microsoft
 https://github.com/Microsoft/LightGBM
+### Binding for it
+https://github.com/ArdalanM/pyLightGBM
 
 
 
