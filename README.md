@@ -599,7 +599,9 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### True Artificial Intelligence Will Change Everything - a presentation by professor Jürgen Schmidhuber
 http://www.russia.ai/single-post/2016/10/17/True-Artificial-Intelligence-Will-Change-Everything---a-presentation-by-professor-J%C3%BCrgen-Schmidhuber
 
-
+###  обязательно скачать Prisma and other stylization apps: explaining tech behind
+http://www.russia.ai/single-post/2016/10/31/Prisma-and-other-stylization-apps-explaining-tech-behind
+www.slideshare.net/RussiaAI/prisma-and-other-stylization-apps-explaining-tech-behind-67926565
 
 
 
@@ -867,6 +869,7 @@ https://vc.ru/p/xor
 
 https://habrahabr.ru/post/312886/
 
+https://habrahabr.ru/post/311008/
 
 
 
