@@ -599,11 +599,27 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 ### True Artificial Intelligence Will Change Everything - a presentation by professor Jürgen Schmidhuber
 http://www.russia.ai/single-post/2016/10/17/True-Artificial-Intelligence-Will-Change-Everything---a-presentation-by-professor-J%C3%BCrgen-Schmidhuber
 
-###  обязательно скачать Prisma and other stylization apps: explaining tech behind
+### обязательно скачать Prisma and other stylization apps: explaining tech behind
 http://www.russia.ai/single-post/2016/10/31/Prisma-and-other-stylization-apps-explaining-tech-behind
 www.slideshare.net/RussiaAI/prisma-and-other-stylization-apps-explaining-tech-behind-67926565
 
+### one contest
+https://www.synapse.org/#!Synapse:syn6131484/wiki/407891
+https://www.synapse.org/#!Synapse:syn6131484/wiki/402031
 
+https://www.reddit.com/r/MachineLearning/comments/591i6v/p_lessthan5minute_description_of_discriminative/
+
+### Using Fast Weights to Attend to the Recent Past
+http://www.shortscience.org/paper?bibtexKey=journals/corr/1610.06258#hlarochelle
+
+### Обзор топологий глубоких сверточных нейронных сетей
+http://security-corp.org/programming/35334-obzor-topologiy-glubokih-svertochnyh-neyronnyh-setey.html
+
+### Как работает нейронная сеть: Deep Dream
+http://www.popmech.ru/technologies/212091-kak-rabotaet-neyronnaya-set-deep-dream/
+
+### Как обучается ИИ
+https://geektimes.ru/company/mailru/blog/278326/
 
 
 
