@@ -194,8 +194,12 @@ http://www.slideshare.net/odsc/owen-zhangopen-sourcetoolsanddscompetitions1
 ### python ql
 http://www.pythonql.org/
 
+### pandas cheatsheet
+https://www.datacamp.com/community/blog/python-pandas-cheat-sheet#gs.B_s_DkU
+https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 
-
+### git
+https://habrahabr.ru/post/313890/
 
 
 
@@ -620,6 +624,42 @@ http://www.popmech.ru/technologies/212091-kak-rabotaet-neyronnaya-set-deep-dream
 
 ### Как обучается ИИ
 https://geektimes.ru/company/mailru/blog/278326/
+
+### Local Similarity-Aware Deep Feature Embedding
+https://arxiv.org/pdf/1610.08904v1.pdf
+
+### Fitted Learning: Models with Awareness of their Limits
+https://arxiv.org/pdf/1609.02226v2.pdf
+
+### Safety Verification of Deep Neural Networks !!!
+https://arxiv.org/abs/1610.06940
+
+### Universal adversarial perturbations !!!
+https://arxiv.org/pdf/1610.08401v1.pdf
+
+### Aggregating Deep Convolutional Features for Image Retrieval
+http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Babenko_Aggregating_Local_Deep_ICCV_2015_paper.pdf
+
+### A Discriminative Feature Learning Approach for Deep Face Recognition
+http://ydwen.github.io/papers/WenECCV16.pdf
+
+### Neural Enhance !!!
+https://tjournal.ru/36647-pochti-kak-v-serialah-razrabotchik-nauchil-neiroset-uluchshat-kachestvo-foto-nizkogo-razresheniya
+https://github.com/alexjc/neural-enhance
+
+### new yandex algorithm
+https://habrahabr.ru/company/yandex/blog/314222/
+https://roem.ru/02-11-2016/235969/paleh/
+
+### Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
+https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf
+
+
+
+
+
+
+
 
 
 
