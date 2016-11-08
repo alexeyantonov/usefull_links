@@ -8,6 +8,31 @@ https://www.youtube.com/playlist?list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG
 ### google CS education
 https://www.google.com/edu/cs/participate.html
 
+### MIPT Data Mining In Action 2016
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/tree/master/lectures
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Активные соревнования
@@ -200,6 +225,21 @@ https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf
 
 ### git
 https://habrahabr.ru/post/313890/
+
+### Kaggle Ensembling Guide
+http://mlwave.com/kaggle-ensembling-guide/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -654,7 +694,12 @@ https://roem.ru/02-11-2016/235969/paleh/
 ### Accessorize to a Crime: Real and Stealthy Attacks on State-of-the-Art Face Recognition
 https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf
 
+### Stock-Market-Prediction-Challenge
+https://github.com/Avhirup/Stock-Market-Prediction-Challenge
+https://github.com/ciurana2016/predict_stock_py
 
+### Cross Device Matching for Online Advertising with Neural Feature Ensembles : First Place Solution at CIKM Cup 2016
+https://arxiv.org/abs/1610.07119
 
 
 
@@ -720,6 +765,28 @@ http://blog.kaggle.com/2016/08/29/from-kaggle-to-google-deepmind-an-interview-wi
 https://www.kaggle.com/antgoldbloom/d/lukebyrne/horses-for-courses/xgboost-vs-betting-markets/comments
 
 http://dobroflot.blogspot.ru/2014_11_01_archive.html # all kinds of sparse matrixes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -927,6 +994,17 @@ https://habrahabr.ru/post/312886/
 
 https://habrahabr.ru/post/311008/
 
+https://roem.ru/07-11-2016/236135/frii-robot-yurist/
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -983,6 +1061,21 @@ https://habrahabr.ru/post/312654/
 
 http://www.vedomosti.ru/finance/news/2016/10/13/660797-nabiullina-lovushke
 
+https://roem.ru/07-11-2016/236137/tinkoff-greff/
+
+http://rb.ru/fintech/?f
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1027,6 +1120,7 @@ https://geektimes.ru/post/280520/
 
 https://roem.ru/13-10-2016/234692/doktor-ishet-rabotu-v-usa/
 
+https://roem.ru/07-11-2016/236117/ya-zdorovye/
 
 
 
