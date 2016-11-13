@@ -12,6 +12,12 @@ https://www.google.com/edu/cs/participate.html
 https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
 https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016/tree/master/lectures
 
+### DataSets
+https://www.kaggle.com/uciml/datasets
+
+### Top 10 Amazon Books in Data Mining – 2016 Edition
+http://www.kdnuggets.com/2016/11/top-10-amazon-books-data-mining.html
+
 
 
 
@@ -229,7 +235,12 @@ https://habrahabr.ru/post/313890/
 ### Kaggle Ensembling Guide
 http://mlwave.com/kaggle-ensembling-guide/
 
+### Brainwaves - What Triggers YOU?
+https://www.kaggle.com/apryor6/d/berkeley-biosense/synchronized-brainwave-dataset/brainwaves-what-triggers-you
 
+### Educational Data Mining and Learning Analytics
+http://circl.sri.com/archive/primers/CIRCL-Primer-LearningAnalytics.pdf
+http://linkis.com/circlcenter.org/y79ZC
 
 
 
@@ -339,8 +350,8 @@ https://www.youtube.com/watch?v=m_BUKRG1Hv0&list=PLZnYQQzkMilqTC12LmnN4WpQexB9ra
 ### 7 Free Machine Learning Courses
 http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses?overrideMobileRedirect=1&utm_content=buffer14621&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
-
-
+### Python Crash Course resources
+https://github.com/ehmatthes/pcc/releases
 
 
 
@@ -701,7 +712,13 @@ https://github.com/ciurana2016/predict_stock_py
 ### Cross Device Matching for Online Advertising with Neural Feature Ensembles : First Place Solution at CIKM Cup 2016
 https://arxiv.org/abs/1610.07119
 
+### Deep Learning Part 1: Comparison of Symbolic Deep Learning Frameworks
+https://www.opendatascience.com/blog/deep-learning-part-1-comparison-of-symbolic-deep-learning-frameworks/
 
+### Школа по Байесовским методам в глубинном обучении
+http://deepbayes.ru/#about
+
+https://www.facebook.com/events/1333642880014261/
 
 
 
@@ -996,6 +1013,7 @@ https://habrahabr.ru/post/311008/
 
 https://roem.ru/07-11-2016/236135/frii-robot-yurist/
 
+https://vc.ru/n/telegram-200-bots
 
 
 
