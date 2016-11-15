@@ -242,6 +242,9 @@ https://www.kaggle.com/apryor6/d/berkeley-biosense/synchronized-brainwave-datase
 http://circl.sri.com/archive/primers/CIRCL-Primer-LearningAnalytics.pdf
 http://linkis.com/circlcenter.org/y79ZC
 
+### Jupyter Notebook Tutorial: The Definitive Guide
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.cGu7kQM
+
 
 
 
@@ -720,7 +723,14 @@ http://deepbayes.ru/#about
 
 https://www.facebook.com/events/1333642880014261/
 
+### A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet
+https://github.com/buriburisuri/ByteNet?utm_content=buffera9826&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+### Hierarchical Object Detection with Deep Reinforcement Learning
+https://imatge-upc.github.io/detection-2016-nipsws/
+
+### !!!!! Interactive convnet features visualization for Keras
+https://github.com/jakebian/quiver
 
 
 
