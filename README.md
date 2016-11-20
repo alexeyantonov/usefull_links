@@ -356,6 +356,20 @@ http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses
 ### Python Crash Course resources
 https://github.com/ehmatthes/pcc/releases
 
+### If you want to learn Data Science, take a few of these statistics classes
+https://medium.freecodecamp.com/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9#.tbuiaet9p
+https://medium.com/@venturidb/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412#.fd2s79h4z
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -732,6 +746,22 @@ https://imatge-upc.github.io/detection-2016-nipsws/
 ### !!!!! Interactive convnet features visualization for Keras
 https://github.com/jakebian/quiver
 
+### Reinforcement learning with unsupervised auxiliary tasks
+https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/
+
+### Russian AI CUP 2016
+http://russianaicup.ru/p/quick
+http://russianaicup.ru/s/1478642300748/assets/documentation/codewizards2016-docs-ru.pdf?rnd
+http://russianaicup.ru/forum/index.php?topic=592.0
+
+### Google представляет технологию улучшения изображений с низким разрешением
+http://4pda.ru/2016/11/16/329433/
+
+### TensorFlow: Why Google's AI Engine is a Gamechanger
+http://www.datasciencecentral.com/profiles/blogs/tensorflow-why-google-s-artificial-intelligence-engine-is-a
+
+### A Beginner’s Guide To Understanding Convolutional Neural Networks Part 1
+http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html
 
 
 
@@ -943,6 +973,16 @@ https://github.com/ArdalanM/pyLightGBM
 ### журнал по эконометрике
 http://www.appliedeconometrics.ru/r/archive/index.php?magazine_issues_id_4=190
 
+### Узнаем текущую погоду и прогноз простеньким скриптом на Python'е
+https://habrahabr.ru/post/315264/
+
+### Одна простенькая задачка. Быстро, красиво или чисто?
+https://habrahabr.ru/post/315170/
+
+### История одного тестового задания
+https://habrahabr.ru/company/ecwid/blog/315228/
+
+
 
 
 
@@ -1150,7 +1190,8 @@ https://roem.ru/13-10-2016/234692/doktor-ishet-rabotu-v-usa/
 
 https://roem.ru/07-11-2016/236117/ya-zdorovye/
 
-
+### Blockchain In Healthcare
+https://channels.theinnovationenterprise.com/articles/blockchain-in-healthcare?utm_content=buffer4db7a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
 
