@@ -245,6 +245,12 @@ http://linkis.com/circlcenter.org/y79ZC
 ### Jupyter Notebook Tutorial: The Definitive Guide
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.cGu7kQM
 
+### An Introduction to Ensemble Learners
+http://www.kdnuggets.com/2016/11/data-science-basics-intro-ensemble-learners.html?utm_source=dlvr.it&utm_medium=twitter
+
+### Bayesian Logistic Regression with rstanarm
+https://www.kaggle.com/avehtari/d/uciml/pima-indians-diabetes-database/bayesian-logistic-regression-with-rstanarm
+
 
 
 
