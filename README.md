@@ -18,7 +18,8 @@ https://www.kaggle.com/uciml/datasets
 ### Top 10 Amazon Books in Data Mining – 2016 Edition
 http://www.kdnuggets.com/2016/11/top-10-amazon-books-data-mining.html
 
-
+### Data Science for Beginners: Fantastic Introductory Video Series from Microsoft
+http://www.kdnuggets.com/2016/08/data-science-beginners-video-series.html
 
 
 
@@ -250,6 +251,18 @@ http://www.kdnuggets.com/2016/11/data-science-basics-intro-ensemble-learners.htm
 
 ### Bayesian Logistic Regression with rstanarm
 https://www.kaggle.com/avehtari/d/uciml/pima-indians-diabetes-database/bayesian-logistic-regression-with-rstanarm
+
+### Escaping-Excel-Hell-with-Python-and-Pandas
+https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf
+
+
+
+
+
+
+
+
+
 
 
 
@@ -768,6 +781,19 @@ http://www.datasciencecentral.com/profiles/blogs/tensorflow-why-google-s-artific
 
 ### A Beginner’s Guide To Understanding Convolutional Neural Networks Part 1
 http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neural-networks-part-1.html
+
+### crime face
+https://nplus1.ru/news/2016/11/23/criminalface
+
+
+
+
+
+
+
+
+
+
 
 
 
