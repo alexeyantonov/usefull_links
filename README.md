@@ -1033,7 +1033,16 @@ https://habrahabr.ru/company/ecwid/blog/315228/
 
 
 # Боты
+### Create bot
+https://www.youtube.com/watch?v=09buxer2r-I&feature=youtu.be
+https://www.gitbook.com/book/kondra007/telegram-bot-lessons/details
 https://github.com/python-telegram-bot/python-telegram-bot#learning-by-example # !
+https://blog.scrapinghub.com/2016/11/24/how-to-build-your-own-price-monitoring-tool/
+https://khashtamov.com/2016/04/create-telegram-bot-in-python/
+https://habrahabr.ru/post/316148/
+
+### bankbot
+http://money.rbc.ru/news/583840559a7947a522e8c434
 
 https://habrahabr.ru/post/302688/
 
@@ -1097,7 +1106,7 @@ https://roem.ru/07-11-2016/236135/frii-robot-yurist/
 
 https://vc.ru/n/telegram-200-bots
 
-
+http://rb.ru/opinion/400-klientov/?f
 
 
 
@@ -1165,7 +1174,7 @@ https://roem.ru/07-11-2016/236137/tinkoff-greff/
 
 http://rb.ru/fintech/?f
 
-
+https://roem.ru/26-05-2015/196197/dzhon-kollison-stripe-za-20-let-v-vebe-ne-poyavilos-legkogo-sposoba-perevodit-dengi-onlajn-eto-nasha-glavnaya-zadacha/
 
 
 
