@@ -785,9 +785,17 @@ http://www.kdnuggets.com/2016/09/beginners-guide-understanding-convolutional-neu
 ### crime face
 https://nplus1.ru/news/2016/11/23/criminalface
 
+### rapping-neural-network
+https://github.com/robbiebarrat/rapping-neural-network
 
+### Deep learning for audio-based music recommendation
+http://www.russia.ai/single-post/2016/12/01/Deep-learning-for-audio-based-music-recommendation
 
+### Deep Learning application to large-scale image retrieval
+https://drive.google.com/file/d/0B4bl7YMqDnViZnhPMkVoeHRUYmc/view
 
+### Design Patterns for Deep Learning Architectures
+http://www.deeplearningpatterns.com/doku.php
 
 
 
@@ -855,7 +863,8 @@ https://www.kaggle.com/antgoldbloom/d/lukebyrne/horses-for-courses/xgboost-vs-be
 
 http://dobroflot.blogspot.ru/2014_11_01_archive.html # all kinds of sparse matrixes
 
-
+### Dubai Data Science Meetup
+https://www.meetup.com/Dubai-Data-Science-Meetup/events/234220896/
 
 
 
@@ -1014,6 +1023,11 @@ https://habrahabr.ru/post/315170/
 ### История одного тестового задания
 https://habrahabr.ru/company/ecwid/blog/315228/
 
+### data science meetup
+https://it.mail.ru/broadcasts/47/
+
+### SBERBANK contest
+https://sdsj.ru/
 
 
 
@@ -1176,7 +1190,15 @@ http://rb.ru/fintech/?f
 
 https://roem.ru/26-05-2015/196197/dzhon-kollison-stripe-za-20-let-v-vebe-ne-poyavilos-legkogo-sposoba-perevodit-dengi-onlajn-eto-nasha-glavnaya-zadacha/
 
+https://hightech.fm/2016/11/19/Sbertech
 
+https://meduza.io/feature/2016/12/04/esli-by-ya-vernulsya-v-2016-y-ya-by-vzyal-lyubuyu-ideyu-i-dobavil-mashinnoe-obuchenie
+
+### Сбербанк раскрыл методы, код и данные для решения задач с помощью машинного обучения
+http://futurebanking.ru/post/3224
+
+### Джордж Хоц открыл доступ к коду автопилота Comma One
+https://hightech.fm/2016/12/01/comma_ai
 
 
 
