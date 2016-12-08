@@ -21,7 +21,8 @@ http://www.kdnuggets.com/2016/11/top-10-amazon-books-data-mining.html
 ### Data Science for Beginners: Fantastic Introductory Video Series from Microsoft
 http://www.kdnuggets.com/2016/08/data-science-beginners-video-series.html
 
-
+### Курс языка Python и базовых алгоритмов и структур данных
+https://github.com/Yorko/python_intro
 
 
 
