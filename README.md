@@ -664,6 +664,7 @@ https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 https://habrahabr.ru/company/npl/blog/311812/
 
 ## approx with dl!!!!!
+http://www.intsys.msu.ru/magazine/archive/v7(1-4)/alexeev-185-198.pdf
 https://arxiv.org/pdf/1610.01145v1.pdf
 http://deeplearning.cs.cmu.edu/pdfs/Cybenko.pdf
 http://www.wseas.us/e-library/transactions/mathematics/2008/601-100.pdf
