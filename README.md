@@ -81,6 +81,35 @@ https://github.com/namkhanhtran/cikm-cup-2016-cross-device
 
 http://mabrek.github.io/blog/kaggle-forecasting/
 
+### WordCloud - Time Series - Clustering
+https://www.kaggle.com/zoupet/d/arathee2/demonetization-in-india-twitter-data/wordcloud-time-series-clustering
+
+### NIPS Papers
+https://www.kaggle.com/benhamner/nips-papers
+
+### Painter by Numbers Competition, 1st Place Winner's Interview: Nejc Ilenič
+http://blog.kaggle.com/2016/11/17/painter-by-numbers-competition-1st-place-winners-interview-nejc-ilenic/
+
+### Integer Sequence Learning Competition: Solution Write-up, Team 1.618 | Gareth Jones & Laurent Borderie
+http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -635,6 +664,11 @@ https://habrahabr.ru/company/npl/blog/311812/
 
 ## approx with dl!!!!!
 https://arxiv.org/pdf/1610.01145v1.pdf
+http://deeplearning.cs.cmu.edu/pdfs/Cybenko.pdf
+http://www.wseas.us/e-library/transactions/mathematics/2008/601-100.pdf
+http://www.stat.yale.edu/~arb4/publications_files/approximation%20and%20estimation%20bounds%20for%20artificial%20neural%20networks.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.101.2647&rep=rep1&type=pdf
+http://neuralnetworksanddeeplearning.com/chap4.html
 
 ### count objects with dl
 https://arxiv.org/pdf/1505.08082v1.pdf
@@ -1028,6 +1062,18 @@ https://it.mail.ru/broadcasts/47/
 
 ### SBERBANK contest
 https://sdsj.ru/
+
+### Stay up to date with discoveries in AI
+http://ai-valley.com/
+
+### We're releasing Universe, a software platform for measuring and
+### training an AI's general intelligence across the world's supply of games,
+### websites and other applications.
+https://openai.com/blog/universe/
+
+
+
+
 
 
 
