@@ -121,6 +121,9 @@ http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution
 
 
 # Тьюториалы
+### Check-list для подготовки качественной презентации
+https://habrahabr.ru/post/317546/
+
 http://scikit-learn.org/stable/tutorial/machine_learning_map/ # scikit learn BEST ESTIMATORS
 
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#5 # tf for poets
@@ -833,10 +836,14 @@ https://drive.google.com/file/d/0B4bl7YMqDnViZnhPMkVoeHRUYmc/view
 ### Design Patterns for Deep Learning Architectures
 http://www.deeplearningpatterns.com/doku.php
 
+### Нейросеть научилась определять возраст мозга по МРТ
+https://geektimes.ru/post/283684/
 
+### Нейронные сети, «вредные» советы !!!
+https://geektimes.ru/post/211610/
 
-
-
+### !!! Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot
+https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.15skk6hli
 
 
 
@@ -1170,7 +1177,7 @@ https://vc.ru/n/telegram-200-bots
 
 http://rb.ru/opinion/400-klientov/?f
 
-
+https://vc.ru/p/rocketbot
 
 
 
