@@ -1099,7 +1099,8 @@ http://tceh.com/blog/put-pythonista-reursy-uspeha/?utm_source=12102m9799o&utm_me
 ### В эпоху Big Data Оруэлла пора переписывать
 https://www.novayagazeta.ru/articles/2016/12/12/70879-v-epohu-big-data-oruella-pora-perepisyvat
 
-
+### Расследование Das Magazin: как Big Data и пара ученых обеспечили победу Трампу и Brexit
+http://theins.ru/politika/38490
 
 
 
