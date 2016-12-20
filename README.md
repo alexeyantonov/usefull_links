@@ -288,7 +288,8 @@ https://www.kaggle.com/avehtari/d/uciml/pima-indians-diabetes-database/bayesian-
 ### Escaping-Excel-Hell-with-Python-and-Pandas
 https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-Hell-with-Python-and-Pandas.pdf
 
-
+### Подборка фреймворков для машинного обучения
+https://habrahabr.ru/company/parallels/blog/317994/
 
 
 
@@ -845,6 +846,15 @@ https://geektimes.ru/post/211610/
 ### !!! Ultimate Guide to Leveraging NLP & Machine Learning for your Chatbot
 https://chatbotslife.com/ultimate-guide-to-leveraging-nlp-machine-learning-for-you-chatbot-531ff2dd870c#.15skk6hli
 
+### Яндекс использовал нейросеть и научился прогнозировать осадки с точностью до минут
+https://habrahabr.ru/company/yandex/blog/317626/
+
+###  Логика мышления
+https://habrahabr.ru/post/214109/
+https://habrahabr.ru/post/214241/
+https://geektimes.ru/post/214317/
+https://geektimes.ru/post/214525/
+
 
 
 
@@ -1080,9 +1090,14 @@ http://ai-valley.com/
 ### websites and other applications.
 https://openai.com/blog/universe/
 
+### Building a Financial Model with Pandas - Version 2
+http://pbpython.com/amortization-model-revised.html
 
+### Путь Python'иста: 5 ресурсов успеха
+http://tceh.com/blog/put-pythonista-reursy-uspeha/?utm_source=12102m9799o&utm_medium=4112t111115s&utm_term=12109o111115g&utm_content=28112a117116h&utm_campaign=6112n121116o
 
-
+### В эпоху Big Data Оруэлла пора переписывать
+https://www.novayagazeta.ru/articles/2016/12/12/70879-v-epohu-big-data-oruella-pora-perepisyvat
 
 
 
@@ -1179,6 +1194,16 @@ http://rb.ru/opinion/400-klientov/?f
 
 https://vc.ru/p/rocketbot
 
+### Build Marvin the Depressed Reddit Bot in Python
+http://pythonforengineers.com/build-marvin-the-depressed-reddit-bot-in-python/
+
+### Hello, Bot! Чат-боты – следующее поколение приложений?
+https://habrahabr.ru/company/microsoft/blog/281459/
+
+### Chatbot на базе рекуррентной нейронной сети своими руками за 1 вечер/6$ и ~ 100 строчек кода
+https://habrahabr.ru/post/317732/
+
+
 
 
 
@@ -1255,8 +1280,8 @@ http://futurebanking.ru/post/3224
 ### Джордж Хоц открыл доступ к коду автопилота Comma One
 https://hightech.fm/2016/12/01/comma_ai
 
-
-
+### Экс-руководитель «Моего мира» Денис Алаев запустил робота-консультанта для инвесторов
+https://roem.ru/16-12-2016/238475/finance-robot/
 
 
 
@@ -1310,6 +1335,10 @@ https://roem.ru/07-11-2016/236117/ya-zdorovye/
 
 ### Blockchain In Healthcare
 https://channels.theinnovationenterprise.com/articles/blockchain-in-healthcare?utm_content=buffer4db7a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+https://roem.ru/16-12-2016/238529/doktor-na-rabote-telemedicina/
+
+
 
 
 
