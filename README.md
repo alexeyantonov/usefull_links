@@ -855,6 +855,11 @@ https://habrahabr.ru/post/214241/
 https://geektimes.ru/post/214317/
 https://geektimes.ru/post/214525/
 
+### facebook Jarvis
+https://tvrain.ru/articles/jarvis-423796/
+https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10103347273888091/
+http://www.businessinsider.com/how-mark-zuckerberg-personal-smart-home-assistant-jarvis-works-2016-12?%2F/#chat-with-him-through-the-messenger-app-and-a-dedicated-voice-recognition-iphone-app-4
+http://rb.ru/story/what-can-jarvis-do/
 
 
 
