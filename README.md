@@ -861,7 +861,8 @@ https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10103347273888091
 http://www.businessinsider.com/how-mark-zuckerberg-personal-smart-home-assistant-jarvis-works-2016-12?%2F/#chat-with-him-through-the-messenger-app-and-a-dedicated-voice-recognition-iphone-app-4
 http://rb.ru/story/what-can-jarvis-do/
 
-
+### Neural network for sparse matrices
+https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/22567/neural-network-for-sparse-matrices
 
 
 
@@ -924,7 +925,8 @@ http://dobroflot.blogspot.ru/2014_11_01_archive.html # all kinds of sparse matri
 ### Dubai Data Science Meetup
 https://www.meetup.com/Dubai-Data-Science-Meetup/events/234220896/
 
-
+### Data Science — это вообще работает?
+https://meduza.io/cards/data-science-eto-voobsche-rabotaet
 
 
 
@@ -1289,7 +1291,11 @@ https://hightech.fm/2016/12/01/comma_ai
 ### Экс-руководитель «Моего мира» Денис Алаев запустил робота-консультанта для инвесторов
 https://roem.ru/16-12-2016/238475/finance-robot/
 
+### Как создать прибыльный финансовый сервис в России — опыт Михаила Смолянова из «Финолога»
+https://vc.ru/p/fintech-startup
 
+### Пожиратели рекламы. Как хакеры-аферисты могут быть связаны с Россией
+https://republic.ru/posts/77732
 
 
 
@@ -1344,9 +1350,11 @@ https://channels.theinnovationenterprise.com/articles/blockchain-in-healthcare?u
 
 https://roem.ru/16-12-2016/238529/doktor-na-rabote-telemedicina/
 
+### Москва пустила Яндекс.Здоровье в государственные больницы
+https://roem.ru/23-12-2016/239070/ya-gos-zdorovie/
 
-
-
+### Что такое рак и отчего он бывает
+https://tvrain.ru/lite/teleshow/partnership/cancer_chaika-423668/
 
 
 
