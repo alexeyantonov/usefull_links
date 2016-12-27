@@ -864,6 +864,18 @@ http://rb.ru/story/what-can-jarvis-do/
 ### Neural network for sparse matrices
 https://www.kaggle.com/c/talkingdata-mobile-user-demographics/forums/t/22567/neural-network-for-sparse-matrices
 
+### Deep Learning Key Terms, Explained
+http://www.kdnuggets.com/2016/10/deep-learning-key-terms-explained.html?utm_content=buffer8c00f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Beyond Seq2Seq with Augmented RNNs
+http://videolectures.net/deeplearning2016_grefenstette_augmented_rnn/?q=Beyond%20Seq2Seq%20with%20Augmented%20RNNs%20Edward%20Grefenstette
+
+### Understanding deep learning requires rethinking generalization
+https://arxiv.org/abs/1611.03530
+
+### Задача коммивояжёра - Neural Combinatorial Optimization with Reinforcement Learning
+https://ru.m.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D0%B2%D0%BE%D1%8F%D0%B6%D1%91%D1%80%D0%B0
+https://arxiv.org/abs/1611.09940
 
 
 
