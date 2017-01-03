@@ -4,6 +4,8 @@ https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 
 ### Practical XGBoost in Python
 https://www.youtube.com/playlist?list=PLZnYQQzkMilqTC12LmnN4WpQexB9raKQG
+http://education.parrotprediction.teachable.com/courses/practical-xgboost-in-python/lectures/1137863
+https://github.com/ParrotPrediction/docker-course-xgboost
 
 ### google CS education
 https://www.google.com/edu/cs/participate.html
@@ -877,7 +879,8 @@ https://arxiv.org/abs/1611.03530
 https://ru.m.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0_%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D0%B2%D0%BE%D1%8F%D0%B6%D1%91%D1%80%D0%B0
 https://arxiv.org/abs/1611.09940
 
-
+### Chest Xray image analysis using Deep learning
+https://github.com/ayush1997/Xvision
 
 
 
