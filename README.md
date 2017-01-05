@@ -96,7 +96,9 @@ http://blog.kaggle.com/2016/11/17/painter-by-numbers-competition-1st-place-winne
 ### Integer Sequence Learning Competition: Solution Write-up, Team 1.618 | Gareth Jones & Laurent Borderie
 http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution-write-up-team-1-618-gareth-jones-laurent-borderie/
 
-
+### Some courses solutions ()
+https://github.com/movb?tab=repositories
+https://github.com/movb/stepic
 
 
 
@@ -1141,6 +1143,14 @@ https://www.novayagazeta.ru/articles/2016/12/12/70879-v-epohu-big-data-oruella-p
 ### Расследование Das Magazin: как Big Data и пара ученых обеспечили победу Трампу и Brexit
 http://theins.ru/politika/38490
 
+### Oversight - Using machine learning to monitor IP security cameras
+https://github.com/hebenon/oversight
+
+### YouTube-8M Dataset
+https://research.google.com/youtube8m/index.html?utm_content=buffer8b68e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Нейросеть определяет тунеядцев по метаданным сотовой сети с вероятностью 70,4%
+https://geektimes.ru/post/283938/
 
 
 
@@ -1243,7 +1253,8 @@ https://habrahabr.ru/company/microsoft/blog/281459/
 ### Chatbot на базе рекуррентной нейронной сети своими руками за 1 вечер/6$ и ~ 100 строчек кода
 https://habrahabr.ru/post/317732/
 
-
+### A toy chatbot powered by deep learning and trained on data from Reddit
+https://github.com/pender/chatbot-rnn
 
 
 
