@@ -882,6 +882,14 @@ https://arxiv.org/abs/1611.09940
 ### Chest Xray image analysis using Deep learning
 https://github.com/ayush1997/Xvision
 
+### NeuPy Neural Networks in Python
+http://neupy.com/pages/cheatsheet.html
+
+### What my deep model doesn't know...
+http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html
+
+### TensorKart: self-driving MarioKart with TensorFlow
+http://kevinhughes.ca/blog/tensor-kart
 
 
 
