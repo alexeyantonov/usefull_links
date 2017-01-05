@@ -293,7 +293,12 @@ https://github.com/chris1610/pbpython/blob/master/presentations/Escaping-Excel-H
 ### Подборка фреймворков для машинного обучения
 https://habrahabr.ru/company/parallels/blog/317994/
 
+### From Python to Numpy
+http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 
+### Convex Optimization using CVXPY
+http://shubhanshu.com/blog/blog/convex-optimization-cvxpy.html#convex-optimization-cvxpy
+http://stanford.edu/~boyd/papers/cvx_short_course.html
 
 
 
@@ -951,7 +956,11 @@ https://www.meetup.com/Dubai-Data-Science-Meetup/events/234220896/
 ### Data Science — это вообще работает?
 https://meduza.io/cards/data-science-eto-voobsche-rabotaet
 
+### 38 Important Articles Every Data Scientist Should Read
+https://medium.com/@oliveromakonjio/38-important-articles-every-data-scientist-should-read-66034b332c6e#.mylg8tjv6
 
+### A light weight, super fast, large scale machine learning library on spark.
+https://github.com/TalkingData/Fregata
 
 
 
