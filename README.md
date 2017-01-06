@@ -422,7 +422,8 @@ https://github.com/ehmatthes/pcc/releases
 https://medium.freecodecamp.com/if-you-want-to-learn-data-science-take-a-few-of-these-statistics-classes-9bbabab098b9#.tbuiaet9p
 https://medium.com/@venturidb/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412#.fd2s79h4z
 
-
+### Еще один курс по МО на русском
+https://www.youtube.com/watch?v=fIZ64zHC6sU
 
 
 
