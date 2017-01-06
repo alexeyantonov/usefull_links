@@ -425,7 +425,12 @@ https://medium.com/@venturidb/i-dropped-out-of-school-to-create-my-own-data-scie
 ### Еще один курс по МО на русском
 https://www.youtube.com/watch?v=fIZ64zHC6sU
 
+### 40+ Python Statistics For Data Science Resources
+https://medium.com/@kacawi/40-python-statistics-for-data-science-resources-463ee4f4b90d#.u3317hwso
 
+### Introduction to Statistics using Python
+https://github.com/rouseguy/intro2stats
+http://greenteapress.com/wp/think-stats-2e/
 
 
 
@@ -899,9 +904,10 @@ http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html
 ### TensorKart: self-driving MarioKart with TensorFlow
 http://kevinhughes.ca/blog/tensor-kart
 
+### A toolkit for developing and comparing reinforcement learning algorithms. https://gym.openai.com/
+https://github.com/openai/gym#installing-everything
 
-
-
+https://meduza.io/feature/2017/01/06/neyroset-ne-prosto-modnoe-slovo
 
 
 
