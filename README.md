@@ -100,7 +100,8 @@ http://blog.kaggle.com/2016/11/21/integer-sequence-learning-competition-solution
 https://github.com/movb?tab=repositories
 https://github.com/movb/stepic
 
-
+### The 2nd place solution for WSDM Cup 2017: Vandalism Detection
+https://github.com/alexeygrigorev/wsdmcup17-vandalism-detection
 
 
 
@@ -909,8 +910,29 @@ https://github.com/openai/gym#installing-everything
 
 https://meduza.io/feature/2017/01/06/neyroset-ne-prosto-modnoe-slovo
 
+### AENet: Learning Deep Audio Features for Video Analysis
+https://arxiv.org/abs/1701.00599
 
+### An Intuitive Explanation of Convolutional Neural Networks
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
 
+### Hand Signals Recognition using Convolutional Neural Network
+https://medium.com/@pyk/hand-signals-recognition-using-convolutional-neural-network-40557925cfbc#.eq30ot1a9
+
+### Learning AI if You Suck at Math
+https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037#.ic68m3qek
+
+### give-your-kids-futuristic-names-with-a-neural-network
+https://medium.com/@nateparrott/give-your-kids-futuristic-names-with-a-neural-network-9078bed0894d#.v9v64wq30
+
+### Investor's view on machine intelligence startups, 2.0, Jan 2017
+http://www.slideshare.net/victorosika/investors-view-on-machine-intelligence-startups-20-jan-2017
+
+### Framework for building complex recurrent neural networks with Keras
+https://github.com/datalogai/recurrentshop
+
+### Applying Neural Network and Local Laplace Filter Methods to Very High Resolution Satellite Imagery to Detect Damage in Urban Areas
+https://medium.com/@eos_da/applying-neural-network-and-local-laplace-filter-methods-to-very-high-resolution-satellite-imagery-3b203e5cc444#.syb5ngb13
 
 
 
