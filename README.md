@@ -934,6 +934,37 @@ https://github.com/datalogai/recurrentshop
 ### Applying Neural Network and Local Laplace Filter Methods to Very High Resolution Satellite Imagery to Detect Damage in Urban Areas
 https://medium.com/@eos_da/applying-neural-network-and-local-laplace-filter-methods-to-very-high-resolution-satellite-imagery-3b203e5cc444#.syb5ngb13
 
+### Deep Learning for Time-Series Analysis
+https://arxiv.org/abs/1701.01887
+
+### Blockchains for Artificial Intelligence
+https://blog.bigchaindb.com/blockchains-for-artificial-intelligence-ec63b0284984#.qjscmrz77
+
+### !!!!! Results from the Best Paper Awards
+https://www.reddit.com/r/MachineLearning/comments/5n53k7/d_results_from_the_best_paper_awards/
+
+### !!! as1ndu/keras-for-numerai
+https://github.com/as1ndu/keras-for-numerai
+
+### Neural Networks journal
+http://www.sciencedirect.com/science/journal/08936080/85
+https://drive.google.com/file/d/0B_niu1ytqWDNbE9DUHROcFVjcUk/view
+
+### zhangqianhui/AdversarialNetsPapers
+https://github.com/zhangqianhui/AdversarialNetsPapers
+
+### Deep Learning Research Review Week 3: Natural Language Processing
+https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-3-Natural-Language-Processing
+
+### DrSleep/tensorflow-deeplab-resnet
+https://github.com/DrSleep/tensorflow-deeplab-resnet
+
+### ishank26/nn_from_scratch
+https://github.com/ishank26/nn_from_scratch
+
+### Kyubyong/neural_chinese_transliterator
+https://github.com/Kyubyong/neural_chinese_transliterator
+
 
 
 
