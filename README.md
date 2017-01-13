@@ -965,10 +965,20 @@ https://github.com/ishank26/nn_from_scratch
 ### Kyubyong/neural_chinese_transliterator
 https://github.com/Kyubyong/neural_chinese_transliterator
 
+### Нейросеть определяет тунеядцев по метаданным сотовой сети с вероятностью 70,4%
+https://geektimes.ru/post/283938/
 
+### Логика сознания. Часть 9. Искусственные нейронные сети и миниколонки реальной коры
+https://habrahabr.ru/post/317712/
 
+### A friendly introduction to Deep Learning and Neural Networks
+https://www.youtube.com/watch?v=BR9h47Jtqyw
 
+### DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
+https://arxiv.org/pdf/1701.01724v2.pdf
 
+### king - man + woman is queen; but why? (!!! word2vec)
+http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
 
 
 
@@ -1209,8 +1219,8 @@ https://github.com/hebenon/oversight
 ### YouTube-8M Dataset
 https://research.google.com/youtube8m/index.html?utm_content=buffer8b68e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
-### Нейросеть определяет тунеядцев по метаданным сотовой сети с вероятностью 70,4%
-https://geektimes.ru/post/283938/
+### Топ-7 трендов разработки
+http://tceh.com/blog/top-7-programming-trendov/?utm_source=12102m9799o&utm_medium=4112t111115s&utm_term=12109o111115g&utm_content=25116v111112o&utm_campaign=6112n121116o
 
 
 
@@ -1316,6 +1326,8 @@ https://habrahabr.ru/post/317732/
 ### A toy chatbot powered by deep learning and trained on data from Reddit
 https://github.com/pender/chatbot-rnn
 
+### Робот-юрист оставит без работы 3 тысячи сотрудников Сбербанка
+http://www.interfax.ru/business/545109
 
 
 
@@ -1400,6 +1412,8 @@ https://vc.ru/p/fintech-startup
 ### Пожиратели рекламы. Как хакеры-аферисты могут быть связаны с Россией
 https://republic.ru/posts/77732
 
+### Треть клиентов банков и страховщиков ушли бы на обслуживание в Facebook или Google
+https://roem.ru/12-01-2017/240352/google-fb-amazon-banking/
 
 
 
