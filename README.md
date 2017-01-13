@@ -103,7 +103,8 @@ https://github.com/movb/stepic
 ### The 2nd place solution for WSDM Cup 2017: Vandalism Detection
 https://github.com/alexeygrigorev/wsdmcup17-vandalism-detection
 
-
+### Santander Product Recommendation Competition, 2nd Place Winner's Solution Write-Up
+http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2nd-place-winners-solution-write-up-tom-van-de-wiele/
 
 
 
@@ -303,7 +304,8 @@ http://www.labri.fr/perso/nrougier/from-python-to-numpy/
 http://shubhanshu.com/blog/blog/convex-optimization-cvxpy.html#convex-optimization-cvxpy
 http://stanford.edu/~boyd/papers/cvx_short_course.html
 
-
+### Using Anaconda and H2O to Supercharge your Machine Learning and Predictive Analytics
+https://www.continuum.io/blog/developer-blog/using-anaconda-h2o-supercharge-machine-learning-predictive-analytics
 
 
 
