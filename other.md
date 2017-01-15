@@ -29,6 +29,8 @@ https://meduza.io/feature/2016/08/15/zashifrovannoe-podpolie
 
 https://slon.ru/posts/71581
 
+http://life-trip.ru/keshbek-aliekspress-i-kak-ekonomit/
+
 http://www.vokrugsveta.ru/vs/article/6790/
 
 https://geektimes.ru/post/279050/
