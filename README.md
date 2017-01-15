@@ -1484,7 +1484,8 @@ https://tvrain.ru/lite/teleshow/partnership/cancer_chaika-423668/
 ### телемедицина
 https://roem.ru/13-01-2017/240538/pryamaya-telemedicina-minzdrav/
 
-
+### baidu medical bot
+http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
 
 
 
