@@ -50,7 +50,9 @@ http://mltrainings.ru/?filter=active
 
 http://datahack.analyticsvidhya.com/contest/all
 
+https://boosters.pro/
 
+sdsj.ru
 
 
 
@@ -307,8 +309,12 @@ http://stanford.edu/~boyd/papers/cvx_short_course.html
 ### Using Anaconda and H2O to Supercharge your Machine Learning and Predictive Analytics
 https://www.continuum.io/blog/developer-blog/using-anaconda-h2o-supercharge-machine-learning-predictive-analytics
 
+### !!! стекинг stacking
+http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
 
-
+### lightgbm
+https://github.com/Microsoft/LightGBM/wiki/Features#optimization-in-accuracy
 
 
 
@@ -1475,6 +1481,8 @@ https://roem.ru/23-12-2016/239070/ya-gos-zdorovie/
 ### Что такое рак и отчего он бывает
 https://tvrain.ru/lite/teleshow/partnership/cancer_chaika-423668/
 
+### телемедицина
+https://roem.ru/13-01-2017/240538/pryamaya-telemedicina-minzdrav/
 
 
 
