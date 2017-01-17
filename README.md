@@ -1,4 +1,5 @@
 https://www.packtpub.com/packt/offers/free-learning
+http://www.oreilly.com/free/reports.html
 
 https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 
@@ -988,6 +989,42 @@ https://arxiv.org/pdf/1701.01724v2.pdf
 ### king - man + woman is queen; but why? (!!! word2vec)
 http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
 
+### Building a Deep Learning Model for Process Optimisation
+http://www.datasciencecentral.com/profiles/blogs/building-a-deep-learning-model-for-process-optimisation
+
+### Is Deep Learning an Alien Intelligence?
+https://medium.com/intuitionmachine/is-deep-learning-an-alien-intelligence-c7a6a2bc667a#.xcp6prkuc
+
+### Traffic signs classification with a convolutional network
+http://navoshta.com/traffic-signs-classification/
+
+### Мацанюк инвестировал в сканер рыбы на нейронных сетях
+https://roem.ru/16-01-2017/240609/deepfish-investment/
+
+### !!!!! The Anatomy of Deep Learning Frameworks
+https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.kjm2ngefh
+
+### Boilerplate code for quickly getting set up to run language modeling experiments
+https://github.com/jbuckman/boilerplate-dynet-rnn-lm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1042,11 +1079,18 @@ https://medium.com/@oliveromakonjio/38-important-articles-every-data-scientist-s
 ### A light weight, super fast, large scale machine learning library on spark.
 https://github.com/TalkingData/Fregata
 
+### Weld: A common runtime for high performance data analytics
+https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/
 
+### !!! Should You Get Started in Data Science?
+http://math-blog.com/should-you-get-started-in-data-science/
+http://treycausey.com/getting_started.html
 
+### Feature Selection in Machine Learning (Breast Cancer Datasets)
+https://www.r-bloggers.com/feature-selection-in-machine-learning-breast-cancer-datasets/
 
-
-
+### What’s the Difference Between Data Science and Statistics?
+https://priceonomics.com/whats-the-difference-between-data-science-and/
 
 
 
@@ -1230,7 +1274,8 @@ https://research.google.com/youtube8m/index.html?utm_content=buffer8b68e&utm_med
 ### Топ-7 трендов разработки
 http://tceh.com/blog/top-7-programming-trendov/?utm_source=12102m9799o&utm_medium=4112t111115s&utm_term=12109o111115g&utm_content=25116v111112o&utm_campaign=6112n121116o
 
-
+### Exclusive: Interview with Jeremy Howard on Deep Learning, Kaggle, Data Science, and more
+http://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning-kaggle-data-science.html
 
 
 
@@ -1336,6 +1381,11 @@ https://github.com/pender/chatbot-rnn
 
 ### Робот-юрист оставит без работы 3 тысячи сотрудников Сбербанка
 http://www.interfax.ru/business/545109
+
+### Baidu launches medical chatbot to help Chinese doctors diagnose patients
+http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
+
+
 
 
 
