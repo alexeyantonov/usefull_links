@@ -317,7 +317,8 @@ https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
 ### lightgbm
 https://github.com/Microsoft/LightGBM/wiki/Features#optimization-in-accuracy
 
-
+### Mathematical optimization and python
+http://www.slideshare.net/Open-IT/mathematical-optimization-and-python
 
 
 
@@ -1007,9 +1008,17 @@ https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e4
 ### Boilerplate code for quickly getting set up to run language modeling experiments
 https://github.com/jbuckman/boilerplate-dynet-rnn-lm
 
+### Amazon AI
+https://aws.amazon.com/amazon-ai/
 
+### A convolutional neural network that identifies water in satellite images.
+https://github.com/treigerm/WaterNet
 
+### Lane Following Autopilot with Keras & Tensorflow.
+https://wroscoe.github.io/keras-lane-following-autopilot.html#keras-lane-following-autopilot
 
+### !!!!! NumPy interface with mixed backend execution
+https://github.com/dmlc/minpy
 
 
 
