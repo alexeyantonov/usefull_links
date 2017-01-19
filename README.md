@@ -456,6 +456,20 @@ http://greenteapress.com/wp/think-stats-2e/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Нейросети
 http://www.asimovinstitute.org/neural-network-zoo/ # all kinds of NN
 
@@ -1020,11 +1034,24 @@ https://wroscoe.github.io/keras-lane-following-autopilot.html#keras-lane-followi
 ### !!!!! NumPy interface with mixed backend execution
 https://github.com/dmlc/minpy
 
+### !!!!! Coding a Deep Neural Network to Steer a Car: Step By Step
+https://medium.com/udacity/coding-a-deep-neural-network-to-steer-a-car-step-by-step-c075a12108e2#.rkcc9da89
+https://github.com/udacity/self-driving-car
 
+### !!!!! 4 steps to learn TensorFlow when you already know scikit-learn
+https://medium.com/@Zelros/4-steps-to-learn-tensorflow-when-you-already-know-scikit-learn-3cd0340456b5#.gkadamuho
 
+### ASCII summary for simple sequential models in Keras
+https://github.com/stared/keras-sequential-ascii
 
+### Deep Learning Paper Implementations: Spatial Transformer Networks - Part II
+https://github.com/stared/keras-sequential-ascii
 
+### Microsoft Thinks Machines Can Learn to Converse by Making Chat a Game
+https://www.wired.com/2017/01/microsoft-thinks-machines-can-learn-converse-chats-become-game
 
+### !!! Deepgram open sources Kur to make DIY deep learning less painful
+https://techcrunch.com/2017/01/18/deepgram-open-sources-kur-to-make-diy-deep-learning-less-painful/
 
 
 
