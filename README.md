@@ -320,7 +320,8 @@ https://github.com/Microsoft/LightGBM/wiki/Features#optimization-in-accuracy
 ### Mathematical optimization and python
 http://www.slideshare.net/Open-IT/mathematical-optimization-and-python
 
-
+### !!!!! Recipes for using Python's pandas library
+https://github.com/jvns/pandas-cookbook
 
 
 
@@ -443,7 +444,8 @@ https://medium.com/@kacawi/40-python-statistics-for-data-science-resources-463ee
 https://github.com/rouseguy/intro2stats
 http://greenteapress.com/wp/think-stats-2e/
 
-
+### Express course of machine learning
+https://github.com/CommanderDuck/express_ml
 
 
 
