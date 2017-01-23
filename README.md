@@ -1055,9 +1055,14 @@ https://www.wired.com/2017/01/microsoft-thinks-machines-can-learn-converse-chats
 ### !!! Deepgram open sources Kur to make DIY deep learning less painful
 https://techcrunch.com/2017/01/18/deepgram-open-sources-kur-to-make-diy-deep-learning-less-painful/
 
+### Visualizing parts of Convolutional Neural Networks using Keras and Cats
+https://medium.com/@erikreppel/visualizing-parts-of-convolutional-neural-networks-using-keras-and-cats-5cc01b214e59#.tteekprgi
 
+### !!!!! Deep reinforcement learning. In scikit-learn. In less than 50 effective lines.
+https://github.com/yandexdataschool/sklearn-deeprl
 
-
+### Predictive Learning by Yann Le Cun
+https://drive.google.com/file/d/0BxKBnD5y2M8NUmJOMldMUFBFdTQ/view
 
 
 
@@ -1511,7 +1516,8 @@ https://republic.ru/posts/77732
 ### Треть клиентов банков и страховщиков ушли бы на обслуживание в Facebook или Google
 https://roem.ru/12-01-2017/240352/google-fb-amazon-banking/
 
-
+### У меня заплатил телефон
+http://www.kommersant.ru/doc/3164148
 
 
 
@@ -1574,6 +1580,14 @@ https://roem.ru/13-01-2017/240538/pryamaya-telemedicina-minzdrav/
 
 ### baidu medical bot
 http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
+
+### 10 ситуаций, в которых телемедицина будет необходима
+https://roem.ru/23-01-2017/241121/luddism-telemed/
+
+
+
+
+
 
 
 
