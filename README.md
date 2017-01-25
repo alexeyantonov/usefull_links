@@ -447,6 +447,9 @@ http://greenteapress.com/wp/think-stats-2e/
 ### Express course of machine learning
 https://github.com/CommanderDuck/express_ml
 
+### !!!!! Learn TensorFlow and deep learning, without a Ph.D.
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+
 
 
 
@@ -1064,6 +1067,24 @@ https://github.com/yandexdataschool/sklearn-deeprl
 ### Predictive Learning by Yann Le Cun
 https://drive.google.com/file/d/0BxKBnD5y2M8NUmJOMldMUFBFdTQ/view
 
+### Implementation for <Large-Margin Softmax Loss for Convolutional Neural Networks> in ICML'16
+https://github.com/wy1iu/LargeMargin_Softmax_Loss
+https://arxiv.org/abs/1612.02295
+
+### !!!!! Deep Learning Applications in Medical Imaging
+http://techemergence.com/deep-learning-medical-applications/
+
+### Learn PyTorch with project-based tutorials. So far they are focused on applying recurrent neural networks to natural language tasks.
+https://github.com/spro/practical-pytorch
+
+### Deep Learning on Heroku tutorial (Iris classification)
+https://gaborvecsei.wordpress.com/2017/01/22/deep-learning-on-heroku-tutorial-iris-classification/
+
+### Fully Convolutional Networks (FCNs) for Image Segmentation
+http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolutional-networks-(fcns)-for-image-segmentation/
+
+### End-to-end learning framework for foreground object segmentation
+http://www.gitxiv.com/posts/eAYR65YeimeE3aWRx/pixel-objectness
 
 
 
@@ -1319,6 +1340,11 @@ http://tceh.com/blog/top-7-programming-trendov/?utm_source=12102m9799o&utm_mediu
 
 ### Exclusive: Interview with Jeremy Howard on Deep Learning, Kaggle, Data Science, and more
 http://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning-kaggle-data-science.html
+
+### Auto-splitting video file in equal chunks with ffmpeg and python
+http://icephoenix.us/notes-for-myself/auto-splitting-video-file-in-equal-chunks-with-ffmpeg-and-python/
+
+
 
 
 
