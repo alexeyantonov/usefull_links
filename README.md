@@ -323,7 +323,8 @@ http://www.slideshare.net/Open-IT/mathematical-optimization-and-python
 ### !!!!! Recipes for using Python's pandas library
 https://github.com/jvns/pandas-cookbook
 
-
+### !!! Курсы к специализации «Машинное обучение и анализ данных»
+http://cotique.me/blog/ml-spec-recommendations
 
 
 
@@ -1071,9 +1072,6 @@ https://drive.google.com/file/d/0BxKBnD5y2M8NUmJOMldMUFBFdTQ/view
 https://github.com/wy1iu/LargeMargin_Softmax_Loss
 https://arxiv.org/abs/1612.02295
 
-### !!!!! Deep Learning Applications in Medical Imaging
-http://techemergence.com/deep-learning-medical-applications/
-
 ### Learn PyTorch with project-based tutorials. So far they are focused on applying recurrent neural networks to natural language tasks.
 https://github.com/spro/practical-pytorch
 
@@ -1085,6 +1083,9 @@ http://warmspringwinds.github.io/tensorflow/tf-slim/2017/01/23/fully-convolution
 
 ### End-to-end learning framework for foreground object segmentation
 http://www.gitxiv.com/posts/eAYR65YeimeE3aWRx/pixel-objectness
+
+### AI at your fingertips
+https://xnor.ai/
 
 
 
@@ -1156,6 +1157,8 @@ https://www.r-bloggers.com/feature-selection-in-machine-learning-breast-cancer-d
 ### What’s the Difference Between Data Science and Statistics?
 https://priceonomics.com/whats-the-difference-between-data-science-and/
 
+### The best directory of artificial intelligence/machine learning resources.
+http://aireads.top/
 
 
 
@@ -1344,7 +1347,8 @@ http://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning
 ### Auto-splitting video file in equal chunks with ffmpeg and python
 http://icephoenix.us/notes-for-myself/auto-splitting-video-file-in-equal-chunks-with-ffmpeg-and-python/
 
-
+### !!! What is the Big data?
+https://kushalagrawal.com/blog/big-data/
 
 
 
@@ -1451,8 +1455,7 @@ https://github.com/pender/chatbot-rnn
 ### Робот-юрист оставит без работы 3 тысячи сотрудников Сбербанка
 http://www.interfax.ru/business/545109
 
-### Baidu launches medical chatbot to help Chinese doctors diagnose patients
-http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
+
 
 
 
@@ -1610,7 +1613,17 @@ http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
 ### 10 ситуаций, в которых телемедицина будет необходима
 https://roem.ru/23-01-2017/241121/luddism-telemed/
 
+### !!!!! Deep Learning Applications in Medical Imaging
+http://techemergence.com/deep-learning-medical-applications/
 
+### !!!!! 12 Startups Fighting Cancer With Artificial Intelligence
+https://www.cbinsights.com/blog/ai-startups-fighting-cancer/
+
+### !!!!! FDA Approves First Clinical Cloud-Based Deep Learning In Healthcare
+https://biotechin.asia/2017/01/25/fda-approves-first-clinical-cloud-based-deep-learning-in-healthcare/
+
+### !!!!! Baidu launches medical chatbot to help Chinese doctors diagnose patients
+http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
 
 
 
