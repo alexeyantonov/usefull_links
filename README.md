@@ -1,3 +1,4 @@
+http://www.sravni.ru/novost/2017/1/27/70-knig-kotorye-german-gref-rekomenduet-svoim-top-menedzheram/
 https://www.packtpub.com/packt/offers/free-learning
 http://www.oreilly.com/free/reports.html
 
@@ -326,6 +327,8 @@ https://github.com/jvns/pandas-cookbook
 ### !!! Курсы к специализации «Машинное обучение и анализ данных»
 http://cotique.me/blog/ml-spec-recommendations
 
+### Great Collection of Minimal and Clean Implementations of Machine Learning Algorithms
+http://www.kdnuggets.com/2017/01/great-collection-clean-machine-learning-algorithms.html
 
 
 
@@ -1087,9 +1090,14 @@ http://www.gitxiv.com/posts/eAYR65YeimeE3aWRx/pixel-objectness
 ### AI at your fingertips
 https://xnor.ai/
 
+### Keras implementation of Google's inception v4 model
+https://github.com/kentsommer/keras-inceptionV4
 
+### Machine Learning & Artificial Intelligence: Main Developments in 2016 and Key Trends in 2017
+http://www.kdnuggets.com/2016/12/machine-learning-artificial-intelligence-main-developments-2016-key-trends-2017.html
 
-
+### !!!!!!!!!! Deep Learning with Data Science Experience
+http://datascience.ibm.com/blog/deep-learning-with-data-science-experience/
 
 
 
@@ -1160,7 +1168,8 @@ https://priceonomics.com/whats-the-difference-between-data-science-and/
 ### The best directory of artificial intelligence/machine learning resources.
 http://aireads.top/
 
-
+### Deep Learning Frameworks of 2017 Jan
+https://medium.com/@nellaivijay/deep-learning-frameworks-of-2017-jan-c9527a06af85#.38mq82leo
 
 
 
@@ -1349,6 +1358,12 @@ http://icephoenix.us/notes-for-myself/auto-splitting-video-file-in-equal-chunks-
 
 ### !!! What is the Big data?
 https://kushalagrawal.com/blog/big-data/
+
+### 140 Machine Learning Formulas
+http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas
+
+
+
 
 
 
@@ -1624,6 +1639,11 @@ https://biotechin.asia/2017/01/25/fda-approves-first-clinical-cloud-based-deep-l
 
 ### !!!!! Baidu launches medical chatbot to help Chinese doctors diagnose patients
 http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
+
+
+### !!!!! Given enough training images, computers compete with medics on diagnosis
+https://arstechnica.co.uk/science/2017/01/deep-neural-network-as-good-as-medics-at-identifying-skin-cancers/
+http://dx.doi.org/10.1038/nature21056
 
 
 
