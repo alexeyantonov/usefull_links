@@ -110,7 +110,9 @@ https://github.com/alexeygrigorev/wsdmcup17-vandalism-detection
 ### Santander Product Recommendation Competition, 2nd Place Winner's Solution Write-Up
 http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2nd-place-winners-solution-write-up-tom-van-de-wiele/
 
-
+### Tinkoff-Data-Science-Challenge
+https://boosters.pro/champ_3
+https://github.com/blan4/Tinkoff-Data-Science-Challenge
 
 
 
@@ -454,7 +456,15 @@ https://github.com/CommanderDuck/express_ml
 ### !!!!! Learn TensorFlow and deep learning, without a Ph.D.
 https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
 
+### !!!!! Foundations of Machine Learning Boot Camp
+https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD
+https://www.youtube.com/watch?v=-SY4-GkDM8g
+https://www.youtube.com/watch?v=R_o6nUC1Nzo
+https://www.youtube.com/watch?v=jompe29_A74
+https://www.youtube.com/watch?v=SNKypQ8y6SM
 
+### !!!!! Foundations of Machine Learning Boot Camp
+https://www.youtube.com/playlist?list=PLgKuh-lKre11IkXepFchTN0gHxN84PW65
 
 
 
@@ -1171,6 +1181,18 @@ http://aireads.top/
 ### Deep Learning Frameworks of 2017 Jan
 https://medium.com/@nellaivijay/deep-learning-frameworks-of-2017-jan-c9527a06af85#.38mq82leo
 
+### FPGAs Focal Point for Efficient Neural Network Inference
+https://www.nextplatform.com/2017/01/26/fpgas-focal-point-efficient-neural-network-inference/
+
+### Expanding choices for PowerAI developers with TensorFlow
+https://www.ibm.com/blogs/systems/expanding-choices-for-powerai-developers-with-tensorflow/
+
+### The "Something Something" Video Dataset
+https://www.re-work.co/blog/the-something-something-video-dataset
+
+### Remastering Classic Films in Tensorflow with Pix2Pix
+https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.3orgtpp98
+
 
 
 
@@ -1640,10 +1662,16 @@ https://biotechin.asia/2017/01/25/fda-approves-first-clinical-cloud-based-deep-l
 ### !!!!! Baidu launches medical chatbot to help Chinese doctors diagnose patients
 http://www.theverge.com/2016/10/11/13240434/baidu-medical-chatbot-china-melody
 
-
 ### !!!!! Given enough training images, computers compete with medics on diagnosis
 https://arstechnica.co.uk/science/2017/01/deep-neural-network-as-good-as-medics-at-identifying-skin-cancers/
 http://dx.doi.org/10.1038/nature21056
+
+### !!! Share Your Science: Deep Learning in Medical Imaging
+https://www.youtube.com/watch?v=rOc6jOrtHZg
+https://news.developer.nvidia.com/share-your-science-combating-cancer-with-deep-learning/
+
+
+
 
 
 
