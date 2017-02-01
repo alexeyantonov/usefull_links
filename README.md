@@ -332,6 +332,19 @@ http://cotique.me/blog/ml-spec-recommendations
 ### Great Collection of Minimal and Clean Implementations of Machine Learning Algorithms
 http://www.kdnuggets.com/2017/01/great-collection-clean-machine-learning-algorithms.html
 
+### How to get your first job in Data Science?
+https://medium.com/@datalab/how-to-break-into-the-data-science-market-f0e0b79b42f7#.pgis2yke5
+
+### !!!!! models params optimization
+https://scikit-optimize.github.io/
+https://github.com/Microsoft/LightGBM/wiki/Experiments
+https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
+
+
+
+
+
+
 
 
 
@@ -466,6 +479,8 @@ https://www.youtube.com/watch?v=SNKypQ8y6SM
 ### !!!!! Foundations of Machine Learning Boot Camp
 https://www.youtube.com/playlist?list=PLgKuh-lKre11IkXepFchTN0gHxN84PW65
 
+### Список курсов
+http://eclass.cc/courselists/117_deep_learning
 
 
 
@@ -1109,6 +1124,22 @@ http://www.kdnuggets.com/2016/12/machine-learning-artificial-intelligence-main-d
 ### !!!!!!!!!! Deep Learning with Data Science Experience
 http://datascience.ibm.com/blog/deep-learning-with-data-science-experience/
 
+### Nexar’s Deep Learning Challenge: the winners reveal their secrets
+https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.orpf0nj65
+
+### Intro to Machine Learning using Tensorflow – Part 1
+https://blog.openshift.com/intro-machine-learning-using-tensorflow-part-1/
+
+### Lesson 1 in Fast.ai Deep Learning Course
+https://medium.com/@serdarozsoy/lesson-1-in-fast-ai-deep-learning-course-ccbae67fa806#.besusrc5t
+
+
+
+
+
+
+
+
 
 
 
@@ -1193,6 +1224,8 @@ https://www.re-work.co/blog/the-something-something-video-dataset
 ### Remastering Classic Films in Tensorflow with Pix2Pix
 https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.3orgtpp98
 
+### Deep learning project to transform male portraits into female and vice versa
+https://github.com/david-gpu/deep-makeover
 
 
 
@@ -1585,7 +1618,8 @@ https://roem.ru/12-01-2017/240352/google-fb-amazon-banking/
 ### У меня заплатил телефон
 http://www.kommersant.ru/doc/3164148
 
-
+### Биржевые индексы
+https://postnauka.ru/faq/72317
 
 
 
