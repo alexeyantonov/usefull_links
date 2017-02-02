@@ -1135,7 +1135,8 @@ https://blog.openshift.com/intro-machine-learning-using-tensorflow-part-1/
 ### Lesson 1 in Fast.ai Deep Learning Course
 https://medium.com/@serdarozsoy/lesson-1-in-fast-ai-deep-learning-course-ccbae67fa806#.besusrc5t
 
-
+### Implement fit_generator() in Keras
+https://medium.com/@fromtheast/implement-fit-generator-in-keras-61aa2786ce98#.f1k2o72an
 
 
 
