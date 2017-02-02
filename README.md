@@ -114,7 +114,8 @@ http://blog.kaggle.com/2017/01/12/santander-product-recommendation-competition-2
 https://boosters.pro/champ_3
 https://github.com/blan4/Tinkoff-Data-Science-Challenge
 
-
+### !!!!!
+http://www.efimov-ml.com/index.html
 
 
 
@@ -340,7 +341,8 @@ https://scikit-optimize.github.io/
 https://github.com/Microsoft/LightGBM/wiki/Experiments
 https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
 
-
+### Scraping for Craft Beers: A Dataset Creation Tutorial
+http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/
 
 
 
@@ -1227,6 +1229,20 @@ https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d5
 ### Deep learning project to transform male portraits into female and vice versa
 https://github.com/david-gpu/deep-makeover
 
+### 7 Steps to Understanding Deep Learning
+http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
+
+### Introduction to Neural Nets (Without the Brain Metaphor)
+https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0#.15l3miv9c
+
+### Время повысить ставки
+https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
+
+
+
+
+
+
 
 
 
@@ -1525,6 +1541,8 @@ https://github.com/pender/chatbot-rnn
 ### Робот-юрист оставит без работы 3 тысячи сотрудников Сбербанка
 http://www.interfax.ru/business/545109
 
+### Artificial Intelligence and Speech Recognition for Chatbots: A Primer
+http://www.kdnuggets.com/2017/01/artificial-intelligence-speech-recognition-chatbots-primer.html
 
 
 
