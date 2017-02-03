@@ -344,6 +344,16 @@ https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
 ### Scraping for Craft Beers: A Dataset Creation Tutorial
 http://blog.kaggle.com/2017/01/31/scraping-for-craft-beers-a-dataset-creation-tutorial/
 
+### !!!!! A Beginner’s Git and GitHub Tutorial
+http://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html?utm_content=buffer78dde&utm_medium=social&utm_source=twitter.com&utm_campaign=update
+
+### !!!!! Python Machine Learning: Scikit-Learn Tutorial
+https://www.datacamp.com/community/tutorials/machine-learning-python#gs.0MOa95M
+
+### Review: The best frameworks for machine learning and deep learning
+http://www.infoworld.com/article/3163525/analytics/review-the-best-frameworks-for-machine-learning-and-deep-learning.html
+
+
 
 
 
@@ -484,7 +494,8 @@ https://www.youtube.com/playlist?list=PLgKuh-lKre11IkXepFchTN0gHxN84PW65
 ### Список курсов
 http://eclass.cc/courselists/117_deep_learning
 
-
+### !!!!! introtodeeplearning
+http://introtodeeplearning.com/schedule.html
 
 
 
@@ -1138,7 +1149,8 @@ https://medium.com/@serdarozsoy/lesson-1-in-fast-ai-deep-learning-course-ccbae67
 ### Implement fit_generator() in Keras
 https://medium.com/@fromtheast/implement-fit-generator-in-keras-61aa2786ce98#.f1k2o72an
 
-
+### NanoNets : How to use Deep Learning when you have Limited Data
+https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.o0vg19jlx
 
 
 
