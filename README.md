@@ -353,7 +353,8 @@ https://www.datacamp.com/community/tutorials/machine-learning-python#gs.0MOa95M
 ### Review: The best frameworks for machine learning and deep learning
 http://www.infoworld.com/article/3163525/analytics/review-the-best-frameworks-for-machine-learning-and-deep-learning.html
 
-
+### The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"
+https://github.com/jakevdp/WhirlwindTourOfPython
 
 
 
