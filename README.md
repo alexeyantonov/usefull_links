@@ -1254,6 +1254,14 @@ https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-met
 ### Время повысить ставки
 https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
 
+### Implementation of Deep Feature Interpolation in Tensorflow using a VGG19 model
+https://github.com/slang03/dfi-tensorflow
+
+### Computerphile – two videos about deep learning
+https://theinformationageblog.wordpress.com/2017/02/03/computerphile-two-videos-about-deep-learning/
+
+### tensorflow implementation of 'YOLO : Real-Time Object Detection'
+https://github.com/gliese581gg/YOLO_tensorflow
 
 
 
