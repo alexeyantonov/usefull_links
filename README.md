@@ -1152,6 +1152,9 @@ https://medium.com/@fromtheast/implement-fit-generator-in-keras-61aa2786ce98#.f1
 ### NanoNets : How to use Deep Learning when you have Limited Data
 https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limited-data-f68c0b512cab#.o0vg19jlx
 
+### !!!!! objects detection in images
+https://deepsystems.io/en/reviews
+https://www.youtube.com/channel/UC4KD_AL4XR3dWpwrE8c0VXg/videos
 
 
 
