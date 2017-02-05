@@ -356,6 +356,10 @@ http://www.infoworld.com/article/3163525/analytics/review-the-best-frameworks-fo
 ### The Jupyter Notebooks behind my OReilly report, "A Whirlwind Tour of Python"
 https://github.com/jakevdp/WhirlwindTourOfPython
 
+### A Colorful Intro to Machine Learning
+https://suriyadeepan.github.io/4ccon/#/
+
+
 
 
 
@@ -1156,6 +1160,39 @@ https://medium.com/nanonets/nanonets-how-to-use-deep-learning-when-you-have-limi
 ### !!!!! objects detection in images
 https://deepsystems.io/en/reviews
 https://www.youtube.com/channel/UC4KD_AL4XR3dWpwrE8c0VXg/videos
+
+### Deep Learning Research Review: Natural Language Processing
+http://www.kdnuggets.com/2017/01/deep-learning-review-natural-language-processing.html?utm_content=buffer3a558&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Deep Learning for ... Chess
+http://blog.yhat.com/posts/deep-learning-chess.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
