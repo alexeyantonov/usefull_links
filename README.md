@@ -1167,9 +1167,20 @@ http://www.kdnuggets.com/2017/01/deep-learning-review-natural-language-processin
 ### Deep Learning for ... Chess
 http://blog.yhat.com/posts/deep-learning-chess.html
 
+### SimGANs: A Game Changer in Unsupervised Learning, Self Driving Cars, and More
+https://medium.com/intuitionmachine/simgans-applied-to-autonomous-driving-5a8c6676e36b#.vf8tgz5zv
 
+### !!!!! Обязательно посмотреть *@8^%&!*@8^%&!*@8^%&!*@8^%& Fundamental Deep Learning code in TFLearn, Keras, Theano and TensorFlow
+https://insights.untapt.com/fundamental-deep-learning-code-in-tflearn-keras-theano-and-tensorflow-66be10a03227#.tkj8224m9
 
+### Element AI’s Yoshua Bengio says Canada is at the forefront of the AI revolution
+http://betakit.com/element-ais-yoshua-bengio-says-canada-is-at-the-forefront-of-the-ai-revolution/
 
+### !!!!! Gentlest Intro to Tensorflow 1-4
+https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to-tensorflow-248dc871a224
+
+### !!!!! Deep Learning for Noobs [Part 1]
+https://medium.com/@debarko/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.98i2cjmxq
 
 
 
