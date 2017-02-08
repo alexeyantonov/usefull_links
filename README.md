@@ -1201,7 +1201,27 @@ https://github.com/oxford-cs-deepnlp-2017/lectures
 ### Automated Machine Learning – AI software that writes itself
 https://theinformationageblog.wordpress.com/2017/02/06/automated-machine-learning-ai-software-that-writes-itself/
 
+### Implementation of Deep Feature Interpolation in Tensorflow using a VGG19 model
+https://github.com/slang03/dfi-tensorflow
 
+### Computerphile – two videos about deep learning
+https://theinformationageblog.wordpress.com/2017/02/03/computerphile-two-videos-about-deep-learning/
+
+### tensorflow implementation of 'YOLO : Real-Time Object Detection'
+https://github.com/gliese581gg/YOLO_tensorflow
+
+### !!!!! Хороший блог
+https://jasdeep06.github.io/posts/Neural-Stacks/
+https://jasdeep06.github.io/posts/getting-started-with-tensorflow/
+https://jasdeep06.github.io/posts/variable-sharing-in-tensorflow/
+https://jasdeep06.github.io/posts/basics-of-cnns/
+https://jasdeep06.github.io/posts/towards-backpropagation/
+https://jasdeep06.github.io/posts/into-backpropagation/
+https://jasdeep06.github.io/posts/Lets-practice-backpropagation/
+https://jasdeep06.github.io/posts/further-into-backpropagation/
+
+### !!! A tensorflow implementation of faster RCNN
+https://github.com/endernewton/tf-faster-rcnn
 
 
 
@@ -1315,14 +1335,11 @@ https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-met
 ### Время повысить ставки
 https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
 
-### Implementation of Deep Feature Interpolation in Tensorflow using a VGG19 model
-https://github.com/slang03/dfi-tensorflow
 
-### Computerphile – two videos about deep learning
-https://theinformationageblog.wordpress.com/2017/02/03/computerphile-two-videos-about-deep-learning/
 
-### tensorflow implementation of 'YOLO : Real-Time Object Detection'
-https://github.com/gliese581gg/YOLO_tensorflow
+
+
+
 
 
 
