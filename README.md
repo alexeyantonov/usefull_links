@@ -359,10 +359,14 @@ https://github.com/jakevdp/WhirlwindTourOfPython
 ### A Colorful Intro to Machine Learning
 https://suriyadeepan.github.io/4ccon/#/
 
+### SciPy Cheat Sheet: Linear Algebra in Python 
+https://www.datacamp.com/community/blog/python-scipy-cheat-sheet#gs.QNE4iwI
 
+### !!!!! Overtuning hyper parameters (especially re xgboost)
+https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20662
 
-
-
+### !!!  With our powers combined! xgboost and pipelearner (it's in R)
+https://drsimonj.svbtle.com/with-our-powers-combined-xgboost-and-pipelearner
 
 
 
@@ -1182,12 +1186,20 @@ https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to
 ### !!!!! Deep Learning for Noobs [Part 1]
 https://medium.com/@debarko/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.98i2cjmxq
 
+### On the intuition behind deep learning & GANs — towards a fundamental understanding
+https://hackernoon.com/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.6aklvbu4i
 
+### !!!!! TensorFlight tutorial
+https://tensorflight.io/tutorial
 
+### Announcing TensorFlow Fold: Deep Learning With Dynamic Computation Graphs
+https://research.googleblog.com/2017/02/announcing-tensorflow-fold-deep.html
 
+### !!! Oxford Deep NLP 2017 course
+https://github.com/oxford-cs-deepnlp-2017/lectures
 
-
-
+### Automated Machine Learning – AI software that writes itself
+https://theinformationageblog.wordpress.com/2017/02/06/automated-machine-learning-ai-software-that-writes-itself/
 
 
 
@@ -1795,7 +1807,8 @@ http://dx.doi.org/10.1038/nature21056
 https://www.youtube.com/watch?v=rOc6jOrtHZg
 https://news.developer.nvidia.com/share-your-science-combating-cancer-with-deep-learning/
 
-
+### !!! 9 Artificial Intelligence Startups in Medical Imaging
+http://www.nanalyze.com/2017/02/artificial-intelligence-medical-imaging/
 
 
 
