@@ -117,7 +117,8 @@ https://github.com/blan4/Tinkoff-Data-Science-Challenge
 ### !!!!!
 http://www.efimov-ml.com/index.html
 
-
+https://github.com/alexeygrigorev/avito-page-view-prediction-boosters
+https://github.com/VasiliyRubtsov/Avito_BI_Contest
 
 
 
@@ -1223,7 +1224,24 @@ https://jasdeep06.github.io/posts/further-into-backpropagation/
 ### !!! A tensorflow implementation of faster RCNN
 https://github.com/endernewton/tf-faster-rcnn
 
+### !!! 6 Deep Learning Applications a beginner can build in minutes (using Python)
+https://www.analyticsvidhya.com/blog/2017/02/6-deep-learning-applications-beginner-python/
 
+### !!! Building a deep learning DOOM bot
+https://www.codelitt.com/blog/doom-ai/
+
+### The Two Paths from Natural Language Processing to Artificial Intelligence
+https://medium.com/intuitionmachine/the-two-paths-from-natural-language-processing-to-artificial-intelligence-d5384ddbfc18#.6i2xpeuf4
+
+### Apple’s deep learning frameworks: BNNS vs. Metal CNN
+http://machinethink.net/blog/apple-deep-learning-bnns-versus-metal-cnn/
+
+### The Gumbel-Softmax Trick for Inference of Discrete Variables
+https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html
+
+### Mail.ru Group и МФТИ научили нейросеть придумывать противораковые лекарства
+https://roem.ru/08-02-2017/242638/zdorove-mail-ru-rocks/
+https://corp.mail.ru/ru/press/releases/9870/
 
 
 
