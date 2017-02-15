@@ -369,7 +369,8 @@ https://www.kaggle.com/c/santander-customer-satisfaction/discussion/20662
 ### !!!  With our powers combined! xgboost and pipelearner (it's in R)
 https://drsimonj.svbtle.com/with-our-powers-combined-xgboost-and-pipelearner
 
-
+### SciPy Tutorial: Linear Algebra
+https://hackernoon.com/scipy-tutorial-linear-algebra-ea0809c42086#.cplhh7j86
 
 
 
@@ -1267,6 +1268,8 @@ http://blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html
 ### !!! Exploration of convnet filters to understand how convolutional neural networks see the world
 https://github.com/saikatbsk/Understanding-CNN
 
+### !!!!! TensorFlow howto: a universal approximator inside a neural net
+https://blog.metaflow.fr/tensorflow-howto-a-universal-approximator-inside-a-neural-net-bb034430b71e#.jdt9tepht
 
 
 
