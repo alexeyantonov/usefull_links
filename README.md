@@ -1151,7 +1151,7 @@ http://datascience.ibm.com/blog/deep-learning-with-data-science-experience/
 ### Nexar’s Deep Learning Challenge: the winners reveal their secrets
 https://blog.getnexar.com/nexars-deep-learning-challenge-the-winners-reveal-their-secrets-e80c24147f2d#.orpf0nj65
 
-### Intro to Machine Learning using Tensorflow – Part 1
+### !!!!! Intro to Machine Learning using Tensorflow – Part 1
 https://blog.openshift.com/intro-machine-learning-using-tensorflow-part-1/
 
 ### Lesson 1 in Fast.ai Deep Learning Course
@@ -1187,6 +1187,7 @@ https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to
 
 ### !!!!! Deep Learning for Noobs [Part 1]
 https://medium.com/@debarko/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.98i2cjmxq
+https://hackernoon.com/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.nn2l9dva4
 
 ### !!!!! Deep Learning for Noobs [Part 2]
 https://hackernoon.com/deep-learning-for-noobs-part-2-43d5098e61f6#.n197d5c88
