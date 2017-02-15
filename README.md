@@ -1188,6 +1188,9 @@ https://medium.com/all-of-us-are-belong-to-machines/the-gentlest-introduction-to
 ### !!!!! Deep Learning for Noobs [Part 1]
 https://medium.com/@debarko/supervised-deep-learning-in-image-classification-for-noobs-part-1-9f831b6d430d#.98i2cjmxq
 
+### !!!!! Deep Learning for Noobs [Part 2]
+https://hackernoon.com/deep-learning-for-noobs-part-2-43d5098e61f6#.n197d5c88
+
 ### On the intuition behind deep learning & GANs — towards a fundamental understanding
 https://hackernoon.com/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935#.6aklvbu4i
 
