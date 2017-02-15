@@ -1243,6 +1243,39 @@ https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html
 https://roem.ru/08-02-2017/242638/zdorove-mail-ru-rocks/
 https://corp.mail.ru/ru/press/releases/9870/
 
+### Four Experiments in Handwriting with a Neural Network
+http://distill.pub/2016/handwriting/
+
+### Tensorflow implementation of Wasserstein GAN
+https://github.com/shekkizh/WassersteinGAN.tensorflow
+
+### !!!!! A Neural Network based Chatbot
+https://github.com/saurabhmathur96/Neural-Chatbot
+
+### Abusing Generative Adversarial Networks to Make 8-bit Pixel Art
+https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7#.u2bop8304
+
+### Unfolding RNNs II
+http://suriyadeepan.github.io/2017-02-13-unfolding-rnn-2/
+
+### !!! Chatbots with Seq2Seq
+http://suriyadeepan.github.io/2016-06-28-easy-seq2seq/
+
+### High Quality Face Recognition with Deep Metric Learning
+http://blog.dlib.net/2017/02/high-quality-face-recognition-with-deep.html
+
+### !!! Exploration of convnet filters to understand how convolutional neural networks see the world
+https://github.com/saikatbsk/Understanding-CNN
+
+
+
+
+
+
+
+
+
+
 
 
 
