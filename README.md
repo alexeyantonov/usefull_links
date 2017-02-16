@@ -1275,7 +1275,18 @@ https://github.com/saikatbsk/Understanding-CNN
 ### !!!!! TensorFlow howto: a universal approximator inside a neural net
 https://blog.metaflow.fr/tensorflow-howto-a-universal-approximator-inside-a-neural-net-bb034430b71e#.jdt9tepht
 
+### !!!!! Нейрохакатон: классификация сигналов ЭЭГ сверточными нейросетями
+https://www.youtube.com/watch?v=T0zfD8Kf2CI
+https://openreview.net/forum?id=BJYwwY9ll&noteId=BJYwwY9ll
+https://github.com/kiselev1189/EEGClassificationMCNN
 
+### !!!!! How is PyTorch different from Tensorflow?
+https://hackernoon.com/how-is-pytorch-different-from-tensorflow-2c90f44747d6#.ypngwd54h
+http://pytorch.org/
+https://github.com/pytorch/tutorials
+
+### !!!!!*****&&&&&#####@@@@@ The most cited deep learning papers
+https://github.com/terryum/awesome-deep-learning-papers
 
 
 
