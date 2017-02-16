@@ -1288,7 +1288,13 @@ https://github.com/pytorch/tutorials
 ### !!!!!*****&&&&&#####@@@@@ The most cited deep learning papers
 https://github.com/terryum/awesome-deep-learning-papers
 
+### !!! Building Autoencoders in Keras
+https://blog.keras.io/building-autoencoders-in-keras.html
 
+### !!! YOLO9000: Better, Faster, Stronger
+https://arxiv.org/abs/1612.08242
+
+### 
 
 
 
@@ -1404,6 +1410,8 @@ https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-met
 ### Время повысить ставки
 https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
 
+### !!!!! Трансляция конференции "Машинное обучение для бизнеса"
+https://www.youtube.com/watch?v=MCMOBISx9CQ
 
 
 
