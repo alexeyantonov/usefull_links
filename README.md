@@ -508,6 +508,20 @@ http://eclass.cc/courselists/117_deep_learning
 ### !!!!! introtodeeplearning
 http://introtodeeplearning.com/schedule.html
 
+### express ml course
+https://github.com/CommanderDuck/express_ml
+
+### The Best Intro to Data Science Courses — Class Central Career Guides
+https://www.class-central.com/report/best-intro-data-science-courses/
+
+### Review of top 10 online Data Science courses
+http://bigdata-madesimple.com/review-of-top-10-online-data-science-courses/
+
+### data science harvard course (2014)
+http://cs109.github.io/2014/
+
+### !!!!!@@@@@#####$$$$$&&&&& List of all Udacity Nanodegree programs with links to the free courses in their curricula
+https://github.com/mikesprague/udacity-nanodegrees#data-analyst-nanodegree
 
 
 
@@ -1294,7 +1308,33 @@ https://blog.keras.io/building-autoencoders-in-keras.html
 ### !!! YOLO9000: Better, Faster, Stronger
 https://arxiv.org/abs/1612.08242
 
-### 
+### Remastering Classic Films in Tensorflow with Pix2Pix
+https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.3orgtpp98
+
+### Deep learning project to transform male portraits into female and vice versa
+https://github.com/david-gpu/deep-makeover
+
+### 7 Steps to Understanding Deep Learning
+http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
+
+### Introduction to Neural Nets (Without the Brain Metaphor)
+https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0#.15l3miv9c
+
+### Время повысить ставки
+https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
+
+### Introduction - 3D Convolutional Neural Network w/ Kaggle Lung Cancer Detection Competiton
+https://www.youtube.com/watch?v=ulq9DjCJPDU
+
+### !!!!! Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)
+https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.sqnutk6vp
+https://github.com/devnag/pytorch-generative-adversarial-networks
+
+### !!!!! DeepMind just published a mind blowing paper: PathNet
+https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-pathnet-f72b1ed38d46#.5dezb0n4u
+
+### Recommending music on Spotify with deep learning
+http://benanne.github.io/2014/08/05/spotify-cnns.html
 
 
 
@@ -1395,23 +1435,16 @@ https://www.ibm.com/blogs/systems/expanding-choices-for-powerai-developers-with-
 ### The "Something Something" Video Dataset
 https://www.re-work.co/blog/the-something-something-video-dataset
 
-### Remastering Classic Films in Tensorflow with Pix2Pix
-https://hackernoon.com/remastering-classic-films-in-tensorflow-with-pix2pix-f4d551fa0503#.3orgtpp98
-
-### Deep learning project to transform male portraits into female and vice versa
-https://github.com/david-gpu/deep-makeover
-
-### 7 Steps to Understanding Deep Learning
-http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html
-
-### Introduction to Neural Nets (Without the Brain Metaphor)
-https://medium.com/@mark_riedl/introduction-to-neural-nets-without-the-brain-metaphor-874e7950bca0#.15l3miv9c
-
-### Время повысить ставки
-https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
-
 ### !!!!! Трансляция конференции "Машинное обучение для бизнеса"
 https://www.youtube.com/watch?v=MCMOBISx9CQ
+
+
+
+
+
+
+
+
 
 
 
@@ -1834,6 +1867,9 @@ https://postnauka.ru/faq/72317
 
 #open data
 https://roem.ru/15-08-2016/230898/otkrytye-dannye-startap/
+
+### Как мы оценили эффективность «Фонда кино» и победили на хакатоне Министерства культуры
+https://vc.ru/p/hackaton-minkult
 
 
 
