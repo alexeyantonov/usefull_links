@@ -255,7 +255,7 @@ https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/
 
 https://github.com/jwasham/google-interview-university#machine-learning
 
-### How to Use t-SNE Effectively
+### !!!!! How to Use t-SNE Effectively
 http://distill.pub/2016/misread-tsne/
 https://www.reddit.com/r/MachineLearning/comments/57gios/project_how_to_use_tsne_effectively/
 
@@ -371,6 +371,31 @@ https://drsimonj.svbtle.com/with-our-powers-combined-xgboost-and-pipelearner
 
 ### SciPy Tutorial: Linear Algebra
 https://hackernoon.com/scipy-tutorial-linear-algebra-ea0809c42086#.cplhh7j86
+
+### !!!!! stacking and blending with...
+https://github.com/rushter/heamy
+
+### The largest geonames database of counties, regions and cities with translations.
+https://github.com/x88/i18nGeoNamesDB
+
+### !!!!! Installing XGBoost For Anaconda on Windows
+https://www.ibm.com/developerworks/community/blogs/jfp/entry/Installing_XGBoost_For_Anaconda_on_Windows?lang=ru
+
+### Особенности установки на платы с UEFI
+http://help.ubuntu.ru/wiki/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE_%D0%BF%D0%BE_ubuntu_desktop_14_04/%D0%BE%D1%81%D0%BE%D0%B1%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B8_%D0%BD%D0%B0_%D0%BF%D0%BB%D0%B0%D1%82%D1%8B_%D1%81_uefi
+
+### !!!!! Recipes for using Python's pandas library
+https://github.com/jvns/pandas-cookbook
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1336,7 +1361,9 @@ https://medium.com/@thoszymkowiak/deepmind-just-published-a-mind-blowing-paper-p
 ### Recommending music on Spotify with deep learning
 http://benanne.github.io/2014/08/05/spotify-cnns.html
 
-
+### !!!!! Generative Adversial Networks Explained & Variational Autoencoders Explained
+http://kvfrans.com/generative-adversial-networks-explained/
+http://kvfrans.com/variational-autoencoders-explained/
 
 
 
