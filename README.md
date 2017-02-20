@@ -387,9 +387,15 @@ http://help.ubuntu.ru/wiki/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%8
 ### !!!!! Recipes for using Python's pandas library
 https://github.com/jvns/pandas-cookbook
 
+### KFold
+https://gist.github.com/ld86/5acdec21fe488158139c0105d7864639
+https://gist.github.com/ld86/5acdec21fe488158139c0105d7864639#file-kfold-ipynb
 
+### !!!!! Python: категориальные признаки
+https://alexanderdyakonov.wordpress.com/2016/08/03/python-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BA%D0%B8/
 
-
+### !!!!!@@@@@ Examples and experiments around ML for upcoming Coding Train videos
+https://github.com/CodingTrain/Machine-Learning
 
 
 
@@ -1365,7 +1371,8 @@ http://benanne.github.io/2014/08/05/spotify-cnns.html
 http://kvfrans.com/generative-adversial-networks-explained/
 http://kvfrans.com/variational-autoencoders-explained/
 
-
+### !!!!! TensorFlow 1.0 is here. Let’s do some Deep Learning on the Amazon Cloud!
+https://medium.com/sigmoidal/tensorflow-1-0-is-here-lets-do-some-deep-learning-on-the-amazon-cloud-9234eab31fa5#.w5ejg1snb
 
 
 
