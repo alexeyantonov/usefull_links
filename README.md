@@ -400,6 +400,14 @@ https://alexanderdyakonov.wordpress.com/2016/08/03/python-%D0%BA%D0%B0%D1%82%D0%
 ### !!!!!@@@@@ Examples and experiments around ML for upcoming Coding Train videos
 https://github.com/CodingTrain/Machine-Learning
 
+### !!!!!@@@@@ python_hacks
+https://github.com/Dyakonov/python_hacks
+https://github.com/Dyakonov/notebooks
+
+### !!!!!@@@@@ GIT
+https://try.github.io
+
+
 
 
 
@@ -557,7 +565,8 @@ http://cs109.github.io/2014/
 ### !!!!!@@@@@#####$$$$$&&&&& List of all Udacity Nanodegree programs with links to the free courses in their curricula
 https://github.com/mikesprague/udacity-nanodegrees#data-analyst-nanodegree
 
-
+### !!!!!@@@@@ Welcome to fast.ai's 7 week course, Practical Deep Learning For Coders, Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free! 
+http://course.fast.ai/
 
 
 
@@ -1377,6 +1386,11 @@ http://kvfrans.com/variational-autoencoders-explained/
 ### !!!!! TensorFlow 1.0 is here. Let’s do some Deep Learning on the Amazon Cloud!
 https://medium.com/sigmoidal/tensorflow-1-0-is-here-lets-do-some-deep-learning-on-the-amazon-cloud-9234eab31fa5#.w5ejg1snb
 
+### !!!!! Snapshot Ensembles: Train 1, Get M for Free
+https://openreview.net/forum?id=BJYwwY9ll&noteId=BJYwwY9ll
+
+### !!! fast.ai Courses
+https://github.com/fastai/courses/tree/master/deeplearning1
 
 
 
