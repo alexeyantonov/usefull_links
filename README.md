@@ -28,6 +28,9 @@ http://www.kdnuggets.com/2016/08/data-science-beginners-video-series.html
 ### Курс языка Python и базовых алгоритмов и структур данных
 https://github.com/Yorko/python_intro
 
+### !!!!! prereq for ml course
+https://opendatascience.slack.com/archives/mlcourse_open/p1487251685000590
+
 
 
 
