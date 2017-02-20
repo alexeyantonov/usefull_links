@@ -407,6 +407,9 @@ https://github.com/Dyakonov/notebooks
 ### !!!!!@@@@@ GIT
 https://try.github.io
 
+### !!!!!@@@@@ Интересные алгоритмы кластеризации
+https://habrahabr.ru/post/321216/
+https://habrahabr.ru/post/322034/
 
 
 
@@ -1369,7 +1372,7 @@ https://nplus1.ru/material/2017/01/31/ai-beats-top-poker-players
 ### Introduction - 3D Convolutional Neural Network w/ Kaggle Lung Cancer Detection Competiton
 https://www.youtube.com/watch?v=ulq9DjCJPDU
 
-### !!!!! Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)
+### !!!!!@@@@@ (recomended by Le Cun) Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)
 https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f#.sqnutk6vp
 https://github.com/devnag/pytorch-generative-adversarial-networks
 
@@ -1389,7 +1392,7 @@ https://medium.com/sigmoidal/tensorflow-1-0-is-here-lets-do-some-deep-learning-o
 ### !!!!! Snapshot Ensembles: Train 1, Get M for Free
 https://openreview.net/forum?id=BJYwwY9ll&noteId=BJYwwY9ll
 
-### !!! fast.ai Courses
+### !!!!! fast.ai Courses (upper the link for course is :))
 https://github.com/fastai/courses/tree/master/deeplearning1
 
 
