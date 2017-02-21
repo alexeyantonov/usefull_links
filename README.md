@@ -411,6 +411,42 @@ https://try.github.io
 https://habrahabr.ru/post/321216/
 https://habrahabr.ru/post/322034/
 
+### Машинное обучение для самых маленьких
+https://proglib.io/p/the-simplest-introduction-to-machine-learning/
+
+### 40+ Python Statistics For Data Science Resources
+https://medium.com/@kacawi/40-python-statistics-for-data-science-resources-463ee4f4b90d#.gjsbzss22
+
+### !!!!! 12 библиотек для работы с данными в Python
+https://proglib.io/p/python-data/
+
+### Обзор лучших онлайн-курсов по машинному обучению
+https://proglib.io/p/ml-courses/
+
+### !!!!!@@@@@ BigData от A до Я (прочитать перед книгой)
+https://habrahabr.ru/company/dca/blog/267361/
+https://habrahabr.ru/company/dca/blog/268277/
+https://habrahabr.ru/company/dca/blog/270453/
+https://habrahabr.ru/company/dca/blog/280700/
+https://habrahabr.ru/company/dca/blog/283212/
+https://habrahabr.ru/company/dca/blog/305838/
+
+### 7 книг для начинающего специалиста по анализу данных
+https://proglib.io/p/data-science-books/
+
+### !!!!!@@@@@ Основы машинного обучения за неделю
+https://proglib.io/p/basics-of-ml/
+
+### 10 лучших видео об анализе данных на YouTube
+https://proglib.io/p/10-data-science-videos/
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python
+https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+
+
+
+
+
 
 
 
@@ -570,6 +606,14 @@ https://github.com/mikesprague/udacity-nanodegrees#data-analyst-nanodegree
 
 ### !!!!!@@@@@ Welcome to fast.ai's 7 week course, Practical Deep Learning For Coders, Part 1, taught by Jeremy Howard (Kaggle's #1 competitor 2 years running, and founder of Enlitic). Learn how to build state of the art models without needing graduate-level math—but also without dumbing anything down. Oh and one other thing... it's totally free! 
 http://course.fast.ai/
+
+### Библиотека программиста - Видеолекции и видеоуроки
+https://vk.com/page-54530371_48968741
+
+
+
+
+
 
 
 
