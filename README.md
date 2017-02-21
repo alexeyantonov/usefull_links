@@ -443,7 +443,8 @@ https://proglib.io/p/10-data-science-videos/
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python
 https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** Базовые принципы машинного обучения на примере линейной регрессии (охуенная статья)
+https://habrahabr.ru/company/ods/blog/322076/
 
 
 
@@ -1439,6 +1440,9 @@ https://openreview.net/forum?id=BJYwwY9ll&noteId=BJYwwY9ll
 ### !!!!! fast.ai Courses (upper the link for course is :))
 https://github.com/fastai/courses/tree/master/deeplearning1
 
+### !!!!! High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis
+https://arxiv.org/abs/1611.09969
+https://github.com/leehomyc/High-Res-Neural-Inpainting
 
 
 
@@ -1949,7 +1953,8 @@ http://www.kommersant.ru/doc/3164148
 ### Биржевые индексы
 https://postnauka.ru/faq/72317
 
-
+### Как привлечь инвестиции через внутреннюю валюту
+https://roem.ru/21-02-2017/243459/waves-cats/
 
 
 
