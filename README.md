@@ -440,15 +440,21 @@ https://proglib.io/p/basics-of-ml/
 ### 10 лучших видео об анализе данных на YouTube
 https://proglib.io/p/10-data-science-videos/
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python <-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
 https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+https://www.kaggle.com/sinakhorami/titanic/titanic-best-working-classifier
+https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** Базовые принципы машинного обучения на примере линейной регрессии (охуенная статья)
 https://habrahabr.ru/company/ods/blog/322076/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** parseing and data analysis
+https://github.com/alexanderkuk
+https://github.com/alexanderkuk/analyze-ods
+https://github.com/alexanderkuk/analyze-hh-resume
 
-
-
+### !!! Серия видеоуроков по Git для новичков
+https://habrahabr.ru/post/322424/
 
 
 
@@ -1444,7 +1450,8 @@ https://github.com/fastai/courses/tree/master/deeplearning1
 https://arxiv.org/abs/1611.09969
 https://github.com/leehomyc/High-Res-Neural-Inpainting
 
-
+### !!!!! Нейронные сети: практическое применение <-<-<-<-<-
+https://habrahabr.ru/post/322392/
 
 
 
@@ -1539,6 +1546,22 @@ https://www.re-work.co/blog/the-something-something-video-dataset
 
 ### !!!!! Трансляция конференции "Машинное обучение для бизнеса"
 https://www.youtube.com/watch?v=MCMOBISx9CQ
+
+### Semantic Question Matching with Deep Learning
+https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
+
+### !!!!! How to train Baidu's Deepspeech model with Kur
+http://blog.deepgram.com/how-to-train-baidus-deepspeech-model-with-kur/
+
+### This demo shows how to learn a neural network on top of decision trees
+https://github.com/nenadmarkus/nets-and-trees
+
+### Char2Wav: End-to-End Speech Synthesis
+http://josesotelo.com/speechsynthesis/
+
+
+
+
 
 
 
