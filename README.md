@@ -318,10 +318,6 @@ http://stanford.edu/~boyd/papers/cvx_short_course.html
 ### Using Anaconda and H2O to Supercharge your Machine Learning and Predictive Analytics
 https://www.continuum.io/blog/developer-blog/using-anaconda-h2o-supercharge-machine-learning-predictive-analytics
 
-### !!! стекинг stacking
-http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
-https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
-
 ### lightgbm
 https://github.com/Microsoft/LightGBM/wiki/Features#optimization-in-accuracy
 
@@ -374,9 +370,6 @@ https://drsimonj.svbtle.com/with-our-powers-combined-xgboost-and-pipelearner
 
 ### SciPy Tutorial: Linear Algebra
 https://hackernoon.com/scipy-tutorial-linear-algebra-ea0809c42086#.cplhh7j86
-
-### !!!!! stacking and blending with...
-https://github.com/rushter/heamy
 
 ### The largest geonames database of counties, regions and cities with translations.
 https://github.com/x88/i18nGeoNamesDB
@@ -440,11 +433,6 @@ https://proglib.io/p/basics-of-ml/
 ### 10 лучших видео об анализе данных на YouTube
 https://proglib.io/p/10-data-science-videos/
 
-### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python <-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
-https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
-https://www.kaggle.com/sinakhorami/titanic/titanic-best-working-classifier
-https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
-
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** Базовые принципы машинного обучения на примере линейной регрессии (охуенная статья)
 https://habrahabr.ru/company/ods/blog/322076/
 
@@ -471,13 +459,45 @@ https://habrahabr.ru/post/322424/
 
 
 
+
+# Stacking
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** /introduction-to-ensembling-stacking-in-python <-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-<-
+https://www.kaggle.com/arthurtok/titanic/introduction-to-ensembling-stacking-in-python
+https://www.kaggle.com/sinakhorami/titanic/titanic-best-working-classifier
+https://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+
+### !!!!! stacking and blending with...
+https://github.com/rushter/heamy
+
+### !!! стекинг stacking
+http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
+https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
+http://online.stanford.edu/course/statistical-learning-self-paced
+http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
 https://www.reddit.com/r/MachineLearning/comments/52ug8o/i_just_open_source_my_implementation_of_famous/ # solutions in python for Ng course
-
-http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
 ### Отличный курс, я с него начинал
 https://www.coursera.org/course/econometrics
