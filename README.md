@@ -31,7 +31,8 @@ https://github.com/Yorko/python_intro
 ### !!!!! prereq for ml course
 https://opendatascience.slack.com/archives/mlcourse_open/p1487251685000590
 
-
+### !!!!! Книги
+https://yadi.sk/d/UG22a-9n3EDDsn
 
 
 
@@ -123,6 +124,8 @@ http://www.efimov-ml.com/index.html
 https://github.com/alexeygrigorev/avito-page-view-prediction-boosters
 https://github.com/VasiliyRubtsov/Avito_BI_Contest
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** <- <-<- <-<- <-<- <-<- <-
+https://github.com/HFTrader/awesome-machine-learning#python-kaggle
 
 
 
@@ -444,7 +447,14 @@ https://github.com/alexanderkuk/analyze-hh-resume
 ### !!! Серия видеоуроков по Git для новичков
 https://habrahabr.ru/post/322424/
 
+### !!! Коллаборативная фильтрация
+http://glebmikhaylov.com/%d0%ba%d0%be%d0%bb%d0%bb%d0%b0%d0%b1%d0%be%d1%80%d0%b0%d1%82%d0%b8%d0%b2%d0%bd%d0%b0%d1%8f-%d1%84%d0%b8%d0%bb%d1%8c%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f/
 
+### !!!!!
+http://pavelnesterov.info/bfumlcourse/lecture6%20-%20reg.pdf
+
+### Как «пробить» человека в Интернет: используем операторы Google и логику
+https://habrahabr.ru/company/echelon/blog/321754/
 
 
 
@@ -637,7 +647,8 @@ http://course.fast.ai/
 ### Библиотека программиста - Видеолекции и видеоуроки
 https://vk.com/page-54530371_48968741
 
-
+### Machine Learning at the Kazan Federal University, 2014
+http://logic.pdmi.ras.ru/~sergey/teaching/mlkfu2014.html
 
 
 
@@ -1473,9 +1484,11 @@ https://github.com/leehomyc/High-Res-Neural-Inpainting
 ### !!!!! Нейронные сети: практическое применение <-<-<-<-<-
 https://habrahabr.ru/post/322392/
 
+### !!!!! MIT Deep Learning Book in PDF format (lots of other books)
+https://github.com/HFTrader/DeepLearningBook
 
-
-
+### !!!!! Нейронные сети в картинках: от одного нейрона до глубоких архитектур (стоит почитать, approximation theory)
+https://habrahabr.ru/post/322438/
 
 
 
