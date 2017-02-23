@@ -127,7 +127,8 @@ https://github.com/VasiliyRubtsov/Avito_BI_Contest
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** <- <-<- <-<- <-<- <-<- <-
 https://github.com/HFTrader/awesome-machine-learning#python-kaggle
 
-
+### Santander Product Recommendation Competition: 3rd Place Winner's Interview, Ryuji Sakata
+http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/
 
 
 
@@ -456,8 +457,14 @@ http://pavelnesterov.info/bfumlcourse/lecture6%20-%20reg.pdf
 ### Как «пробить» человека в Интернет: используем операторы Google и логику
 https://habrahabr.ru/company/echelon/blog/321754/
 
+### !!!!! Matplotlib Tutorial: Python Plotting
+https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python#gs.WW_sqYs
 
+### !!!!! Python Numpy Array Tutorial
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.5eMsxGQ
 
+### A Tour of Machine Learning Algorithms
+http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
 
 
@@ -1490,7 +1497,11 @@ https://github.com/HFTrader/DeepLearningBook
 ### !!!!! Нейронные сети в картинках: от одного нейрона до глубоких архитектур (стоит почитать, approximation theory)
 https://habrahabr.ru/post/322438/
 
+### !!!!! Attacking machine learning with adversarial examples
+https://openai.com/blog/adversarial-example-research/
 
+### !!!!! Infographic: Best Practices for Training Deep Learning Networks
+https://www.linkedin.com/pulse/infographic-best-practices-training-deep-learning-networks-perez
 
 
 
