@@ -466,8 +466,28 @@ https://www.datacamp.com/community/tutorials/python-numpy-tutorial#gs.5eMsxGQ
 ### A Tour of Machine Learning Algorithms
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 
+### !!!!! How to Save an ARIMA Time Series Forecasting Model in Python
+http://machinelearningmastery.com/save-arima-time-series-forecasting-model-python/
+
+### Облачное ценообразование: AWS vs Azure vs Google vs Cloud4Y 
+https://habrahabr.ru/company/cloud4y/blog/318132/
+
+### !!!!! Будут ли data scientist’ы в ближайшее время заменены автоматизированными алгоритмами и искусственным интеллектом?
+https://habrahabr.ru/company/npl/blog/322414/
+
+### Как вывести бизнес в онлайн и не разориться: дайджест полезных материалов для начинающих
+https://habrahabr.ru/post/322426/
 
 
+
+
+
+
+
+# AUTO ML
+### !!!!! auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
+https://github.com/automl/auto-sklearn
+http://www.ml4aad.org/
 
 
 
@@ -1502,6 +1522,28 @@ https://openai.com/blog/adversarial-example-research/
 
 ### !!!!! Infographic: Best Practices for Training Deep Learning Networks
 https://www.linkedin.com/pulse/infographic-best-practices-training-deep-learning-networks-perez
+
+### AI learns to write its own code by stealing from other programs
+https://www.newscientist.com/article/mg23331144-500-ai-learns-to-write-its-own-code-by-stealing-from-other-programs/
+
+### Эвристическая сеть — аналог рекуррентной нейронной сети для программы чат бот
+https://habrahabr.ru/post/322346/
+
+### Обучение с подкреплением: от Павлова до игровых автоматов
+https://habrahabr.ru/post/322404/
+
+### !!!!! Нейронные сети в картинках: от одного нейрона до глубоких архитектур
+https://habrahabr.ru/post/322438/
+
+### 
+
+
+
+
+
+
+
+
 
 
 
