@@ -478,6 +478,18 @@ https://habrahabr.ru/company/npl/blog/322414/
 ### Как вывести бизнес в онлайн и не разориться: дайджест полезных материалов для начинающих
 https://habrahabr.ru/post/322426/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** Онлайн курсы и ШАД
+https://pokrovka11.wordpress.com/2016/10/19/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D1%83%D1%80%D1%81%D1%8B-%D0%B8-%D1%88%D0%B0%D0%B4/
+
+### !!!!! Forecasting: principles and practice
+https://www.otexts.org/book/fpp
+
+
+
+
+
+
+
 
 
 
@@ -1535,7 +1547,21 @@ https://habrahabr.ru/post/322404/
 ### !!!!! Нейронные сети в картинках: от одного нейрона до глубоких архитектур
 https://habrahabr.ru/post/322438/
 
-### 
+### !!! Understanding LSTM Networks
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+### !!!!! Object Detection in Videos with Tubelet Proposal Networks
+https://arxiv.org/abs/1702.06355
+
+### Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing
+http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP199.pdf
+
+### !!! The Anatomy of Deep Learning Frameworks
+http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html
+
+### Deep Learning with Elixir: Building and Training a Multi-Layered Neural Network
+http://www.automatingthefuture.com/blog/2017/2/20/deep-learning-building-and-training-a-multi-layered-neural-network-in-elixir
+
 
 
 
@@ -1855,6 +1881,11 @@ https://kushalagrawal.com/blog/big-data/
 
 ### 140 Machine Learning Formulas
 http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas
+
+### «Современный ребенок уже может сказать: „Я хочу анализировать данные“» Эксперт по стратегическим инициативам Microsoft Александр Белоцерковецкий — о развитии искусственного интеллекта
+https://meduza.io/feature/2017/02/24/sovremennyy-rebenok-uzhe-mozhet-skazat-ya-hochu-analizirovat-dannye
+
+
 
 
 
