@@ -497,6 +497,10 @@ http://drsfenner.org/blog/2015/04/pushing-ipython-notebooks-to-wordpress-3/
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** Top Hadoop Interview Questions And Answers
 https://intellipaat.com/interview-question/big-data-hadoop-interview-questions/?utm_source=fb&utm_campaign=25-2-2017-big-data-hadoop-interview-questions&utm_medium=posting
 
+### !!!!! docker
+http://rus-linux.net/MyLDP/vm/docker/docker-tutorial.html
+http://xgu.ru/wiki/Docker
+https://habrahabr.ru/post/310460/
 
 
 
