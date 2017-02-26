@@ -130,6 +130,19 @@ https://github.com/HFTrader/awesome-machine-learning#python-kaggle
 ### Santander Product Recommendation Competition: 3rd Place Winner's Interview, Ryuji Sakata
 http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3rd-place-winners-interview-ryuji-sakata/
 
+### !!!!!@@@@@&&&&& Отчёт со Sberbank Data Science Day: решения, победители, интервью
+https://habrahabr.ru/article/318160/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -502,6 +515,12 @@ http://rus-linux.net/MyLDP/vm/docker/docker-tutorial.html
 http://xgu.ru/wiki/Docker
 https://habrahabr.ru/post/310460/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& Решение задачи бинарной классификации в пакете машинного обучения «XGboost»
+https://habrahabr.ru/company/infopulse/blog/307150/
+
+### как фрейм перевернуть по вертикали
+http://stackoverflow.com/questions/20444087/right-way-to-reverse-pandas-dataframe
+
 
 
 
@@ -535,6 +554,7 @@ https://github.com/rushter/heamy
 ### !!! стекинг stacking
 http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
+https://github.com/viisar/brew
 
 
 
@@ -1576,6 +1596,8 @@ http://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html
 ### Deep Learning with Elixir: Building and Training a Multi-Layered Neural Network
 http://www.automatingthefuture.com/blog/2017/2/20/deep-learning-building-and-training-a-multi-layered-neural-network-in-elixir
 
+### Object detection using AZ-Net
+https://github.com/luyongxi/az-net
 
 
 
@@ -1603,12 +1625,16 @@ http://www.automatingthefuture.com/blog/2017/2/20/deep-learning-building-and-tra
 
 
 # Блоги // разные ресурсы
+### !!!!!
 https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 
+### !!!!!
 https://alexanderdyakonov.wordpress.com/
 
+### !!!!!
 https://github.com/diefimov
 
+### !!!!!
 https://github.com/cs231n/cs231n.github.io
 
 https://github.com/gereleth/kaggle-telstra
@@ -1899,8 +1925,8 @@ http://www.datasciencecentral.com/profiles/blogs/140-machine-learning-formulas
 ### «Современный ребенок уже может сказать: „Я хочу анализировать данные“» Эксперт по стратегическим инициативам Microsoft Александр Белоцерковецкий — о развитии искусственного интеллекта
 https://meduza.io/feature/2017/02/24/sovremennyy-rebenok-uzhe-mozhet-skazat-ya-hochu-analizirovat-dannye
 
-
-
+### From Data to Intelligence - Кратчайший путь от изображений до обучающих выборок в формате популярных Deep Learning фреймворков.
+http://supervise.ly/
 
 
 
