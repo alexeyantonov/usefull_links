@@ -484,8 +484,18 @@ https://pokrovka11.wordpress.com/2016/10/19/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD
 ### !!!!! Forecasting: principles and practice
 https://www.otexts.org/book/fpp
 
+### Beginner's Guide to Customer Segmentation
+http://blog.yhat.com/posts/customer-segmentation-python-rodeo.html
 
+### Notes on Data Science, Machine Learning, & Artificial Intelligence
+http://chrisalbon.com/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** ipython @ wordpress
+http://www.mianchen.com/wordpress-blogging-with-jupyter-notebook-in-five-simple-steps/
+http://drsfenner.org/blog/2015/04/pushing-ipython-notebooks-to-wordpress-3/
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** Top Hadoop Interview Questions And Answers
+https://intellipaat.com/interview-question/big-data-hadoop-interview-questions/?utm_source=fb&utm_campaign=25-2-2017-big-data-hadoop-interview-questions&utm_medium=posting
 
 
 
@@ -2182,6 +2192,11 @@ https://news.developer.nvidia.com/share-your-science-combating-cancer-with-deep-
 
 ### !!! 9 Artificial Intelligence Startups in Medical Imaging
 http://www.nanalyze.com/2017/02/artificial-intelligence-medical-imaging/
+
+### Voice Analysis Tech Could Diagnose Disease
+https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-disease/
+
+
 
 
 
