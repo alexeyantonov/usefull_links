@@ -34,6 +34,11 @@ https://opendatascience.slack.com/archives/mlcourse_open/p1487251685000590
 ### !!!!! Книги
 https://yadi.sk/d/UG22a-9n3EDDsn
 
+### !!!!! Bare bones Python implementations of some of the foundational Machine Learning models and algorithms.
+https://github.com/eriklindernoren/ML-From-Scratch
+### !!!!! Minimal and clean examples of machine learning algorithms
+https://github.com/rushter/MLAlgorithms
+
 
 
 
@@ -541,8 +546,8 @@ https://gist.github.com/ld86/5dc034c844f80d714d14ee519cf98132
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** An Introduction to Variable and Feature Selection
 http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf
 
-
-
+### How to Create a Linux Virtual Machine For Machine Learning Development With Python 3
+http://machinelearningmastery.com/linux-virtual-machine-machine-learning-development-python-3/
 
 
 
@@ -1624,7 +1629,14 @@ http://www.automatingthefuture.com/blog/2017/2/20/deep-learning-building-and-tra
 ### Object detection using AZ-Net
 https://github.com/luyongxi/az-net
 
+### !!!!!@@@@@$$$$$ Read-through: Wasserstein GAN
+http://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 
+### Understanding, generalisation, and transfer learning in deep neural networks
+https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/
+
+### !!! A curated list of object proposals resources for object detection
+https://github.com/caocuong0306/awesome-object-proposals
 
 
 
