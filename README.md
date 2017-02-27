@@ -521,6 +521,31 @@ https://habrahabr.ru/company/infopulse/blog/307150/
 ### как фрейм перевернуть по вертикали
 http://stackoverflow.com/questions/20444087/right-way-to-reverse-pandas-dataframe
 
+### !!! Classical equations and diagrams in machine learning http://soulmachine.me
+https://github.com/soulmachine/machine-learning-cheat-sheet
+
+### !!!!! Рекомендательные системы: теорема Байеса и наивный байесовский классификатор
+https://habrahabr.ru/company/surfingbird/blog/150207/
+
+### Building Simple Recommender Systems for Elasticsearch
+https://qbox.io/blog/building-simple-recommender-systems-for-elasticsearch-1
+
+### !!!!! интересная группировка
+### Вопрос: коллеги, есть ли в pandas простой способ сделать из
+### | x | a | b |
+### | x | c | d |
+### | x | e | f |
+### | x | a | b | c | d | e | f
+https://gist.github.com/ld86/5dc034c844f80d714d14ee519cf98132
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** An Introduction to Variable and Feature Selection
+http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf
+
+
+
+
+
+
 
 
 
