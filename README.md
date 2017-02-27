@@ -2161,7 +2161,8 @@ https://postnauka.ru/faq/72317
 ### Как привлечь инвестиции через внутреннюю валюту
 https://roem.ru/21-02-2017/243459/waves-cats/
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&& Как изменить центр конвертации в Paypal аккаунте
+https://www.vxzone.com/payment/paypal/262-paypal-conversion.html
 
 
 
