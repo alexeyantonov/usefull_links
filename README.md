@@ -761,8 +761,8 @@ http://wiki.cs.hse.ru/%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0
 ### !!!!! Introduction to Data Science in Python
 https://www.coursera.org/learn/python-data-analysis/home/welcome
 
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** Learning from data
+http://work.caltech.edu/lectures.html
 
 
 
@@ -1655,7 +1655,8 @@ https://github.com/caocuong0306/awesome-object-proposals
 ### !!!!! Infrastructure for Deep Learning
 https://openai.com/blog/infrastructure-for-deep-learning/
 
-
+### !!!!!@@@@@$$$$$ PyTorch quick start: Classifying an image
+http://blog.outcome.io/pytorch-quick-start-classifying-an-image/
 
 
 
