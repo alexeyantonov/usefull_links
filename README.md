@@ -764,9 +764,12 @@ https://www.coursera.org/learn/python-data-analysis/home/welcome
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** Learning from data
 http://work.caltech.edu/lectures.html
 
+### !!! TensorFlow Basic Tutorial Labs
+https://www.youtube.com/user/hunkims
+https://github.com/hunkim/DeepLearningZeroToAll
 
-
-
+### !!!!!@@@@@$$$$$%%%%%&&&&&***** ODS course
+https://habrahabr.ru/company/ods/blog/322626/
 
 
 
@@ -1981,7 +1984,8 @@ https://meduza.io/feature/2017/02/24/sovremennyy-rebenok-uzhe-mozhet-skazat-ya-h
 ### From Data to Intelligence - Кратчайший путь от изображений до обучающих выборок в формате популярных Deep Learning фреймворков.
 http://supervise.ly/
 
-
+### !!!!! Машинное обучение для бизнеса
+https://events.yandex.ru/events/b-konf/16-feb-2017/
 
 
 
