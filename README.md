@@ -1638,7 +1638,8 @@ https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-le
 ### !!! A curated list of object proposals resources for object detection
 https://github.com/caocuong0306/awesome-object-proposals
 
-
+### !!!!! Infrastructure for Deep Learning
+https://openai.com/blog/infrastructure-for-deep-learning/
 
 
 
