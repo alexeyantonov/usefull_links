@@ -529,7 +529,7 @@ http://stackoverflow.com/questions/20444087/right-way-to-reverse-pandas-datafram
 ### !!! Classical equations and diagrams in machine learning http://soulmachine.me
 https://github.com/soulmachine/machine-learning-cheat-sheet
 
-### !!!!! Рекомендательные системы: теорема Байеса и наивный байесовский классификатор
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&***** Рекомендательные системы: теорема Байеса и наивный байесовский классификатор (замечательнейшее объяснение наивного Байеса)
 https://habrahabr.ru/company/surfingbird/blog/150207/
 
 ### Building Simple Recommender Systems for Elasticsearch
