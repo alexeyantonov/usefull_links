@@ -549,6 +549,21 @@ http://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf
 ### How to Create a Linux Virtual Machine For Machine Learning Development With Python 3
 http://machinelearningmastery.com/linux-virtual-machine-machine-learning-development-python-3/
 
+### !!!!!@@@@@$$$$$ Model evaluation, model selection, and algorithm selection in machine learning
+https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
+
+### !!!!! 10 Minutes to pandas
+http://pandas.pydata.org/pandas-docs/stable/10min.html
+
+### !!!!! How to start a Data Science project in Python
+https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python
+
+
+
+
+
+
+
 
 
 
@@ -1661,7 +1676,8 @@ https://openai.com/blog/infrastructure-for-deep-learning/
 ### !!!!!@@@@@$$$$$ PyTorch quick start: Classifying an image
 http://blog.outcome.io/pytorch-quick-start-classifying-an-image/
 
-
+### !!!!! Variational Inference using Implicit Models
+http://www.inference.vc/variational-inference-using-implicit-models/
 
 
 
@@ -2284,6 +2300,8 @@ http://www.nanalyze.com/2017/02/artificial-intelligence-medical-imaging/
 ### Voice Analysis Tech Could Diagnose Disease
 https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-disease/
 
+### Ради «Здоровья» «Яндекс» придумал, как обойти закон
+https://roem.ru/01-03-2017/243922/vzdorodye/
 
 
 
