@@ -558,6 +558,16 @@ http://pandas.pydata.org/pandas-docs/stable/10min.html
 ### !!!!! How to start a Data Science project in Python
 https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python
 
+### !!!!! Belief propagation using pgmpy lib - algorithm understanding
+http://stats.stackexchange.com/questions/240878/belief-propagation-using-pgmpy-lib-algorithm-understanding
+
+
+
+
+
+
+
+
 
 
 
@@ -785,6 +795,16 @@ https://github.com/hunkim/DeepLearningZeroToAll
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&&***** ODS course
 https://habrahabr.ru/company/ods/blog/322626/
+
+### !!!!! Графические модели
+http://www.machinelearning.ru/wiki/index.php?title=%D0%93%D0%9C
+
+### !!!!! UC Berkeley CS188 Intro to AI -- Course Materials (Я смотрел в таком порядке лекции 12, 16, 17, 18, 19, 20, 21, 13, 14, 15)
+http://ai.berkeley.edu/lecture_videos.html
+
+
+
+
 
 
 
