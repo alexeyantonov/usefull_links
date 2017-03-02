@@ -632,13 +632,16 @@ https://github.com/viisar/brew
 # Курсы
 ### Начало начал
 https://www.coursera.org/learn/machine-learning
+https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/courseware/995220423fd14a4588d8e47920f1b5df/99faa3a82fca4fc19adc577ce9f75afd/
 http://online.stanford.edu/course/statistical-learning-self-paced
 http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/
 
-https://www.reddit.com/r/MachineLearning/comments/52ug8o/i_just_open_source_my_implementation_of_famous/ # solutions in python for Ng course
+### solutions in python for Ng course
+https://www.reddit.com/r/MachineLearning/comments/52ug8o/i_just_open_source_my_implementation_of_famous/ 
 
-### Отличный курс, я с него начинал
+### Отличный курс, я с него начинал (эконометрика, вшэ)
 https://www.coursera.org/course/econometrics
+https://www.youtube.com/playlist?list=PLu5flfwrnSD5d02G9YJcDv30Fp5_70-sI
 
 ### специализация яндекса
 https://www.coursera.org/specializations/machine-learning-data-analysis
