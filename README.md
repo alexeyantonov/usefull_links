@@ -570,7 +570,8 @@ http://stats.stackexchange.com/questions/240878/belief-propagation-using-pgmpy-l
 ### !!!!! How do I become a data scientist without a PhD?
 https://www.quora.com/Data-Science/How-do-I-become-a-data-scientist-without-a-PhD
 
-
+### !!!!!@@@@@$$$$$ visual intro to prob and stat
+http://students.brown.edu/seeing-theory/
 
 
 
@@ -823,7 +824,8 @@ http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
 https://www.youtube.com/watch?v=2pWv7GOvuf0
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&& CS 20SI: Tensorflow for Deep Learning Research
+http://web.stanford.edu/class/cs20si/syllabus.html
 
 
 
@@ -2419,7 +2421,8 @@ https://www.technologyreview.com/s/603200/voice-analysis-tech-could-diagnose-dis
 ### Ради «Здоровья» «Яндекс» придумал, как обойти закон
 https://roem.ru/01-03-2017/243922/vzdorodye/
 
-
+### !!!!!@@@@@ Assisting Pathologists in Detecting Cancer with Deep Learning
+https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html?m=1
 
 
 
