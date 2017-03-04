@@ -819,6 +819,9 @@ http://ai.berkeley.edu/lecture_videos.html
 ### !!!!! Univariate Distribution Relationships
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& UCL Course on RL
+http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html
+https://www.youtube.com/watch?v=2pWv7GOvuf0
 
 
 
@@ -1875,6 +1878,9 @@ http://josesotelo.com/speechsynthesis/
 
 
 # Просто ссылки
+### !!!!!@@@@@ хорошие ссылки
+https://docs.google.com/spreadsheets/d/1dXghGL0hH6gs3H9Km7zhOpk9MWufRJ_bSrFw0NLaRuo/edit#gid=0
+
 http://blog.kaggle.com/2016/09/13/what-were-reading-data-science-resources/ # !
 
 http://opendatascience.ru/
