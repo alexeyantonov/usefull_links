@@ -138,8 +138,14 @@ http://blog.kaggle.com/2017/02/22/santander-product-recommendation-competition-3
 ### !!!!!@@@@@&&&&& Отчёт со Sberbank Data Science Day: решения, победители, интервью
 https://habrahabr.ru/article/318160/
 
+### !!!!! Data Science Bowl 2017 baseline
+https://www.kaggle.com/drn01z3/data-science-bowl-2017/mxnet-xgboost-baseline-lb-0-57
 
+### !!!!!
+https://github.com/CapitanKK/tinkoff-challenge-2
 
+### Allstate Claims Severity Competition, 2nd Place Winner's Interview: Alexey Noskov
+http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place-winners-interview-alexey-noskov/
 
 
 
@@ -561,7 +567,8 @@ https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python
 ### !!!!! Belief propagation using pgmpy lib - algorithm understanding
 http://stats.stackexchange.com/questions/240878/belief-propagation-using-pgmpy-lib-algorithm-understanding
 
-
+### !!!!! How do I become a data scientist without a PhD?
+https://www.quora.com/Data-Science/How-do-I-become-a-data-scientist-without-a-PhD
 
 
 
@@ -611,6 +618,10 @@ http://rasbt.github.io/mlxtend/user_guide/classifier/StackingClassifier/
 https://files.slack.com/files-pri/T040HKJE3-F36JCH71P/stackingetc.ipynb
 https://github.com/viisar/brew
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& Using Ensembles in Kaggle Data Science Competitions
+http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p1.html
+http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p2.html
+http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
 
 
 
@@ -804,6 +815,13 @@ http://www.machinelearning.ru/wiki/index.php?title=%D0%93%D0%9C
 
 ### !!!!! UC Berkeley CS188 Intro to AI -- Course Materials (Я смотрел в таком порядке лекции 12, 16, 17, 18, 19, 20, 21, 13, 14, 15)
 http://ai.berkeley.edu/lecture_videos.html
+
+### !!!!! Univariate Distribution Relationships
+http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+
+
+
+
 
 
 
@@ -1702,6 +1720,24 @@ http://blog.outcome.io/pytorch-quick-start-classifying-an-image/
 ### !!!!! Variational Inference using Implicit Models
 http://www.inference.vc/variational-inference-using-implicit-models/
 
+### !!!!! Deep Residual Learning for Image Recognition
+https://arxiv.org/pdf/1512.03385.pdf
+
+### !!!!! U-Net: Convolutional Networks for Biomedical Image Segmentation
+https://arxiv.org/pdf/1505.04597.pdf
+
+### Deep Learning in Python: Getting Started
+http://www.analyticbridge.com/profiles/blogs/a-complete-guide-on-getting-started-with-deep-learning-in-python?utm_content=buffer29d8d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### !!!!!@@@@@ Xception: Deep Learning with Depthwise Separable Convolutions
+https://arxiv.org/abs/1610.02357
+
+### !!!!!@@@@@ Deep Reinforcement Learning: An Overview
+https://arxiv.org/abs/1701.07274?utm_content=bufferf7932&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+
+
+
 
 
 
@@ -2026,6 +2062,49 @@ http://supervise.ly/
 ### !!!!! Машинное обучение для бизнеса
 https://events.yandex.ru/events/b-konf/16-feb-2017/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& fasttext
+https://github.com/facebookresearch/fastText
+
+### !!!!!@@@@@$$$$$%%%%%&&&&& NASA открыло свободный доступ к своему программному обеспечению
+https://geektimes.ru/post/286524/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2234,6 +2313,14 @@ https://roem.ru/21-02-2017/243459/waves-cats/
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&& Как изменить центр конвертации в Paypal аккаунте
 https://www.vxzone.com/payment/paypal/262-paypal-conversion.html
+
+### Как мы делали первую сделку-аккредитив на блокчейн в Альфа-Банке
+https://habrahabr.ru/company/alfa/blog/323070/
+
+### Объяснение блокчейна для веб-разработчиков
+https://habrahabr.ru/post/323128/
+
+
 
 
 
