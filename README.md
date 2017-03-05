@@ -2328,7 +2328,20 @@ https://habrahabr.ru/company/alfa/blog/323070/
 ### Объяснение блокчейна для веб-разработчиков
 https://habrahabr.ru/post/323128/
 
+### !!!!! список профильных (fintech) европейских фондов, показавших высокую активность за последние несколько лет. Если кто-то собирается запускаться в Европе,вам в один из них.
+https://www.facebook.com/photo.php?fbid=1255042427919388&set=a.134522653304710.30762.100002409285143&type=3&theater
 
+### ФРИИ запускает акселератор для FINTECH проектов
+https://www.facebook.com/photo.php?fbid=1254707594619538&set=a.134522653304710.30762.100002409285143&type=3&theater
+
+### !!!!! Нью-Йоркские финтех стартапы за 2016
+https://www.facebook.com/photo.php?fbid=1248567801900184&set=a.134522653304710.30762.100002409285143&type=3&theater
+
+### china fintech
+https://www.facebook.com/photo.php?fbid=1197495143674117&set=a.134522653304710.30762.100002409285143&type=3&theater
+
+### xpay
+https://www.facebook.com/photo.php?fbid=1058611267562506&set=a.134522653304710.30762.100002409285143&type=3&theater
 
 
 
@@ -2423,6 +2436,26 @@ https://roem.ru/01-03-2017/243922/vzdorodye/
 
 ### !!!!!@@@@@ Assisting Pathologists in Detecting Cancer with Deep Learning
 https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html?m=1
+
+### !!!!! Компания "Доктор на работе" разработала телемедицинскую платформу, с помощью которой пациенты могут получить удаленную медицинскую помощь.
+http://telemedicine.doktornarabote.ru/presentation?frommain=1
+https://files.doktornarabote.ru/customers/telemedicine/telemedicine_for_site.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
