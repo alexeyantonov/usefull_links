@@ -573,6 +573,11 @@ https://www.quora.com/Data-Science/How-do-I-become-a-data-scientist-without-a-Ph
 ### !!!!!@@@@@$$$$$ visual intro to prob and stat
 http://students.brown.edu/seeing-theory/
 
+### !!!!!@@@@@ Электронный учебник-пособие по научной графике в python
+https://github.com/whitehorn/Scientific_graphics_in_python
+
+
+
 
 
 
@@ -827,7 +832,8 @@ https://www.youtube.com/watch?v=2pWv7GOvuf0
 ### !!!!!@@@@@$$$$$%%%%%&&&&& CS 20SI: Tensorflow for Deep Learning Research
 http://web.stanford.edu/class/cs20si/syllabus.html
 
-
+### !!!!!@@@@@$$$$$ 5 Free Courses for Getting Started in Artificial Intelligence
+http://www.kdnuggets.com/2017/02/5-free-courses-getting-started-artificial-intelligence.html?utm_content=buffer997d4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
 
 
@@ -1740,6 +1746,9 @@ https://arxiv.org/abs/1610.02357
 ### !!!!!@@@@@ Deep Reinforcement Learning: An Overview
 https://arxiv.org/abs/1701.07274?utm_content=bufferf7932&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
+### !!!!! Doom Bots in TensorFlow
+http://tech.marksblogg.com/tensorflow-vizdoom-bots.html
+
 
 
 
@@ -2441,6 +2450,8 @@ https://research.googleblog.com/2017/03/assisting-pathologists-in-detecting.html
 http://telemedicine.doktornarabote.ru/presentation?frommain=1
 https://files.doktornarabote.ru/customers/telemedicine/telemedicine_for_site.pdf
 
+### !!!!!@@@@@ Using Machine Learning to Diagnose Cancer – A Tutorial
+http://cristivlad.com/using-machine-learning-to-diagnose-cancer-a-tutorial/
 
 
 
