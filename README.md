@@ -581,6 +581,20 @@ https://github.com/whitehorn/Scientific_graphics_in_python
 https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF
 https://www.youtube.com/watch?v=mHEC8tB9ZCc
 
+### !!!!! Learn Data Science - Resources for Python & R
+https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.XVRiK1I
+
+### !!!!! NLP with NLTK – Part 1
+https://opendatascience.com/blog/nlp-with-nltk-part-1/
+
+### !!!!! 7 More Steps to Mastering Machine Learning With Python
+http://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html?utm_content=buffer6b75b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### !!!!! IPython Or Jupyter?
+https://www.datacamp.com/community/blog/ipython-jupyter#gs.nLmwufM
+
+### !!!!!@@@@@$$$$$%%%%%&&&&& A Simple XGBoost Tutorial Using the Iris Dataset
+http://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html?utm_content=bufferd1c0b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
 
@@ -1765,9 +1779,8 @@ http://tech.marksblogg.com/tensorflow-vizdoom-bots.html
 ### !!!!! How these researchers tried something unconventional to come out with a smaller yet better Image Recognition.
 https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72#.ukkw1tgva
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%&&&&& Поверхностные и общие рассуждения о нейронных сетях 
+https://geektimes.ru/post/286658/
 
 
 
@@ -2379,6 +2392,21 @@ https://www.facebook.com/photo.php?fbid=1058611267562506&set=a.134522653304710.3
 
 ### Российские стартаперы привлекли $3 млн на развитие пластиковой карты с биткойнами
 https://roem.ru/06-03-2017/244376/wirex-startup/
+
+### !!! Bitcoin — зависим от Китая и почему это важно?
+https://habrahabr.ru/post/323362/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
