@@ -147,7 +147,8 @@ https://github.com/CapitanKK/tinkoff-challenge-2
 ### Allstate Claims Severity Competition, 2nd Place Winner's Interview: Alexey Noskov
 http://blog.kaggle.com/2017/02/27/allstate-claims-severity-competition-2nd-place-winners-interview-alexey-noskov/
 
-
+### !!!!! Parallel t-SNE implementation with Python and Torch wrappers
+https://github.com/DmitryUlyanov/Multicore-TSNE
 
 
 
@@ -575,6 +576,18 @@ http://students.brown.edu/seeing-theory/
 
 ### !!!!!@@@@@ Электронный учебник-пособие по научной графике в python
 https://github.com/whitehorn/Scientific_graphics_in_python
+
+### !!!!!@@@@@ Machine Learning with Scikit-Learn (The Cancer Dataset)
+https://www.youtube.com/playlist?list=PLonlF40eS6nynU5ayxghbz2QpDsUAyCVF
+https://www.youtube.com/watch?v=mHEC8tB9ZCc
+
+
+
+
+
+
+
+
 
 
 
@@ -1749,7 +1762,8 @@ https://arxiv.org/abs/1701.07274?utm_content=bufferf7932&utm_medium=social&utm_s
 ### !!!!! Doom Bots in TensorFlow
 http://tech.marksblogg.com/tensorflow-vizdoom-bots.html
 
-
+### !!!!! How these researchers tried something unconventional to come out with a smaller yet better Image Recognition.
+https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72#.ukkw1tgva
 
 
 
@@ -2230,6 +2244,17 @@ http://www.interfax.ru/business/545109
 ### Artificial Intelligence and Speech Recognition for Chatbots: A Primer
 http://www.kdnuggets.com/2017/01/artificial-intelligence-speech-recognition-chatbots-primer.html
 
+### !!!!! Телеграм бот на Python с использованием только requests
+https://habrahabr.ru/post/322050/
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2351,6 +2376,18 @@ https://www.facebook.com/photo.php?fbid=1197495143674117&set=a.134522653304710.3
 
 ### xpay
 https://www.facebook.com/photo.php?fbid=1058611267562506&set=a.134522653304710.30762.100002409285143&type=3&theater
+
+### Российские стартаперы привлекли $3 млн на развитие пластиковой карты с биткойнами
+https://roem.ru/06-03-2017/244376/wirex-startup/
+
+
+
+
+
+
+
+
+
 
 
 
