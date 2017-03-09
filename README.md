@@ -862,6 +862,8 @@ http://web.stanford.edu/class/cs20si/syllabus.html
 ### !!!!!@@@@@$$$$$ 5 Free Courses for Getting Started in Artificial Intelligence
 http://www.kdnuggets.com/2017/02/5-free-courses-getting-started-artificial-intelligence.html?utm_content=buffer997d4&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
+### !!!!!  HarvardX: PH526x Using Python for Research
+https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/courseware/71f5981d747d40929415ad1fe41225ba/333c0c7461e5451f893c832d3a529463/
 
 
 
