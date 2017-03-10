@@ -596,7 +596,8 @@ https://www.datacamp.com/community/blog/ipython-jupyter#gs.nLmwufM
 ### !!!!!@@@@@$$$$$%%%%%&&&&& A Simple XGBoost Tutorial Using the Iris Dataset
 http://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html?utm_content=bufferd1c0b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
-
+### !!!!!@@@@@ very nice visualization examples
+https://www.kaggle.com/arthurtok/d/mcdonalds/nutrition-facts/super-sized-we-macdonald-s-nutritional-metrics
 
 
 
@@ -656,8 +657,11 @@ http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p1.ht
 http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p2.html
 http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.html
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& Cтекинг (Stacking) и блендинг (Blending)
+https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
 
-
+### !!!!! Bayesian Machine Learning, Explained
+http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html
 
 
 
@@ -865,7 +869,12 @@ http://www.kdnuggets.com/2017/02/5-free-courses-getting-started-artificial-intel
 ### !!!!!  HarvardX: PH526x Using Python for Research
 https://courses.edx.org/courses/course-v1:HarvardX+PH526x+3T2016/courseware/71f5981d747d40929415ad1fe41225ba/333c0c7461e5451f893c832d3a529463/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& Course notes for CS224N Winter17 (RNNs) NLP
+https://github.com/stanfordnlp/cs224n-winter17-notes
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888*****00000+++++=====!!!!! A course in reinforcement learning in the wild
+https://github.com/yandexdataschool/Practical_RL/tree/master
+https://github.com/yandexdataschool/HSE_deeplearning
 
 
 
@@ -1781,8 +1790,25 @@ http://tech.marksblogg.com/tensorflow-vizdoom-bots.html
 ### !!!!! How these researchers tried something unconventional to come out with a smaller yet better Image Recognition.
 https://medium.com/@matelabs_ai/how-these-researchers-tried-something-unconventional-to-came-out-with-a-smaller-yet-better-image-544327f30e72#.ukkw1tgva
 
-### !!!!!@@@@@$$$$$%%%%%&&&&& Поверхностные и общие рассуждения о нейронных сетях 
-https://geektimes.ru/post/286658/
+### !!!!!@@@@@ RNNs explained
+https://docs.google.com/presentation/d/1UpZVnOvouIbXd0MAFBltSra5rRpsiJ-UyBUKGCrfYoo/edit#slide=id.g1ed9069b96_0_184
+
+### !!!!!@@@@@ Linear algebra cheat sheet for deep learning
+https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c#.i0szuc7yp
+
+### !!! Notes on the implementation DenseNet in tensorflow.
+https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-tensorflow-beeda9dd1504#.x4n8e5v72
+
+### !!!!! Natural Language Processing and Sentiment Analysis
+https://medium.com/udacity/natural-language-processing-and-sentiment-analysis-43111c33c27e#.l7osv1ktp
+
+
+
+
+
+
+
+
 
 
 
@@ -2114,12 +2140,23 @@ https://github.com/facebookresearch/fastText
 ### !!!!!@@@@@$$$$$%%%%%&&&&& NASA открыло свободный доступ к своему программному обеспечению
 https://geektimes.ru/post/286524/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&& Data collection for Airbnb listings. (Airbnb web site scraper)
+https://www.google.ru/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjr4cjMrszSAhUGOpoKHRpBAXIQFggcMAA&url=https%3A%2F%2Fgithub.com%2Ftomslee%2Fairbnb-data-collection&usg=AFQjCNHKZwBqqb2RcfmBfJl6oE81Hqxlsw&sig2=OjIhNfJNtkOaG_XqIfxG0A
 
+### !!!!! http://disaster-learning.org/
+http://disaster-learning.org/
 
+### !!! Google’s new machine learning API recognizes objects in videos
+https://techcrunch.com/2017/03/08/googles-new-machine-learning-api-recognizes-objects-in-videos/
 
+### !!!!! An Interview with Danny Kaplan
+https://www.datacamp.com/community/blog/an-interview-with-danny-kaplan#gs.J7=Ts00
 
+### !!!!! Анализ исходного кода Duke Nukem 3D: Часть 1
+https://habrahabr.ru/post/323426/
 
-
+### !!!!! Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis
+http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html
 
 
 
@@ -2262,7 +2299,8 @@ http://www.kdnuggets.com/2017/01/artificial-intelligence-speech-recognition-chat
 ### !!!!! Телеграм бот на Python с использованием только requests
 https://habrahabr.ru/post/322050/
 
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****8888800000!!!!! Speech AI с Python & Google API
+https://habrahabr.ru/post/323570/
 
 
 
@@ -2398,8 +2436,11 @@ https://roem.ru/06-03-2017/244376/wirex-startup/
 ### !!! Bitcoin — зависим от Китая и почему это важно?
 https://habrahabr.ru/post/323362/
 
+### !!!!!@@@@@ Погружение в технологию блокчейн (Microsoft)
+https://habrahabr.ru/company/microsoft/blog/323548/
 
-
+### !!! Рынок финтех-стартапов: что ждет отрасль?
+http://www.forbes.ru/tehnologii/340597-rynok-finteh-startapov-chto-zhdet-otrasl?utm_source=twitter&utm_medium=social&utm_campaign=targetings-forbes&utm_content=nocategory#0_8_3637_12158_588_119341160
 
 
 
