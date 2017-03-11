@@ -599,7 +599,17 @@ http://www.kdnuggets.com/2017/03/simple-xgboost-tutorial-iris-dataset.html?utm_c
 ### !!!!!@@@@@ very nice visualization examples
 https://www.kaggle.com/arthurtok/d/mcdonalds/nutrition-facts/super-sized-we-macdonald-s-nutritional-metrics
 
+### !!!!! Bayesian Machine Learning, Explained
+http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html
 
+### How to Get Started with Kaggle
+http://machinelearningmastery.com/get-started-with-kaggle/
+
+### !!! Join And Merge Pandas Dataframe
+http://chrisalbon.com/python/pandas_join_merge_dataframe.html
+
+### Combining DataFrames with pandas
+http://www.datacarpentry.org/python-ecology-lesson/04-merging-data/
 
 
 
@@ -659,9 +669,6 @@ http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.ht
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&& Cтекинг (Stacking) и блендинг (Blending)
 https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
-
-### !!!!! Bayesian Machine Learning, Explained
-http://www.kdnuggets.com/2016/07/bayesian-machine-learning-explained.html
 
 
 
@@ -876,7 +883,8 @@ https://github.com/stanfordnlp/cs224n-winter17-notes
 https://github.com/yandexdataschool/Practical_RL/tree/master
 https://github.com/yandexdataschool/HSE_deeplearning
 
-
+### !!!!!@@@@@$$$$$ Online Discussion: Deep Learning Book
+https://www.youtube.com/watch?v=IinSdnnEDpc
 
 
 
