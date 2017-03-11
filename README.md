@@ -1802,9 +1802,11 @@ https://medium.com/@illarionkhlestov/notes-on-the-implementation-densenet-in-ten
 ### !!!!! Natural Language Processing and Sentiment Analysis
 https://medium.com/udacity/natural-language-processing-and-sentiment-analysis-43111c33c27e#.l7osv1ktp
 
+### !!!!!@@@@@88888 tensorflow port of the lda2vec model for unsupervised learning of document + topic + word embeddings
+https://github.com/meereeum/lda2vec-tf
 
-
-
+### !!!!! Neural network training using iterated projections.
+https://github.com/jn2clark/nn-iterated-projections
 
 
 
@@ -2302,7 +2304,8 @@ https://habrahabr.ru/post/322050/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****8888800000!!!!! Speech AI с Python & Google API
 https://habrahabr.ru/post/323570/
 
-
+### !!!!!@@@@@ Что такое чат-боты и для чего они нужны бизнесу
+https://news.bbport.ru/news/show/chto-takoe-chat-boti-i-dlja-chego-oni-nuzhni-biznesu/
 
 
 
