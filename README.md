@@ -36,6 +36,7 @@ https://yadi.sk/d/UG22a-9n3EDDsn
 
 ### !!!!! Bare bones Python implementations of some of the foundational Machine Learning models and algorithms.
 https://github.com/eriklindernoren/ML-From-Scratch
+
 ### !!!!! Minimal and clean examples of machine learning algorithms
 https://github.com/rushter/MLAlgorithms
 
@@ -64,6 +65,9 @@ http://datahack.analyticsvidhya.com/contest/all
 https://boosters.pro/
 
 sdsj.ru
+
+https://competitions.codalab.org/
+
 
 
 
@@ -611,6 +615,29 @@ http://chrisalbon.com/python/pandas_join_merge_dataframe.html
 ### Combining DataFrames with pandas
 http://www.datacarpentry.org/python-ecology-lesson/04-merging-data/
 
+### !!!!!@@@@@$$$$$ Стажер-исследователь (Data Mining, Machine Learning) @ yandex
+https://yandex.ru/jobs/vacancies/interns/intern_researcher/
+
+### !!!!!@@@@@ NLP word2vec
+https://github.com/alexeyantonov/npl_for_students/blob/master/w2v.ipynb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -885,6 +912,15 @@ https://github.com/yandexdataschool/HSE_deeplearning
 
 ### !!!!!@@@@@$$$$$ Online Discussion: Deep Learning Book
 https://www.youtube.com/watch?v=IinSdnnEDpc
+
+### !!!!! Convex Optimization
+https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
+
+
+
+
+
+
 
 
 
@@ -1816,7 +1852,19 @@ https://github.com/meereeum/lda2vec-tf
 ### !!!!! Neural network training using iterated projections.
 https://github.com/jn2clark/nn-iterated-projections
 
+### Semantic Question Matching with Deep Learning
+https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
 
+### !!!!! How to train Baidu's Deepspeech model with Kur
+http://blog.deepgram.com/how-to-train-baidus-deepspeech-model-with-kur/
+
+### This demo shows how to learn a neural network on top of decision trees
+https://github.com/nenadmarkus/nets-and-trees
+
+### !!!!!@@@@@ (DeepWarp) You can use this machine learning demo to roll Keanu Reeves’ (or anyone’s) eyes
+http://www.theverge.com/2017/3/11/14885986/deepwarp-neural-networks-eye-rolling-keanu-reeves
+http://163.172.78.19/
+http://sites.skoltech.ru/compvision/projects/deepwarp/
 
 
 
@@ -1908,15 +1956,6 @@ https://www.re-work.co/blog/the-something-something-video-dataset
 
 ### !!!!! Трансляция конференции "Машинное обучение для бизнеса"
 https://www.youtube.com/watch?v=MCMOBISx9CQ
-
-### Semantic Question Matching with Deep Learning
-https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning
-
-### !!!!! How to train Baidu's Deepspeech model with Kur
-http://blog.deepgram.com/how-to-train-baidus-deepspeech-model-with-kur/
-
-### This demo shows how to learn a neural network on top of decision trees
-https://github.com/nenadmarkus/nets-and-trees
 
 ### Char2Wav: End-to-End Speech Synthesis
 http://josesotelo.com/speechsynthesis/
@@ -2168,7 +2207,8 @@ https://habrahabr.ru/post/323426/
 ### !!!!! Machine Learning Wars: Amazon vs Google vs BigML vs PredicSis
 http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predicsis.html
 
-
+### !!!!!@@@@@ Трудно из болота тащить бегемота Или как Юлмарт на SAP переходил
+https://www.ultimatebusinessware.ru/library/how-ulmart-migrates-to-sap/
 
 
 
