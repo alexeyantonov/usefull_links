@@ -634,7 +634,12 @@ http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Advanced High Performance Data Science Toolbox for R by Laurae
 https://github.com/Laurae2/Laurae
 
+### !!!!!@@@@@ CPython internals: A ten-hour codewalk through the Python interpreter source code
+https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S
+http://pgbovine.net/cpython-internals.htm
 
+### Data Science Case Club в Avito
+https://www.youtube.com/watch?v=cpmkDnaNQiU&feature=youtu.be
 
 
 
@@ -1889,8 +1894,17 @@ https://google.github.io/seq2seq/
 ### !!! Notes on Representation Learning
 https://opendatascience.com/blog/notes-on-representation-learning-1/
 
+### !!!!!@@@@@ Introduction to Q-Learning
+https://medium.com/@aneekdas/introduction-to-q-learning-88d1c4f2b49c#.x0iy62erp
 
+### Deep Learning Frameworks of 2017 Jan
+https://medium.com/@nellaivijay/deep-learning-frameworks-of-2017-jan-c9527a06af85#.38mq82leo
 
+### FPGAs Focal Point for Efficient Neural Network Inference
+https://www.nextplatform.com/2017/01/26/fpgas-focal-point-efficient-neural-network-inference/
+
+### Expanding choices for PowerAI developers with TensorFlow
+https://www.ibm.com/blogs/systems/expanding-choices-for-powerai-developers-with-tensorflow/
 
 
 
@@ -1968,15 +1982,6 @@ https://priceonomics.com/whats-the-difference-between-data-science-and/
 
 ### The best directory of artificial intelligence/machine learning resources.
 http://aireads.top/
-
-### Deep Learning Frameworks of 2017 Jan
-https://medium.com/@nellaivijay/deep-learning-frameworks-of-2017-jan-c9527a06af85#.38mq82leo
-
-### FPGAs Focal Point for Efficient Neural Network Inference
-https://www.nextplatform.com/2017/01/26/fpgas-focal-point-efficient-neural-network-inference/
-
-### Expanding choices for PowerAI developers with TensorFlow
-https://www.ibm.com/blogs/systems/expanding-choices-for-powerai-developers-with-tensorflow/
 
 ### The "Something Something" Video Dataset
 https://www.re-work.co/blog/the-something-something-video-dataset
