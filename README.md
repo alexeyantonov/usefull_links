@@ -625,11 +625,14 @@ https://github.com/alexeyantonov/npl_for_students/blob/master/w2v.ipynb
 ### !!!!! Join-ы больших таблиц в pandas с условиями внутри join
 http://stackoverflow.com/questions/23508351/how-to-do-a-conditional-join-in-python-pandas
 
+### How to Setup a Python Environment for Machine Learning and Deep Learning with Anaconda
+http://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Winning Tips on Machine Learning Competitions by Kazanova, Current Kaggle #3
+http://blog.hackerearth.com/winning-tips-machine-learning-competitions-kazanova-current-kaggle-3
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Advanced High Performance Data Science Toolbox for R by Laurae
+https://github.com/Laurae2/Laurae
 
 
 
@@ -1867,6 +1870,28 @@ https://github.com/nenadmarkus/nets-and-trees
 http://www.theverge.com/2017/3/11/14885986/deepwarp-neural-networks-eye-rolling-keanu-reeves
 http://163.172.78.19/
 http://sites.skoltech.ru/compvision/projects/deepwarp/
+
+### !!!!!@@@@@ Discovering Hidden Factors of Variation in Deep Networks
+https://arxiv.org/pdf/1412.6583.pdf
+
+### !!!!!@@@@@ Learning Deep Parsimonious Representations
+http://www.cs.toronto.edu/~rjliao/papers/NIPS_2016_Parsimonious.pdf
+
+### !!!!!@@@@@ How neural networks work
+https://brohrer.github.io/how_neural_networks_work.html
+
+### !!!!!@@@@@ STOPPING GAN VIOLENCE: GENERATIVE UNADVERSARIAL NETWORKS (very funny)
+https://arxiv.org/pdf/1703.02528.pdf
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 https://google.github.io/seq2seq/
+https://google.github.io/seq2seq/
+
+### !!! Notes on Representation Learning
+https://opendatascience.com/blog/notes-on-representation-learning-1/
+
+
+
+
 
 
 
