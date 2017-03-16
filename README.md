@@ -157,6 +157,44 @@ https://github.com/DmitryUlyanov/Multicore-TSNE
 ### хорошее объяснение чем хорош lightgbm при работе с категориальными переменными и как на его основе можно упрощать поиск параметров в xgboost. �так же много ссылок на решения от выступающих
 https://www.youtube.com/watch?v=4QqWC_eAT3Q&t=4218s
 
+### !!!!!@@@@@ https://www.kaggle.com/c/bosch-production-line-performance/discussion/25382
+https://www.kaggle.com/c/bosch-production-line-performance/discussion/25382
+
+### !!!!!
+https://github.com/ArdalanM/pyLightGBM/blob/master/notebooks/regression_example_kaggle_allstate.ipynb
+
+### !!!!! very good blog (discussions) @ kaggle
+https://www.kaggle.com/laurae2/discussion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -641,6 +679,14 @@ http://pgbovine.net/cpython-internals.htm
 ### Data Science Case Club в Avito
 https://www.youtube.com/watch?v=cpmkDnaNQiU&feature=youtu.be
 
+### !!!!!@@@@@ xgboost: “Hi I’m Gamma. What can I do for you?” — and the tuning of regularization
+https://medium.com/data-design/xgboost-hi-im-gamma-what-can-i-do-for-you-and-the-tuning-of-regularization-a42ea17e6ab6#.elkpl36m2
+
+### !!!!!@@@@@ How to get into the top 15 of a Kaggle competition using Python
+https://www.dataquest.io/blog/kaggle-tutorial/
+
+### !!!!! Jupyter notebook and datasets from the pandas Q&A video series http://bit.ly/pandas-videos
+https://github.com/justmarkham/pandas-videos
 
 
 
@@ -654,6 +700,21 @@ https://www.youtube.com/watch?v=cpmkDnaNQiU&feature=youtu.be
 
 
 
+
+# Instruments
+### !!!!! Python factor analysis library (PCA, CA, MCA, FAMD)
+https://github.com/MaxHalford/Prince
+
+### !!!!! Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+https://github.com/spotify/annoy
+
+### !!!!! A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.
+https://github.com/Microsoft/LightGBM
+https://www.dmtk.io
+https://devhub.io/repos/Microsoft-DMTK
+https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
+https://github.com/ArdalanM/pyLightGBM
+https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
 
 
 
@@ -1906,6 +1967,52 @@ https://www.nextplatform.com/2017/01/26/fpgas-focal-point-efficient-neural-netwo
 ### Expanding choices for PowerAI developers with TensorFlow
 https://www.ibm.com/blogs/systems/expanding-choices-for-powerai-developers-with-tensorflow/
 
+### !!! Deep Learning Research Review: Natural Language Processing
+http://www.kdnuggets.com/2017/01/deep-learning-review-natural-language-processing.html
+
+### !!!!!@@@@@ Enabling Continual Learning in Neural Networks
+https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 very good tf explanation (CS224D Lecture 7 - Introduction to TensorFlow (19th Apr 2016))
+https://www.youtube.com/watch?v=l6K-MFgIEjc&list=PLurQzF05Vl06_FUGASxAae7zQfUrHB9MP&index=3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2242,8 +2349,11 @@ http://www.kdnuggets.com/2015/05/machine-learning-wars-amazon-google-bigml-predi
 ### !!!!!@@@@@ Трудно из болота тащить бегемота Или как Юлмарт на SAP переходил
 https://www.ultimatebusinessware.ru/library/how-ulmart-migrates-to-sap/
 
+### !!!!! 40 Brilliant Open Data Projects (And How They're Redefining Smart Cities)
+https://carto.com/blog/forty-brilliant-open-data-projects
 
-
+### Проект Ara: Мечта о самом революционном смартфоне в мире
+https://roem.ru/15-03-2017/244900/project-ara/
 
 
 
@@ -2525,7 +2635,8 @@ https://habrahabr.ru/company/microsoft/blog/323548/
 ### !!! Рынок финтех-стартапов: что ждет отрасль?
 http://www.forbes.ru/tehnologii/340597-rynok-finteh-startapov-chto-zhdet-otrasl?utm_source=twitter&utm_medium=social&utm_campaign=targetings-forbes&utm_content=nocategory#0_8_3637_12158_588_119341160
 
-
+### !!! Cards VS e-Wallets
+https://habrahabr.ru/company/chronopay/blog/323882/
 
 
 
