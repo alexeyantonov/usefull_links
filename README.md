@@ -1976,7 +1976,22 @@ https://deepmind.com/blog/enabling-continual-learning-in-neural-networks/
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 very good tf explanation (CS224D Lecture 7 - Introduction to TensorFlow (19th Apr 2016))
 https://www.youtube.com/watch?v=l6K-MFgIEjc&list=PLurQzF05Vl06_FUGASxAae7zQfUrHB9MP&index=3 
 
+### !!!!!@@@@@ Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks
+https://arxiv.org/pdf/1312.6082.pdf
+https://github.com/itaicaspi/SVHN-Multi-Digit-torch
 
+### !!!!! pytorch example (Image Classification of Dogs vs. Cats With PyTorch)
+https://github.com/rdcolema/pytorch-image-classification/blob/331819df6732b0e1c3b321d6eebce6b97287c585/pytorch_model.ipynb
+
+### !!!!! Residual and Plain Convolutional Neural Networks for 3D Brain MRI Classification
+https://arxiv.org/abs/1701.06643
+
+### !!!!!@@@@@ Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models
+https://arxiv.org/pdf/1702.03275.pdf
+http://nyus.joshuawise.com/batchnorm.pdf
+
+### !!!!!@@@@@$$$$$%%%%%8888800000 An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction. 
+https://github.com/rguthrie3/DeepLearningForNLPInPytorch/
 
 
 
@@ -2355,7 +2370,8 @@ https://carto.com/blog/forty-brilliant-open-data-projects
 ### Проект Ara: Мечта о самом революционном смартфоне в мире
 https://roem.ru/15-03-2017/244900/project-ara/
 
-
+### Big Data Дептранса Москвы уменьшила потенциальную аудиторию такси на полмиллиона человек в день
+https://roem.ru/16-03-2017/245230/big-data-opravdala-strahi-taxi/
 
 
 
