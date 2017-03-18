@@ -688,6 +688,29 @@ https://www.dataquest.io/blog/kaggle-tutorial/
 ### !!!!! Jupyter notebook and datasets from the pandas Q&A video series http://bit.ly/pandas-videos
 https://github.com/justmarkham/pandas-videos
 
+### Fitting Gaussian Process Models in Python
+https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -716,7 +739,8 @@ https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters-tuning.md
 https://github.com/ArdalanM/pyLightGBM
 https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
 
-
+### !!!!! A little word cloud generator in Python
+https://github.com/amueller/word_cloud
 
 
 
@@ -986,6 +1010,23 @@ https://www.youtube.com/watch?v=IinSdnnEDpc
 
 ### !!!!! Convex Optimization
 https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
+
+### !!!!! Deep Learning From A to Z
+http://artificialbrain.xyz/deep-learning-from-a-to-z/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2771,7 +2812,11 @@ https://files.doktornarabote.ru/customers/telemedicine/telemedicine_for_site.pdf
 ### !!!!!@@@@@ Using Machine Learning to Diagnose Cancer – A Tutorial
 http://cristivlad.com/using-machine-learning-to-diagnose-cancer-a-tutorial/
 
+### Deep learning in healthcare: a move towards algorithmic doctors
+http://www.news-medical.net/news/20170315/Deep-learning-in-healthcare-a-move-towards-algorithmic-doctors.aspx
 
+### Cестринские компании МТС и «Медси» объединят усилия ради телемедицины
+https://roem.ru/17-03-2017/245357/mts-medsi/
 
 
 
