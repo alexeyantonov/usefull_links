@@ -691,6 +691,8 @@ https://github.com/justmarkham/pandas-videos
 ### Fitting Gaussian Process Models in Python
 https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 
+### Email Spam Filtering: An Implementation with Python and Scikit-learn
+http://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-python-and-scikit-learn.html?utm_content=bufferdfce1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 
 
@@ -2034,6 +2036,8 @@ http://nyus.joshuawise.com/batchnorm.pdf
 ### !!!!!@@@@@$$$$$%%%%%8888800000 An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction. 
 https://github.com/rguthrie3/DeepLearningForNLPInPytorch/
 
+### Tactics of Adversarial Attack on Deep Reinforcement Learning Agents
+http://yclin.me/adversarial_attack_RL/
 
 
 
@@ -2414,6 +2418,8 @@ https://roem.ru/15-03-2017/244900/project-ara/
 ### Big Data Дептранса Москвы уменьшила потенциальную аудиторию такси на полмиллиона человек в день
 https://roem.ru/16-03-2017/245230/big-data-opravdala-strahi-taxi/
 
+### !!!!!@@@@@ Квантовые шахматы
+https://geektimes.ru/post/287024/
 
 
 
