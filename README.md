@@ -694,7 +694,8 @@ https://blog.dominodatalab.com/fitting-gaussian-process-models-python/
 ### Email Spam Filtering: An Implementation with Python and Scikit-learn
 http://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-python-and-scikit-learn.html?utm_content=bufferdfce1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
-
+### !!!!! Installing Jupyter notebook to AWS
+https://gist.github.com/giantryansaul/dfb557d047572d96d68f
 
 
 
@@ -743,6 +744,7 @@ https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
 
 ### !!!!! A little word cloud generator in Python
 https://github.com/amueller/word_cloud
+
 
 
 
@@ -2420,6 +2422,18 @@ https://roem.ru/16-03-2017/245230/big-data-opravdala-strahi-taxi/
 
 ### !!!!!@@@@@ Квантовые шахматы
 https://geektimes.ru/post/287024/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&8888800000 Копаясь сегодня в том, как бы использовать функан и теорию представлений в ML наткнулся на очень интересный диссер — http://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf Кто любит группы и теорию представлений — интересно будет почитать. Научруком у чувака был вроде бы глава ML нетфликса
+http://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf
+http://www.jmlr.org/proceedings/papers/v63/Brault39.pdf
+
+### Ненаши университеты
+http://www.kommersant.ru/doc/3240961
+
+### !!!!!@@@@@ Бесплатные книги по Python для программистов любого уровня: разработка игр, анализ данных, машинное обучение
+https://tproger.ru/books/19-free-python-books/
+
+
 
 
 
