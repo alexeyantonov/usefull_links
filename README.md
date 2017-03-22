@@ -2057,7 +2057,15 @@ http://yclin.me/adversarial_attack_RL/
 ### !!!!!@@@@@ Deep Learning based Python Library for Stock Market Prediction and Modelling
 https://github.com/achillesrasquinha/bulbea
 
+### Mask R-CNN
+https://arxiv.org/abs/1703.06870
 
+### !!! Shape2vec: Understanding 3D Shapes With AI | Two Minute Papers
+https://www.youtube.com/watch?v=bB54Wz4kq0E
+
+### !!!!! Baidu released PaddlePaddle Jupyter notebook
+http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/
+https://github.com/PaddlePaddle/Paddle
 
 
 
@@ -2447,7 +2455,9 @@ http://www.kommersant.ru/doc/3240961
 ### !!!!!@@@@@ Бесплатные книги по Python для программистов любого уровня: разработка игр, анализ данных, машинное обучение
 https://tproger.ru/books/19-free-python-books/
 
-
+### Сооснователь Coursera Эндрю Ын уходит с поста главы разработок в области ИИ Baidu
+https://medium.com/@andrewng/opening-a-new-chapter-of-my-work-in-ai-c6a4d1595d7b#.5mzlr26eo
+https://roem.ru/22-03-2017/245684/baidu-ai-head/
 
 
 
