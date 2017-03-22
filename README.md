@@ -2,6 +2,9 @@ http://www.sravni.ru/novost/2017/1/27/70-knig-kotorye-german-gref-rekomenduet-sv
 https://www.packtpub.com/packt/offers/free-learning
 http://www.oreilly.com/free/reports.html
 
+### !!!!!@@@@@ Graphics issues after/while installing Ubuntu 16.04/16.10 with NVIDIA graphics
+http://askubuntu.com/questions/760934/graphics-issues-after-while-installing-ubuntu-16-04-16-10-with-nvidia-graphics
+
 https://github.com/alrojo/tensorflow-tutorial # tf tutorial
 
 ### Practical XGBoost in Python
@@ -697,8 +700,18 @@ http://www.kdnuggets.com/2017/03/email-spam-filtering-an-implementation-with-pyt
 ### !!!!! Installing Jupyter notebook to AWS
 https://gist.github.com/giantryansaul/dfb557d047572d96d68f
 
+### !!!!! Outlier detection with several methods
+http://scikit-learn.org/stable/auto_examples/covariance/plot_outlier_detection.html
 
+### !!!!!@@@@@ Pandas Pivot Table Explained
+http://pbpython.com/pandas-pivot-table-explained.html
 
+### !!!!!@@@@@ Model evaluation, model selection, and algorithm selection in machine learning
+https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&8888800000 MATH in ML
+http://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf
+http://www.jmlr.org/proceedings/papers/v63/Brault39.pdf
 
 
 
@@ -2041,7 +2054,8 @@ https://github.com/rguthrie3/DeepLearningForNLPInPytorch/
 ### Tactics of Adversarial Attack on Deep Reinforcement Learning Agents
 http://yclin.me/adversarial_attack_RL/
 
-
+### !!!!!@@@@@ Deep Learning based Python Library for Stock Market Prediction and Modelling
+https://github.com/achillesrasquinha/bulbea
 
 
 
