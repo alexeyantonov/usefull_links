@@ -713,7 +713,9 @@ https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
 http://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf
 http://www.jmlr.org/proceedings/papers/v63/Brault39.pdf
 
-
+### !!!!!@@@@@ Вычитал 2 лайфхака для "ленивой" работы с данными (не вникая в предметную область):
+1 Использовать gradient boosting для оценки "качества" регрессоров, а не для реального моделирования;
+2 Строить несколько моделей, строить мета-модель на их результатах, и складывать через нее (не просто голосование, а просто например лог. регрессия);
 
 
 
