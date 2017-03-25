@@ -713,9 +713,15 @@ https://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html
 http://people.cs.uchicago.edu/~risi/papers/KondorThesis.pdf
 http://www.jmlr.org/proceedings/papers/v63/Brault39.pdf
 
-### !!!!!@@@@@ Вычитал 2 лайфхака для "ленивой" работы с данными (не вникая в предметную область):
+### !!!!!@@@@@$$$$$ Вычитал 2 лайфхака для "ленивой" работы с данными (не вникая в предметную область):
 1 Использовать gradient boosting для оценки "качества" регрессоров, а не для реального моделирования;
 2 Строить несколько моделей, строить мета-модель на их результатах, и складывать через нее (не просто голосование, а просто например лог. регрессия);
+
+### !!!!!@@@@@ PythonForArtificialIntelligence (LIBs)
+https://wiki.python.org/moin/PythonForArtificialIntelligence
+
+### !!!!! Basics of python for Data Analysis
+https://github.com/vivekkarn/basic-python-for-data-analysis
 
 
 
@@ -2068,6 +2074,23 @@ https://www.youtube.com/watch?v=bB54Wz4kq0E
 ### !!!!! Baidu released PaddlePaddle Jupyter notebook
 http://aimedicines.com/2017/03/21/baidu-released-paddlepaddle-jupyter-notebook/
 https://github.com/PaddlePaddle/Paddle
+
+### !!!!! Building Safe A.I. A Tutorial for Encrypted Deep Learning
+https://iamtrask.github.io/2017/03/17/safe-ai/
+
+### Why is so much memory needed for deep neural networks?
+https://www.graphcore.ai/blog/why-is-so-much-memory-needed-for-deep-neural-networks
+
+### !!!!! Notes on “Deformable Convolutional Networks”
+http://arxiv.org/abs/1703.06211
+https://medium.com/@phelixlau/notes-on-deformable-convolutional-networks-baaabbc11cf3#.u1ddeqfxj
+
+### !!!!!@@@@@$$$$$ Transfer Learning - Machine Learning's Next Frontier
+http://sebastianruder.com/transfer-learning/
+
+
+
+
 
 
 
