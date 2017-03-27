@@ -169,7 +169,8 @@ https://github.com/ArdalanM/pyLightGBM/blob/master/notebooks/regression_example_
 ### !!!!! very good blog (discussions) @ kaggle
 https://www.kaggle.com/laurae2/discussion
 
-
+### !!!!!@@@@@ Победное решение конкурса ML Boot Camp III
+https://habrahabr.ru/post/324916/
 
 
 
@@ -723,6 +724,26 @@ https://wiki.python.org/moin/PythonForArtificialIntelligence
 ### !!!!! Basics of python for Data Analysis
 https://github.com/vivekkarn/basic-python-for-data-analysis
 
+### !!!!! A tutorial on 'Soft weight-sharing for Neural Network compression'
+https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression/blob/master/tutorial.ipynb
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 The very basics of Reinforcement Learning
+https://medium.com/@aneekdas/the-very-basics-of-reinforcement-learning-154f28a79071#.11pqx6j3z
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Magical Introduction to Classification Algorithms
+http://blog.yhat.com/posts/harry-potter-classification.html
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -766,7 +787,8 @@ https://www.kaggle.com/c/allstate-claims-severity/discussion/24527#140241
 ### !!!!! A little word cloud generator in Python
 https://github.com/amueller/word_cloud
 
-
+### !!!!! Keras 2.0
+https://blog.keras.io/introducing-keras-2.html
 
 
 
@@ -2088,8 +2110,8 @@ https://medium.com/@phelixlau/notes-on-deformable-convolutional-networks-baaabbc
 ### !!!!!@@@@@$$$$$ Transfer Learning - Machine Learning's Next Frontier
 http://sebastianruder.com/transfer-learning/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Deep Embedding Forest: Forest-based Serving with Deep Embedding Features (xgboost meets deep learning)
+https://arxiv.org/abs/1703.05291
 
 
 
