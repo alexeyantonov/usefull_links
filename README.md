@@ -733,7 +733,14 @@ https://medium.com/@aneekdas/the-very-basics-of-reinforcement-learning-154f28a79
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Magical Introduction to Classification Algorithms
 http://blog.yhat.com/posts/harry-potter-classification.html
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Gradient boosting machines, a tutorial
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3885826/pdf/fnbot-07-00021.pdf
 
+### Boosting Support Vector Machines
+https://elkingarcia.github.io/Papers/MLDM07.pdf
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Nice papers!!!!!
+http://distill.pub/
 
 
 
@@ -2113,12 +2120,14 @@ http://sebastianruder.com/transfer-learning/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Deep Embedding Forest: Forest-based Serving with Deep Embedding Features (xgboost meets deep learning)
 https://arxiv.org/abs/1703.05291
 
+### !!! Глубинное обучение по особенностям заголовка и содержимого статьи для преодоления кликбейта
+https://habrahabr.ru/post/324960/
 
+### What convolutional neural networks look at when they see nudity
+https://dev.to/clarifai/what-convolutional-neural-networks-look-at-when-they-see-nudity
 
-
-
-
-
+### !!!!!@@@@@ Five video classification methods implemented in Keras and TensorFlow
+https://hackernoon.com/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5#.4r0ggl6t9
 
 
 
@@ -2230,8 +2239,11 @@ https://www.youtube.com/watch?v=MCMOBISx9CQ
 ### Char2Wav: End-to-End Speech Synthesis
 http://josesotelo.com/speechsynthesis/
 
+### !!!!!@@@@@ http://cotique.me/
+http://cotique.me/
 
-
+### !!!!! Собеседование
+http://cotique.me/blog/interviews
 
 
 
@@ -2506,7 +2518,8 @@ https://tproger.ru/books/19-free-python-books/
 https://medium.com/@andrewng/opening-a-new-chapter-of-my-work-in-ai-c6a4d1595d7b#.5mzlr26eo
 https://roem.ru/22-03-2017/245684/baidu-ai-head/
 
-
+### !!!!!@@@@@ Сможет ли Питон прожевать миллион запросов в секунду?
+https://habrahabr.ru/company/centosadmin/blog/323556/
 
 
 
@@ -2644,6 +2657,49 @@ https://habrahabr.ru/post/323570/
 
 ### !!!!!@@@@@ Что такое чат-боты и для чего они нужны бизнесу
 https://news.bbport.ru/news/show/chto-takoe-chat-boti-i-dlja-chego-oni-nuzhni-biznesu/
+
+### !!!!! How to Build Chat-Bots Using Machine Learning and NLP
+https://www.brighttalk.com/webcast/15321/248477
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
