@@ -742,6 +742,14 @@ https://elkingarcia.github.io/Papers/MLDM07.pdf
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Nice papers!!!!!
 http://distill.pub/
 
+### !!!!!@@@@@ Хорошие лекции, тут пояснение по log-reg
+https://www.unm.edu/~schrader/biostat/bio2/Spr06/lec11.pdf
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Визуализация данных на основе статей с habrahabr и geektimes
+https://github.com/oalexandere/vis_contest2
+
+### !!!!! Случайный лес (Random Forest)
+https://alexanderdyakonov.wordpress.com/2016/11/14/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D1%81-random-forest/
 
 
 
@@ -1068,8 +1076,14 @@ https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about
 ### !!!!! Deep Learning From A to Z
 http://artificialbrain.xyz/deep-learning-from-a-to-z/
 
+### !!!!!@@@@@ Экспресс курс ML (deep learning)
+https://github.com/RomanovMikeV/deep_learning_course
 
+### !!!!!@@@@@ Лекции по курсу “Машинное обучение” (презентации с нормальными объяснениями), для быстрого изучения
+http://www.levvu.narod.ru/EdProcess.htm
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 yandexdataschool/Practical_RL A course in reinforcement learning in the wild
+https://github.com/yandexdataschool/Practical_RL
 
 
 
@@ -2129,11 +2143,17 @@ https://dev.to/clarifai/what-convolutional-neural-networks-look-at-when-they-see
 ### !!!!!@@@@@ Five video classification methods implemented in Keras and TensorFlow
 https://hackernoon.com/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5#.4r0ggl6t9
 
+### Automatic Argumentative-Zoning Using Word2vec
+https://arxiv.org/pdf/1703.10152.pdf
 
+### Generalization and Equilibrium in Generative Adversarial Networks (GANs)
+http://www.offconvex.org/2017/03/30/GANs2/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 U-Net: Convolutional Networks for Biomedical Image Segmentation
+http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 
-
-
+### Try Deep Learning in Python now with a fully pre-configured VM
+https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b
 
 
 
