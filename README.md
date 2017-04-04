@@ -751,6 +751,24 @@ https://github.com/oalexandere/vis_contest2
 ### !!!!! Случайный лес (Random Forest)
 https://alexanderdyakonov.wordpress.com/2016/11/14/%D1%81%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B5%D1%81-random-forest/
 
+### !!!!!@@@@@ Метрики и несбалансированные выборки
+https://ld86.github.io/ml-slides/unbalanced.html#/
+
+### !!!!!@@@@@ Разреженные признаки и Vowpal Wabbit
+https://ld86.github.io/ml-slides/sparse.html#/
+
+### !!!!!@@@@@ Классификация текстов
+https://ld86.github.io/msu-slides/#
+
+### !!!!! Гайды по работе с Git
+https://proglib.io/p/git-guide/
+
+### !!!!! Introduction to Anomaly Detection
+http://www.kdnuggets.com/2017/04/datascience-introduction-anomaly-detection.html
+
+### Natural Language Processing Made Easy – using SpaCy (in Python)
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
+
 
 
 
@@ -2155,6 +2173,14 @@ http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
 ### Try Deep Learning in Python now with a fully pre-configured VM
 https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b
 
+### Components of a Reinforcement Learning Agent and it’s application on SNAKE
+https://medium.com/@aneekdas/components-of-an-rl-agent-and-its-application-on-snake-1b3b6c8e1de5
+
+### Teaching neural networks to point to improve language modeling and translation
+https://metamind.io/research/teaching-neural-networks-to-point-to-improve-language-modeling-and-translation
+
+### !!!!! Open-sourcing DeepMind Lab
+https://deepmind.com/blog/open-sourcing-deepmind-lab/
 
 
 
@@ -2681,7 +2707,8 @@ https://news.bbport.ru/news/show/chto-takoe-chat-boti-i-dlja-chego-oni-nuzhni-bi
 ### !!!!! How to Build Chat-Bots Using Machine Learning and NLP
 https://www.brighttalk.com/webcast/15321/248477
 
-
+### Чат-боты не оправдали хайп прошлого года
+https://roem.ru/03-04-2017/246705/chat-bot-analitics/
 
 
 
