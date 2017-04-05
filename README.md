@@ -769,6 +769,8 @@ http://www.kdnuggets.com/2017/04/datascience-introduction-anomaly-detection.html
 ### Natural Language Processing Made Easy – using SpaCy (in Python)
 https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
 
+### !!!!! Гайды по работе с Git
+https://proglib.io/p/git-guide/
 
 
 
@@ -1668,7 +1670,7 @@ https://www.youtube.com/watch?v=BR9h47Jtqyw
 ### DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker
 https://arxiv.org/pdf/1701.01724v2.pdf
 
-### king - man + woman is queen; but why? (!!! word2vec)
+### !!!!!@@@@@ king - man + woman is queen; but why? (!!! word2vec)
 http://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html
 
 ### Building a Deep Learning Model for Process Optimisation
@@ -2181,6 +2183,31 @@ https://metamind.io/research/teaching-neural-networks-to-point-to-improve-langua
 
 ### !!!!! Open-sourcing DeepMind Lab
 https://deepmind.com/blog/open-sourcing-deepmind-lab/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Understanding Convolution in Deep Learning (good explanation of convolution)
+http://timdettmers.com/2015/03/26/convolution-deep-learning/
+
+### !!!!!@@@@@ Building powerful image classification models using very little data
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+### !!!!! Simple web service providing a word embedding model
+https://github.com/3Top/word2vec-api#where-to-get-a-pretrained-models
+
+### !!!!!@@@@@ Nesterov's Punctuated Equilibrium (reinforcement learning)
+http://www.argmin.net/2017/04/03/evolution/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Software that generates photos from paintings, turns horses into zebras, performs style transfer, and more (from UC Berkeley)
+https://github.com/junyanz/CycleGAN
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 NLP with H2O
+https://www.slideshare.net/0xdata/nlp-with-h2o
+https://www.youtube.com/watch?v=IM99o2B_0Nw
+
+
+
+
+
+
 
 
 
