@@ -772,6 +772,29 @@ https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-ea
 ### !!!!! Гайды по работе с Git
 https://proglib.io/p/git-guide/
 
+### Список компаний, которые готовы брать на работу или стажировку молодых разработчиков. https://twitter.com/Jnr_Friendly
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+
+### !!!!!@@@@@ Автопилот своими силами. Часть 1 — набираем обучающие данные
+https://habrahabr.ru/post/325704/
+
+### latex cheatsheet
+https://wch.github.io/latexsheet/latexsheet-1.png
+
+### !!!!!@@@@@ Как полюбить машинное обучение и перестать страдать (microsoft azure)
+https://habrahabr.ru/company/microsoft/blog/325728/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 The SQL Tutorial for Data Analysis
+https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
+
+
+
+
+
+
+
 
 
 
@@ -1105,14 +1128,8 @@ http://www.levvu.narod.ru/EdProcess.htm
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 yandexdataschool/Practical_RL A course in reinforcement learning in the wild
 https://github.com/yandexdataschool/Practical_RL
 
-
-
-
-
-
-
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Natural Language Processing with Deep Learning (Stanford)
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1
 
 
 
@@ -2203,12 +2220,18 @@ https://github.com/junyanz/CycleGAN
 https://www.slideshare.net/0xdata/nlp-with-h2o
 https://www.youtube.com/watch?v=IM99o2B_0Nw
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Нейронные сети в борьбе с раком
+https://habrahabr.ru/company/mailru/blog/325908/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Open sourcing Sonnet - a new library for constructing neural networks
+https://deepmind.com/blog/open-sourcing-sonnet/
+https://github.com/deepmind/sonnet
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Pretrained VGG16 neural net in C language 
+https://github.com/ZFTurbo/VGG16-Pretrained-C
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Unsupervised sentiment neuron
+https://blog.openai.com/unsupervised-sentiment-neuron/
 
 
 
