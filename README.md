@@ -789,10 +789,11 @@ https://habrahabr.ru/company/microsoft/blog/325728/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 The SQL Tutorial for Data Analysis
 https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Guide to Deep Learning by YN^2
+http://yerevann.com/a-guide-to-deep-learning/
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Data Science Interview Questions
+http://www.itshared.org/2015/10/data-science-interview-questions.html
 
 
 
@@ -848,7 +849,8 @@ https://github.com/amueller/word_cloud
 ### !!!!! Keras 2.0
 https://blog.keras.io/introducing-keras-2.html
 
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
+https://github.com/rhiever/tpot
 
 
 
@@ -1130,6 +1132,30 @@ https://github.com/yandexdataschool/Practical_RL
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Natural Language Processing with Deep Learning (Stanford)
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Вводная лекция Максима Кретова "Введение в машинное обучение" (и далее там целый курс) MIPT ML course Feb-May 2017: introduction to ML and DL
+https://www.youtube.com/watch?v=NIfFXmtLYyE&feature=youtu.be
+https://github.com/5vision/miptmlcourse
+
+### !!!!! Probability Primer
+https://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4
+
+### !!!!! Введение в вероятностный язык построения моделей машинного обучения
+https://www.youtube.com/playlist?list=PLlb7e2G7aSpR8mbaShVBods-hGaFGifkl
+
+### !!!!!@@@@@ Monte Carlo theory, methods and examples
+http://statweb.stanford.edu/~owen/mc/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 CS231n Winter 2016
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+
+### !!!!! Slides and other stuff from a small introductory course on machine learning (in russian)
+https://github.com/gorinars/mlnotes_mstu_ru
+
+### !!!!! 10-600 Math Background for ML
+https://www.youtube.com/watch?v=7MN3OP1IYk8&list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg
+
+
 
 
 
