@@ -795,11 +795,17 @@ http://yerevann.com/a-guide-to-deep-learning/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Data Science Interview Questions
 http://www.itshared.org/2015/10/data-science-interview-questions.html
 
+### Bayesian Neural Networks in PyMC3
+https://github.com/ferrine/pymc3/blob/master/docs/source/notebooks/bayesian_neural_network_opvi-advi.ipynb
 
+### !!!!! Automatic Differentiation Variational Inference
+https://arxiv.org/abs/1603.00788
 
+### !!!!!@@@@@  "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
-
-
+### What's a Tensor?
+https://www.youtube.com/watch?v=f5liqUk0ZTw&feature=youtu.be
 
 
 
@@ -2364,13 +2370,17 @@ http://josesotelo.com/speechsynthesis/
 ### !!!!!@@@@@ http://cotique.me/
 http://cotique.me/
 
-### !!!!! Собеседование
+### !!!!!@@@@@ Собеседование
 http://cotique.me/blog/interviews
 
+### !!!!! MCMC-сэмплинг для тех, кто учился, но ничего не понял
+https://habrahabr.ru/company/wunderfund/blog/279545/
 
+### !!!!! 9 бесплатных книг по машинному обучению (книги по машинному обучению)
+https://proglib.io/p/machine-learning-free-books-list/
 
-
-
+### Serial Killers Should Fear This Algorithm
+https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm
 
 
 
