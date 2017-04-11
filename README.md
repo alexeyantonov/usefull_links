@@ -807,6 +807,8 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 ### What's a Tensor?
 https://www.youtube.com/watch?v=f5liqUk0ZTw&feature=youtu.be
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 An awesome Data Science repository to learn and apply for real world problems.
+https://github.com/bulutyazilim/awesome-datascience
 
 
 
@@ -2265,13 +2267,24 @@ https://github.com/ZFTurbo/VGG16-Pretrained-C
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Unsupervised sentiment neuron
 https://blog.openai.com/unsupervised-sentiment-neuron/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Why Momentum Really Works
+http://distill.pub/2017/momentum/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Peek at Trends in Machine Learning
+https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 These are my solutions to the programming assignments of the class CS231n: Convolutional Neural Networks for Visual Recognition
+https://github.com/rogertrullo/Convolutional-Neural-Networks-in-python
 
+### !!!!! Towards better NLP models
+https://medium.com/@moocaholic/towards-better-nlp-models-dbf13b1d640f
 
+### !!!!! Machine-Learning Algorithm Identifies Tweets Sent Under the Influence of Alcohol
+https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/601051/machine-learning-algorithm-identifies-tweets-sent-under-the-influence-of-alcohol/amp/
+http://arxiv.org/abs/1603.03181
 
-
-
+### CityClass project анализ морфотипов городской застройки при помощи нейросети
+https://medium.com/@romankuchukov/cityclass-project-37a9ebaa1df7
 
 
 
@@ -2975,8 +2988,8 @@ http://www.forbes.ru/tehnologii/340597-rynok-finteh-startapov-chto-zhdet-otrasl?
 ### !!! Cards VS e-Wallets
 https://habrahabr.ru/company/chronopay/blog/323882/
 
-
-
+### !!!!! Вместо банков. Какие альтернативы банковским услугам предлагают финансовые стартапы
+http://www.forbes.ru/finansy-i-investicii/341393-vmesto-bankov-kakie-alternativy-bankovskim-uslugam-predlagayut?utm_source=facebook&utm_medium=social&utm_campaign=targetings-forbes&utm_content=%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B#0_5_3637_12348_586_134849995
 
 
 
