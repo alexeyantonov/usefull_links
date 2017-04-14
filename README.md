@@ -2286,8 +2286,21 @@ http://arxiv.org/abs/1603.03181
 ### CityClass project анализ морфотипов городской застройки при помощи нейросети
 https://medium.com/@romankuchukov/cityclass-project-37a9ebaa1df7
 
+### !!!!!@@@@@ TensorFlow Tutorial: 10 minutes Practical TensorFlow lesson for quick learners
+http://cv-tricks.com/artificial-intelligence/deep-learning/deep-learning-frameworks/tensorflow-tutorial/
 
+### !!!!!@@@@@ Tensorflow Tutorial 2: image classifier using convolutional neural network
+http://cv-tricks.com/tensorflow-tutorial/training-convolutional-neural-network-for-image-classification/
 
+### !!!!!@@@@@ Библиотека глубокого обучения Tensorflow (ODS)
+https://habrahabr.ru/company/ods/blog/324898/
+
+### !!!!! spatial_transformer_networks
+https://github.com/oarriaga/spatial_transformer_networks/blob/master/src/spatial_transformer.py
+https://github.com/skaae/transformer_network/blob/master/transformerlayer.py
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Yes you should understand backprop
+https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 
 
 
