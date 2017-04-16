@@ -810,9 +810,17 @@ https://www.youtube.com/watch?v=f5liqUk0ZTw&feature=youtu.be
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 An awesome Data Science repository to learn and apply for real world problems.
 https://github.com/bulutyazilim/awesome-datascience
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Making sense of principal component analysis, eigenvectors & eigenvalues
+https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Jupyter Notebooks for the Python Data Science Handbook 
+https://github.com/jakevdp/PythonDataScienceHandbook
 
+### !!! 6 Easy Steps to Learn Naive Bayes Algorithm (with code in Python)
+https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 
+### !!!!! CButsko/ODS_course_eng
+https://github.com/CButsko/ODS_course_eng
 
 
 
@@ -1163,7 +1171,8 @@ https://github.com/gorinars/mlnotes_mstu_ru
 ### !!!!! 10-600 Math Background for ML
 https://www.youtube.com/watch?v=7MN3OP1IYk8&list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 Курс "Введение в компьютерное зрение и глубокое обучение" 2017 (Конушин)
+https://www.youtube.com/playlist?list=PLbwKcm5vdiSYL_yEwQ6JIICBA4dMtHNxo
 
 
 
@@ -2302,6 +2311,22 @@ https://github.com/skaae/transformer_network/blob/master/transformerlayer.py
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Yes you should understand backprop
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 
+### !!!!!@@@@@ Neural Complete (backend)
+https://github.com/kootenpv/neural_complete/tree/master/backend
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2822,6 +2847,8 @@ https://www.brighttalk.com/webcast/15321/248477
 ### Чат-боты не оправдали хайп прошлого года
 https://roem.ru/03-04-2017/246705/chat-bot-analitics/
 
+### !!!!! Как написать чат-бота для vk.com за 3 минуты
+https://habrahabr.ru/post/326312/
 
 
 
@@ -3124,6 +3151,8 @@ http://www.news-medical.net/news/20170315/Deep-learning-in-healthcare-a-move-tow
 ### Cестринские компании МТС и «Медси» объединят усилия ради телемедицины
 https://roem.ru/17-03-2017/245357/mts-medsi/
 
+### встреча лидеров телемедицины в Москве
+https://www.facebook.com/insies/posts/10154478748462043
 
 
 
