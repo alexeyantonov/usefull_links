@@ -822,7 +822,11 @@ https://www.analyticsvidhya.com/blog/2015/09/naive-bayes-explained/
 ### !!!!! CButsko/ODS_course_eng
 https://github.com/CButsko/ODS_course_eng
 
+### 7 книг, которые стоит прочесть для изучения Python
+https://proglib.io/p/7-python-books/
 
+### 10 лучших материалов для изучения Django
+https://proglib.io/p/django-sources/
 
 
 
@@ -1174,7 +1178,11 @@ https://www.youtube.com/watch?v=7MN3OP1IYk8&list=PL7y-1rk2cCsA339crwXMWUaBRuLBvP
 ### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 Курс "Введение в компьютерное зрение и глубокое обучение" 2017 (Конушин)
 https://www.youtube.com/playlist?list=PLbwKcm5vdiSYL_yEwQ6JIICBA4dMtHNxo
 
+### !!!!! Основы машинного обучения за неделю
+https://proglib.io/p/basics-of-ml/
 
+### !!!!!@@@@@ Введение в машинное обучение с tensorflow
+https://habrahabr.ru/post/326650/
 
 
 
@@ -2314,7 +2322,15 @@ https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 ### !!!!!@@@@@ Neural Complete (backend)
 https://github.com/kootenpv/neural_complete/tree/master/backend
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Adversarial Generator-Encoder Networks
+https://arxiv.org/abs/1704.02304
+https://github.com/DmitryUlyanov/AGE
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 really-awesome-gan
+https://github.com/nightrome/really-awesome-gan
+
+### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning
+http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/
 
 
 
