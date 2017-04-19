@@ -2332,6 +2332,13 @@ https://github.com/nightrome/really-awesome-gan
 ### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning
 http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/
 
+### !!!!!@@@@@ NVIDIA DEEPLEARNING LAB
+Introduction to Deep Learning: https://goo.gl/lcBcNO
+Image Classification with DIGITS: https://goo.gl/b6RGZE
+Image Recognition using Caffe2: https://goo.gl/USFqok
+Deep Learning for Image Segmentation: https://goo.gl/CWTMmZ
+Signal Processing using DIGITS: https://goo.gl/GPCYwT
+Object Detection with DIGITS: https://goo.gl/EtVQ1o
 
 
 
