@@ -828,6 +828,37 @@ https://proglib.io/p/7-python-books/
 ### 10 лучших материалов для изучения Django
 https://proglib.io/p/django-sources/
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 A collection of IPython notebooks covering various topics
+https://github.com/jdwittenauer/ipython-notebooks
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Minimal and Clean Reinforcement Learning Examples
+https://github.com/rlcode/reinforcement-learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2340,7 +2371,10 @@ Deep Learning for Image Segmentation: https://goo.gl/CWTMmZ
 Signal Processing using DIGITS: https://goo.gl/GPCYwT
 Object Detection with DIGITS: https://goo.gl/EtVQ1o
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Minimal and Clean Reinforcement Learning Examples
+https://github.com/rlcode/reinforcement-learning
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Keras pretrained models (VGG16 and InceptionV3) + Transfer Learning for predicting classes in the Oxford 102 flower dataset
 
 
 
