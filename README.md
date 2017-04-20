@@ -3211,8 +3211,8 @@ https://roem.ru/17-03-2017/245357/mts-medsi/
 ### встреча лидеров телемедицины в Москве
 https://www.facebook.com/insies/posts/10154478748462043
 
-
-
+### Ada is an AI-powered doctor app and telemedicine service
+https://techcrunch.com/2017/04/19/ada-health/
 
 
 
