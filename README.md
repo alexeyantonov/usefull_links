@@ -834,7 +834,9 @@ https://github.com/jdwittenauer/ipython-notebooks
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Minimal and Clean Reinforcement Learning Examples
 https://github.com/rlcode/reinforcement-learning
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Предсказываем популярность статьи на TJ
+https://habrahabr.ru/post/327072/
+https://github.com/vangaa/tj_habra_article
 
 
 
@@ -919,6 +921,18 @@ https://github.com/rhiever/tpot
 ### !!!!! auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 https://github.com/automl/auto-sklearn
 http://www.ml4aad.org/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1214,6 +1228,21 @@ https://proglib.io/p/basics-of-ml/
 
 ### !!!!!@@@@@ Введение в машинное обучение с tensorflow
 https://habrahabr.ru/post/326650/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 6.S191: Introduction to Deep Learning (A 1-week extensive survey of deep learning methods and applications)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2375,6 +2404,16 @@ Object Detection with DIGITS: https://goo.gl/EtVQ1o
 https://github.com/rlcode/reinforcement-learning
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Keras pretrained models (VGG16 and InceptionV3) + Transfer Learning for predicting classes in the Oxford 102 flower dataset
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Food Classification with Deep Learning in Keras / Tensorflow
+https://github.com/stratospark/food-101-keras
+
+### !!!!!@@@@@ Recurrent Neural Networks (RNNs) : Part 1 (NLP)
+https://blog.paperspace.com/recurrent-neural-networks-part-1-2/?utm_source=facebookgroup&utm_medium=deepai&utm_campaign&utm_content=rnn1
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Deep Neural Network from scratch
+https://matrices.io/deep-neural-network-from-scratch/
+
 
 
 
