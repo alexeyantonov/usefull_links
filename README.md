@@ -2414,10 +2414,16 @@ https://blog.paperspace.com/recurrent-neural-networks-part-1-2/?utm_source=faceb
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Deep Neural Network from scratch
 https://matrices.io/deep-neural-network-from-scratch/
 
+### !!!!!@@@@@ Building powerful image classification models using very little data
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Keras pretrained models (VGG16 and InceptionV3) + Transfer Learning for predicting classes in the Oxford 102 flower dataset
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 Hacker's guide to Neural Networks
+http://karpathy.github.io/neuralnets/
 
-
+### !!!!! Entity Embeddings of Categorical Variables
+https://arxiv.org/abs/1604.06737
 
 
 
