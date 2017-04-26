@@ -172,8 +172,11 @@ https://www.kaggle.com/laurae2/discussion
 ### !!!!!@@@@@ Победное решение конкурса ML Boot Camp III
 https://habrahabr.ru/post/324916/
 
+### !!!!!@@@@@ Спортивный анализ данных, или как стать специалистом по data science
+https://habrahabr.ru/company/yandex/blog/327444/
 
-
+### !!!!!@@@@@ Kaggle: История о том как мы учились предсказывать релевантность поисковых запросов и заняли 3-е место
+https://habrahabr.ru/post/305026/#comment_9697464
 
 
 
@@ -881,6 +884,14 @@ https://github.com/vangaa/tj_habra_article
 
 
 
+
+
+
+
+
+
+
+
 # Instruments
 ### !!!!! Python factor analysis library (PCA, CA, MCA, FAMD)
 https://github.com/MaxHalford/Prince
@@ -1231,12 +1242,14 @@ https://habrahabr.ru/post/326650/
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 6.S191: Introduction to Deep Learning (A 1-week extensive survey of deep learning methods and applications)
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Спецкурс «Прикладные задачи анализа данных»
+http://www.machinelearning.ru/wiki/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%BA%D1%83%D1%80%D1%81_%C2%AB%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%C2%BB
 
+### !!!!! Машинное обучение это весело! (Самое простое введение в машинное обучение)
+http://algotravelling.com/ru/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D1%82%D0%BE-%D0%B2%D0%B5%D1%81%D0%B5%D0%BB%D0%BE-1/
 
-
-
-
-
+### !!!!! xgboost. Теория и практика
+http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
 
 
 
