@@ -81,6 +81,12 @@ https://competitions.codalab.org/
 
 
 
+
+
+
+
+
+
 # Решения
 http://dsguide.biz/competitions/
 
@@ -841,6 +847,8 @@ https://github.com/rlcode/reinforcement-learning
 https://habrahabr.ru/post/327072/
 https://github.com/vangaa/tj_habra_article
 
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 В некотором смысле отличный тьюториал как подходить к задаче (Постановка задачи компьютерного зрения)
+https://habrahabr.ru/post/274725/
 
 
 
@@ -2438,7 +2446,8 @@ http://karpathy.github.io/neuralnets/
 ### !!!!! Entity Embeddings of Categorical Variables
 https://arxiv.org/abs/1604.06737
 
-
+### Republic - «Яндекс, сделай мне как обычно». Как IT-гиганты стали двигателями искусственного интеллекта
+http://telegra.ph/Republic---YAndeks-sdelaj-mne-kak-obychno-Kak-IT-giganty-stali-dvigatelyami-iskusstvennogo-intellekta-04-26
 
 
 
@@ -2536,8 +2545,10 @@ http://josesotelo.com/speechsynthesis/
 ### !!!!!@@@@@ http://cotique.me/
 http://cotique.me/
 
-### !!!!!@@@@@ Собеседование
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Собеседование
 http://cotique.me/blog/interviews
+https://habrahabr.ru/post/295954/
+https://habrahabr.ru/post/310776/
 
 ### !!!!! MCMC-сэмплинг для тех, кто учился, но ничего не понял
 https://habrahabr.ru/company/wunderfund/blog/279545/
