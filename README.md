@@ -864,6 +864,11 @@ https://medium.com/@mostafab/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-b
 ### !!!!! Exploration of methods for coloring t-SNE.
 https://github.com/kylemcdonald/Coloring-t-SNE/
 
+### Вычисление фрактальной размерности Минковского для плоского изображения
+https://habrahabr.ru/post/208368/
+
+### !!!!! xgboost. Теория и практика
+http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
 
 
 
@@ -1003,6 +1008,14 @@ http://www.kdnuggets.com/2015/06/ensembles-kaggle-data-science-competition-p3.ht
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&& Cтекинг (Stacking) и блендинг (Blending)
 https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
+
+
+
+
+
+
+
+
 
 
 
@@ -1277,11 +1290,11 @@ http://www.machinelearning.ru/wiki/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D0%B
 ### !!!!! Машинное обучение это весело! (Самое простое введение в машинное обучение)
 http://algotravelling.com/ru/%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D1%8D%D1%82%D0%BE-%D0%B2%D0%B5%D1%81%D0%B5%D0%BB%D0%BE-1/
 
-### !!!!! xgboost. Теория и практика
-http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
+### Ваш персональный курс по Big Data
+https://habrahabr.ru/company/mlclass/blog/252743/
 
-
-
+### !!!!! Дискретные структуры: матан для айтишников
+https://habrahabr.ru/post/252077/
 
 
 
