@@ -184,7 +184,8 @@ https://habrahabr.ru/company/yandex/blog/327444/
 ### !!!!!@@@@@ Kaggle: История о том как мы учились предсказывать релевантность поисковых запросов и заняли 3-е место
 https://habrahabr.ru/post/305026/#comment_9697464
 
-
+### !!!!!@@@@@ Allstate Claims Severity
+https://github.com/Lucidyan/allstate/blob/master/allstate_report.pdf
 
 
 
@@ -850,7 +851,8 @@ https://github.com/vangaa/tj_habra_article
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 В некотором смысле отличный тьюториал как подходить к задаче (Постановка задачи компьютерного зрения)
 https://habrahabr.ru/post/274725/
 
-
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 No, Kaggle is unsuitable to study AI & ML. A reply to Ben Hamner
+https://medium.com/@mostafab/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede
 
 
 
@@ -923,6 +925,16 @@ https://blog.keras.io/introducing-keras-2.html
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 https://github.com/rhiever/tpot
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2448,6 +2460,24 @@ https://arxiv.org/abs/1604.06737
 
 ### Republic - «Яндекс, сделай мне как обычно». Как IT-гиганты стали двигателями искусственного интеллекта
 http://telegra.ph/Republic---YAndeks-sdelaj-mne-kak-obychno-Kak-IT-giganty-stali-dvigatelyami-iskusstvennogo-intellekta-04-26
+
+### !!!!! How to Learn Deep Learning (when you’re not a computer science PhD)
+https://vimeo.com/214233053
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
+http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
