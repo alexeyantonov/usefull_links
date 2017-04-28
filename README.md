@@ -188,8 +188,14 @@ https://habrahabr.ru/post/305026/#comment_9697464
 ### !!!!!@@@@@ Allstate Claims Severity
 https://github.com/Lucidyan/allstate/blob/master/allstate_report.pdf
 
+### !!!!!@@@@@ Dogs vs. Cats Redux Playground Competition, 3rd Place Interview: Marco Lugo
+http://blog.kaggle.com/2017/04/20/dogs-vs-cats-redux-playground-competition-3rd-place-interview-marco-lugo/
 
+### What kind of player will be admitted into the hall of fame in baseball?
+https://www.kaggle.com/rochachan/d/seanlahman/the-history-of-baseball/how-to-be-a-member-of-baseball-hall-of-fame
 
+### !!!!!@@@@@ Dstl Satellite Imagery Competition, 1st Place Winner's Interview: Kyle Lee
+http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/
 
 
 
@@ -855,6 +861,8 @@ https://habrahabr.ru/post/274725/
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 No, Kaggle is unsuitable to study AI & ML. A reply to Ben Hamner
 https://medium.com/@mostafab/no-kaggle-is-unsuitable-to-study-ai-ml-a-reply-to-ben-hamner-27283878cede
 
+### !!!!! Exploration of methods for coloring t-SNE.
+https://github.com/kylemcdonald/Coloring-t-SNE/
 
 
 
