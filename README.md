@@ -175,8 +175,9 @@ https://github.com/ArdalanM/pyLightGBM/blob/master/notebooks/regression_example_
 ### !!!!! very good blog (discussions) @ kaggle
 https://www.kaggle.com/laurae2/discussion
 
-### !!!!!@@@@@ Победное решение конкурса ML Boot Camp III
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Победное решение конкурса ML Boot Camp III
 https://habrahabr.ru/post/324916/
+https://github.com/KarachunMikhail/mlbootcamp_online_game
 
 ### !!!!!@@@@@ Спортивный анализ данных, или как стать специалистом по data science
 https://habrahabr.ru/company/yandex/blog/327444/
