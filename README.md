@@ -870,7 +870,8 @@ https://habrahabr.ru/post/208368/
 ### !!!!! xgboost. Теория и практика
 http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
 
-
+### !!!!!@@@@@ XGBOOST on steroids/GPU
+https://www.kaggle.com/general/26429
 
 
 
@@ -940,6 +941,8 @@ https://blog.keras.io/introducing-keras-2.html
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.
 https://github.com/rhiever/tpot
 
+### !!!!! A Python implementation of global optimization with gaussian processes.
+https://github.com/fmfn/BayesianOptimization
 
 
 
@@ -1078,6 +1081,7 @@ http://techtalks.tv/deep_learning_nyu_spring_2014/
 http://cs231n.stanford.edu/syllabus.html
 
 http://cs224d.stanford.edu/index.html
+https://www.youtube.com/playlist?list=PLCJlDcMjVoEdtem5GaohTC1o9HTTFtK7_
 
 https://computing.ece.vt.edu/~f15ece6504/
 
@@ -1086,8 +1090,6 @@ http://videolectures.net/deeplearning2015_montreal/
 https://courses.edx.org/courses/course-v1:MITx+15.071x_3+1T2016/info
 
 https://work.caltech.edu/lectures.html#lectures
-
-http://cs224d.stanford.edu/
 
 https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb
 
@@ -2489,7 +2491,14 @@ https://vimeo.com/214233053
 ### !!!!!@@@@@$$$$$%%%%%&&&&&88888 ImageNet: VGGNet, ResNet, Inception, and Xception with Keras
 http://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
+### !!!!! TensorFlow implementation of an arbitrary order Factorization Machine
+https://github.com/geffy/tffm
 
+### !!!!!@@@@@ Baidu Deep Voice explained: Part 1 — the Inference Pipeline
+https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df
+
+### !!!!!@@@@@ What is max pooling in convolutional neural networks?
+https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
 
 
 
