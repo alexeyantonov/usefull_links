@@ -2618,6 +2618,7 @@ http://cotique.me/
 http://cotique.me/blog/interviews
 https://habrahabr.ru/post/295954/
 https://habrahabr.ru/post/310776/
+https://www.youtube.com/watch?v=5KB5KAak6tM
 
 ### !!!!! MCMC-сэмплинг для тех, кто учился, но ничего не понял
 https://habrahabr.ru/company/wunderfund/blog/279545/
