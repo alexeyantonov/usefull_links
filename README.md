@@ -1253,6 +1253,7 @@ https://github.com/yandexdataschool/Practical_RL
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Natural Language Processing with Deep Learning (Stanford)
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&index=1
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Вводная лекция Максима Кретова "Введение в машинное обучение" (и далее там целый курс) MIPT ML course Feb-May 2017: introduction to ML and DL
 https://www.youtube.com/watch?v=NIfFXmtLYyE&feature=youtu.be
@@ -1298,6 +1299,10 @@ https://habrahabr.ru/company/mlclass/blog/252743/
 
 ### !!!!! Дискретные структуры: матан для айтишников
 https://habrahabr.ru/post/252077/
+
+
+
+
 
 
 
@@ -2501,7 +2506,9 @@ https://blog.athelas.com/paper-1-baidus-deep-voice-675a323705df
 ### !!!!!@@@@@ What is max pooling in convolutional neural networks?
 https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
 
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 A curated list of awesome Deep Learning tutorials, projects and communities
+https://github.com/ChristosChristofidis/awesome-deep-learning
+https://github.com/llSourcell/pytorch_in_5_minutes/blob/master/demo.py
 
 
 
