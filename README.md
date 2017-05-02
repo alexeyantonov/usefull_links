@@ -873,7 +873,8 @@ http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
 ### !!!!!@@@@@ XGBOOST on steroids/GPU
 https://www.kaggle.com/general/26429
 
-
+### !!!!!@@@@@ PyTorch in 5 Minutes
+https://www.youtube.com/watch?v=nbJ-2G2GXL0&feature=youtu.be
 
 
 
@@ -2893,6 +2894,25 @@ https://habrahabr.ru/company/centosadmin/blog/323556/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## !!!!!@@@@@ выступления на pydata
+### Diagnosing Machine Learning Models 
+https://www.youtube.com/watch?v=ZD8LA3n6YvI&feature=youtu.be
+
+### Siamese LSTM in Keras: Learning Character-Based Phrase
+https://www.youtube.com/watch?v=SWjIoRNTCdU
 
 
 
