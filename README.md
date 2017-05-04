@@ -876,6 +876,12 @@ https://www.kaggle.com/general/26429
 ### !!!!!@@@@@ PyTorch in 5 Minutes
 https://www.youtube.com/watch?v=nbJ-2G2GXL0&feature=youtu.be
 
+### !!!!!@@@@@ Learning Deep Learning with Keras
+http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
+
+### !!!!!@@@@@ How Feature Engineering can help you do well in a Kaggle competition - Part I
+https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-i-9cc9a883514d
+
 
 
 
@@ -2510,11 +2516,17 @@ https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
 https://github.com/ChristosChristofidis/awesome-deep-learning
 https://github.com/llSourcell/pytorch_in_5_minutes/blob/master/demo.py
 
+### !!!!! Visual Attribute Transfer through Deep Image Analogy
+https://arxiv.org/pdf/1705.01088.pdf
 
+### !!!!! discoGAN
+https://github.com/llSourcell/GANS-for-style-transfer
 
+### !!!!! Benchmarks for popular CNN models
+https://github.com/jcjohnson/cnn-benchmarks
 
-
-
+### !!!!!@@@@@ Learning Deep Learning with Keras
+http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 
 
 
@@ -2614,12 +2626,6 @@ http://josesotelo.com/speechsynthesis/
 ### !!!!!@@@@@ http://cotique.me/
 http://cotique.me/
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Собеседование
-http://cotique.me/blog/interviews
-https://habrahabr.ru/post/295954/
-https://habrahabr.ru/post/310776/
-https://www.youtube.com/watch?v=5KB5KAak6tM
-
 ### !!!!! MCMC-сэмплинг для тех, кто учился, но ничего не понял
 https://habrahabr.ru/company/wunderfund/blog/279545/
 
@@ -2628,6 +2634,64 @@ https://proglib.io/p/machine-learning-free-books-list/
 
 ### Serial Killers Should Fear This Algorithm
 https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Собеседование
+http://cotique.me/blog/interviews
+https://habrahabr.ru/post/295954/
+https://habrahabr.ru/post/310776/
+https://www.youtube.com/watch?v=5KB5KAak6tM
+https://proglib.io/p/career-digest/
+
+
+
+
+
+
+
+
 
 
 
@@ -2900,7 +2964,8 @@ https://roem.ru/22-03-2017/245684/baidu-ai-head/
 ### !!!!!@@@@@ Сможет ли Питон прожевать миллион запросов в секунду?
 https://habrahabr.ru/company/centosadmin/blog/323556/
 
-
+### !!!!!@@@@@ Названы победители хакатона Spacehack от фонда Николая Давыдова
+https://rb.ru/news/spacehack-winners/
 
 
 
@@ -3371,6 +3436,18 @@ https://www.facebook.com/insies/posts/10154478748462043
 
 ### Ada is an AI-powered doctor app and telemedicine service
 https://techcrunch.com/2017/04/19/ada-health/
+
+### Republic - Нейросеть в халате. Сможет ли искусственный интеллект заменить врачей
+http://telegra.ph/Republic---Nejroset-v-halate-Smozhet-li-iskusstvennyj-intellekt-zamenit-vrachej-04-28
+
+
+
+
+
+
+
+
+
 
 
 
