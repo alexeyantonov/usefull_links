@@ -2528,6 +2528,8 @@ https://github.com/jcjohnson/cnn-benchmarks
 ### !!!!!@@@@@ Learning Deep Learning with Keras
 http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 
+### !!!!! Image Kernels
+http://setosa.io/ev/image-kernels/
 
 
 
