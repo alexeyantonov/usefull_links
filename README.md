@@ -197,10 +197,14 @@ https://www.kaggle.com/rochachan/d/seanlahman/the-history-of-baseball/how-to-be-
 ### !!!!!@@@@@ Dstl Satellite Imagery Competition, 1st Place Winner's Interview: Kyle Lee
 http://blog.kaggle.com/2017/04/26/dstl-satellite-imagery-competition-1st-place-winners-interview-kyle-lee/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Keras ConvNet LB 0.0052 w/ Visualization
+https://www.kaggle.com/abhmul/keras-convnet-lb-0-0052-w-visualization
 
+### !!!!!@@@@@ Leaf Classification Competition: 1st Place Winner's Interview, Ivan Sosnovik
+http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winners-interview-ivan-sosnovik/
 
-
-
+### !!!!!@@@@@ March Machine Learning Mania, 4th Place Winner's Interview: Erik Forseth
+http://blog.kaggle.com/2017/05/05/march-machine-learning-mania-4th-place-winners-interview-erik-forseth/
 
 
 
@@ -882,9 +886,20 @@ http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 ### !!!!!@@@@@ How Feature Engineering can help you do well in a Kaggle competition - Part I
 https://medium.com/unstructured/how-feature-engineering-can-help-you-do-well-in-a-kaggle-competition-part-i-9cc9a883514d
 
+### !!!!!@@@@@ PCA + feature enginering
+https://drive.google.com/file/d/0B1WwFMq7KtPuRjVZc1U4aXRUa3c/view
 
+### !!!!!@@@@@ opencv edge detection (contour features)
+http://docs.opencv.org/3.1.0/dd/d49/tutorial_py_contour_features.html
 
+### !!!!! A study on Regression applied to the Ames dataset
+https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
 
+### !!!!!@@@@@ Comprehensive data exploration with Python
+https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+
+### !!!!!@@@@@ Non-Maximum Suppression for Object Detection in Python
+http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
 
 
 
@@ -2531,6 +2546,16 @@ http://p.migdal.pl/2017/04/30/teaching-deep-learning.html
 ### !!!!! Image Kernels
 http://setosa.io/ev/image-kernels/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Tensorflow Implementation of PathNet: Evolution Channels Gradient Descent in Super Neural Networks
+https://github.com/jaesik817/pathnet
+https://arxiv.org/pdf/1701.08734.pdf
+
+### Нейрокурятник часть 0. Или нейро- без курятника Или как правильно закоптиться в нейросети
+http://spark-in.me/post/neural-chicken-coop-0
+
+### !!!!!@@@@@ Modification of convolutional neural net "UNET" for image segmentation in Keras framework
+https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model
+
 
 
 
@@ -3313,6 +3338,8 @@ https://habrahabr.ru/company/chronopay/blog/323882/
 ### !!!!! Вместо банков. Какие альтернативы банковским услугам предлагают финансовые стартапы
 http://www.forbes.ru/finansy-i-investicii/341393-vmesto-bankov-kakie-alternativy-bankovskim-uslugam-predlagayut?utm_source=facebook&utm_medium=social&utm_campaign=targetings-forbes&utm_content=%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D1%8B#0_5_3637_12348_586_134849995
 
+### Часть 1. Где хранить данные децентрализованным приложениям на блокчейне?
+https://habrahabr.ru/post/327836/
 
 
 
