@@ -901,6 +901,8 @@ https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
 ### !!!!!@@@@@ Non-Maximum Suppression for Object Detection in Python
 http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
 
+### !!!!! Effectively Using Matplotlib
+http://pbpython.com/effective-matplotlib.html
 
 
 
@@ -2556,11 +2558,23 @@ http://spark-in.me/post/neural-chicken-coop-0
 ### !!!!!@@@@@ Modification of convolutional neural net "UNET" for image segmentation in Keras framework
 https://github.com/ZFTurbo/ZF_UNET_224_Pretrained_Model
 
+### !!!!! Эволюция нейросетей для распознавания изображений в Google: Inception-ResNet
+https://habrahabr.ru/post/303196/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Deep Learning Papers by task
+https://github.com/sbrugman/deep-learning-papers
 
+### !!!!! Neural Networks : A 30,000 Feet View for Beginners
+http://www.learnopencv.com/neural-networks-a-30000-feet-view-for-beginners/
 
+### !!!!!@@@@@ Convolutional Neural Networks Tutorial in TensorFlow
+http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
 
+### !!! Beating the Teacher: Neural Ranking Models with Weak Supervision
+http://humanities.uva.nl/~dehghani/2017/04/23/beating-the-teacher-neural-ranking-models-with-weak-supervision/
 
+### !!!!! Keras Tutorial: Deep Learning in Python
+https://www.datacamp.com/community/tutorials/deep-learning-python#gs.fbaNAmI
 
 
 
@@ -3157,7 +3171,8 @@ https://roem.ru/03-04-2017/246705/chat-bot-analitics/
 ### !!!!! Как написать чат-бота для vk.com за 3 минуты
 https://habrahabr.ru/post/326312/
 
-
+### !!!!! Building a ChatBot with Python, NLTK and scikit
+https://www.youtube.com/watch?v=M_ZIS8SC5f8
 
 
 
@@ -3501,3 +3516,13 @@ http://telegra.ph/Republic---Nejroset-v-halate-Smozhet-li-iskusstvennyj-intellek
 
 # aviasales
 https://meduza.io/feature/2016/09/27/poshutit-v-druguyu-storonu
+
+
+
+# на обзор
+http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
+https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
+http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
+https://matrices.io/deep-neural-network-from-scratch/
+https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
