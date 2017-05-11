@@ -206,7 +206,9 @@ http://blog.kaggle.com/2017/03/24/leaf-classification-competition-1st-place-winn
 ### !!!!!@@@@@ March Machine Learning Mania, 4th Place Winner's Interview: Erik Forseth
 http://blog.kaggle.com/2017/05/05/march-machine-learning-mania-4th-place-winners-interview-erik-forseth/
 
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 как начать кэгл
+https://github.com/mephistopheies/mlworkshop39_042017/blob/master/3_masterclass/ipy/feature_extraction.ipynb
+https://github.com/mephistopheies/mlworkshop39_042017
 
 
 
@@ -1323,6 +1325,11 @@ https://habrahabr.ru/company/mlclass/blog/252743/
 ### !!!!! Дискретные структуры: матан для айтишников
 https://habrahabr.ru/post/252077/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Data Mining in Action
+https://www.youtube.com/channel/UCop3CelRVvrchG5lsPyxvHg/videos
+https://github.com/alexeyantonov/MIPT_Data_Mining_In_Action_2016
+http://datamininginaction.ru/
+https://github.com/vkantor
 
 
 
@@ -2576,6 +2583,22 @@ http://humanities.uva.nl/~dehghani/2017/04/23/beating-the-teacher-neural-ranking
 ### !!!!! Keras Tutorial: Deep Learning in Python
 https://www.datacamp.com/community/tutorials/deep-learning-python#gs.fbaNAmI
 
+### !!!!!@@@@@ Gelato Convolutional MNIST
+https://ferrine.github.io/blog/2017/05/08/gelato-convolutional-mnist/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3401,7 +3424,18 @@ https://vc.ru/p/hackaton-minkult
 
 
 
+
+
+
+
+
+
+
+
 # medicine
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Medical Data for Machine Learning
+https://github.com/beamandrew/medical-data
+
 https://roem.ru/25-08-2016/231607/iri-generaly-za-zdorove/
 
 https://geektimes.ru/post/280520/
