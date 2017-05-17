@@ -906,11 +906,15 @@ http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection
 ### !!!!! Effectively Using Matplotlib
 http://pbpython.com/effective-matplotlib.html
 
+### !!!!!@@@@@ VK API на Python
+https://proglib.io/p/python-vk-api-1/
+https://proglib.io/p/python-vk-api-2/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 An overview of gradient descent optimization algorithms
+http://sebastianruder.com/optimizing-gradient-descent/
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Performing Hyperparameter Optimization with Amazon Machine Learning
+https://github.com/alexandraj777/machine-learning-samples/tree/master/hyperparameter-optimization
 
 
 
@@ -970,7 +974,8 @@ https://github.com/rhiever/tpot
 ### !!!!! A Python implementation of global optimization with gaussian processes.
 https://github.com/fmfn/BayesianOptimization
 
-
+### !!!!! NLP
+https://spacy.io/
 
 
 
@@ -2586,6 +2591,43 @@ https://www.datacamp.com/community/tutorials/deep-learning-python#gs.fbaNAmI
 ### !!!!!@@@@@ Gelato Convolutional MNIST
 https://ferrine.github.io/blog/2017/05/08/gelato-convolutional-mnist/
 
+### !!!!!@@@@@ Neural networks for algorithmic trading 1.2 — Correct time series forecasting + backtesting
+https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-part-one-simple-time-series-forecasting-f992daa1045a
+https://medium.com/@alexrachnog/neural-networks-for-algorithmic-trading-1-2-correct-time-series-forecasting-backtesting-9776bfd9e589
+
+### !!!!!@@@@@ Deep Learning with TensorFlow on Spark – TensorFrames
+https://theintelligenceofinformation.wordpress.com/2017/05/15/deep-learning-with-tensorflow-on-spark/
+
+### !!!!!@@@@@ Launching Astra: How Deep Learning helped us launch our Financial Intelligence startup
+https://medium.com/udacity/launching-astra-fab2b76b6420
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Your tl;dr by an ai: a deep reinforced model for abstractive summarization
+https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abstractive-summarization
+
+### !!!!!@@@@@ Deep Learning Basics: The Score Function & Cross Entropy
+https://aboveintelligent.com/deep-learning-basics-the-score-function-cross-entropy-d6cc20c9f972
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 contesr and solution by dremovd
+https://www.codingame.com/multiplayer/bot-programming/coders-strike-back
+https://github.com/dremovd/codingame-racers
+https://www.liveedu.tv/dremovd/Rvo90-mixed-ai/YGGK8-mixed-ai-4/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3051,7 +3093,11 @@ https://www.youtube.com/watch?v=ZD8LA3n6YvI&feature=youtu.be
 ### Siamese LSTM in Keras: Learning Character-Based Phrase
 https://www.youtube.com/watch?v=SWjIoRNTCdU
 
+### !!!!!@@@@@ Andrew Rowan - Bayesian Deep Learning with Edward (and a trick using Dropout)
+https://www.youtube.com/watch?v=I09QVNrUS3Q
 
+### !!!!!@@@@@ Lev Konstantinovskiy - Next generation of word embeddings in Gensim
+https://www.youtube.com/watch?v=7530Tn2J0Mc
 
 
 
