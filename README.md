@@ -916,7 +916,11 @@ http://sebastianruder.com/optimizing-gradient-descent/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Performing Hyperparameter Optimization with Amazon Machine Learning
 https://github.com/alexandraj777/machine-learning-samples/tree/master/hyperparameter-optimization
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Keras tutorial – build a convolutional neural network in 11 lines
+http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 
+### !!!!! Effectively Using Matplotlib
+http://pbpython.com/effective-matplotlib.html
 
 
 
@@ -2607,10 +2611,48 @@ https://metamind.io/research/your-tldr-by-an-ai-a-deep-reinforced-model-for-abst
 ### !!!!!@@@@@ Deep Learning Basics: The Score Function & Cross Entropy
 https://aboveintelligent.com/deep-learning-basics-the-score-function-cross-entropy-d6cc20c9f972
 
-### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 contesr and solution by dremovd
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 contest and solution by dremovd
 https://www.codingame.com/multiplayer/bot-programming/coders-strike-back
 https://github.com/dremovd/codingame-racers
 https://www.liveedu.tv/dremovd/Rvo90-mixed-ai/YGGK8-mixed-ai-4/
+
+### !!!!!@@@@@ Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices
+https://github.com/thtrieu/darkflow
+
+### !!!!! Various models and code for the paraphrase identification task, specifically with the Quora Question Pairs dataset.
+https://github.com/nelson-liu/paraphrase-id-tensorflow
+
+### !!!!!@@@@@ The Extraordinary Link Between Deep Neural Networks and the Nature of the Universe
+https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/602344/the-extraordinary-link-between-deep-neural-networks-and-the-nature-of-the-universe/amp/
+
+### A simple neural network with Python and Keras
+http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/?utm_content=buffer501de&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### Google’s New AI Is Better at Creating AI Than the Company’s Engineers
+https://futurism.com/googles-new-ai-is-better-at-creating-ai-than-the-companys-engineers/
+
+### !!!!!@@@@@ Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+https://github.com/oarriaga/face_classification
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Keras tutorial – build a convolutional neural network in 11 lines
+http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3073,6 +3115,22 @@ https://habrahabr.ru/company/centosadmin/blog/323556/
 ### !!!!!@@@@@ Названы победители хакатона Spacehack от фонда Николая Давыдова
 https://rb.ru/news/spacehack-winners/
 
+### !!!!!@@@@@ Программиста лишили приза за победу в конкурсе разработчиков из-за российского гражданства
+http://www.cnews.ru/news/top/2017-05-22_russkogo_programmista_lishili_priza_posle_pobedy
+
+### quck draw dataset
+https://quickdraw.withgoogle.com/data
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -3243,9 +3301,17 @@ https://habrahabr.ru/post/326312/
 ### !!!!! Building a ChatBot with Python, NLTK and scikit
 https://www.youtube.com/watch?v=M_ZIS8SC5f8
 
+### !!!!!@@@@@ Bot Code Examples
+https://core.telegram.org/bots/samples
 
+### !!!!! Simple-Echo-Telegram-Bot
+https://github.com/sooyhwang/Simple-Echo-Telegram-Bot
 
+### !!!!! We have made you a wrapper you can't refuse https://python-telegram-bot.org
+https://github.com/python-telegram-bot/python-telegram-bot
 
+### !!!!! weather cast information based on location for Telegram
+https://github.com/mustafababil/Telegram-Weather-Bot
 
 
 
