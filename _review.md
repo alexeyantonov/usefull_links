@@ -1,0 +1,7 @@
+# на обзор
+http://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/
+https://www.quora.com/What-is-max-pooling-in-convolutional-neural-networks
+http://biostat-r.blogspot.ru/2016/08/xgboost.html?m=1
+https://matrices.io/deep-neural-network-from-scratch/
+https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
+https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
