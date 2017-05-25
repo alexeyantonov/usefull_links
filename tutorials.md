@@ -1,4 +1,8 @@
 # Тьюториалы
+
+### ods course tutorials
+https://github.com/Yorko/mlcourse_open/tree/master/jupyter_notebooks/tutorials
+
 ### Check-list для подготовки качественной презентации
 https://habrahabr.ru/post/317546/
 
