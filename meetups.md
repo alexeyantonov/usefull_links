@@ -10,3 +10,8 @@ https://www.youtube.com/watch?v=I09QVNrUS3Q
 
 ### !!!!!@@@@@ Lev Konstantinovskiy - Next generation of word embeddings in Gensim
 https://www.youtube.com/watch?v=7530Tn2J0Mc
+
+
+# Data Fest Kyiv 2017
+https://github.com/udsclub/DataFestKyiv2017
+
