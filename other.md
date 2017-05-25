@@ -383,6 +383,16 @@ https://proglib.io/p/machine-learning-free-books-list/
 ### Serial Killers Should Fear This Algorithm
 https://www.bloomberg.com/news/features/2017-02-08/serial-killers-should-fear-this-algorithm
 
+### !!!!! Inside Mark Zuckerberg’s Bold Plan For The Future Of Facebook
+https://www.fastcompany.com/3052885/mark-zuckerberg-facebook
 
+### Контроль и свобода: Как отличается корпоративная культура Apple и Google
+http://incrussia.ru/understand/kontrol-i-svoboda-kak-otlichaetsya-korporativnaya-kultura-apple-i-google/
+
+### «Додумались бы воду отключить и свет». Гаджи Махтиев — о конфликтах в Rambler&Co, новом проекте, блогере Соколовском и киберспортивном инвесторе Усманове
+https://roem.ru/24-05-2017/250639/gadji-interview/
+
+### Привет от Ким Чен Ына. Чем известны предполагаемые создатели вируса WannaCry?
+http://telegra.ph/Republic---Privet-ot-Kim-CHen-Yna-CHem-izvestny-predpolagaemye-sozdateli-virusa-WannaCry-05-23
 
 
