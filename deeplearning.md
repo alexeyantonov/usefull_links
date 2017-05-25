@@ -1265,3 +1265,14 @@ https://github.com/oarriaga/face_classification
 
 ### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Keras tutorial – build a convolutional neural network in 11 lines
 http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Generating Images with Perceptual Similarity Metrics based on Deep Networks
+https://arxiv.org/pdf/1602.02644v2.pdf
+
+### !!!!!@@@@@ Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras
+https://github.com/jocicmarko/ultrasound-nerve-segmentation
+https://yadi.sk/d/cb0RfmkO3JQsgJ
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^88888 HACKER’S GUIDE TO NEURAL NETWORKS, 2
+https://opendatascience.com/blog/hacker-guide-to-neural-networks-real-valued-circuits2/
+
