@@ -132,3 +132,6 @@ http://www.forbes.ru/finansy-i-investicii/341393-vmesto-bankov-kakie-alternativy
 ### Часть 1. Где хранить данные децентрализованным приложениям на блокчейне?
 https://habrahabr.ru/post/327836/
 
+### «Газпромбанк» планирует сделать свой «Модульбанк» или «Рокетбанк» (как пойдёт)
+https://roem.ru/24-05-2017/250726/gazmodulrocket/
+
