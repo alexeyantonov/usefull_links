@@ -685,6 +685,14 @@ http://adventuresinmachinelearning.com/keras-tutorial-cnn-11-lines/
 ### !!!!! Effectively Using Matplotlib
 http://pbpython.com/effective-matplotlib.html
 
+### !!!!!@@@@@ Делаем спеллчекер на фонетических алгоритмах своими руками // Фонетические алгоритмы // scripts for slack
+https://habrahabr.ru/post/325364/
+https://habrahabr.ru/post/114947/
+https://github.com/open-data-science/autodigest
+
+### Web Scraping - It’s Your Civic Duty
+http://pbpython.com/web-scraping-mn-budget.html
+
 
 
 
