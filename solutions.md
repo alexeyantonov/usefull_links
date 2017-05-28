@@ -120,3 +120,6 @@ http://blog.kaggle.com/2017/05/05/march-machine-learning-mania-4th-place-winners
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 как начать кэгл
 https://github.com/mephistopheies/mlworkshop39_042017/blob/master/3_masterclass/ipy/feature_extraction.ipynb
 https://github.com/mephistopheies/mlworkshop39_042017
+
+### !!!!!@@@@@ Two Sigma Financial Modeling Challenge, Winner's Interview: 2nd Place, Nima Shahbazi, Chahhou Mohamed
+http://blog.kaggle.com/2017/05/25/two-sigma-financial-modeling-challenge-winners-interview-2nd-place-nima-shahbazi-chahhou-mohamed/
