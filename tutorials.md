@@ -697,16 +697,32 @@ https://github.com/open-data-science/autodigest
 ### Web Scraping - It’s Your Civic Duty
 http://pbpython.com/web-scraping-mn-budget.html
 
+### байесовский подход к анализу данных
+http://spark-in.me/post/crude-bayesian-network-approach
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Data Science at the Command Line (+ book)
+https://github.com/jeroenjanssens/data-science-at-the-command-line
 
+### !!!!!@@@@@ Taming The Beast With Regularization
+https://chaoticsenses.wordpress.com/2016/01/20/taming-the-beast-with-regularization-3/
 
+### 8 навыков, необходимых в профессии Data Scientist
+https://habrahabr.ru/company/netologyru/blog/329234/[perevod]-8-navykov--neobhodimyh-v-profe/
 
+### Introduction to Boosted Trees
+https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf
 
+### !!!!! teapot
+https://github.com/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/TeaPOT_ekaterina.ipynb
 
+### !!!!!@@@@@ Overview of Artificial Neural Networks and its Applications
+https://www.xenonstack.com/blog/overview-of-artificial-neural-networks-and-its-applications
 
+### Экспериментируем с Azure ML: Классификация, деревья решений 
+https://habrahabr.ru/company/microsoft/blog/328826/
 
+### !!!!!@@@@@ A quick complete tutorial to save and restore Tensorflow models
+http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
 
-
-
-
-
+### !!!!!@@@@@ An Intuitive Explanation of Convolutional Neural Networks
+https://medium.com/@ujjwalkarn/https-ujjwalkarn-me-2016-08-11-intuitive-explanation-convnets-7bf60a14746b
