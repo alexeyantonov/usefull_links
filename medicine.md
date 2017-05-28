@@ -84,4 +84,12 @@ https://techcrunch.com/2017/04/19/ada-health/
 ### Republic - Нейросеть в халате. Сможет ли искусственный интеллект заменить врачей
 http://telegra.ph/Republic---Nejroset-v-halate-Smozhet-li-iskusstvennyj-intellekt-zamenit-vrachej-04-28
 
+### AI in medicine
+https://medium.com/ai-in-medicines/ai-in-medicine-2920e3009258
+
+### Сбербанк приобрел 80% медицинского сервиса DocDoc.ru
+https://roem.ru/26-05-2017/250848/sberdoc-2/
+
+### Портфельный проект «Яндекса» Doc+ сделал онлайн-консультации с врачами. Как у Я.Здоровья
+https://roem.ru/26-05-2017/250870/ya-investments-for-doc/
 
