@@ -395,4 +395,20 @@ https://roem.ru/24-05-2017/250639/gadji-interview/
 ### Привет от Ким Чен Ына. Чем известны предполагаемые создатели вируса WannaCry?
 http://telegra.ph/Republic---Privet-ot-Kim-CHen-Yna-CHem-izvestny-predpolagaemye-sozdateli-virusa-WannaCry-05-23
 
+### The Man Who Is Transforming Microsoft
+http://fortune.com/satya-nadella-microsoft-ceo/
 
+### Republic - Что, если мой ребенок – психопат? Как вернуть в общество бесчувственного человека
+http://telegra.ph/Republic---CHto-esli-moj-rebenok--psihopat-Kak-vernut-v-obshchestvo-beschuvstvennogo-cheloveka-05-26
+
+### Игры разума. В чем человек пока еще может обыграть машину 
+https://republic.ru/posts/83305
+
+### !!!!!@@@@@ Как стать миллионером в 20 лет? Советы от руководителей ABBYY, Gett, Avito и других
+https://tvrain.ru/lite/galleries/investory_v_kompanii_s_odnim_faunderom_sovety_ot_rukovoditelej_abbyy_gett_avito_i_drugih-435553/#435550
+
+### Один на всех репертуар. Что известно науке о круговороте грязных денег в мире?
+https://republic.ru/posts/82093
+
+### 13 способов использовать Slack на полную мощность
+https://medium.com/russian/13-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B2-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-slack-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C-3ce0c4d6c89
