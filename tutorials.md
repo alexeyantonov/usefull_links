@@ -726,3 +726,6 @@ http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-co
 
 ### !!!!!@@@@@ An Intuitive Explanation of Convolutional Neural Networks
 https://medium.com/@ujjwalkarn/https-ujjwalkarn-me-2016-08-11-intuitive-explanation-convnets-7bf60a14746b
+
+### !!!!!@@@@@ Learn Data Science - Resources for Python & R
+https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.G8mY3ks
