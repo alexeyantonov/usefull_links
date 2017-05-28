@@ -1300,4 +1300,9 @@ https://aibusiness.com/deepminds-alpha-go-defeats-worlds-best-go-player-three-ma
 ### font vectors used for fontjoy.com
 https://github.com/Jack000/fontjoy
 
+### !!!!! A quick complete tutorial to save and restore Tensorflow models
+http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+
+### !!!!!@@@@@ Overview of Artificial Neural Networks and its Applications
+https://www.xenonstack.com/blog/overview-of-artificial-neural-networks-and-its-applications
 
