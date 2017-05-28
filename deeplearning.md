@@ -1306,3 +1306,8 @@ http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-co
 ### !!!!!@@@@@ Overview of Artificial Neural Networks and its Applications
 https://www.xenonstack.com/blog/overview-of-artificial-neural-networks-and-its-applications
 
+### !!!!!@@@@@$$$$$88888 Real-time face detection and emotion/gender classification using fer2013/imdb datasets with a keras CNN model and openCV.
+https://github.com/oarriaga/face_classification
+
+### !!!!!@@@@@$$$$$88888 Automated deep neural network design via genetic programming
+https://github.com/joeddav/devol
