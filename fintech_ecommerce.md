@@ -137,3 +137,10 @@ https://roem.ru/24-05-2017/250726/gazmodulrocket/
 
 ### «В крови и соплях от ценовой борьбы». Почему нужно считать юнит-экономику хотя бы в банках и финтехе
 https://roem.ru/23-05-2017/250575/bloody-price-wars/
+
+### Инвестору: твиттер или шаурма?
+https://journal.tinkoff.ru/razum/?utm_source=subscribers&utm_medium=mln&utm_campaign=news&utm_content=sat17
+
+### Темпы развития финансовых технологий в Украине опережают Европу — Виктор Игнатюк, Taplend
+http://psm7.com/interview/tempy-razvitiya-finansovyx-texnologij-v-ukraine-operezhayut-evropu-viktor-ignatyuk-taplend.html
+
