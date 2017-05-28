@@ -1276,3 +1276,28 @@ https://yadi.sk/d/cb0RfmkO3JQsgJ
 ### !!!!!@@@@@$$$$$%%%%%^^^^^88888 HACKER’S GUIDE TO NEURAL NETWORKS, 2
 https://opendatascience.com/blog/hacker-guide-to-neural-networks-real-valued-circuits2/
 
+### Google’s machine-learning cloud pipeline explained
+http://www.infoworld.com/article/3197405/artificial-intelligence/tpus-googles-machine-learning-pipeline-explained.html?utm_content=buffer04cf3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+### !!!!!@@@@@$$$$$ Neural networks for solving differential equations
+https://becominghuman.ai/neural-networks-for-solving-differential-equations-fa230ac5e04c
+
+### Everything that Works Works Because it's Bayesian: Why Deep Nets Generalize?
+http://www.inference.vc/everything-that-works-works-because-its-bayesian-2/
+
+### OpenAI Baselines: DQN
+https://blog.openai.com/openai-baselines-dqn/
+
+### !!!!!@@@@@ A Keras implementation of pix2pix code adapted to generate retinal images from vessel networks.
+https://github.com/costapt/vess2ret
+
+### Mask R-CNN
+https://arxiv.org/abs/1703.06870
+
+### DeepMind’s Alpha Go Defeat’s World’s Best Go Player in a Three-Match Series
+https://aibusiness.com/deepminds-alpha-go-defeats-worlds-best-go-player-three-match-series/
+
+### font vectors used for fontjoy.com
+https://github.com/Jack000/fontjoy
+
+
