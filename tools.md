@@ -27,3 +27,8 @@ https://github.com/fmfn/BayesianOptimization
 
 ### !!!!! NLP
 https://spacy.io/
+
+### A platform that helps you build, manage and monitor deep learning models http://polyaxon.com
+https://github.com/polyaxon/polyaxon
+
+
