@@ -123,3 +123,6 @@ https://github.com/mephistopheies/mlworkshop39_042017
 
 ### !!!!!@@@@@ Two Sigma Financial Modeling Challenge, Winner's Interview: 2nd Place, Nima Shahbazi, Chahhou Mohamed
 http://blog.kaggle.com/2017/05/25/two-sigma-financial-modeling-challenge-winners-interview-2nd-place-nima-shahbazi-chahhou-mohamed/
+
+### !!!!! Популярность статьи на хабре (щвы)
+http://nbviewer.jupyter.org/github/vdyashin/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/habr_popularity.ipynb
