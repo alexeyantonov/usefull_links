@@ -17,3 +17,6 @@ https://github.com/udsclub/DataFestKyiv2017
 # Отчет с Data Fest⁴ 11-12 февраля
 ### Хорошие доклады по NLP и анализ в консоли
 https://habrahabr.ru/company/mailru/blog/324078/
+
+# Python Junior Meetup № 2
+https://www.youtube.com/playlist?list=PLv_zOGKKxVpj6w2QHIFgmOBSoIVNxC54z
