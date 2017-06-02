@@ -162,8 +162,8 @@ https://www.bloomberg.com/news/features/2017-05-17/why-did-a-chinese-peroxide-co
 ### Открытка компании: «Сбербанк» продаёт банковскую тайну, чтобы Segmento было легче рекламировать фастфуд? (+ «Сбербанк»: Всё зашифровано)
 https://roem.ru/02-06-2017/251478/q-for-sber/
 
-
-
+### “Finding your calling in the era of AI is humanity’s next big leap,” Ivan Novikov, Co-founder and CEO of Wallarm
+https://buzzrobot.com/finding-your-calling-in-the-era-of-ai-is-humanitys-next-big-leap-ivan-novikov-co-founder-and-e06fd1138aef
 
 
 
