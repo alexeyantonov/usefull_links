@@ -144,3 +144,27 @@ https://journal.tinkoff.ru/razum/?utm_source=subscribers&utm_medium=mln&utm_camp
 ### Темпы развития финансовых технологий в Украине опережают Европу — Виктор Игнатюк, Taplend
 http://psm7.com/interview/tempy-razvitiya-finansovyx-texnologij-v-ukraine-operezhayut-evropu-viktor-ignatyuk-taplend.html
 
+### Андрей Романенко допродал долю и ушёл из совета директоров Qiwi
+https://roem.ru/02-06-2017/251511/romanenko-ne-qiwi/
+
+### !!!!! Текст пропадает не только в блогах, но и в поиске. Ежегодный доклад партнёра KPCB Мэри Микер
+https://roem.ru/01-06-2017/251367/mary-miker-2017/
+
+### !!!!! Silicon Valley’s Unicorns Are Overvalued
+https://www.gsb.stanford.edu/insights/silicon-valleys-unicorns-are-overvalued
+
+### Ведомости - Граждане теряют в пенсионных фондах десятки миллиардов рублей
+http://telegra.ph/Vedomosti---Grazhdane-teryayut-v-pensionnyh-fondah-desyatki-milliardov-rublej-05-28
+
+### Why Did a Chinese Peroxide Company Pay $1 Billion for a Talking Cat?
+https://www.bloomberg.com/news/features/2017-05-17/why-did-a-chinese-peroxide-company-pay-1-billion-for-a-talking-cat
+
+### Открытка компании: «Сбербанк» продаёт банковскую тайну, чтобы Segmento было легче рекламировать фастфуд? (+ «Сбербанк»: Всё зашифровано)
+https://roem.ru/02-06-2017/251478/q-for-sber/
+
+
+
+
+
+
+
