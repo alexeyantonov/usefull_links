@@ -729,3 +729,42 @@ https://medium.com/@ujjwalkarn/https-ujjwalkarn-me-2016-08-11-intuitive-explanat
 
 ### !!!!!@@@@@ Learn Data Science - Resources for Python & R
 https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.G8mY3ks
+
+### !!!!!@@@@@33333$$$$$%%%%%^^^^^&&&&&*****88888 The Open-Source Data Science Masters
+The Open-Source Data Science Masters
+
+### !!!!!@@@@@33333$$$$$%%%%%^^^^^&&&&&*****88888 Умная кормушка: Machine Learning, Raspberry Pi, Telegram, немножко магии обучения + инструкция по сборке
+https://habrahabr.ru/post/322520/
+
+### Оценка качества алгоритмов распознавания лиц
+https://habrahabr.ru/company/ntechlab/blog/329412/
+
+### Почему следует полностью переходить на Kotlin
+https://habrahabr.ru/company/mailru/blog/329294/
+
+### !!!!!@@@@@ Нейронные сети в детектировании номеров
+https://habrahabr.ru/company/recognitor/blog/329636/
+
+### !!!!!@@@@@ Quora Question Pairs. Quick guide for making 0.10112 score.
+https://www.kaggle.com/blackbear2017/quick-guide-for-making-0-10112-score-technosphere
+
+### !!!!!@@@@@ pure tfidf model
+https://www.kaggle.com/plarmuseau/pure-tfidf-model-score-lb0-5-binary-answer-lb-11
+
+### !!!!!@@@@@ A Big Data Cheat Sheet: From Narrow AI to General AI
+https://blog.statsbot.co/3-types-of-artificial-intelligence-4fb7df20fdd8
+
+### !!!!!@@@@@ Linear algebra cheat sheet for deep learning
+https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c
+
+### !!!!!@@@@@ Транспонирование как линейное преобразование
+http://dxdy.ru/topic47518.html
+
+### !!!!!@@@@@ Приведение квадратичной формы к каноническому виду.
+http://mathportal.net/index.php/analiticheskaya-geometriya/privedenie-kvadratichnoj-formy-k-kanonicheskomu-vidu
+
+
+
+
+
+
