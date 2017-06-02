@@ -412,3 +412,6 @@ https://republic.ru/posts/82093
 
 ### 13 способов использовать Slack на полную мощность
 https://medium.com/russian/13-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B2-%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-slack-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%BB%D0%BD%D1%83%D1%8E-%D0%BC%D0%BE%D1%89%D0%BD%D0%BE%D1%81%D1%82%D1%8C-3ce0c4d6c89
+
+### 7 ловушек мозга, из-за которых мы неправильно тратим деньги
+https://www.sravni.ru/novost/2017/6/1/7-lovushek-mozga-iz-za-kotoryh-my-nepravilno-tratim-dengi/?utm_source=%3Ctelegram%3E&utm_medium=smm&utm_campaign=%3C01062017%3E_lentach
