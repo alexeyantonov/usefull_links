@@ -1349,3 +1349,5 @@ https://habrahabr.ru/post/322520/
 ### !!!!!@@@@@ Opportunities And Obstacles For Deep Learning In Biology And Medicine
 http://biorxiv.org/content/early/2017/05/28/142760
 
+### !!!!! Pytorch implementation of Grad-CAM
+https://github.com/jacobgil/pytorch-grad-cam
