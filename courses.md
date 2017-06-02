@@ -284,7 +284,8 @@ http://artificialbrain.xyz/natural-language-processing-with-deep-learning/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 The Open-Source Data Science Masters (awesome collection of links)
 https://github.com/datasciencemasters/go/blob/master/README.md
 
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 ODS ML course
+https://github.com/Yorko/mlcourse_open/
 
 
 
