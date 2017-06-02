@@ -1311,3 +1311,41 @@ https://github.com/oarriaga/face_classification
 
 ### !!!!!@@@@@$$$$$88888 Automated deep neural network design via genetic programming
 https://github.com/joeddav/devol
+
+### Взросление машин (yandex)
+https://www.youtube.com/watch?v=O7OFr4cl4V0&feature=youtu.be
+
+### !!!!! A platform that helps you build, manage and monitor deep learning models http://polyaxon.com
+https://github.com/polyaxon/polyaxon
+
+### Нейросеть научили верстке по картинкам интерфейса
+https://nplus1.ru/news/2017/05/30/images
+
+### An Overview of Multi-Task Learning in Deep Neural Networks
+http://sebastianruder.com/multi-task/
+
+### !!!!!@@@@@ NIPS 2016: A Survey of Tutorials, Papers, and Workshops
+https://www.twosigma.com/insights/nips-2016-a-survey-of-tutorials-papers-and-workshops-two-sigma
+
+### !!!!!@@@@@$$$$$ Deep Learning Software
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
+
+### Intel открывает доступ к clDNN [высокопроизводительной библиотеке для глубокого обучения]
+https://habrahabr.ru/company/1cloud/blog/329474/
+
+### !!!!!@@@@@ Natural Language Processing with Deep Learning (курс)
+http://artificialbrain.xyz/natural-language-processing-with-deep-learning/
+
+### !!!!!@@@@@ Эксперименты с malloc и нейронными сетями
+https://habrahabr.ru/company/mailru/blog/329518/
+
+### !!!!!@@@@@ Нейронные сети в детектировании номеров
+https://habrahabr.ru/company/recognitor/blog/329636/
+https://habrahabr.ru/company/recognitor/blog/277781/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Умная кормушка: Machine Learning, Raspberry Pi, Telegram, немножко магии обучения + инструкция по сборке
+https://habrahabr.ru/post/322520/
+
+### !!!!!@@@@@ Opportunities And Obstacles For Deep Learning In Biology And Medicine
+http://biorxiv.org/content/early/2017/05/28/142760
+
