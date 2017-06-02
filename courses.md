@@ -274,3 +274,21 @@ https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B
 
 ### !!!!! Магистерская программа «Финансовые технологии и анализ данных»
 https://www.hse.ru/ma/fintech/courses_1
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 cs231n.stanford
+http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
+
+### !!!!!@@@@@ Natural Language Processing with Deep Learning
+http://artificialbrain.xyz/natural-language-processing-with-deep-learning/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 The Open-Source Data Science Masters (awesome collection of links)
+https://github.com/datasciencemasters/go/blob/master/README.md
+
+
+
+
+
+
+
+
+
