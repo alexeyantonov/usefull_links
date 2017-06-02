@@ -127,4 +127,9 @@ https://github.com/python-telegram-bot/python-telegram-bot
 ### !!!!! weather cast information based on location for Telegram
 https://github.com/mustafababil/Telegram-Weather-Bot
 
+### !!!!!@@@@@ Умная кормушка: Machine Learning, Raspberry Pi, Telegram, немножко магии обучения + инструкция по сборке
+https://habrahabr.ru/post/322520/
+https://github.com/python-telegram-bot/python-telegram-bot
+https://habrahabr.ru/post/262247/
+https://github.com/ZlodeiBaal/BirdProject/blob/master/capture.py
 
