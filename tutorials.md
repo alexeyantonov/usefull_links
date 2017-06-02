@@ -763,6 +763,31 @@ http://dxdy.ru/topic47518.html
 ### !!!!!@@@@@ Приведение квадратичной формы к каноническому виду.
 http://mathportal.net/index.php/analiticheskaya-geometriya/privedenie-kvadratichnoj-formy-k-kanonicheskomu-vidu
 
+## !!!!!@@@@@33333$$$$$%%%%%^^^^^&&&&&*****88888 ods course tutorials
+### Экспериментируем с Azure ML: Классификация, деревья решений
+https://habrahabr.ru/company/microsoft/blog/328826/
+### word2vec
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/word2vec_demonzheg.ipynb
+### Метод прыжков для выбора числа кластеров
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/jumps_method_vdyashin.ipynb
+### Автоматизированное машинное обучение и библиотека TeaPOT
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/TeaPOT_ekaterina.ipynb
+### Convolution Neural Networks. Traffic Signs Recognition
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/traffic_signs_cnn_georguy.ipynb
+### Novelty detection при классификации изображений
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/relativity_classifier_alexander_lazarev.ipynb
+### Работа с несбалансированными выборками
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/imbalanced_problems_labintcev.ipynb?flush_cache=true
+### Рисуем интерактивные карты с Folium
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/folium_shlur.ipynb
+### Python & R Collaboration
+http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/Python_R_Collab_shakhova.ipynb
+
+
+
+
+
+
 
 
 
