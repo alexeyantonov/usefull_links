@@ -415,3 +415,9 @@ https://medium.com/russian/13-%D1%81%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%BE%D0%B2-%
 
 ### 7 ловушек мозга, из-за которых мы неправильно тратим деньги
 https://www.sravni.ru/novost/2017/6/1/7-lovushek-mozga-iz-za-kotoryh-my-nepravilno-tratim-dengi/?utm_source=%3Ctelegram%3E&utm_medium=smm&utm_campaign=%3C01062017%3E_lentach
+
+### Хомак опубликовал самоочевидную инструкцию: «как вынести сайт-конкурент из Рунета руками РКН?»
+https://roem.ru/04-06-2017/251647/kak-2-palca/
+
+### !!!!! Как я писал книгу 'Python Machine Learning'
+https://habrahabr.ru/company/piter/blog/282167/
