@@ -1354,3 +1354,6 @@ https://github.com/jacobgil/pytorch-grad-cam
 
 ### !!!!!@@@@@ Visualizing TensorFlow Graphs in Jupyter Notebooks
 https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
+
+### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
+https://www.youtube.com/watch?v=M3hBC-svNDQ
