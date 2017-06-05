@@ -165,6 +165,8 @@ https://roem.ru/02-06-2017/251478/q-for-sber/
 ### “Finding your calling in the era of AI is humanity’s next big leap,” Ivan Novikov, Co-founder and CEO of Wallarm
 https://buzzrobot.com/finding-your-calling-in-the-era-of-ai-is-humanitys-next-big-leap-ivan-novikov-co-founder-and-e06fd1138aef
 
-
+### !!!!! Платежи с Яндекс.Кассой в Telegram
+https://kassa.yandex.ru/blog/telegram
+https://core.telegram.org/bots/payments
 
 
