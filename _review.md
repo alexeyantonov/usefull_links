@@ -6,3 +6,6 @@ https://matrices.io/deep-neural-network-from-scratch/
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
 https://alexanderdyakonov.wordpress.com/2017/03/10/c%d1%82%d0%b5%d0%ba%d0%b8%d0%bd%d0%b3-stacking-%d0%b8-%d0%b1%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-blending/#more-4558
 http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture8.pdf
+
+### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
+https://www.youtube.com/watch?v=M3hBC-svNDQ
