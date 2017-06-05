@@ -1351,3 +1351,6 @@ http://biorxiv.org/content/early/2017/05/28/142760
 
 ### !!!!! Pytorch implementation of Grad-CAM
 https://github.com/jacobgil/pytorch-grad-cam
+
+### !!!!!@@@@@ Visualizing TensorFlow Graphs in Jupyter Notebooks
+https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
