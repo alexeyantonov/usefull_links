@@ -133,3 +133,10 @@ https://github.com/python-telegram-bot/python-telegram-bot
 https://habrahabr.ru/post/262247/
 https://github.com/ZlodeiBaal/BirdProject/blob/master/capture.py
 
+### !!!!!@@@@@ How to Create and Deploy a Telegram Bot?
+http://djangostars.com/blog/how-to-create-and-deploy-a-telegram-bot/
+https://www.codementor.io/djangostars/create-deploy-telegram-bot-python-7jggn472x
+
+### Starter pack for running telegram bot on the Heroku using Node.js
+https://github.com/volodymyrlut/heroku-node-telegram-bot
+
