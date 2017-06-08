@@ -421,3 +421,6 @@ https://roem.ru/04-06-2017/251647/kak-2-palca/
 
 ### !!!!! Как я писал книгу 'Python Machine Learning'
 https://habrahabr.ru/company/piter/blog/282167/
+
+### Геннадий Короткевич, самый титулованный спортивный программист мира, дает интервью Rusbase.
+https://rb.ru/longread/champion/
