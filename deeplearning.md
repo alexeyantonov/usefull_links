@@ -1367,3 +1367,6 @@ https://github.com/affinelayer/pix2pix-tensorflow
 
 ### !!!!! Try Deep Learning in Python now with a fully pre-configured VM
 https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 A Review on Deep Learning Techniques Applied to Semantic Segmentation (A very high-quality survey paper on Deep learning techniques for semantic segmentation (submitted to PAMI))
+https://arxiv.org/abs/1704.06857
