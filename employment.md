@@ -11,3 +11,6 @@ https://proglib.io/p/career-digest/
 
 ### 5 способов зарабатывать деньги будучи программистом
 https://proglib.io/p/earn-money-as-a-programmer/
+
+### Как получить работу мечты (фигня)
+https://proglib.io/p/50-interviews-p0/
