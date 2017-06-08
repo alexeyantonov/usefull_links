@@ -169,4 +169,6 @@ https://buzzrobot.com/finding-your-calling-in-the-era-of-ai-is-humanitys-next-bi
 https://kassa.yandex.ru/blog/telegram
 https://core.telegram.org/bots/payments
 
+### P2P кредитование: чем обернулась попытка перевернуть банковскую индустрию?
+http://www.forbes.ru/tehnologii/343919-p2p-kreditovanie-chem-obernulas-popytka-perevernut-bankovskuyu-industriyu?utm_source=facebook&utm_medium=social&utm_campaign=targetings-forbes&utm_content=nocategory#0_5_3637_12350_586_164089857
 
