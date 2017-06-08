@@ -293,5 +293,8 @@ https://stepik.org/course/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B
 ### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
 https://www.youtube.com/watch?v=M3hBC-svNDQ
 
+### !!!!!@@@@@ CS 20SI: Tensorflow for Deep Learning Research
+http://web.stanford.edu/class/cs20si/syllabus.html
 
-
+### !!!!!@@@@@ I ranked every Intro to Data Science course on the internet, based on thousands of data points
+https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
