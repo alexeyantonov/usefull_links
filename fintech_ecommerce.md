@@ -172,3 +172,5 @@ https://core.telegram.org/bots/payments
 ### P2P кредитование: чем обернулась попытка перевернуть банковскую индустрию?
 http://www.forbes.ru/tehnologii/343919-p2p-kreditovanie-chem-obernulas-popytka-perevernut-bankovskuyu-industriyu?utm_source=facebook&utm_medium=social&utm_campaign=targetings-forbes&utm_content=nocategory#0_5_3637_12350_586_164089857
 
+###  Что такое блокчейн? Объясняют создатель Ethereum Виталик Бутерин и представитель Ethereum в России Владислав Мартынов, создатель YotaPhone.
+https://www.vedomosti.ru/technology/video/2017/06/03/692904-chto-takoe-blokchein
