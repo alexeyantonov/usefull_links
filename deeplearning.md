@@ -1357,3 +1357,13 @@ https://blog.jakuba.net/2017/05/30/tensorflow-visualization.html
 
 ### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
 https://www.youtube.com/watch?v=M3hBC-svNDQ
+
+### Нейросеть научили превращать наброски в портреты.
+https://meduza.io/shapito/2017/06/07/neyroset-nauchili-prevraschat-nabroski-v-portrety-no-vmesto-lyudey-u-nee-poluchayutsya-monstry
+https://meduza.io/shapito/2017/02/22/eta-neyroset-narisuet-koshku-po-vashemu-nabrosku-poluchitsya-uzhasno
+http://medialeaks.ru/0506aaa-prilozhenie-prevrashhaet-izobrazheniya-v-realistichnyih-lyudey-i-eto-vash-hudshiy-nochnoy-koshmar?utm_source=vk&utm_medium=smm&utm_campaign=true_lentach
+https://affinelayer.com/pixsrv/index.html
+https://github.com/affinelayer/pix2pix-tensorflow
+
+### !!!!! Try Deep Learning in Python now with a fully pre-configured VM
+https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b
