@@ -126,3 +126,8 @@ http://blog.kaggle.com/2017/05/25/two-sigma-financial-modeling-challenge-winners
 
 ### !!!!! Популярность статьи на хабре (щвы)
 http://nbviewer.jupyter.org/github/vdyashin/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/habr_popularity.ipynb
+
+### !!!!!@@@@@ solutions thread for ods course
+https://opendatascience.slack.com/conversation/mlcourse_open/p1496237205587025
+http://nbviewer.jupyter.org/github/alexionby/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/copy_mode.ipynb
+https://nbviewer.jupyter.org/github/alexionby/mlcourse_open/blob/master/jupyter_notebooks/topic04_linear_models/Features.ipynb
