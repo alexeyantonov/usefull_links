@@ -174,3 +174,15 @@ http://www.forbes.ru/tehnologii/343919-p2p-kreditovanie-chem-obernulas-popytka-p
 
 ###  Что такое блокчейн? Объясняют создатель Ethereum Виталик Бутерин и представитель Ethereum в России Владислав Мартынов, создатель YotaPhone.
 https://www.vedomosti.ru/technology/video/2017/06/03/692904-chto-takoe-blokchein
+
+### Терминалы «Сбербанка» и других крупнейших банков вышли из строя
+https://roem.ru/09-06-2017/252141/cards-error-9-06/
+
+### Кадры: Мария Грачёва уехала в Италию и будет лишь консультантом Яндекс.Денег
+https://roem.ru/08-06-2017/252027/dengi-grachyova/
+
+
+
+
+
+
