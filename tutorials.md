@@ -783,6 +783,23 @@ http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_noteb
 ### Python & R Collaboration
 http://nbviewer.jupyter.org/github/Yorko/mlcourse_open/blob/master/jupyter_notebooks/tutorials/Python_R_Collab_shakhova.ipynb
 
+### !!!!!@@@@@ working with categorical features
+https://stackoverflow.com/questions/32011359/convert-categorical-data-in-pandas-dataframe
+https://stackoverflow.com/questions/29803093/check-which-columns-in-dataframe-are-categorical
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.select_dtypes.html
+https://pandas.pydata.org/pandas-docs/stable/categorical.html
+
+### !!!!!@@@@@ Градиентный бустинг
+https://alexanderdyakonov.wordpress.com/2017/06/09/%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%B1%D1%83%D1%81%D1%82%D0%B8%D0%BD%D0%B3/comment-page-1/#comment-523
+
+### !!!!!@@@@@$$$$$ ML meets business
+http://blog.mldb.ai/blog/
+
+
+
+
+
+
 
 
 
