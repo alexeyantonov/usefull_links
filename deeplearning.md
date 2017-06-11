@@ -1370,3 +1370,33 @@ https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-co
 
 ### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 A Review on Deep Learning Techniques Applied to Semantic Segmentation (A very high-quality survey paper on Deep learning techniques for semantic segmentation (submitted to PAMI))
 https://arxiv.org/abs/1704.06857
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&*****88888 Types of Optimization Algorithms used in Neural Networks and Ways to Optimize Gradient Descent
+https://medium.com/towards-data-science/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network
+
+### !!!!!@@@@@ Fast AI – Bringing Deep Learning To The Mainstream 
+https://www.youtube.com/watch?v=hrxy_4-GaaM
+
+### !!!!! Deep Learning Is Not Good Enough, We Need Bayesian Deep Learning for Safe AI
+http://alexgkendall.com/computer_vision/bayesian_deep_learning_for_safe_ai/
+
+### The 5 Step Life-Cycle for Long Short-Term Memory Models in Keras
+http://machinelearningmastery.com/5-step-life-cycle-long-short-term-memory-models-keras/
+
+### !!!!! Image Segmentation using deconvolution layer in Tensorflow
+http://cv-tricks.com/image-segmentation/transpose-convolution-in-tensorflow/
+
+### What is Deep Learning? Getting Started With Deep Learning
+https://www.edureka.co/blog/what-is-deep-learning?utm_campaign=social-media-edureka-june-ab&utm_medium=crosspost&utm_source=facebook
+
+### !!!!! Tensorflow I Love You, But You're Bringing Me Down
+http://blog.nateharada.com/tensorflow-i-love-you-but
+
+### !!!!!@@@@@ Self-Normalizing Neural Networks
+https://arxiv.org/abs/1706.02515
+
+### An Adversarial Review of “Adversarial Generation of Natural Language”
+https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7
+
+
