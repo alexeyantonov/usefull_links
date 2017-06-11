@@ -14,3 +14,9 @@ https://proglib.io/p/earn-money-as-a-programmer/
 
 ### Как получить работу мечты (фигня)
 https://proglib.io/p/50-interviews-p0/
+
+### Путь Python Junior-а в 2017
+https://proglib.io/p/python-junior-2017/
+
+### Как попасть на собеседование в компанию мечты
+https://proglib.io/p/50-interviews-p1/
