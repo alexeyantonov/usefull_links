@@ -1399,4 +1399,12 @@ https://arxiv.org/abs/1706.02515
 ### An Adversarial Review of “Adversarial Generation of Natural Language”
 https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7
 
+### !!!!! Neural Translation of Musical Style
+http://imanmalik.com/cs/2017/06/05/neural-style.html
+
+
+
+
+
+
 
