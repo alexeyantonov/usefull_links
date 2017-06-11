@@ -93,3 +93,14 @@ https://roem.ru/26-05-2017/250848/sberdoc-2/
 ### Портфельный проект «Яндекса» Doc+ сделал онлайн-консультации с врачами. Как у Я.Здоровья
 https://roem.ru/26-05-2017/250870/ya-investments-for-doc/
 
+### Как ходить в платные клиники и не обанкротиться
+https://www.sravni.ru/novost/2017/6/7/kak-khodit-v-platnye-kliniki-i-ne-obankrotitsja/?utm_source=%3Ctelegram%3E&utm_medium=smm&utm_campaign=%3C09062017%3E_lentach
+
+### Бот-психотерапевт сможет оказать настоящую помощь
+https://naked-science.ru/article/concept/bot-psihoterapevt-smozhet-okazat
+
+
+
+
+
+
