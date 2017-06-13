@@ -1402,7 +1402,15 @@ https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generatio
 ### !!!!! Neural Translation of Musical Style
 http://imanmalik.com/cs/2017/06/05/neural-style.html
 
+### Common Representation Learning using Deep CorrNet
+https://deeplearn.school.blog/2017/05/24/common-representation-learning-using-deep-corrnet/
 
+### !!!!! approximation (interpolation) and physics using dl
+https://arxiv.org/abs/1706.01433
+https://arxiv.org/abs/1706.02179
+
+### This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
+https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 
 
 
