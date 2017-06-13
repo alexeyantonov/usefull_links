@@ -424,3 +424,22 @@ https://habrahabr.ru/company/piter/blog/282167/
 
 ### Геннадий Короткевич, самый титулованный спортивный программист мира, дает интервью Rusbase.
 https://rb.ru/longread/champion/
+
+### Май’2017: МТС, МегаФон, Билайн теряют абонентов по MNP. Tele2 получает
+https://roem.ru/09-06-2017/252121/tele2-may-rocks/
+
+### «Анонимности не существует». Аналитик Артур Хачуян — о вычислении личности по лайкам в соцсетях и работе с государством
+http://paperpaper.ru/campus/big-data/
+
+### Кулинарный путеводитель по архитектурам AI
+https://habrahabr.ru/post/173187/
+
+### Недооценка китайского соперника
+https://tjournal.ru/45019-nedoocenka-kitaiskogo-sopernika
+
+### Т20 отличных ресурсов для изучения Kotlin
+https://proglib.io/p/learning-kotlin/
+
+
+
+
