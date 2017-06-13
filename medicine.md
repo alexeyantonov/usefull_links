@@ -99,7 +99,8 @@ https://www.sravni.ru/novost/2017/6/7/kak-khodit-v-platnye-kliniki-i-ne-obankrot
 ### Бот-психотерапевт сможет оказать настоящую помощь
 https://naked-science.ru/article/concept/bot-psihoterapevt-smozhet-okazat
 
-
+### Mail.Ru Group и Insilico Medicine используют машинное обучение для борьбы со старением
+https://corp.mail.ru/ru/press/releases/10013/
 
 
 
