@@ -20,3 +20,10 @@ https://proglib.io/p/python-junior-2017/
 
 ### Как попасть на собеседование в компанию мечты
 https://proglib.io/p/50-interviews-p1/
+
+### !!!!! J.P.Morgan’s massive guide to machine learning and big data jobs in finance
+http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
+
+
+
+
