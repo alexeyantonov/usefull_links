@@ -181,6 +181,11 @@ https://roem.ru/09-06-2017/252141/cards-error-9-06/
 ### Кадры: Мария Грачёва уехала в Италию и будет лишь консультантом Яндекс.Денег
 https://roem.ru/08-06-2017/252027/dengi-grachyova/
 
+### «Открытие» предложило выкупить до 63,85% Qiwi
+https://roem.ru/10-06-2017/252167/otqiwikritie/
+
+### !!!!! J.P.Morgan’s massive guide to machine learning and big data jobs in finance
+http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
 
 
 
