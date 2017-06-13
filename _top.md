@@ -42,3 +42,11 @@ https://github.com/eriklindernoren/ML-From-Scratch
 
 ### !!!!! Minimal and clean examples of machine learning algorithms
 https://github.com/rushter/MLAlgorithms
+
+### !!!!! J.P.Morgan’s massive guide to machine learning and big data jobs in finance
+http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
+
+
+
+
+
