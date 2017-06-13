@@ -298,3 +298,11 @@ http://web.stanford.edu/class/cs20si/syllabus.html
 
 ### !!!!!@@@@@ I ranked every Intro to Data Science course on the internet, based on thousands of data points
 https://medium.freecodecamp.com/i-ranked-all-the-best-data-science-intro-courses-based-on-thousands-of-data-points-db5dc7e3eb8e
+
+## !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Практическое введение в нейронные сети и глубокое обучение (microsoft)
+### Часть 1
+https://www.youtube.com/watch?v=uaBp0uiLvKQ
+### Часть 2
+https://www.youtube.com/watch?v=_sF8d9Yt7JI
+### Часть 3
+https://www.youtube.com/watch?v=N7hYq2dSY8A
