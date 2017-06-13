@@ -1412,6 +1412,13 @@ https://arxiv.org/abs/1706.02179
 ### This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 
+## !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Практическое введение в нейронные сети и глубокое обучение (microsoft)
+### Часть 1
+https://www.youtube.com/watch?v=uaBp0uiLvKQ
+### Часть 2
+https://www.youtube.com/watch?v=_sF8d9Yt7JI
+### Часть 3
+https://www.youtube.com/watch?v=N7hYq2dSY8A
 
 
 
