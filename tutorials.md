@@ -795,9 +795,18 @@ https://alexanderdyakonov.wordpress.com/2017/06/09/%D0%B3%D1%80%D0%B0%D0%B4%D0%B
 ### !!!!!@@@@@$$$$$ ML meets business
 http://blog.mldb.ai/blog/
 
+### !!!!!@@@@@ Отзывчивые столбчатые диаграммы с Bokeh, Flask и Python 3
+https://habrahabr.ru/post/330706/
 
+### !!!!!@@@@@88888 Essential Cheat Sheets for Machine Learning and Deep Learning Engineers
+https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+https://github.com/kailashahirwar/cheatsheets-ai
 
+### !!!!!@@@@@88888 J.P.Morgan’s massive guide to machine learning and big data jobs in finance
+http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
 
+### !!!!!@@@@@ PythonDay 2017: How Booking.com serves deep learning model predictions at large scale
+https://www.youtube.com/watch?v=95mL2nyc9TA
 
 
 
