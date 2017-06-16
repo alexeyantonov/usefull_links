@@ -23,3 +23,9 @@ https://habrahabr.ru/company/mailru/blog/324078/
 
 # Python Junior Meetup № 2
 https://www.youtube.com/playlist?list=PLv_zOGKKxVpj6w2QHIFgmOBSoIVNxC54z
+
+# ods 1st open course meetup
+### Основы нейронных сетей и Deep Learning | Технострим
+https://www.youtube.com/watch?v=db0Qxm8E2qE
+### Семинар «Deep Learning в решении задач сентимент анализа» | Технострим
+https://www.youtube.com/watch?v=C6IUbX0ePBg
