@@ -1420,6 +1420,17 @@ https://www.youtube.com/watch?v=_sF8d9Yt7JI
 ### Часть 3
 https://www.youtube.com/watch?v=N7hYq2dSY8A
 
+### A Guide to Running Tensorflow Models on Android
+https://www.youtube.com/watch?v=kFWKdLOxykE
 
+### !!!!!@@@@@ The Unreasonable Effectiveness of Recurrent Neural Networks
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
+### !!! Scientists uses ‘Hashing’ to reduce the computation required for Deep Learning
+http://www.techleer.com/articles/95-scientists-uses-hashing-to-reduce-the-computation-required-for-deep-learning/
 
+### !!!!!@@@@@88888 vis conv net
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+
+### !!!!! CortexNet: a robust predictive deep neural network trained on videos
+https://engineering.purdue.edu/elab/CortexNet/
