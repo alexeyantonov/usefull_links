@@ -187,6 +187,20 @@ https://roem.ru/10-06-2017/252167/otqiwikritie/
 ### !!!!! J.P.Morgan’s massive guide to machine learning and big data jobs in finance
 http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
 
+### Ведомости - Ethereum не справился с нагрузкой из-за ажиотажа
+http://telegra.ph/Vedomosti---Ethereum-ne-spravilsya-s-nagruzkoj-iz-za-azhiotazha-06-23
+
+### Кирка, видеокарта, шахта с биткоинами. Как перестать бояться и начать добывать криптовалюту
+http://medialeaks.ru/2006sts-txt-kirka-lopata-i-videokarta/
+
+### 15 секретов выгодного шопинга
+https://www.sravni.ru/novost/2017/5/24/15-sekretov-vygodnogo-shopinga/
+
+### IPO для гиков. Как российские программисты получили $40 млн за четыре дня?
+https://republic.ru/posts/84118
+
+
+
 
 
 
