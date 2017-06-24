@@ -306,3 +306,47 @@ https://www.youtube.com/watch?v=uaBp0uiLvKQ
 https://www.youtube.com/watch?v=_sF8d9Yt7JI
 ### Часть 3
 https://www.youtube.com/watch?v=N7hYq2dSY8A
+
+### !!!!!@@@@@$$$$$%%%%%&&&&&88888 The Analytics Edge
+https://www.edx.org/course/analytics-edge-mitx-15-071x-3
+
+### !!!!!@@@@@ ods math list
+https://docs.google.com/document/d/10IkL_EUSNMm1WLzUoPitDNs3MIo2Dvx0xQR56EMhK2E/edit#heading=h.70uvo7zhg5n
+https://docs.google.com/spreadsheets/d/193UEIEFKkuD-glKFIJiy50r_NIsqV6m3YG7DjYKAUnw/edit#gid=0
+
+### !!!!!@@@@@ A curated list of awesome mathematics resources
+https://github.com/rossant/awesome-math
+
+### !!!!!@@@@@ Scipy Lecture Notes
+http://www.scipy-lectures.org/
+
+### !!!!!@@@@@ Vowpal wabbit tutorial
+https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem08_vw.pdf
+
+### !!!!@@@@@ ods ml course in english
+https://github.com/CButsko/ODS_course_eng/
+
+### !!!!! Sparse Matrices and their Compression Algorithms
+https://dark-element.com/2017/06/11/sparse-matrices-and-their-compression-algorithms/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 4 книги, которые разбудят в вас математика
+https://proglib.io/p/4books-for-math/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
