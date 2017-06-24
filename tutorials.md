@@ -808,7 +808,8 @@ http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p
 ### !!!!!@@@@@ PythonDay 2017: How Booking.com serves deep learning model predictions at large scale
 https://www.youtube.com/watch?v=95mL2nyc9TA
 
-
+### !!!!!@@@@@ Convert XML structure into a Pandas DataFrame
+http://www.austintaylor.io/lxml/python/pandas/xml/dataframe/2016/07/08/convert-xml-to-pandas-dataframe/
 
 
 
