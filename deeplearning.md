@@ -1412,7 +1412,7 @@ https://arxiv.org/abs/1706.02179
 ### This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 
-## !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Практическое введение в нейронные сети и глубокое обучение (microsoft)
+## !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Практическое введение в нейронные сети и глубокое обучение (microsoft) (фигня, имхо)
 ### Часть 1
 https://www.youtube.com/watch?v=uaBp0uiLvKQ
 ### Часть 2
@@ -1434,3 +1434,29 @@ http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 
 ### !!!!! CortexNet: a robust predictive deep neural network trained on videos
 https://engineering.purdue.edu/elab/CortexNet/
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow, Keras & React Native
+https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3?_utm_source=1-2-2
+
+### pix2code: Generating Code from a Graphical User Interface Screenshot
+https://arxiv.org/abs/1705.07962
+
+### A troll app to check if an object seen by your camera is a lion. Uses iOS CoreML, Vision APIs 
+https://github.com/G2Jose/CoreMLVisionDJKhaled
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 Автоэнкодеры в Keras, Часть 1: Введение (целый курс)
+https://habrahabr.ru/post/331382/
+
+### Finding Protests in Social Media Data using CNNs and Transfer Learning
+http://cs231n.stanford.edu/reports/2017/pdfs/128.pdf
+
+### !!!!!@@@@@ Using ANNs on small data – Deep Learning vs. Xgboost
+http://maxberggren.se/2017/06/18/deep-learning-vs-xgboost/
+
+
+
+
+
+
+
+
