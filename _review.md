@@ -10,6 +10,9 @@ http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3?_utm_source=1-2-2
 
+https://habrahabr.ru/post/331382/
+
+https://proglib.io/p/docker/
 
 
 ### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
