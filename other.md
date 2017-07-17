@@ -1,3 +1,6 @@
+### Искусство учиться - обзор книги (и можно даже самому поучиться учиться)
+https://spark-in.me/post/art-of-learning
+
 # links to read/look through
 http://lifehacker.ru/2016/06/20/facts-about-metabolism/
 
@@ -439,6 +442,9 @@ https://tjournal.ru/45019-nedoocenka-kitaiskogo-sopernika
 
 ### Т20 отличных ресурсов для изучения Kotlin
 https://proglib.io/p/learning-kotlin/
+
+### Квантовый суперкомпьютер российских ученых обошел конкурента от Google
+https://knife.media/supercomputer/
 
 
 
