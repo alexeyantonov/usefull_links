@@ -199,7 +199,14 @@ https://www.sravni.ru/novost/2017/5/24/15-sekretov-vygodnogo-shopinga/
 ### IPO для гиков. Как российские программисты получили $40 млн за четыре дня?
 https://republic.ru/posts/84118
 
+### Биткоин, токены, блокчейн… Все делают вид, что разбираются в этом, а я не понимаю! Помогите!
+https://meduza.io/cards/bitkoin-tokeny-blokcheyn-vse-delayut-vid-chto-razbirayutsya-v-etom-a-ya-ne-ponimayu-pomogite
 
+### Republic - IPO для гиков. Как российские программисты получили $40 млн за четыре дня?
+http://telegra.ph/Republic---IPO-dlya-gikov-Kak-rossijskie-programmisty-poluchili-40-mln-za-chetyre-dnya-06-27
+
+### Опасные продукты
+http://www.banki.ru/news/columnists/?id=9801637
 
 
 
