@@ -811,6 +811,15 @@ https://www.youtube.com/watch?v=95mL2nyc9TA
 ### !!!!!@@@@@ Convert XML structure into a Pandas DataFrame
 http://www.austintaylor.io/lxml/python/pandas/xml/dataframe/2016/07/08/convert-xml-to-pandas-dataframe/
 
+### 27 шпаргалок по машинному обучению и Python в 2017
+https://proglib.io/p/ds-cheatsheets/
+
+### !!!!!@@@@@ Пишем свою нейросеть: пошаговое руководство
+https://proglib.io/p/neural-nets-guide/
+
+### !!!!!@@@@@ Что такое Docker, и как его использовать? Подробно рассказываем
+https://proglib.io/p/docker/
+
 
 
 
