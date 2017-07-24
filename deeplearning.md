@@ -1453,6 +1453,18 @@ http://cs231n.stanford.edu/reports/2017/pdfs/128.pdf
 ### !!!!!@@@@@ Using ANNs on small data – Deep Learning vs. Xgboost
 http://maxberggren.se/2017/06/18/deep-learning-vs-xgboost/
 
+### Learning from Demonstrations for Real World Reinforcement Learning
+https://arxiv.org/abs/1704.03732
+
+### !!!!!@@@@@ Agents that imagine and plan
+https://deepmind.com/blog/agents-imagine-and-plan/
+
+### From optimal transport to generative modeling: the VEGAN cookbook
+https://arxiv.org/abs/1705.07642
+
+### !!!!!@@@@@ The 9 Deep Learning Papers You Need To Know About
+https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+https://opendatascience.com/blog/the-9-deep-learning-papers-you-need-to-know-about-understanding-cnns-part-3/
 
 
 
