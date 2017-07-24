@@ -332,9 +332,11 @@ https://dark-element.com/2017/06/11/sparse-matrices-and-their-compression-algori
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 4 книги, которые разбудят в вас математика
 https://proglib.io/p/4books-for-math/
 
+### !!!!!@@@@@ CS50 на русском (Гарвардский курс по основам программирования)
+https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 
-
-
+### !!!!! Интернет-предпринимательство
+https://www.coursera.org/learn/internet-predprinimatelstvo/home/welcome
 
 
 
