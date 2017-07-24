@@ -820,9 +820,13 @@ https://proglib.io/p/neural-nets-guide/
 ### !!!!!@@@@@ Что такое Docker, и как его использовать? Подробно рассказываем
 https://proglib.io/p/docker/
 
+### !!!!!@@@@@ Machine Learning with scikit learn
+https://www.youtube.com/watch?v=2kT6QOVSgSg
+https://www.youtube.com/watch?v=WLYzSas511I
 
-
-
+### !!!!!@@@@@ Обработка больших данных при помощи Apache Spark
+https://www.youtube.com/watch?v=kVnCncDMX68
+https://www.youtube.com/watch?v=EWVBpdLatGw
 
 
 
