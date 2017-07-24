@@ -36,3 +36,19 @@ https://github.com/tensorflow/cleverhans
 
 ### !!!!! deep2ch-scraper
 https://github.com/kiselev1189/deep2ch-scraper
+
+### !!!!! catboost
+https://github.com/catboost
+https://yandex.ru/blog/company/catboost-novyy-metod-mashinnogo-obucheniya-ot-yandeksa
+https://nplus1.ru/material/2017/07/18/yandex-catboost
+https://www.youtube.com/watch?v=s8Q_orF4tcI&feature=youtu.be
+
+### facets (visualization)
+https://pair-code.github.io/facets/
+
+### LabelImg is a graphical image annotation tool and label object bounding boxes in images
+https://github.com/tzutalin/labelImg
+
+
+
+
