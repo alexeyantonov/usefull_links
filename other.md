@@ -446,6 +446,12 @@ https://proglib.io/p/learning-kotlin/
 ### Квантовый суперкомпьютер российских ученых обошел конкурента от Google
 https://knife.media/supercomputer/
 
+### Фото показаний счетчиков можно будет отправлять через приложение
+http://lentach.media/articles/moskvichi-smogut-platit-za-kommunalku-cherez-neiroset/
+
+
+
+
 
 
 
