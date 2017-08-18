@@ -1466,8 +1466,14 @@ https://arxiv.org/abs/1705.07642
 https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 https://opendatascience.com/blog/the-9-deep-learning-papers-you-need-to-know-about-understanding-cnns-part-3/
 
+### !!!!!@@@@@ Potato Disease Classification Using Convolution Neural Networks
+https://www.researchgate.net/publication/317287085_Potato_Disease_Classification_Using_Convolution_Neural_Networks
 
+### !!!!!@@@@@ Potato Leaf Diseases Detection and Classification System
+http://ijcsmc.com/docs/papers/February2016/V5I2201610.pdf
 
+### !!!!!@@@@@ Using Deep Learning for Image-Based Plant Disease Detection
+https://arxiv.org/pdf/1604.03169.pdf
 
 
 
