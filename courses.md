@@ -338,7 +338,8 @@ https://www.youtube.com/playlist?list=PLawfWYMUziZqyUL5QDLVbe3j5BKWj42E5
 ### !!!!! Интернет-предпринимательство
 https://www.coursera.org/learn/internet-predprinimatelstvo/home/welcome
 
-
+### !!!!!@@@@@ Deep Learning Specialization (понятно, но очень поверхностно)
+https://www.coursera.org/specializations/deep-learning
 
 
 
