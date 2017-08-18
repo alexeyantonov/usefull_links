@@ -828,8 +828,12 @@ https://www.youtube.com/watch?v=WLYzSas511I
 https://www.youtube.com/watch?v=kVnCncDMX68
 https://www.youtube.com/watch?v=EWVBpdLatGw
 
+### !!!!!@@@@@ Чудесный мир Word Embeddings: какие они бывают и зачем нужны?
+https://habrahabr.ru/company/ods/blog/329410/
+https://github.com/madrugado/word2vec-article
+https://github.com/madrugado/keras-tutorial
 
-
-
+### !!!!! subplots
+https://gist.github.com/dyerrington/dac39db54161dafc9359995924413a12
 
 
