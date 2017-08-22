@@ -1475,6 +1475,31 @@ http://ijcsmc.com/docs/papers/February2016/V5I2201610.pdf
 ### !!!!!@@@@@ Using Deep Learning for Image-Based Plant Disease Detection
 https://arxiv.org/pdf/1604.03169.pdf
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&*****88888 CVPR 2017
+https://www.youtube.com/watch?v=PV73qhNQnA0
+https://www.youtube.com/watch?v=Mljfam5zNJo
+https://www.youtube.com/watch?v=S1UUR4FlJ84
+
+### !!!!!@@@@@ doc2vec usage and issues
+https://radimrehurek.com/gensim/models/doc2vec.html
+https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
+https://medium.com/@klintcho/doc2vec-tutorial-using-gensim-ab3ac03d3a1
+https://stackoverflow.com/questions/39391753/doc2vec-how-to-cluster-docvecsarray
+https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
+https://stackoverflow.com/questions/31321209/doc2vec-how-to-get-document-vectors
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
