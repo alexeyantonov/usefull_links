@@ -1493,7 +1493,17 @@ https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
 https://habrahabr.ru/company/mailru/blog/252965/
 https://habrahabr.ru/company/microsoft/blog/314934/
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Get acquainted with U-NET architecture + some keras shortcuts (U-NET for newbies)
+https://spark-in.me/post/unet-adventures-part-one-getting-acquainted-with-unet
 
+### !!!!!@@@@@ Jeff Dean’s Lecture for YC AI
+https://blog.ycombinator.com/jeff-deans-lecture-for-yc-ai/
+
+### !!!!!@@@@@ pic2latex
+https://arxiv.org/pdf/1707.09627.pdf
+
+### Tensorflow Tutorial Series 1 (не смотрел)
+https://www.youtube.com/playlist?list=PL52d51R1IlfYH7GrT0ehSxlPSarm5sll6
 
 
 
