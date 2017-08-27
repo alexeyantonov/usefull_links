@@ -211,5 +211,16 @@ http://www.banki.ru/news/columnists/?id=9801637
 ### !!!!! Make your Own cryptocurrency (серия видео)
 https://www.youtube.com/watch?v=86jqAfySi64
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 All about Blockchain
+https://docs.google.com/spreadsheets/d/1LzOrBgoLxgD8Za4mU-NCIn6FySEggnhFSNM1EqQ7zHQ/edit#gid=219942720
+
+
+
+
+
+
+
+
+
 
 
