@@ -341,7 +341,8 @@ https://www.coursera.org/learn/internet-predprinimatelstvo/home/welcome
 ### !!!!!@@@@@ Deep Learning Specialization (понятно, но очень поверхностно)
 https://www.coursera.org/specializations/deep-learning
 
-
+### !!!!!@@@@@88888 Глубокое обучение на Python (хорошее пояснение по теме)
+https://www.youtube.com/watch?v=GX7qxV5nh5o&index=1&list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_
 
 
 
