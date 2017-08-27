@@ -151,7 +151,10 @@ https://github.com/lRomul/intel_cancer
 https://www.youtube.com/watch?v=HT3QpRp2ewA
 https://habrahabr.ru/company/ods/blog/336168/
 
-
+### !!!!! mlbootcamp 5
+https://habrahabr.ru/post/333554/
+https://habrahabr.ru/post/335188/
+https://habrahabr.ru/post/335226/
 
 
 
