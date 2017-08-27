@@ -49,6 +49,26 @@ https://pair-code.github.io/facets/
 ### LabelImg is a graphical image annotation tool and label object bounding boxes in images
 https://github.com/tzutalin/labelImg
 
+### phraug, which is a set of simple Python scripts for pre-processing large files
+https://github.com/zygmuntz/phraug2
+
+### Image augmentation for machine learning experiments
+https://github.com/aleju/imgaug
+https://codebox.net/pages/image-augmentation-with-python
+http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
