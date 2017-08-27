@@ -345,6 +345,8 @@ https://www.coursera.org/specializations/deep-learning
 https://www.youtube.com/watch?v=GX7qxV5nh5o&index=1&list=PLtPJ9lKvJ4oiz9aaL_xcZd-x0qd8G0VN_
 https://github.com/sozykin/dlpython_course
 
+### Tensorflow Tutorial Series 1 (не смотрел)
+https://www.youtube.com/playlist?list=PL52d51R1IlfYH7GrT0ehSxlPSarm5sll6
 
 
 
