@@ -214,6 +214,8 @@ https://www.youtube.com/watch?v=86jqAfySi64
 ### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 All about Blockchain
 https://docs.google.com/spreadsheets/d/1LzOrBgoLxgD8Za4mU-NCIn6FySEggnhFSNM1EqQ7zHQ/edit#gid=219942720
 
+### Машинное обучение для страховой компании: Реалистичность идеи
+https://habrahabr.ru/company/microsoft/blog/329082/
 
 
 
