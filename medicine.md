@@ -106,4 +106,12 @@ https://corp.mail.ru/ru/press/releases/10013/
 https://www.youtube.com/watch?v=_ulaKDGhip4
 https://www.youtube.com/watch?v=QaxExZRWZNA
 
+### Kaggle Cervical Cancer Screening: определение типа шейки матки по изображениям
+https://www.youtube.com/watch?v=MtCodWOuAkw
+
+
+
+
+
+
 
