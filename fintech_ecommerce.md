@@ -208,7 +208,8 @@ http://telegra.ph/Republic---IPO-dlya-gikov-Kak-rossijskie-programmisty-poluchil
 ### Опасные продукты
 http://www.banki.ru/news/columnists/?id=9801637
 
-
+### !!!!! Make your Own cryptocurrency (серия видео)
+https://www.youtube.com/watch?v=86jqAfySi64
 
 
 
