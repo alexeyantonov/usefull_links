@@ -138,3 +138,9 @@ https://www.kaggle.com/xavier14/catalonia-gdp-insights-and-regression-analysis
 ### [CVPR'17 Youtube-8M] Cultivating DNN Diversity for Large Scale Video Labelling - Kaggle #7
 https://www.youtube.com/watch?v=kKHw5PF3jcU
 
+### !!!!! very good script and EDA (Exploratory Data Analysis)
+https://www.kaggle.com/headsortails/personalised-medicine-eda-with-tidy-r
+
+### !!!!! Doc2Vec with Keras
+https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
+
