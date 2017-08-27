@@ -29,3 +29,6 @@ https://www.youtube.com/playlist?list=PLv_zOGKKxVpj6w2QHIFgmOBSoIVNxC54z
 https://www.youtube.com/watch?v=db0Qxm8E2qE
 ### Семинар «Deep Learning в решении задач сентимент анализа» | Технострим
 https://www.youtube.com/watch?v=C6IUbX0ePBg
+
+### !!!!!@@@@@$$$$$%%%%%88888 Kaggle Mercedes Benz: предсказание времени тестирования автомобилей — Данила Савенков  (отличный доклад)
+https://www.youtube.com/watch?v=HT3QpRp2ewA
