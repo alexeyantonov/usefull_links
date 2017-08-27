@@ -144,3 +144,17 @@ https://www.kaggle.com/headsortails/personalised-medicine-eda-with-tidy-r
 ### !!!!! Doc2Vec with Keras
 https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
 
+### !!!!!@@@@@ Kaggle Intel & MobileODT Cervical Cancer Screening (4th place solution) (много интересного для обработки изображений)
+https://github.com/lRomul/intel_cancer
+
+
+
+
+
+
+
+
+
+
+
+
