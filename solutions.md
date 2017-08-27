@@ -147,6 +147,9 @@ https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
 ### !!!!!@@@@@ Kaggle Intel & MobileODT Cervical Cancer Screening (4th place solution) (много интересного для обработки изображений)
 https://github.com/lRomul/intel_cancer
 
+### !!!!!@@@@@$$$$$%%%%%88888 (отличный разбор)
+https://www.youtube.com/watch?v=HT3QpRp2ewA
+https://habrahabr.ru/company/ods/blog/336168/
 
 
 
