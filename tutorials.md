@@ -836,4 +836,19 @@ https://github.com/madrugado/keras-tutorial
 ### !!!!! subplots
 https://gist.github.com/dyerrington/dac39db54161dafc9359995924413a12
 
+### !!!!!@@@@@ Example of usage Docker with PyTorch tutorials
+https://github.com/lRomul/pytorch-tutorials-docker
+
+
+
+
+
+
+
+
+
+
+
+
+
 
