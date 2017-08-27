@@ -1505,7 +1505,11 @@ https://arxiv.org/pdf/1707.09627.pdf
 ### Tensorflow Tutorial Series 1 (не смотрел)
 https://www.youtube.com/playlist?list=PL52d51R1IlfYH7GrT0ehSxlPSarm5sll6
 
+### Building a Facial Recognition Pipeline with Deep Learning in Tensorflow
+https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8
 
+### !!!!!@@@@@ Example of usage Docker with PyTorch tutorials
+https://github.com/lRomul/pytorch-tutorials-docker
 
 
 
