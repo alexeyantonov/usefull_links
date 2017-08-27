@@ -1487,10 +1487,11 @@ https://medium.com/@klintcho/doc2vec-tutorial-using-gensim-ab3ac03d3a1
 https://stackoverflow.com/questions/39391753/doc2vec-how-to-cluster-docvecsarray
 https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-IMDB.ipynb
 https://stackoverflow.com/questions/31321209/doc2vec-how-to-get-document-vectors
+https://www.kaggle.com/alyosama/doc2vec-with-keras-0-77
 
-
-
-
+### !!!!!@@@@@ transfer learning
+https://habrahabr.ru/company/mailru/blog/252965/
+https://habrahabr.ru/company/microsoft/blog/314934/
 
 
 
