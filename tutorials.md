@@ -839,6 +839,35 @@ https://gist.github.com/dyerrington/dac39db54161dafc9359995924413a12
 ### !!!!!@@@@@ Example of usage Docker with PyTorch tutorials
 https://github.com/lRomul/pytorch-tutorials-docker
 
+## Keras finetuning (and tutorials on image classification)
+### Feeding your own data set into the CNN model in Keras
+https://www.youtube.com/watch?v=2pQOXjpO_u0
+### !!!!!@@@@@$$$$$%%%%%88888 Training an InceptionV3-based image classifier with your own dataset
+https://github.com/danielvarga/keras-finetuning
+### !!!!!@@@@@$$$$$%%%%%88888 Building powerful image classification models using very little data
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+### using pre trained VGG16 for another classification task
+https://github.com/fchollet/keras/issues/4465
+### !!!!!@@@@@ This repository contains three Deep Learning tutorials which I wrote for the Machine Learning course at University of Modena and Reggio Emilia.
+https://github.com/baraldilorenzo/DL_tutorials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
