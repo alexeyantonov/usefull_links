@@ -1523,6 +1523,20 @@ https://github.com/fchollet/keras/issues/4465
 ### !!!!!@@@@@ This repository contains three Deep Learning tutorials which I wrote for the Machine Learning course at University of Modena and Reggio Emilia.
 https://github.com/baraldilorenzo/DL_tutorials
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Satellite Image Segmentation: a Workflow with U-Net (разбор топовых решений соревнования + пояснения + техники)
+https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
+https://www.kaggle.com/ceperaang/lb-0-42-ultimate-full-solution-run-on-your-hw
+https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100
+https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100
+
+### !!!!!@@@@@ Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих
+https://habrahabr.ru/company/ods/blog/335998/
+
+### !!!!! Классификатор на word2vec
+https://habrahabr.ru/post/304672/
+
+### !!!!! Word2Vec в примерах
+https://habrahabr.ru/post/249215/
 
 
 
