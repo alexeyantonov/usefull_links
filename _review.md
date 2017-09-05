@@ -11,6 +11,9 @@ https://spark-in.me/post/unet-adventures-part-one-getting-acquainted-with-unet
 https://habrahabr.ru/company/ods/blog/336168/
 https://habrahabr.ru/company/mailru/blog/252965/
 https://habrahabr.ru/company/microsoft/blog/329082/
+https://habrahabr.ru/company/ods/blog/335998/
+
+
 
 https://hackernoon.com/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3?_utm_source=1-2-2
 
@@ -21,5 +24,25 @@ https://proglib.io/p/docker/
 
 ### !!!!!@@@@@ DevCon School: Практическое введение в нейронные сети и глубокое обучение
 https://www.youtube.com/watch?v=M3hBC-svNDQ
+
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Satellite Image Segmentation: a Workflow with U-Net (разбор топовых решений соревнования + пояснения + техники)
+https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/
+https://www.kaggle.com/ceperaang/lb-0-42-ultimate-full-solution-run-on-your-hw
+https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100
+https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
