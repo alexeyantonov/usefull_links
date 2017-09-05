@@ -449,7 +449,8 @@ https://knife.media/supercomputer/
 ### Фото показаний счетчиков можно будет отправлять через приложение
 http://lentach.media/articles/moskvichi-smogut-platit-za-kommunalku-cherez-neiroset/
 
-
+### Как создается второй частный банк России и при чем тут Чубайс?
+http://www.forbes.ru/finansy/igroki/237206-kak-sozdaetsya-vtoroi-chastnyi-bank-rossii-i-pri-chem-tut-chubais
 
 
 
