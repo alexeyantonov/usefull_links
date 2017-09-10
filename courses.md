@@ -348,6 +348,8 @@ https://github.com/sozykin/dlpython_course
 ### Tensorflow Tutorial Series 1 (не смотрел)
 https://www.youtube.com/playlist?list=PL52d51R1IlfYH7GrT0ehSxlPSarm5sll6
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^&&&&&88888 Dan Jurafsky & Chris Manning: Natural Language Processing
+https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 
 
 
