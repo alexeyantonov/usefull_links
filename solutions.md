@@ -156,7 +156,8 @@ https://habrahabr.ru/post/333554/
 https://habrahabr.ru/post/335188/
 https://habrahabr.ru/post/335226/
 
-
+### Kaggle instacart (3rd place solution) (чел писал на голом tf, так что читать тяжеловато, есть упоминание тут https://www.youtube.com/watch?v=fO3WCR5W4ls) (там еще много интересного)
+https://github.com/sjvasquez/instacart-basket-prediction
 
 
 
