@@ -1538,6 +1538,11 @@ https://habrahabr.ru/post/304672/
 ### !!!!! Word2Vec в примерах
 https://habrahabr.ru/post/249215/
 
+### !!!!! Pre-trained word vectors of 30+ languages
+https://github.com/Kyubyong/wordvectors
+
+### !!!!! gensim word2vec demo
+https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20
 
 
 
