@@ -1544,6 +1544,17 @@ https://github.com/Kyubyong/wordvectors
 ### !!!!! gensim word2vec demo
 https://gist.github.com/bhaettasch/d7f4e22e79df3c8b6c20
 
+### !!!!!@@@@@ ConvNets Series. Spatial Transformer Networks
+https://medium.com/towards-data-science/convnets-series-spatial-transformer-networks-cff47565ae81
+
+### !!!!!@@@@@$$$$$%%%%%88888 Introduction to DL
+http://cs.brown.edu/courses/cs1470/docs/book.pdf
+
+### !!!!!@@@@@ PyTorch: First program and walk through
+https://medium.com/towards-data-science/pytorch-first-program-and-walk-through-ceb739134ab9
+
+
+
 
 
 
