@@ -2,3 +2,6 @@
 ### !!!!! auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator
 https://github.com/automl/auto-sklearn
 http://www.ml4aad.org/
+
+### !!!!! А вот фейсбук с утра выложил в открытый доступ систему Detectron, позволяющую выделять объекты на видео и фотографиях. Качество работы сравнимо с прочими работами, в том числе с облачными решениями от Майкрософт и гугла, но в отличие от них детектрон выложен в опенсорс для изучения и улучшения.
+https://github.com/facebookresearch/Detectron/blob/master/README.md
