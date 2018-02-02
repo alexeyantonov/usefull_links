@@ -1553,7 +1553,26 @@ http://cs.brown.edu/courses/cs1470/docs/book.pdf
 ### !!!!!@@@@@ PyTorch: First program and walk through
 https://medium.com/towards-data-science/pytorch-first-program-and-walk-through-ceb739134ab9
 
+### Как сделать проект по распознаванию рукописных цифр с дообучением онлайн. Гайд для не совсем начинающих
+https://habrahabr.ru/company/ods/blog/335998/
 
+### !!!!!@@@@@$$$$$%%%%%88888 Introduction to Deep Learning (если что, то там целая специализация)
+https://www.coursera.org/learn/intro-to-deep-learning/
+
+### !!! imgaug
+http://imgaug.readthedocs.io/en/latest/source/examples_basics.html
+
+### !!! Data Augmentation with Scikit-image I
+https://desaideshna.wordpress.com/2016/06/30/data-augmentation-with-scikit-image/
+
+### !!! image augmentation
+https://github.com/benanne/kaggle-ndsb/blob/master/data.py#L315-L323
+
+### !!!!!@@@@@$$$$$%%%%%88888 A Year in Computer Vision
+http://www.themtank.org/a-year-in-computer-vision
+
+### !!!!!@@@@@ Easy to use Keras ImageDataGenerator
+https://www.kaggle.com/hexietufts/easy-to-use-keras-imagedatagenerator
 
 
 
