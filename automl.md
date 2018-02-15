@@ -7,3 +7,4 @@ http://www.ml4aad.org/
 https://github.com/facebookresearch/Detectron/blob/master/README.md
 
 https://cloud.google.com/automl/
+https://research.googleblog.com/2017/11/automl-for-large-scale-image.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Official+Google+Research+Blog)
