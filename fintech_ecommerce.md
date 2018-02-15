@@ -217,7 +217,8 @@ https://docs.google.com/spreadsheets/d/1LzOrBgoLxgD8Za4mU-NCIn6FySEggnhFSNM1EqQ7
 ### Машинное обучение для страховой компании: Реалистичность идеи
 https://habrahabr.ru/company/microsoft/blog/329082/
 
-
+### Основатель британского стартапа с русскими корнями Revolut – о том, как расплачиваться биткоинами в булочной
+http://telegra.ph/Republic---Nasha-cel-v-Rossii--obognat-Tinkoff-i-Roketbank-02-15
 
 
 
