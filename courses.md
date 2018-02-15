@@ -358,6 +358,7 @@ https://www.coursera.org/learn/intro-to-deep-learning/
 http://frnsys.com/ai_notes/
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_scaling.html
 
-
+### !!!!!@@@@@ New course by Ng
+https://www.coursera.org/learn/machine-learning-projects/
 
 
