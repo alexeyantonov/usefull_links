@@ -57,26 +57,15 @@ https://github.com/aleju/imgaug
 https://codebox.net/pages/image-augmentation-with-python
 http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
 
-### pytorch -> keras
-https://github.com/ysh329/deep-learning-model-convertor
-https://github.com/nerox8664/pytorch2keras
+### !!!!! Великолепная либа на питоне для работы с видео
+https://github.com/Zulko/moviepy
 
-### Мозилла открывает модель и очень много данных по распознаванию голоса
-https://voice.mozilla.org/data
-https://github.com/mozilla/DeepSpeech
+### facebook pca
+http://fbpca.readthedocs.io/en/latest/#fbpca.pca
 
-### !!!!! база с корпусами и моделями векторными для русского языка
-http://rusvectores.org/ru/models/
-https://nlpub.ru/Russian_Distributional_Thesaurus
-http://opencorpora.org/?page=downloads
-http://vectors.nlpl.eu/repository/
 
-### Супер полезная штука в pandas - очень просто one-hot-encoding 
-le, u = df[feature].factorize()
-        df[feature] = le
 
-### dask
-https://t.me/snakers4/1627
+
 
 
 
