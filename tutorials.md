@@ -899,9 +899,13 @@ http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 ### !!!!! опубликован ТОП30 самых впечатляющих проектов по машинному обучению за прошедший год (2017-v.2018)
 https://habrahabr.ru/company/cloud4y/blog/346968/
 
+### !!!!! what is Fourier transform
+https://youtu.be/spUNpyF58BY
 
-
-
+### !!!!!@@@@@***** Building a simple Keras + deep learning REST API
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html?__s=jzpzanwy9jmh18omiik2
+https://www.pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
+https://t.me/snakers4/1760
 
 
 
