@@ -875,9 +875,14 @@ https://habrahabr.ru/post/249215/
 ### !!!!!@@@@@ Великолепная серия статей про то, как пользоваться pandas
 https://tomaugspurger.github.io/modern-1-intro
 
+### !!!!!@@@@@$$$$$ My Neural Network isn't working! What should I do?
+http://theorangeduck.com/page/neural-network-not-working
 
+### !!!!!@@@@@ Leveraging your hardware and software for NNs
+https://docs.google.com/presentation/d/1nxhRnfS_xABYfIAmJm1EZwsczc68ac2CttwwBCQgv60/edit#slide=id.p
 
-
+### !!!!!@@@@@ НЕ ПОВТОРЯТЬ ЧУЖИЕ ОШИБКИ!!!!!
+https://spark-in.me/post/best-errors-ever
 
 
 
