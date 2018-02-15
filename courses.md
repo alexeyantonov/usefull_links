@@ -354,8 +354,9 @@ https://www.youtube.com/playlist?list=PL6397E4B26D00A269
 ### !!!!!@@@@@$$$$$%%%%%88888 Introduction to Deep Learning (если что, то там целая специализация)
 https://www.coursera.org/learn/intro-to-deep-learning/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^88888 Книги для возможного курса (простые наброски)
+http://frnsys.com/ai_notes/
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_scaling.html
 
 
 
