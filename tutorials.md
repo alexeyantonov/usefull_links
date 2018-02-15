@@ -872,21 +872,20 @@ https://habrahabr.ru/post/304672/
 ### !!!!! Word2Vec в примерах
 https://habrahabr.ru/post/249215/
 
-### !!!!!@@@@@ Визуализация
-https://alexanderdyakonov.wordpress.com/2017/10/30/%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1/
+### !!!!!@@@@@ Великолепная серия статей про то, как пользоваться pandas
+https://tomaugspurger.github.io/modern-1-intro
 
-### !!!!!@@@@@$$$$$ Офигенный способ строить scatter-plot для гиганских массивов
-https://stackoverflow.com/questions/2369492/generate-a-heatmap-in-matplotlib-using-a-scatter-data-set
+### !!!!!@@@@@$$$$$ My Neural Network isn't working! What should I do?
+http://theorangeduck.com/page/neural-network-not-working
 
+### !!!!!@@@@@ Leveraging your hardware and software for NNs
+https://docs.google.com/presentation/d/1nxhRnfS_xABYfIAmJm1EZwsczc68ac2CttwwBCQgv60/edit#slide=id.p
 
+### !!!!!@@@@@ НЕ ПОВТОРЯТЬ ЧУЖИЕ ОШИБКИ!!!!!
+https://spark-in.me/post/best-errors-ever
 
-
-
-
-
-
-
-
+### !!!!! Если вы хотите поиграться с open-cv и keras - то вот вам еще один гайд как это сделать на raspberry pi
+https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
 
 
