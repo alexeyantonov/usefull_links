@@ -890,10 +890,11 @@ https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 ### !!!!!@@@@@$$$$$%%%%%*****88888 How Docker Can Help You Become A More Effective Data Scientist
 https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5
 
+### !!!!!@@@@@$$$$$%%%%%*****88888 Summaries of machine learning papers
+https://github.com/aleju/papers/tree/master/neural-nets
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%*****88888 AI and Deep Learning in 2017 – A Year in Review
+http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 
 
 
