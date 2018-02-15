@@ -61,7 +61,9 @@ http://tensorpack.readthedocs.io/en/latest/modules/dataflow.imgaug.html
 https://github.com/ysh329/deep-learning-model-convertor
 https://github.com/nerox8664/pytorch2keras
 
-
+### Мозилла открывает модель и очень много данных по распознаванию голоса
+https://voice.mozilla.org/data
+https://github.com/mozilla/DeepSpeech
 
 
 
