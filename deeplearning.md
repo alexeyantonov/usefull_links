@@ -1574,6 +1574,42 @@ http://www.themtank.org/a-year-in-computer-vision
 ### !!!!!@@@@@ Easy to use Keras ImageDataGenerator
 https://www.kaggle.com/hexietufts/easy-to-use-keras-imagedatagenerator
 
+### !!!!! Real time object detection presentation
+https://docs.google.com/presentation/d/1Vhv6EN0zcTYU24E5iL_00dodfCWAywpK66hcmbv_hhA/edit#slide=id.p
+
+### !!!!! Отличная статья про визуализацию слоев нейросетей
+https://distill.pub/2017/feature-visualization/
+https://distill.pub/2017/feature-visualization/appendix/
+
+### !!!!! Отличная статья про Resnet и то, как его лучше понять, и какие у него есть разновидности
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+
+### !!!!! Как прикрутить TensorBoard к pytorch за 10 минут
+https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard
+https://github.com/lanpa/tensorboard-pytorch
+https://github.com/lanpa/tensorboard-pytorch/blob/master/demo_graph.py
+
+### !!!!!@@@@@$$$$$ My Neural Network isn't working! What should I do?
+http://theorangeduck.com/page/neural-network-not-working
+
+### !!!!! Текстовые капчи легко распознаются нейронными сетями глубокого обучения
+https://habrahabr.ru/post/343222/
+
+### !!!!!@@@@@$$$$$*****88888 CapsNET
+https://www.youtube.com/watch?v=pPN8d0E3900
+https://habrahabr.ru/company/recognitor/blog/343726/
+
+### !!!!!@@@@@$$$$$ Attention and Augmented Recurrent Neural Networks
+https://distill.pub/2016/augmented-rnns/
+
+### Мозилла открывает модель и очень много данных по распознаванию голоса
+https://voice.mozilla.org/data
+https://github.com/mozilla/DeepSpeech
+
+
+
+
+
 
 
 
