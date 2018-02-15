@@ -166,3 +166,25 @@ https://github.com/tyz910/sberbank-holdem-bot
 https://github.com/asanakoy/kaggle_carvana_segmentation
 https://docs.google.com/document/d/1hSGK2sp92g3KGg5zqzC7G82705MhgOx6_KHypYUrKr0/edit#
 
+### Mercedes-Benz Greener Masking Challenge Masking Challenge–1st Place Winner's Interview
+http://blog.kaggle.com/2017/12/28/mercedez-benz-greener-masking-first-place/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
