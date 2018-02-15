@@ -65,6 +65,12 @@ https://github.com/nerox8664/pytorch2keras
 https://voice.mozilla.org/data
 https://github.com/mozilla/DeepSpeech
 
+### !!!!! база с корпусами и моделями векторными для русского языка
+http://rusvectores.org/ru/models/
+https://nlpub.ru/Russian_Distributional_Thesaurus
+http://opencorpora.org/?page=downloads
+http://vectors.nlpl.eu/repository/
+
 
 
 
