@@ -71,8 +71,12 @@ https://nlpub.ru/Russian_Distributional_Thesaurus
 http://opencorpora.org/?page=downloads
 http://vectors.nlpl.eu/repository/
 
+### Супер полезная штука в pandas - очень просто one-hot-encoding 
+le, u = df[feature].factorize()
+        df[feature] = le
 
-
+### dask
+https://t.me/snakers4/1627
 
 
 
