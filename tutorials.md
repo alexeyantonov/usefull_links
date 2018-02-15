@@ -887,8 +887,8 @@ https://spark-in.me/post/best-errors-ever
 ### !!!!! Если вы хотите поиграться с open-cv и keras - то вот вам еще один гайд как это сделать на raspberry pi
 https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%*****88888 How Docker Can Help You Become A More Effective Data Scientist
+https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5
 
 
 
