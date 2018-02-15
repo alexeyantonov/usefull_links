@@ -162,6 +162,7 @@ https://github.com/sjvasquez/instacart-basket-prediction
 ### sber poker bot
 https://github.com/tyz910/sberbank-holdem-bot
 
-
+### !!!!!@@@@@ Kaggle Carvana Image Masking Challenge (top 1 solution)
+https://github.com/asanakoy/kaggle_carvana_segmentation
 
 
