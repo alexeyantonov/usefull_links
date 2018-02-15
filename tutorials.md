@@ -872,7 +872,8 @@ https://habrahabr.ru/post/304672/
 ### !!!!! Word2Vec в примерах
 https://habrahabr.ru/post/249215/
 
-
+### !!!!!@@@@@ Великолепная серия статей про то, как пользоваться pandas
+https://tomaugspurger.github.io/modern-1-intro
 
 
 
