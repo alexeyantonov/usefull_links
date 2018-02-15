@@ -896,7 +896,8 @@ https://github.com/aleju/papers/tree/master/neural-nets
 ### !!!!!@@@@@$$$$$%%%%%*****88888 AI and Deep Learning in 2017 – A Year in Review
 http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
 
-
+### !!!!! опубликован ТОП30 самых впечатляющих проектов по машинному обучению за прошедший год (2017-v.2018)
+https://habrahabr.ru/company/cloud4y/blog/346968/
 
 
 
