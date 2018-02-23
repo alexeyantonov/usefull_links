@@ -367,6 +367,10 @@ https://www.youtube.com/watch?v=orgXajB6z58&list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv8
 ### Анализ данных и Deep Learning
 https://www.youtube.com/watch?v=CN3jazuiprQ
 
+### !!!!!@@@@@ Видеокурс "Анализ изображений и видео"
+https://t.me/proglibrary/1983
+https://www.youtube.com/watch?v=DclyqYN99og&list=PLlb7e2G7aSpQc4CW-9BI9L_jZVyUbbSWX
+https://vk.com/wall-54530371_182024?w=page-54530371_53318842
 
 
 
