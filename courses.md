@@ -361,4 +361,16 @@ https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/feature_
 ### !!!!!@@@@@ New course by Ng
 https://www.coursera.org/learn/machine-learning-projects/
 
+### Анализ данных на R в примерах и задачах
+https://www.youtube.com/watch?v=orgXajB6z58&list=PLlb7e2G7aSpTh7pQG8ek1Uv5-zatv84vY
+
+### Анализ данных и Deep Learning
+https://www.youtube.com/watch?v=CN3jazuiprQ
+
+
+
+
+
+
+
 
