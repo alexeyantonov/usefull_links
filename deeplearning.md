@@ -1606,10 +1606,27 @@ https://distill.pub/2016/augmented-rnns/
 https://voice.mozilla.org/data
 https://github.com/mozilla/DeepSpeech
 
+### !!!!!@@@@@ Fine-tuning pre-trained models with PyTorch 
+https://gist.github.com/panovr/2977d9f26866b05583b0c40d88a315bf
 
+### !!!!!@@@@@ How to Train a GAN? Tips and tricks to make GANs work
+https://github.com/soumith/ganhacks
 
+### !!!!!@@@@@ Капсульные сети встряхивают AI: вот как их использовать
+https://proglib.io/p/capsule-networks/
 
+### !!!!!@@@@@ 21 урок из курса по глубокому машинному обучению от Andrew Ng
+https://proglib.io/p/dmm-course-review/
 
+### !!!!! Хотите знать, как работает Deep Learning? Вот быстрый гайд
+https://proglib.io/p/deep-learning/
 
+### !!!!!@@@@@$$$$$88888 5 мощных проектов по машинному обучению для начинающих
+https://proglib.io/p/ml-projects/
 
+### !!!!!@@@@@ Нейронная сеть на Python в 15 строк кода для диагностики диабета
+https://proglib.io/p/diabetes-network/
+
+### !!!!!@@@@@ Нейросеть для предсказания цены биткоина своими руками
+https://proglib.io/p/bitcoin-price/
 
