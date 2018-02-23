@@ -220,6 +220,35 @@ https://habrahabr.ru/company/microsoft/blog/329082/
 ### Основатель британского стартапа с русскими корнями Revolut – о том, как расплачиваться биткоинами в булочной
 http://telegra.ph/Republic---Nasha-cel-v-Rossii--obognat-Tinkoff-i-Roketbank-02-15
 
+### 10 полезных ресурсов по технологии blockchain
+https://proglib.io/p/10-blockchain-resourses
+
+### Пишем свой блокчейн
+https://proglib.io/p/learn-blockchains-by-building-one/
+
+### Что такое Биткоин и разбираемся, как он работает
+https://proglib.io/p/bitcoin/
+
+### Криптовалюта и CryptoKitties: собственные котики на Ethereum
+https://proglib.io/p/blockchain-cryptokitties/
+
+### Создаем первый смарт-контракт на Ethereum менее чем за 60 минут
+https://proglib.io/p/smart-contract/
+
+### https://proglib.io/p/new-bitcoin/
+https://proglib.io/p/new-bitcoin/
+
+### Нейросеть для предсказания цены биткоина своими руками
+https://proglib.io/p/bitcoin-price/
+
+### Трейдинг и машинное обучение с подкреплением
+https://proglib.io/p/trade-learning/
+
+
+
+
+
+
 
 
 
