@@ -143,7 +143,8 @@ https://github.com/volodymyrlut/heroku-node-telegram-bot
 ### https://github.com/pepeground/pepeground-bot
 https://github.com/pepeground/pepeground-bot
 
-
+### плейлист с уроками по написанию Telegram-бота на Python
+https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
 
 
 
