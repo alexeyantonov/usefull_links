@@ -146,5 +146,25 @@ https://github.com/pepeground/pepeground-bot
 ### плейлист с уроками по написанию Telegram-бота на Python
 https://www.youtube.com/playlist?list=PLQR-s_7hVHyN5oeDb7dLymzzHw1XNtWiC
 
+### Создание Chatbot с помощью Deep Learning, Python и TensorFlow
+https://www.youtube.com/watch?v=dvOnYLDg8_Y&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0on8j
+
+### Подключение платежных систем: прием платежей и авто выплаты
+https://www.youtube.com/watch?v=USGGGVTYGS4&index=14&list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
