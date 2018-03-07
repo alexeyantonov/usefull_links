@@ -372,9 +372,11 @@ https://t.me/proglibrary/1983
 https://www.youtube.com/watch?v=DclyqYN99og&list=PLlb7e2G7aSpQc4CW-9BI9L_jZVyUbbSWX
 https://vk.com/wall-54530371_182024?w=page-54530371_53318842
 
+### !!!!!@@@@@$$$$$%%%%%^^^^^*****88888 Machine Learning Crash Course by google
+https://developers.google.com/machine-learning/crash-course/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%^^^^^*****88888 Fast AI
+http://course.fast.ai/
 
 
 
