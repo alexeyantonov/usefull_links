@@ -937,7 +937,8 @@ https://proglib.io/p/diabetes-network/
 ### !!!!! Анализ временных рядов с помощью python
 https://habrahabr.ru/post/207160/
 
-
+### !!!!!@@@@@88888 keras early stopping
+https://stackoverflow.com/questions/43906048/keras-early-stopping
 
 
 
