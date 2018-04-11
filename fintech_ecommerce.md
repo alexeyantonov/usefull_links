@@ -244,7 +244,9 @@ https://proglib.io/p/bitcoin-price/
 ### Трейдинг и машинное обучение с подкреплением
 https://proglib.io/p/trade-learning/
 
-
+### От новичка до профи в блокчейн-технологиях за 2 месяца
+https://proglib.io/p/blockchain-plan/
+https://github.com/bitcoinbook/bitcoinbook
 
 
 
