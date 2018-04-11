@@ -934,6 +934,8 @@ https://proglib.io/p/ml-projects/
 ### !!!!!@@@@@ Нейронная сеть на Python в 15 строк кода для диагностики диабета
 https://proglib.io/p/diabetes-network/
 
+### !!!!! Анализ временных рядов с помощью python
+https://habrahabr.ru/post/207160/
 
 
 
