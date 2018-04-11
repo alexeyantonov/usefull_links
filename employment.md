@@ -36,3 +36,11 @@ https://habrahabr.ru/post/335550/
 ### green card
 https://andresol.livejournal.com/
 
+### Собеседование для Data Scientists: вопросы и ответы
+https://proglib.io/p/data-scientist-qa/
+
+
+
+
+
+
