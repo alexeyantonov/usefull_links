@@ -940,6 +940,19 @@ https://habrahabr.ru/post/207160/
 ### !!!!!@@@@@88888 keras early stopping
 https://stackoverflow.com/questions/43906048/keras-early-stopping
 
+### Python: ИИ для “Четыре в ряд” с алгоритмом AlphaZero
+https://proglib.io/p/connect4-alphazero/
+
+### Капсульные сети встряхивают AI: вот как их использовать
+https://proglib.io/p/capsule-networks/
+https://habrahabr.ru/company/recognitor/blog/343726/
+
+### Keras and deep learning on the Raspberry Pi
+https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
+
+
+
+
 
 
 
