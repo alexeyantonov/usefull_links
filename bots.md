@@ -152,6 +152,8 @@ https://www.youtube.com/watch?v=dvOnYLDg8_Y&list=PLQVvvaa0QuDdc2k5dwtDTyT9aCja0o
 ### Подключение платежных систем: прием платежей и авто выплаты
 https://www.youtube.com/watch?v=USGGGVTYGS4&index=14&list=PLB8wmVoWIIx4yDM-bFmqnMlkxpw6CuIeh
 
+### CakeChat: Emotional Generative Dialog System
+https://github.com/lukalabs/cakechat
 
 
 
