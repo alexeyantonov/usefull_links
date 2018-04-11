@@ -950,9 +950,11 @@ https://habrahabr.ru/company/recognitor/blog/343726/
 ### Keras and deep learning on the Raspberry Pi
 https://www.pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
 
+### Batch Normalization для ускорения обучения нейронных сетей
+https://habrahabr.ru/post/309302/
 
-
-
+### Dropout — метод решения проблемы переобучения в нейронных сетях
+https://habrahabr.ru/company/dca/blog/267361/
 
 
 
