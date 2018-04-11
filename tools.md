@@ -63,7 +63,8 @@ https://github.com/Zulko/moviepy
 ### facebook pca
 http://fbpca.readthedocs.io/en/latest/#fbpca.pca
 
-
+### Easy to use Keras ImageDataGenerator
+https://www.kaggle.com/hexietufts/easy-to-use-keras-imagedatagenerator
 
 
 
