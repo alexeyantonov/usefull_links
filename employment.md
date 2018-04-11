@@ -33,4 +33,6 @@ https://proglib.io/p/amazon-job/
 ### Как фрилансеру открыть фирму в Латвии и какие преимущества это дает
 https://habrahabr.ru/post/335550/
 
+### green card
+https://andresol.livejournal.com/
 
