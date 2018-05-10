@@ -174,7 +174,8 @@ https://github.com/eternnoir/pyTelegramBotAPI#a-simple-echo-bot
 ### Бот для Telegram на Python: от первой строчки кода до запуска на Heroku
 https://tproger.ru/translations/telegram-bot-create-and-deploy/
 
-
+### lib for creating
+https://github.com/python-telegram-bot/python-telegram-bot
 
 
 
