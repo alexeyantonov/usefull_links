@@ -155,6 +155,33 @@ https://www.youtube.com/watch?v=USGGGVTYGS4&index=14&list=PLB8wmVoWIIx4yDM-bFmqn
 ### CakeChat: Emotional Generative Dialog System
 https://github.com/lukalabs/cakechat
 
+### !!!!! Создаем бота в Facebook на Python менее чем за 60 минут
+https://proglib.io/p/facebook-bot-with-python/
+
+### Building a Facebook Messenger Bot with Python
+http://masnun.com/2016/05/22/building-a-facebook-messenger-bot-with-python.html
+
+### Building Facebook Messenger Bots with Python in less than 60 minutes
+https://www.twilio.com/blog/2017/12/facebook-messenger-bot-python.html
+
+### Простой Telegram бот на Python всего за 1 час
+https://proglib.io/p/telegram-bot/
+
+### tele-bots feat heroku
+https://github.com/Kylmakalle/heroku-telegram-bot#edit-files
+https://github.com/eternnoir/pyTelegramBotAPI#a-simple-echo-bot
+
+### Бот для Telegram на Python: от первой строчки кода до запуска на Heroku
+https://tproger.ru/translations/telegram-bot-create-and-deploy/
+
+
+
+
+
+
+
+
+
 
 
 
