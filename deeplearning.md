@@ -1633,7 +1633,8 @@ https://proglib.io/p/bitcoin-price/
 ### A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
 https://github.com/ageron/handson-ml
 
-
+### Semi-parametric Image Synthesis
+https://github.com/xjqicuhk/SIMS
 
 
 
