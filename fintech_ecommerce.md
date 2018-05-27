@@ -248,6 +248,40 @@ https://proglib.io/p/trade-learning/
 https://proglib.io/p/blockchain-plan/
 https://github.com/bitcoinbook/bitcoinbook
 
+### Почему так много русских в криптовалютах?
+https://theidealist.ru/russianicos/
+
+### !!!!! Как написать децентрализованную мультиблокчейн биржу за сутки
+https://habr.com/company/mixbytes/blog/359134/
+
+### Блокчейн для химсырья: почему ICO выглядит лучше венчурных инвестиций?
+http://www.forbes.ru/tehnologii/344785-blokcheyn-dlya-himsyrya-pochemu-ico-vyglyadit-luchshe-venchurnyh-investiciy
+
+### Помочь молодым: Елена Масолова вложила $300 000 в платформу для краудфандинга перспективных спортсменов
+http://www.forbes.ru/forbes-woman/348477-pomoch-molodym-elena-masolova-vlozhila-300-000-v-platformu-dlya-investiciy-v
+
+### Новая волна: стартап Waves поможет провести IPO на блокчейне
+http://www.forbes.ru/tekhnologii/idei-i-izobreteniya/328805-novaya-volna-startap-waves-pomozhet-provesti-ipo-v-bitkoinakh
+
+### Бизнес на ICO
+https://vc.ru/24827-modern-token
+
+### Запуск ICO — пошаговая инструкция
+https://vc.ru/25255-how-to-run-ico
+
+### graphene
+https://github.com/cryptonomex/graphene
+http://docs.bitshares.org/
+
+### !!!!! Как LegalTech делает право доступным в мире
+https://medium.com/@legaltech/%D0%BA%D0%B0%D0%BA-legaltech-%D0%B4%D0%B5%D0%BB%D0%B0%D0%B5%D1%82-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D1%8B%D0%BC-%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5-6b9e5d6a410e
+
+### Django-cryptocoin
+https://github.com/quantum13/django-cryptocoin
+
+
+
+
 
 
 
