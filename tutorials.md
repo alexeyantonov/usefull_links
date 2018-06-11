@@ -956,6 +956,19 @@ https://habrahabr.ru/post/309302/
 ### Dropout — метод решения проблемы переобучения в нейронных сетях
 https://habrahabr.ru/company/dca/blog/267361/
 
+### Jupyter notebook tricks
+https://github.com/NirantK/best-of-jupyter?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=NLP%20News
+http://www.nirantk.in/best-of-jupyter/
+
+### Смещение (bias) и разброс (variance)
+https://alexanderdyakonov.wordpress.com/2018/04/25/%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-bias-%D0%B8-%D1%80%D0%B0%D0%B7%D0%B1%D1%80%D0%BE%D1%81-variance-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8-%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82/
+
+### !!!!!@@@@@ The Easiest Way to Make Presentations! (Pandoc + Markdown)
+https://www.youtube.com/watch?v=dum7q6UXiCE
+
+
+
+
 
 
 
