@@ -1636,7 +1636,7 @@ https://github.com/ageron/handson-ml
 ### Semi-parametric Image Synthesis
 https://github.com/xjqicuhk/SIMS
 
-
-
+### !!!!!@@@@@ Автоэнкодеры в Keras (autoencoders)
+https://habr.com/post/331382/
 
 
