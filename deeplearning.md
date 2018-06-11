@@ -1646,7 +1646,8 @@ https://arxiv.org/abs/1710.05381
 https://t.me/snakers4/1988
 https://t.me/snakers4/1989
 
-
+### !!!!!@@@@@ Состязательные атаки (adversarial attacks) в соревновании Machines Can See 2018
+https://habr.com/post/413775/
 
 
 
