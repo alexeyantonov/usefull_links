@@ -1639,4 +1639,59 @@ https://github.com/xjqicuhk/SIMS
 ### !!!!!@@@@@ Автоэнкодеры в Keras (autoencoders)
 https://habr.com/post/331382/
 
+### !!!!!@@@@@ A systematic study of the class imbalance problem in convolutional neural networks
+https://arxiv.org/abs/1710.05381
+
+### MobileNetv2 New light-weight architecture from Google with 72%+ top1
+https://t.me/snakers4/1988
+https://t.me/snakers4/1989
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
