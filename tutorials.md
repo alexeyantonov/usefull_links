@@ -969,6 +969,8 @@ https://www.youtube.com/watch?v=dum7q6UXiCE
 ### !!!!!@@@@@ Python Plotting With Matplotlib (Guide)
 https://realpython.com/python-matplotlib-guide/
 
+### A tutorial on Differential Evolution with Python
+https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/
 
 
 
