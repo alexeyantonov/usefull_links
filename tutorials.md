@@ -966,6 +966,8 @@ https://alexanderdyakonov.wordpress.com/2018/04/25/%D1%81%D0%BC%D0%B5%D1%89%D0%B
 ### !!!!!@@@@@ The Easiest Way to Make Presentations! (Pandoc + Markdown)
 https://www.youtube.com/watch?v=dum7q6UXiCE
 
+### !!!!!@@@@@ Python Plotting With Matplotlib (Guide)
+https://realpython.com/python-matplotlib-guide/
 
 
 
