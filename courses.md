@@ -378,5 +378,6 @@ https://developers.google.com/machine-learning/crash-course/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^*****88888 Fast AI
 http://course.fast.ai/
 
-
+### Seedbank — discover machine learning examples
+https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57
 
