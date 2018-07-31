@@ -279,7 +279,8 @@ https://medium.com/@legaltech/%D0%BA%D0%B0%D0%BA-legaltech-%D0%B4%D0%B5%D0%BB%D0
 ### Django-cryptocoin
 https://github.com/quantum13/django-cryptocoin
 
-
+### !!!!! lisk academy
+https://lisk.io/academy/welcome-to-the-lisk-academy/what-is-the-lisk-academy-intro
 
 
 
