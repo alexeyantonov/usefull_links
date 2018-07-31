@@ -282,9 +282,11 @@ https://github.com/quantum13/django-cryptocoin
 ### !!!!! lisk academy
 https://lisk.io/academy/welcome-to-the-lisk-academy/what-is-the-lisk-academy-intro
 
+### !!! China Internet Report 2018
+https://www.abacusnews.com/china-internet-report/#0
 
-
-
+### Что будет, когда Ethereum перейдет на Proof of Stake (PoS)?
+https://2bitcoins.ru/chto-budet-kogda-ethereum-perejdet-na-proof-of-stake-pos/
 
 
 
