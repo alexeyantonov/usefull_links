@@ -288,7 +288,8 @@ https://www.abacusnews.com/china-internet-report/#0
 ### Что будет, когда Ethereum перейдет на Proof of Stake (PoS)?
 https://2bitcoins.ru/chto-budet-kogda-ethereum-perejdet-na-proof-of-stake-pos/
 
-
+### !!!!!@@@@@ Исследование рынка дронов
+https://blog.dti.team/issledovanie-rynka-dronov/
 
 
 
