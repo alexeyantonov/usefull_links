@@ -452,7 +452,8 @@ http://lentach.media/articles/moskvichi-smogut-platit-za-kommunalku-cherez-neiro
 ### Как создается второй частный банк России и при чем тут Чубайс?
 http://www.forbes.ru/finansy/igroki/237206-kak-sozdaetsya-vtoroi-chastnyi-bank-rossii-i-pri-chem-tut-chubais
 
-
+### !!!!! Исследование рынка дронов
+https://blog.dti.team/issledovanie-rynka-dronov/
 
 
 
