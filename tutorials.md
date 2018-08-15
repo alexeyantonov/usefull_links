@@ -972,10 +972,17 @@ https://realpython.com/python-matplotlib-guide/
 ### A tutorial on Differential Evolution with Python
 https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/
 
+### Standardizing a machine learning framework for applied research: PyTorch vs. MXNet
+https://www.borealisai.com/en/blog/standardizing-machine-learning-framework-applied-research/
 
+### List of Deep Learning Books to Read
+https://www.marktechpost.com/2018/07/31/list-of-deep-learning-books-to-read/
 
+### 5 мощных проектов по машинному обучению для начинающих
+https://proglib.io/p/ml-projects/
 
-
+### http://explained.ai/
+http://explained.ai/
 
 
 
