@@ -291,8 +291,13 @@ https://2bitcoins.ru/chto-budet-kogda-ethereum-perejdet-na-proof-of-stake-pos/
 ### !!!!!@@@@@ Исследование рынка дронов
 https://blog.dti.team/issledovanie-rynka-dronov/
 
+### !!!!!@@@@@ lisk academy
+https://lisk.io/academy/welcome-to-the-lisk-academy/what-is-the-lisk-academy-intro
 
+### !!!!!@@@@@ Ethereum in Practice - Quick Start Guide
+http://candidtim.github.io/ethereum/2016/03/24/ethereum-quick-start.html
 
-
+### !!!!! Understanding Ethereum – Top 10+ Free Web Resources (Books, PDFs)
+https://vitalflux.com/understanding-ethereum-top-10-free-web-resources-books-pdfs/
 
 
