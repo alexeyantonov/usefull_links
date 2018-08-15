@@ -381,12 +381,12 @@ http://course.fast.ai/
 ### !!!!!@@@@@$$$$$%%%%%^^^^^*****88888 Bloomberg ML course
 https://bloomberg.github.io/foml/#home
 
-
 ### Seedbank — discover machine learning examples
 https://medium.com/tensorflow/seedbank-discover-machine-learning-examples-2ff894542b57
 https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0ThI
 
-
+### !!!!! Interpretable Machine Learning
+https://christophm.github.io/interpretable-ml-book/
 
 
 
