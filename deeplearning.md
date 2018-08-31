@@ -1649,7 +1649,8 @@ https://t.me/snakers4/1989
 ### !!!!!@@@@@ Состязательные атаки (adversarial attacks) в соревновании Machines Can See 2018
 https://habr.com/post/413775/
 
-
+### !!!!!@@@@@ ShuffleNetv2 in PyTorch
+https://github.com/Randl/ShuffleNetV2-pytorch
 
 
 
