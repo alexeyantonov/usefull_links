@@ -987,4 +987,49 @@ http://explained.ai/
 ### Beware Default Random Forest Importances
 http://explained.ai/rf-importance/index.html
 
+### An Introduction to Hashing in the Era of Machine Learning
+https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0
+
+### !!!!!@@@@@ Feedback on PyTorch for Kaggle competitions
+https://discuss.pytorch.org/t/feedback-on-pytorch-for-kaggle-competitions/2252/11
+
+### !!!!! I'm trying to understand super()
+https://stackoverflow.com/questions/576169/understanding-python-super-with-init-methods/27134600#27134600
+
+### !!!!! Some interesting NLP related ideas from ACL 2018
+http://ruder.io/acl-2018-highlights/
+x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
