@@ -66,7 +66,8 @@ http://fbpca.readthedocs.io/en/latest/#fbpca.pca
 ### Easy to use Keras ImageDataGenerator
 https://www.kaggle.com/hexietufts/easy-to-use-keras-imagedatagenerator
 
-
+### !!!!!@@@@@ PyTorch implementation of OpenAI's Finetuned Transformer Language Model
+https://github.com/huggingface/pytorch-openai-transformer-lm
 
 
 
