@@ -69,6 +69,17 @@ https://www.kaggle.com/hexietufts/easy-to-use-keras-imagedatagenerator
 ### !!!!!@@@@@ PyTorch implementation of OpenAI's Finetuned Transformer Language Model
 https://github.com/huggingface/pytorch-openai-transformer-lm
 
+### pytorch dockerfile
+https://gist.github.com/snakers4/72ccc3d936f04a3307d20f1810b2fa81
+
+### https://github.com/lanpa/tensorboard-pytorch
+https://github.com/lanpa/tensorboard-pytorch
+
+### !!!!!@@@@@ ShuffleNetv2 in PyTorch
+https://github.com/Randl/ShuffleNetV2-pytorch
+
+
+
 
 
 
