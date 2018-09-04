@@ -998,7 +998,9 @@ https://stackoverflow.com/questions/576169/understanding-python-super-with-init-
 
 ### !!!!! Some interesting NLP related ideas from ACL 2018
 http://ruder.io/acl-2018-highlights/
-x
+
+### !!!!!@@@@@ Интересные алгоритмы кластеризации
+https://habr.com/post/321216/
 
 
 
