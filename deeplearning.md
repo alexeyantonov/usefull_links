@@ -1652,7 +1652,11 @@ https://habr.com/post/413775/
 ### !!!!!@@@@@ ShuffleNetv2 in PyTorch
 https://github.com/Randl/ShuffleNetV2-pytorch
 
-
+### !!!!! finetuning resnet
+https://github.com/sebastianbk/finetuned-resnet50-keras
+https://github.com/keras-team/keras/issues/9214
+https://github.com/keras-team/keras/issues/3622
+https://github.com/NVIDIA/DALI/blob/master/docs/examples/tensorflow/tensorflow-resnet50.ipynb
 
 
 
