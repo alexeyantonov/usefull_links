@@ -1002,6 +1002,19 @@ http://ruder.io/acl-2018-highlights/
 ### !!!!!@@@@@ Интересные алгоритмы кластеризации
 https://habr.com/post/321216/
 
+### !!!!!@@@@@$$$$$*****88888 VIP cheatsheets for Stanford's CS 229 Machine Learning
+https://github.com/afshinea/stanford-cs-229-machine-learning
+
+### !!!!! Как мы сократили время на разработку скоринговых моделей в пять раз, переключившись на Python
+https://habr.com/company/idfinance/blog/421091/
+
+### Нейронные сети в Android, Google ML Kit и не только
+https://habr.com/post/422041/
+
+### !!!!! How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python
+https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
+
+
 
 
 
