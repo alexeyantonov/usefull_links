@@ -1658,7 +1658,26 @@ https://github.com/keras-team/keras/issues/9214
 https://github.com/keras-team/keras/issues/3622
 https://github.com/NVIDIA/DALI/blob/master/docs/examples/tensorflow/tensorflow-resnet50.ipynb
 
+### !!!!!@@@@@ An implementation of DeepMind's Relational Recurrent Neural Networks in PyTorch
+https://github.com/L0SG/relational-rnn-pytorch
 
+### !!!!!@@@@@ ReenactGAN: Learning to Reenact Faces via Boundary Transfer
+https://wywu.github.io/projects/ReenactGAN/ReenactGAN.html
+
+### !!!!!@@@@@ Сегментация спутниковых снимков на примере распознавания деревьев
+https://habr.com/post/421277/
+
+### !!!!! Простое введение в АЛУ для нейронных сетей: пояснение, физический смысл и реализация
+https://habr.com/post/422777/
+
+### !!!!!@@@@@$$$$$$*****88888 Анализ тональности текстов с помощью сверточных нейронных сетей
+https://habr.com/company/mailru/blog/417767/
+
+### !!!!! A new understanding of Batch Normalization
+https://medium.com/@geetankr/a-new-understanding-of-batch-normalization-e11e05e120dc
+
+### !!!!!@@@@@$$$$$$*****88888 A paper list of object detection using deep learning
+https://github.com/hoya012/deep_learning_object_detection
 
 
 
