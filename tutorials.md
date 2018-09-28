@@ -1014,6 +1014,9 @@ https://habr.com/post/422041/
 ### !!!!! How and When to Use ROC Curves and Precision-Recall Curves for Classification in Python
 https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/
 
+### !!!!!@@@@@ Deploying a Machine Learning Model as a REST API
+https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
+https://github.com/mnguyenngo/flask-rest-setup/tree/master/sentiment-clf
 
 
 
