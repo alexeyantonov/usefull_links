@@ -78,6 +78,12 @@ https://github.com/lanpa/tensorboard-pytorch
 ### !!!!!@@@@@ ShuffleNetv2 in PyTorch
 https://github.com/Randl/ShuffleNetV2-pytorch
 
+### !!!!!@@@@@ solt is a fast data augmentation library, supporting arbitrary amount of images, segmentation masks, keypoints and data labels. It has OpenCV in its back-end, thus it works very fast.
+https://github.com/MIPT-Oulu/solt
+https://mipt-oulu.github.io/solt/
+
+### !!!!!@@@@@ Augmentor is a Python package designed to aid the augmentation and artificial generation of image data for machine learning tasks. It is primarily a data augmentation tool, but will also incorporate basic image pre-processing functionality.
+https://augmentor.readthedocs.io/en/master/index.html
 
 
 
