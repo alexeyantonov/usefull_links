@@ -388,7 +388,11 @@ https://www.youtube.com/watch?v=MsD28INtSv8&list=PLnZuxOufsXnvftwTB1HL6mel1V32w0
 ### !!!!! Interpretable Machine Learning
 https://christophm.github.io/interpretable-ml-book/
 
+### !!!!!@@@@@ Intro to Deep Learning with PyTorch
+https://in.udacity.com/course/deep-learning-pytorch--ud188
 
+### !!!!!@@@@@ Машинное обучение для людей
+https://vas3k.ru/blog/machine_learning/
 
 
 
