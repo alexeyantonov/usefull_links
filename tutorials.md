@@ -1021,6 +1021,10 @@ https://github.com/mnguyenngo/flask-rest-setup/tree/master/sentiment-clf
 ### !!!!! Делаем проект по машинному обучению на Python. Часть 1
 https://habr.com/company/nixsolutions/blog/425253/
 
+### How to Develop 1D Convolutional Neural Network Models for Human Activity Recognition
+https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/
+
+
 
 
 
