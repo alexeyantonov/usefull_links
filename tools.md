@@ -1,4 +1,8 @@
 # Instruments
+### !!!!!@@@@@ Returns latest research results by crawling arxiv papers and summarizing abstracts. Helps you stay afloat with so many new papers everyday. 
+https://huyenchip.com/2018/10/04/sotawhat.html
+https://github.com/chiphuyen/sotawhat
+
 ### !!!!! Python factor analysis library (PCA, CA, MCA, FAMD)
 https://github.com/MaxHalford/Prince
 
