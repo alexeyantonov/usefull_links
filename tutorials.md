@@ -1018,6 +1018,8 @@ https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-cl
 https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166
 https://github.com/mnguyenngo/flask-rest-setup/tree/master/sentiment-clf
 
+### !!!!! Делаем проект по машинному обучению на Python. Часть 1
+https://habr.com/company/nixsolutions/blog/425253/
 
 
 
