@@ -1679,6 +1679,12 @@ https://medium.com/@geetankr/a-new-understanding-of-batch-normalization-e11e05e1
 ### !!!!!@@@@@$$$$$$*****88888 A paper list of object detection using deep learning
 https://github.com/hoya012/deep_learning_object_detection
 
+### !!!!!@@@@@ Разговоры на тему того, что при использовании transfer learning для классификатора картинок нужно вычитать среднее значение. Далее ссылки:
+https://github.com/keras-team/keras-applications/blob/master/keras_applications/imagenet_utils.py
+https://gist.github.com/baraldilorenzo/07d7802847aaad0a35d3
+https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
+http://forums.fast.ai/t/how-is-vgg16-mean-calculated/4577/8
+https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/63710
 
 
 
