@@ -1,3 +1,6 @@
+### Рейтинг электронных кошельков — ТОП лучших 2018-2019
+https://cryptonisation.ru/rejting-jelektronnyh-koshelkov-top-luchshih/ 
+
 # FinTech & E-Commerce
 https://habrahabr.ru/post/231163/
 
