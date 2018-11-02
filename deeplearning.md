@@ -1686,9 +1686,13 @@ https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
 http://forums.fast.ai/t/how-is-vgg16-mean-calculated/4577/8
 https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/63710
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 yolo keras
+https://www.kaggle.com/sajinpgupta/object-detection-yolov2#
+https://pjreddie.com/darknet/yolo/
+https://github.com/allanzelener/YAD2K
+https://medium.com/@miranthaj/quick-implementation-of-yolo-v2-with-keras-ebf6eb40c684
+https://www.youtube.com/watch?v=4eIBisqx9_g
+https://github.com/andersy005/keras-yolo
 
 
 
