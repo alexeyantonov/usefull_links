@@ -394,7 +394,8 @@ https://in.udacity.com/course/deep-learning-pytorch--ud188
 ### !!!!!@@@@@ Машинное обучение для людей
 https://vas3k.ru/blog/machine_learning/
 
-
+### Лекции по нейросетям
+https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
 
 
