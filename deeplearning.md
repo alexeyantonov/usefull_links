@@ -1694,6 +1694,11 @@ https://medium.com/@miranthaj/quick-implementation-of-yolo-v2-with-keras-ebf6eb4
 https://www.youtube.com/watch?v=4eIBisqx9_g
 https://github.com/andersy005/keras-yolo
 
+### !!!!!@@@@@$$$$$%%%%%888888 A Bag of Tricks for Image Classification
+https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb28e01
+
+### !!!!!@@@@@$$$$$%%%%%888888 Probabilistic U-Net
+https://github.com/SimonKohl/probabilistic_unet
 
 
 
