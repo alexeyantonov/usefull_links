@@ -303,4 +303,8 @@ http://candidtim.github.io/ethereum/2016/03/24/ethereum-quick-start.html
 ### !!!!! Understanding Ethereum – Top 10+ Free Web Resources (Books, PDFs)
 https://vitalflux.com/understanding-ethereum-top-10-free-web-resources-books-pdfs/
 
+### Как вырастить финтех-единорога и обломать рога банкам
+https://incrussia.ru/understand/kak-vyrastit-finteh-edinoroga-i-oblomat-roga-bankam/
+
+
 
