@@ -89,6 +89,8 @@ https://mipt-oulu.github.io/solt/
 ### !!!!!@@@@@ Augmentor is a Python package designed to aid the augmentation and artificial generation of image data for machine learning tasks. It is primarily a data augmentation tool, but will also incorporate basic image pre-processing functionality.
 https://augmentor.readthedocs.io/en/master/index.html
 
+### Определить цвет пиксела на картинке онлайн
+https://ru.inettools.net/image/opredelit-tsvet-piksela-na-kartinke-onlayn
 
 
 
