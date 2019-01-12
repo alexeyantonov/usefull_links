@@ -1700,6 +1700,9 @@ https://towardsdatascience.com/a-big-of-tricks-for-image-classification-fec41eb2
 ### !!!!!@@@@@$$$$$%%%%%888888 Probabilistic U-Net
 https://github.com/SimonKohl/probabilistic_unet
 
+### Neural networks as Ordinary Differential Equations
+https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
+
 
 
 
