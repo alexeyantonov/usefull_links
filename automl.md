@@ -10,3 +10,6 @@ https://cloud.google.com/automl/
 https://research.googleblog.com/2017/11/automl-for-large-scale-image.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+blogspot/gJZg+(Official+Google+Research+Blog)
 
 https://autokeras.com/
+
+# AutoML: Automating the design of machine learning models for autonomous driving
+https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a
