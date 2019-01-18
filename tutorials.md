@@ -1029,6 +1029,7 @@ https://www.jgoertler.com/visual-exploration-gaussian-processes/
 
 ### !!!!! Using the latest advancements in deep learning to predict stock price movements
 https://towardsdatascience.com/aifortrading-2edd6fac689d
+https://github.com/borisbanushev/stockpredictionai
 
 
 
