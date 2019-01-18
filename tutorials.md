@@ -1027,6 +1027,11 @@ https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-tim
 ### A Visual Exploration of Gaussian Processes
 https://www.jgoertler.com/visual-exploration-gaussian-processes/
 
+### !!!!! Using the latest advancements in deep learning to predict stock price movements
+https://towardsdatascience.com/aifortrading-2edd6fac689d
+
+
+
 
 
 
