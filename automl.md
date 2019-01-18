@@ -11,5 +11,18 @@ https://research.googleblog.com/2017/11/automl-for-large-scale-image.html?utm_so
 
 https://autokeras.com/
 
-# AutoML: Automating the design of machine learning models for autonomous driving
+### AutoML: Automating the design of machine learning models for autonomous driving
 https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a
+
+### Auto-DeepLab: Fei-Fei Li & Alan Yuille on Semantic Image Segmentation
+https://medium.com/syncedreview/auto-deeplab-fei-fei-li-alan-yuille-on-semantic-image-segmentation-f2f2ab9795d5
+
+
+
+
+
+
+
+
+
+
