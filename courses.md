@@ -15,6 +15,9 @@ https://www.youtube.com/playlist?list=PLu5flfwrnSD5d02G9YJcDv30Fp5_70-sI
 ### специализация яндекса
 https://www.coursera.org/specializations/machine-learning-data-analysis
 
+### !!!!!@@@@@ The Hundred-Page Machine Learning Book (мне понравилось)
+http://themlbook.com/wiki/doku.php
+
 ### islr
 https://lagunita.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/courseware/995220423fd14a4588d8e47920f1b5df/
 
@@ -399,8 +402,6 @@ https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 
 ### !!!!!@@@@@$$$$$%%%%%88888*****
 https://deeplearning.mit.edu/
-
-
 
 
 
