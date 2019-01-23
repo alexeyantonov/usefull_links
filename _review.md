@@ -31,7 +31,8 @@ https://www.kaggle.com/ceperaang/lb-0-42-ultimate-full-solution-run-on-your-hw
 https://github.com/guillaume-chevalier/Hyperopt-Keras-CNN-CIFAR-100
 https://github.com/Vooban/Hyperopt-Keras-CNN-CIFAR-100
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Snagging Parking Spaces with Mask R-CNN and Python (много полезный идей для новичков)
+https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400
 
 
 
