@@ -92,7 +92,7 @@ https://augmentor.readthedocs.io/en/master/index.html
 ### Определить цвет пиксела на картинке онлайн
 https://ru.inettools.net/image/opredelit-tsvet-piksela-na-kartinke-onlayn
 
-
+https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/toc2
 
 
 
