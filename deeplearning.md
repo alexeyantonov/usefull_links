@@ -1703,8 +1703,8 @@ https://github.com/SimonKohl/probabilistic_unet
 ### Neural networks as Ordinary Differential Equations
 https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 Snagging Parking Spaces with Mask R-CNN and Python (много полезный идей для новичков)
+https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400
 
 
 
