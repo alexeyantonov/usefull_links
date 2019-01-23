@@ -175,6 +175,9 @@ https://github.com/core2duo/RHC-AI
 ### !!!!!@@@@@ Snagging Parking Spaces with Mask R-CNN and Python (много полезный идей для новичков)
 https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400
 
+### !!!!!@@@@@ Улучшение агента на основе Q-Learning, торгующего stocks, путем добавления рекуррентности и формирования наград
+https://habr.com/ru/post/436628/
+https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding-recurrency-and-reward-shaping-b9e0ee095c8b
 
 
 
