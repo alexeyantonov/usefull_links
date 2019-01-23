@@ -403,7 +403,8 @@ https://www.youtube.com/playlist?list=PLDywto_IU4_4nP7LUZRzQ5QKoglE-WBtT
 ### !!!!!@@@@@$$$$$%%%%%88888*****
 https://deeplearning.mit.edu/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Deep Learning State of the Art (2019) - MIT
+https://www.youtube.com/watch?v=53YvP6gdD7U
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Advanced Deep Learning & Reinforcement Learning
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
