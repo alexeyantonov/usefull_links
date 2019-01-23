@@ -179,8 +179,8 @@ https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-
 https://habr.com/ru/post/436628/
 https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding-recurrency-and-reward-shaping-b9e0ee095c8b
 
-
-
+### !!!!!@@@@@ Mini AI Cup #3: Пишем топового бота
+https://habr.com/ru/company/mailru/blog/430466/
 
 
 
