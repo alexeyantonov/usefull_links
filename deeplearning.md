@@ -1744,3 +1744,4 @@ https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be719
 
 
 
+
