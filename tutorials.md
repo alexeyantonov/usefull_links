@@ -1031,7 +1031,8 @@ https://www.jgoertler.com/visual-exploration-gaussian-processes/
 https://towardsdatascience.com/aifortrading-2edd6fac689d
 https://github.com/borisbanushev/stockpredictionai
 
-
+### !!!!! Implementing a ResNet model from scratch.
+https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718
 
 
 
