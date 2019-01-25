@@ -1713,6 +1713,11 @@ https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding
 ### !!!!!@@@@@ Using the latest advancements in deep learning to predict stock price movements
 https://towardsdatascience.com/aifortrading-2edd6fac689d
 
+### !!!!!@@@@@$$$$$%%%%%888888 Understanding Convolutional Neural Networks through Visualizations in PyTorch
+https://towardsdatascience.com/understanding-convolutional-neural-networks-through-visualizations-in-pytorch-b5444de08b91
+
+### !!!!!@@@@@ Implementing a ResNet model from scratch.
+https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718
 
 
 
