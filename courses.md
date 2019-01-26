@@ -412,7 +412,8 @@ https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
 ### !!!!!@@@@@$$$$$%%%%%88888***** Deep NLP Course (посмотреть!!)
 https://github.com/DanAnastasyev/DeepNLP-Course
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Practical Deep Learning for Coders 2019
+https://www.fast.ai/2019/01/24/course-v3/
 
 
 
