@@ -1719,7 +1719,8 @@ https://towardsdatascience.com/understanding-convolutional-neural-networks-throu
 ### !!!!!@@@@@ Implementing a ResNet model from scratch.
 https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718
 
-
+### !!!!!@@@@@ We Summarized 14 NLP Research Breakthroughs You Can Apply To Your Business
+https://www.topbots.com/most-important-ai-nlp-research/
 
 
 
