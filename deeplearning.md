@@ -1722,10 +1722,11 @@ https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be719
 ### !!!!!@@@@@ We Summarized 14 NLP Research Breakthroughs You Can Apply To Your Business
 https://www.topbots.com/most-important-ai-nlp-research/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Sandbox for training large-scale image classification networks for embedded systems
+https://github.com/osmr/imgclsmob
 
-
-
-
+### !!!!!@@@@@ Исправляем опечатки в поисковых запросах
+https://habr.com/ru/company/joom/blog/433554/
 
 
 
