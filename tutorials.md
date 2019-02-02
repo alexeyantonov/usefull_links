@@ -1034,6 +1034,8 @@ https://github.com/borisbanushev/stockpredictionai
 ### !!!!! Implementing a ResNet model from scratch.
 https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be7193718
 
+### !!!!! 5 мощных проектов по машинному обучению для начинающих
+https://proglib.io/p/ml-projects/
 
 
 
