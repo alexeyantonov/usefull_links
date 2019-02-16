@@ -1737,14 +1737,15 @@ http://d2l.ai/
 ### !!!!!@@@@@ These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work.
 https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
+### !!!!!@@@@@$$$$$%%%%%888888 MIT Deep Learning Basics: Introduction and Overview with TensorFlow
+https://medium.com/tensorflow/mit-deep-learning-basics-introduction-and-overview-with-tensorflow-355bcd26baf0?linkId=63206779
+https://agi.mit.edu/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Welcome to Spinning Up in Deep RL!
+https://spinningup.openai.com/en/latest/index.html
 
-
-
-
-
-
-
+### !!!!!@@@@@ Snagging Parking Spaces with Mask R-CNN and Python
+https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400
 
 
 
