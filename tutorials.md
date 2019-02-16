@@ -1037,6 +1037,24 @@ https://towardsdatascience.com/implementing-a-resnet-model-from-scratch-971be719
 ### !!!!! 5 мощных проектов по машинному обучению для начинающих
 https://proglib.io/p/ml-projects/
 
+### These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work.
+https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
+
+### !!!!! Deep Learning State of the Art (2019) - MIT
+https://www.youtube.com/watch?v=53YvP6gdD7U
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
