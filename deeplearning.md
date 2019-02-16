@@ -1728,6 +1728,14 @@ https://github.com/osmr/imgclsmob
 ### !!!!!@@@@@ Исправляем опечатки в поисковых запросах
 https://habr.com/ru/company/joom/blog/433554/
 
+### !!!!!@@@@@ Как превратить спутниковые снимки в карты. Компьютерное зрение в Яндексе
+https://habr.com/ru/company/yandex/blog/431108/
+
+### !!!!!@@@@@$$$$$%%%%%888888 Dive into Deep Learning. An interactive deep learning book with code, math, and discussions
+http://d2l.ai/
+
+### !!!!!@@@@@ These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work.
+https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
 
 
