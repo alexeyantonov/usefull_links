@@ -1747,6 +1747,35 @@ https://spinningup.openai.com/en/latest/index.html
 ### !!!!!@@@@@ Snagging Parking Spaces with Mask R-CNN and Python
 https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400
 
+### Реализация моделей seq2seq в Tensorflow
+https://habr.com/ru/post/440472/
+
+### !!!!!@@@@@$$$$$%%%%%888888 Transfer Learning with PyTorch
+https://heartbeat.fritz.ai/transfer-learning-with-pytorch-cfcb69016c72
+
+### Latex code for making neural networks diagrams
+https://github.com/HarisIqbal88/PlotNeuralNet
+
+### !!!!!@@@@@$$$$$%%%%%888888 DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning
+https://www.nature.com/articles/s41598-018-38343-3
+
+### !!!!!@@@@@$$$$$%%%%%888888 Convolutional Neural Nets in PyTorch
+https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/
+
+### !!!!!@@@@@ Image Segmentation using Python’s scikit-image module
+https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980
+
+### !!!!!@@@@@ Predict malignancy in cancer tumors with your own neural network
+https://towardsdatascience.com/predict-malignancy-in-breast-cancer-tumors-with-your-own-neural-network-and-the-wisconsin-dataset-76271a05e941
+
+### !!!!!@@@@@ These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work. #nlp
+https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
+
+
+
+
+
+
 
 
 
