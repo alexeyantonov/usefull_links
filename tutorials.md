@@ -1043,6 +1043,27 @@ https://towardsdatascience.com/these-are-the-easiest-data-augmentation-technique
 ### !!!!! Deep Learning State of the Art (2019) - MIT
 https://www.youtube.com/watch?v=53YvP6gdD7U
 
+### !!!!!@@@@@$$$$$%%%%%888888 Convolutional Neural Nets in PyTorch
+https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/
+
+### !!!!!@@@@@ Image Segmentation using Python’s scikit-image module
+https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980
+
+### !!!!!@@@@@ Introduction to gradient boosting on decision trees with Catboost
+https://towardsdatascience.com/introduction-to-gradient-boosting-on-decision-trees-with-catboost-d511a9ccbd14
+
+### !!!!!@@@@@ What To Optimize for? Loss Function Cheat Sheet
+https://towardsdatascience.com/what-to-optimize-for-loss-function-cheat-sheet-5fc8b1339939
+
+### How to build AutoML from scratch
+https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
+
+
+
+
+
+
+
 
 
 
