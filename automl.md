@@ -17,8 +17,8 @@ https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models
 ### Auto-DeepLab: Fei-Fei Li & Alan Yuille on Semantic Image Segmentation
 https://medium.com/syncedreview/auto-deeplab-fei-fei-li-alan-yuille-on-semantic-image-segmentation-f2f2ab9795d5
 
-
-
+### How to build AutoML from scratch
+https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 
 
 
