@@ -415,7 +415,8 @@ https://github.com/DanAnastasyev/DeepNLP-Course
 ### !!!!!@@@@@$$$$$%%%%%88888***** Practical Deep Learning for Coders 2019
 https://www.fast.ai/2019/01/24/course-v3/
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Computer vision
+https://pjreddie.com/courses/computer-vision/
 
 
 
