@@ -94,6 +94,9 @@ https://ru.inettools.net/image/opredelit-tsvet-piksela-na-kartinke-onlayn
 
 https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/jupyter_contrib_nbextensions/nbextensions/toc2
 
+### Latex code for making neural networks diagrams
+https://github.com/HarisIqbal88/PlotNeuralNet
+
 
 
 
