@@ -1058,7 +1058,8 @@ https://towardsdatascience.com/what-to-optimize-for-loss-function-cheat-sheet-5f
 ### How to build AutoML from scratch
 https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 
-
+### Improve your classification models using Mean /Target Encoding
+https://medium.com/datadriveninvestor/improve-your-classification-models-using-mean-target-encoding-a3d573df31e8
 
 
 
