@@ -39,8 +39,8 @@ https://andresol.livejournal.com/
 ### Собеседование для Data Scientists: вопросы и ответы
 https://proglib.io/p/data-scientist-qa/
 
-
-
+### !!!!!  Data science interview questions with answers. Not ideally (yet)
+https://github.com/iamtodor/data-science-interview-questions-and-answers
 
 
 
