@@ -181,6 +181,7 @@ https://medium.com/@alexeybnk/improving-q-learning-agent-trading-stock-by-adding
 
 ### !!!!!@@@@@ Mini AI Cup #3: Пишем топового бота
 https://habr.com/ru/company/mailru/blog/430466/
+https://github.com/alxmamaev/sdsj-automl
 
 ### Как мы решали задачу продолжения плейлистов на RecSys Challenge и заняли 3 место
 https://github.com/VasiliyRubtsov/recsys2018
