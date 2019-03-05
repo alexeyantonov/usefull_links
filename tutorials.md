@@ -1061,11 +1061,11 @@ https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 ### Improve your classification models using Mean /Target Encoding
 https://medium.com/datadriveninvestor/improve-your-classification-models-using-mean-target-encoding-a3d573df31e8
 
+### Probability Theory for Machine/Deep Learning
+https://towardsdatascience.com/probability-theory-for-deep-learning-9551b9255cf0
 
-
-
-
-
+### !!!!! All the Steps to Build your first Image Classifier (with code)
+https://towardsdatascience.com/all-the-steps-to-build-your-first-image-classifier-with-code-cf244b015799
 
 
 
