@@ -1067,8 +1067,9 @@ https://towardsdatascience.com/probability-theory-for-deep-learning-9551b9255cf0
 ### !!!!! All the Steps to Build your first Image Classifier (with code)
 https://towardsdatascience.com/all-the-steps-to-build-your-first-image-classifier-with-code-cf244b015799
 
-
-
+### !!!!! Top 3 NLP Libraries Tutorial( NLTK+spaCy+Gensim)
+https://www.kaggle.com/mjbahmani/top-3-nlp-libraries-tutorial-nltk-spacy-gensim
+https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
 
 
 
