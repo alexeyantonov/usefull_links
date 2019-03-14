@@ -1771,6 +1771,73 @@ https://towardsdatascience.com/predict-malignancy-in-breast-cancer-tumors-with-y
 ### !!!!!@@@@@ These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work. #nlp
 https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
+### !!!!!@@@@@ GANPaint: An Extraordinary Image Editor AI
+https://www.youtube.com/watch?v=iM4PPGDQry0&feature=youtu.be
+
+### !!!!!@@@@@ Bag of Tricks for Image Classification with Convolutional Neural Networks
+https://arxiv.org/abs/1812.01187
+
+### !!!!!@@@@@ PyTorch internals
+https://speakerdeck.com/perone/pytorch-under-the-hood
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
