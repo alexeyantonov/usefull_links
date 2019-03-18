@@ -1071,6 +1071,8 @@ https://towardsdatascience.com/all-the-steps-to-build-your-first-image-classifie
 https://www.kaggle.com/mjbahmani/top-3-nlp-libraries-tutorial-nltk-spacy-gensim
 https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
 
+### !!!!! Инструменты Python: лучшая шпаргалка для начинающих
+https://proglib.io/p/py-tools/
 
 
 
