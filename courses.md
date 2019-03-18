@@ -418,7 +418,8 @@ https://www.fast.ai/2019/01/24/course-v3/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Computer vision
 https://pjreddie.com/courses/computer-vision/
 
-
+### !!!!!@@@@@ Самый полный видеокурс по Django от установки до проекта
+https://proglib.io/p/learn-django/
 
 
 
