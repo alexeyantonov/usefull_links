@@ -115,6 +115,38 @@ https://www.ehdp.com/vitalnet/datasets.htm
 ### !!!!!@@@@@
 https://paperswithcode.com/area/med
 
+### !!!!!@@@@@@ Deep Learning for Medical Image Processing: Overview, Challenges and Future
+https://arxiv.org/pdf/1704.06825.pdf
+
+### !!!!!@@@@@@ An overview of deep learning in medical imaging focusing on MRI
+https://arxiv.org/abs/1811.10052
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
