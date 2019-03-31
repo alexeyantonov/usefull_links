@@ -421,6 +421,8 @@ https://pjreddie.com/courses/computer-vision/
 ### !!!!!@@@@@ Самый полный видеокурс по Django от установки до проекта
 https://proglib.io/p/learn-django/
 
+### !!!!!@@@@@ Hands - On Reinforcement Learning with Python
+https://subscription.packtpub.com/video/big_data_and_business_intelligence/9781788392402?_ga=2.265529551.154903614.1552471263-2145444964.1541488441
 
 
 
