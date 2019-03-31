@@ -1771,7 +1771,7 @@ https://towardsdatascience.com/predict-malignancy-in-breast-cancer-tumors-with-y
 ### !!!!!@@@@@ These are the Easiest Data Augmentation Techniques in Natural Language Processing you can think of — and they work. #nlp
 https://towardsdatascience.com/these-are-the-easiest-data-augmentation-techniques-in-natural-language-processing-you-can-think-of-88e393fd610
 
-### !!!!!@@@@@ GANPaint: An Extraordinary Image Editor AI
+### !!!!!@@@@@ GANPaint: An Extraordinary Image Editor AI 
 https://www.youtube.com/watch?v=iM4PPGDQry0&feature=youtu.be
 
 ### !!!!!@@@@@ Bag of Tricks for Image Classification with Convolutional Neural Networks
@@ -1780,9 +1780,17 @@ https://arxiv.org/abs/1812.01187
 ### !!!!!@@@@@ PyTorch internals
 https://speakerdeck.com/perone/pytorch-under-the-hood
 
+### !!!!!@@@@@ 9 Applications of Deep Learning for Computer Vision
+https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/
 
+### !!!!!@@@@@ Hands - On Reinforcement Learning with Python
+https://subscription.packtpub.com/video/big_data_and_business_intelligence/9781788392402?_ga=2.265529551.154903614.1552471263-2145444964.1541488441
 
+### !!!!!@@@@@@ Deep Learning for Medical Image Processing: Overview, Challenges and Future
+https://arxiv.org/pdf/1704.06825.pdf
 
+### !!!!!@@@@@@ An overview of deep learning in medical imaging focusing on MRI
+https://arxiv.org/abs/1811.10052
 
 
 
