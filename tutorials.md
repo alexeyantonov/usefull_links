@@ -1074,6 +1074,8 @@ https://github.com/mjbahmani/10-steps-to-become-a-data-scientist
 ### !!!!! Инструменты Python: лучшая шпаргалка для начинающих
 https://proglib.io/p/py-tools/
 
+### !!!!! A Gentle Introduction to Computer Vision
+https://machinelearningmastery.com/what-is-computer-vision/
 
 
 
