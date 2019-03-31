@@ -424,9 +424,8 @@ https://proglib.io/p/learn-django/
 ### !!!!!@@@@@ Hands - On Reinforcement Learning with Python
 https://subscription.packtpub.com/video/big_data_and_business_intelligence/9781788392402?_ga=2.265529551.154903614.1552471263-2145444964.1541488441
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Stanford online courses (lots of DL)
+https://www.youtube.com/user/stanfordonline/playlists
 
 
 
