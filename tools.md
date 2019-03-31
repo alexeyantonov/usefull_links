@@ -97,6 +97,8 @@ https://github.com/ipython-contrib/jupyter_contrib_nbextensions/tree/master/src/
 ### Latex code for making neural networks diagrams
 https://github.com/HarisIqbal88/PlotNeuralNet
 
+### Jetson Nano
+https://www.nvidia.com/ru-ru/autonomous-machines/embedded-systems/jetson-nano/
 
 
 
