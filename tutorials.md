@@ -1077,6 +1077,9 @@ https://proglib.io/p/py-tools/
 ### !!!!! A Gentle Introduction to Computer Vision
 https://machinelearningmastery.com/what-is-computer-vision/
 
+### Build XGBoost / LightGBM models on large datasets — what are the possible solutions?
+https://towardsdatascience.com/build-xgboost-lightgbm-models-on-large-datasets-what-are-the-possible-solutions-bf882da2c27d
+
 
 
 
