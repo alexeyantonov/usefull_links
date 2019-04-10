@@ -1792,6 +1792,21 @@ https://arxiv.org/pdf/1704.06825.pdf
 ### !!!!!@@@@@@ An overview of deep learning in medical imaging focusing on MRI
 https://arxiv.org/abs/1811.10052
 
+### !!!!!@@@@@$$$$$%%%%%888888 Make Money with Tensorflow 2.0
+https://www.youtube.com/watch?v=WS9Nckd2kq0
+https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0
+https://www.youtube.com/watch?v=NzmoPqte4V4&feature=youtu.be
+
+### How to Get Started With Deep Learning for Computer Vision (7-Day Mini-Course)
+https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-computer-vision-7-day-mini-course/
+
+### How to Load and Visualize Standard Computer Vision Datasets With Keras
+https://machinelearningmastery.com/how-to-load-and-visualize-standard-computer-vision-datasets-with-keras/
+
+### !!!!!@@@@@ Deep Reinforcement Learning with TensorFlow 2.0
+http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
+
+
 
 
 
