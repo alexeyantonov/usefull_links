@@ -1806,7 +1806,9 @@ https://machinelearningmastery.com/how-to-load-and-visualize-standard-computer-v
 ### !!!!!@@@@@ Deep Reinforcement Learning with TensorFlow 2.0
 http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Word2vec в картинках
+https://habr.com/ru/post/446530/
+https://www.youtube.com/watch?v=U0LOSHY7U5Q
 
 
 
