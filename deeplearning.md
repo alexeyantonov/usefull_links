@@ -1815,10 +1815,20 @@ http://inoryy.com/post/tensorflow2-deep-reinforcement-learning/
 https://habr.com/ru/post/446530/
 https://www.youtube.com/watch?v=U0LOSHY7U5Q
 
+### !!!!!@@@@@ L19/2 Recurrent Neural Networks in Python
+https://www.youtube.com/watch?v=kZPRyeiaBnc
 
+### !!!!!@@@@@ How to Configure Image Data Augmentation When Training Deep Learning Neural Networks
+https://machinelearningmastery.com/how-to-configure-image-data-augmentation-when-training-deep-learning-neural-networks/
 
+### !!!!!@@@@@ How to Use Test-Time Augmentation to Improve Model Performance for Image Classification
+https://machinelearningmastery.com/how-to-use-test-time-augmentation-to-improve-model-performance-for-image-classification/
 
+### !!!!!@@@@@ Основы Natural Language Processing для текста
+https://habr.com/ru/company/Voximplant/blog/446738/
 
+### !!!!!@@@@@$$$$$%%%%%888888 YoloV3 Implemented in TensorFlow 2.0
+https://github.com/zzh8829/yolov3-tf2
 
 
 
