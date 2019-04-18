@@ -1830,6 +1830,9 @@ https://habr.com/ru/company/Voximplant/blog/446738/
 ### !!!!!@@@@@$$$$$%%%%%888888 YoloV3 Implemented in TensorFlow 2.0
 https://github.com/zzh8829/yolov3-tf2
 
+### !!!!!@@@@@$$$$$%%%%%888888 Gentle guide on how YOLO Object Localization works with Keras
+https://hackernoon.com/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-1-aec99277f56f
+https://heartbeat.fritz.ai/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-2-65fe59ac12d
 
 
 
