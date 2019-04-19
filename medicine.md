@@ -121,8 +121,9 @@ https://arxiv.org/pdf/1704.06825.pdf
 ### !!!!!@@@@@@ An overview of deep learning in medical imaging focusing on MRI
 https://arxiv.org/abs/1811.10052
 
-
-
+### !!!!!@@@@@@ Multimodal Machine Learning-based Knee Osteoarthritis Progression Prediction from Plain Radiographs and Clinical Data
+https://arxiv.org/abs/1904.06236
+https://github.com/MIPT-Oulu/OAProgression
 
 
 
