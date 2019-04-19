@@ -100,6 +100,28 @@ https://github.com/HarisIqbal88/PlotNeuralNet
 ### Jetson Nano
 https://www.nvidia.com/ru-ru/autonomous-machines/embedded-systems/jetson-nano/
 
+### Build and run Docker containers leveraging NVIDIA GPUs
+https://github.com/NVIDIA/nvidia-docker
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
