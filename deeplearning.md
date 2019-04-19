@@ -1834,7 +1834,11 @@ https://github.com/zzh8829/yolov3-tf2
 https://hackernoon.com/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-1-aec99277f56f
 https://heartbeat.fritz.ai/gentle-guide-on-how-yolo-object-localization-works-with-keras-part-2-65fe59ac12d
 
+### !!!!!@@@@@ What’s new in YOLO v3?
+https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
 
+### !!!!!@@@@@$$$$$%%%%%888888 Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI
+https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
 
 
 
