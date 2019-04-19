@@ -427,8 +427,8 @@ https://subscription.packtpub.com/video/big_data_and_business_intelligence/97817
 ### !!!!!@@@@@$$$$$%%%%%88888***** Stanford online courses (lots of DL)
 https://www.youtube.com/user/stanfordonline/playlists
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** CS230: Deep Learning | Autumn 2018
+https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 
 
