@@ -103,8 +103,8 @@ https://www.nvidia.com/ru-ru/autonomous-machines/embedded-systems/jetson-nano/
 ### Build and run Docker containers leveraging NVIDIA GPUs
 https://github.com/NVIDIA/nvidia-docker
 
-
-
+### A pytorch-toolbelt is a Python library with a set of bells and whistles for PyTorch for fast R&D prototyping and Kaggle farming
+https://github.com/BloodAxe/pytorch-toolbelt
 
 
 
