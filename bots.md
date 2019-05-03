@@ -177,8 +177,14 @@ https://tproger.ru/translations/telegram-bot-create-and-deploy/
 ### lib for creating
 https://github.com/python-telegram-bot/python-telegram-bot
 
+### !!!!!@@@@@ Пошаговое руководство по созданию голосового помощника с Python
+https://habr.com/ru/post/450224/
 
+### !!!!!@@@@@ Джарвис снова в деле
+https://habr.com/ru/post/401049/
 
+### !!!!!
+https://aiversus.ru/about/project
 
 
 
