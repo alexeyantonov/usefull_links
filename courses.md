@@ -430,9 +430,11 @@ https://www.youtube.com/user/stanfordonline/playlists
 ### !!!!!@@@@@$$$$$%%%%%88888***** CS230: Deep Learning | Autumn 2018
 https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
+### !!!!!@@@@@$$$$$%%%%%88888***** курс гевиссты
+https://drive.google.com/file/d/1Z2T3D6KTP-uwKlds2cj72qw0VsP9DivD/view
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Mini Course in Deep Learning with PyTorch for AIMS (быстро, просто, понятно)
+https://github.com/Atcold/pytorch-Deep-Learning-Minicourse
 
 
 
