@@ -1840,6 +1840,9 @@ https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b
 ### !!!!!@@@@@$$$$$%%%%%888888 Detecting objects in videos and camera feeds using Keras, OpenCV, and ImageAI
 https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-keras-opencv-and-imageai-c869fe1ebcdb
 
+### !!!!! How to Implement VGG, Inception and ResNet Modules for Convolutional Neural Networks from Scratch
+https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/
+
 
 
 
