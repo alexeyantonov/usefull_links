@@ -1843,7 +1843,8 @@ https://heartbeat.fritz.ai/detecting-objects-in-videos-and-camera-feeds-using-ke
 ### !!!!! How to Implement VGG, Inception and ResNet Modules for Convolutional Neural Networks from Scratch
 https://machinelearningmastery.com/how-to-implement-major-architecture-innovations-for-convolutional-neural-networks/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Playing Atari with Deep Reinforcement Learning
+https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 
 
