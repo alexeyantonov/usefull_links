@@ -1080,7 +1080,8 @@ https://machinelearningmastery.com/what-is-computer-vision/
 ### Build XGBoost / LightGBM models on large datasets — what are the possible solutions?
 https://towardsdatascience.com/build-xgboost-lightgbm-models-on-large-datasets-what-are-the-possible-solutions-bf882da2c27d
 
-
+### UNIX-подобная операционная система: пишем ядро на языке C
+https://proglib.io/p/write-a-kernel/
 
 
 
