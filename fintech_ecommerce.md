@@ -306,5 +306,31 @@ https://vitalflux.com/understanding-ethereum-top-10-free-web-resources-books-pdf
 ### Как вырастить финтех-единорога и обломать рога банкам
 https://incrussia.ru/understand/kak-vyrastit-finteh-edinoroga-i-oblomat-roga-bankam/
 
+### Фандрейзинг в России - боль (?)
+https://www.facebook.com/photo.php?fbid=10156787407668124&set=a.10150379178858124&type=3&theater
+
+### Островок покоя в цифровом вихре: как приложение для медитаций Calm стало единорогом
+https://incrussia.ru/understand/ostrovok-pokoya-v-tsifrovom-vihre-kak-prilozhenie-dlya-meditatsij-calm-stalo-edinorogom/
+
+### Как сохранить баланс между работой и жизнью (и построить бизнес на $1 млрд)
+https://spark.ru/startup/redaktsiya-spark-ru/blog/47746/kak-sohranit-balans-mezhdu-rabotoj-i-zhizniu-i-postroit-biznes-na-1-mlrd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
