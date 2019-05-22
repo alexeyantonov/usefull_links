@@ -20,6 +20,8 @@ https://medium.com/syncedreview/auto-deeplab-fei-fei-li-alan-yuille-on-semantic-
 ### How to build AutoML from scratch
 https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 
+### AutoML: Methods, Systems, Challenges (new book)
+https://www.automl.org/book/
 
 
 
