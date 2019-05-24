@@ -1849,7 +1849,8 @@ https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 ### !!!!!@@@@@$$$$$%%%%%888888 PetSwap Demo of Few-Shot Unsupervised Image-to-Image Translation
 https://nvlabs.github.io/FUNIT/petswap.html
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
+https://www.youtube.com/watch?v=p1b5aiTrGzY&feature=youtu.be
 
 
 
