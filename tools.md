@@ -109,6 +109,8 @@ https://github.com/BloodAxe/pytorch-toolbelt
 ### Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning
 https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
 
+### GPU Accelerated LightGBM for Histogram-based GBDT Training
+https://github.com/huanzhang12/lightgbm-gpu
 
 
 
