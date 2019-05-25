@@ -1852,7 +1852,8 @@ https://nvlabs.github.io/FUNIT/petswap.html
 ### !!!!!@@@@@$$$$$%%%%%888888 Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 https://www.youtube.com/watch?v=p1b5aiTrGzY&feature=youtu.be
 
-
+### Introducing FastBert — A simple Deep Learning library for BERT Models
+https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384
 
 
 
