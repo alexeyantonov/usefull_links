@@ -32,3 +32,14 @@ https://www.youtube.com/watch?v=C6IUbX0ePBg
 
 ### !!!!!@@@@@$$$$$%%%%%88888 Kaggle Mercedes Benz: предсказание времени тестирования автомобилей — Данила Савенков  (отличный доклад)
 https://www.youtube.com/watch?v=HT3QpRp2ewA
+
+### ODS DATAFEST videos
+https://www.youtube.com/channel/UCM9ECBAZtlLeEr-m3ldZ7Tw/videos
+
+
+
+
+
+
+
+
