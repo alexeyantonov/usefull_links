@@ -439,8 +439,12 @@ https://github.com/Atcold/pytorch-Deep-Learning-Minicourse
 ### Сергей Марков: "Искусственный интеллект и машинное обучение: итоги 2018 года."
 https://www.youtube.com/watch?v=l6djLCYnOKw
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Foundations of Data Science
+https://www.microsoft.com/en-us/research/video/foundations-of-ds/?OCID=msr_project_datascibook_tw
+https://www.cs.cornell.edu/jeh/book.pdf
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Hugo Larochelle: Neural Networks Course
+http://www.dmi.usherb.ca/~larocheh/neural_networks/content.html
 
 
 
