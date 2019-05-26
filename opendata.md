@@ -7,6 +7,9 @@ https://vc.ru/p/hackaton-minkult
 ### 25 Excellent Machine Learning Open Datasets
 https://opendatascience.com/25-excellent-machine-learning-open-datasets/
 
+### Огромный открытый датасет русской речи
+https://habr.com/ru/post/450760/
+
 
 
 
