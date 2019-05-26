@@ -8,3 +8,17 @@ https://www.researchgate.net/profile/Stanislav_Sorokin/publication/306918338_Zam
 
 ### The 10 coolest papers from CVPR 2018
 https://towardsdatascience.com/the-10-coolest-papers-from-cvpr-2018-11cb48585a49
+
+
+
+
+
+
+
+
+
+
+
+
+
+
