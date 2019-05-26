@@ -436,6 +436,70 @@ https://drive.google.com/file/d/1Z2T3D6KTP-uwKlds2cj72qw0VsP9DivD/view
 ### !!!!!@@@@@$$$$$%%%%%88888***** Mini Course in Deep Learning with PyTorch for AIMS (быстро, просто, понятно)
 https://github.com/Atcold/pytorch-Deep-Learning-Minicourse
 
+### Сергей Марков: "Искусственный интеллект и машинное обучение: итоги 2018 года."
+https://www.youtube.com/watch?v=l6djLCYnOKw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
