@@ -115,6 +115,9 @@ https://github.com/huanzhang12/lightgbm-gpu
 ### Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning
 https://github.com/microsoft/tensorwatch
 
+### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
+https://github.com/deepmipt/DeepPavlov
+
 
 
 
