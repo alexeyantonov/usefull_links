@@ -186,6 +186,8 @@ https://habr.com/ru/post/401049/
 ### !!!!!
 https://aiversus.ru/about/project
 
+### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
+https://github.com/deepmipt/DeepPavlov
 
 
 
