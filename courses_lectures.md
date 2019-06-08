@@ -446,7 +446,11 @@ https://www.cs.cornell.edu/jeh/book.pdf
 ### !!!!!@@@@@$$$$$%%%%%88888***** Hugo Larochelle: Neural Networks Course
 http://www.dmi.usherb.ca/~larocheh/neural_networks/content.html
 
+### Path to a free self-taught education in Bioinformatics!
+https://github.com/ossu/bioinformatics
 
+### !!!!!@@@@@$$$$$%%%%%88888***** 
+https://github.com/Gewissta/Course_ML?fbclid=IwAR3VSMikAgGxZp0JJbo4Di8xW1kmznVWlnFzrlJgAlCDyl6T9FjVw1DzBd8
 
 
 
