@@ -1858,8 +1858,8 @@ https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-libra
 ### Implementing a Simple Auto-Encoder in Tensorflow
 https://medium.com/@barp.edoardo/implementing-a-simple-auto-encoder-in-tensorflow-1181751f202?fbclid=IwAR2w7mWBPAm25dZ4mWo-OTIpmWXrF9JsaE8MDn3PLRfWRgnfDWdhqAigAa0
 
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
+https://github.com/deepmipt/DeepPavlov
 
 
 
