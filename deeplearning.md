@@ -1855,7 +1855,8 @@ https://www.youtube.com/watch?v=p1b5aiTrGzY&feature=youtu.be
 ### Introducing FastBert — A simple Deep Learning library for BERT Models
 https://medium.com/huggingface/introducing-fastbert-a-simple-deep-learning-library-for-bert-models-89ff763ad384
 
-
+### Implementing a Simple Auto-Encoder in Tensorflow
+https://medium.com/@barp.edoardo/implementing-a-simple-auto-encoder-in-tensorflow-1181751f202?fbclid=IwAR2w7mWBPAm25dZ4mWo-OTIpmWXrF9JsaE8MDn3PLRfWRgnfDWdhqAigAa0
 
 
 
