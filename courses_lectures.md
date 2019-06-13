@@ -452,8 +452,12 @@ https://github.com/ossu/bioinformatics
 ### !!!!!@@@@@$$$$$%%%%%88888***** 
 https://github.com/Gewissta/Course_ML?fbclid=IwAR3VSMikAgGxZp0JJbo4Di8xW1kmznVWlnFzrlJgAlCDyl6T9FjVw1DzBd8
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Перевод книги Себастьяна Труна на русский язык
+https://github.com/literator1996/veroyatnostnaya_robototehnica
 
-
+### !!!!!@@@@@ Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)
+https://github.com/Machine-Learning-Tokyo/DL-workshop-series?fbclid=IwAR3ynTaG2mOsn3SrAF_eRGL-FaflDrxTp85ZNZGYtxFUQBIswVBFGjXqXsU
+https://docs.google.com/presentation/d/1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM/edit?fbclid=IwAR08qeVtC0K3CnxVGKXP2Aj-r0SRjd2j2o9pX19ucpev0f72JVkLqj3p-WU#slide=id.p
 
 
 
