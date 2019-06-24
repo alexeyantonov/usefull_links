@@ -1861,14 +1861,32 @@ https://medium.com/@barp.edoardo/implementing-a-simple-auto-encoder-in-tensorflo
 ### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
 https://github.com/deepmipt/DeepPavlov
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning
+https://developers.google.com/machine-learning/crash-course/
 
+### Best Resources for Getting Started With Generative Adversarial Networks (GANs)
+https://machinelearningmastery.com/resources-for-getting-started-with-generative-adversarial-networks/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** How to Develop a Face Recognition System Using FaceNet in Keras
+https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** How to Perform Face Detection with Deep Learning in Keras
+https://machinelearningmastery.com/how-to-perform-face-detection-with-classical-and-deep-learning-methods-in-python-with-keras/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** A Gentle Introduction to Deep Learning for Face Recognition
+https://machinelearningmastery.com/introduction-to-deep-learning-for-face-recognition/
 
+### Отличаем символы от мусора: как построить устойчивые нейросетевые модели в задачах OCR
+https://habr.com/ru/company/abbyy/blog/449524/
 
+### How to Train an Object Detection Model to Find Kangaroos in Photographs (R-CNN with Keras)
+https://machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** How to Perform Object Detection With YOLOv3 in Keras
+https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 
+### !!!!! AlphaFold: Использование ИИ для научных открытий
+https://habr.com/ru/company/otus/blog/453848/
 
 
 
