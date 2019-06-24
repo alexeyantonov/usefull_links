@@ -118,8 +118,11 @@ https://github.com/microsoft/tensorwatch
 ### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
 https://github.com/deepmipt/DeepPavlov
 
+### DEEP LEARNING TOOLS
+https://drive.google.com/file/d/1XhngKISDpQgwGlvU-hjXWZb_qfyIYjqN/view
 
-
+### Deep Learning Frameworks 2019 | Which Deep Learning Framework To Use
+https://www.youtube.com/watch?v=6ryPbOfz03U
 
 
 
