@@ -459,10 +459,11 @@ https://github.com/literator1996/veroyatnostnaya_robototehnica
 https://github.com/Machine-Learning-Tokyo/DL-workshop-series?fbclid=IwAR3ynTaG2mOsn3SrAF_eRGL-FaflDrxTp85ZNZGYtxFUQBIswVBFGjXqXsU
 https://docs.google.com/presentation/d/1sXztx3E9M3G0BIRLh6sxaqVOEOdJVJTrzHOixA5b-rM/edit?fbclid=IwAR08qeVtC0K3CnxVGKXP2Aj-r0SRjd2j2o9pX19ucpev0f72JVkLqj3p-WU#slide=id.p
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Machine Learning Crash Course with TensorFlow APIs Google's fast-paced, practical introduction to machine learning
+https://developers.google.com/machine-learning/crash-course/
 
-
-
-
+### cheatsheet-reflex-models
+https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models
 
 
 
