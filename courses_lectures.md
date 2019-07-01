@@ -465,6 +465,8 @@ https://developers.google.com/machine-learning/crash-course/
 ### cheatsheet-reflex-models
 https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka
+https://www.youtube.com/watch?v=kho6oANGu_A
 
 
 
