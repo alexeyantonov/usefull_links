@@ -124,6 +124,12 @@ https://drive.google.com/file/d/1XhngKISDpQgwGlvU-hjXWZb_qfyIYjqN/view
 ### Deep Learning Frameworks 2019 | Which Deep Learning Framework To Use
 https://www.youtube.com/watch?v=6ryPbOfz03U
 
+### DLRM: An advanced, open source deep learning recommendation model
+https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommendation-model/
+https://github.com/facebookresearch/dlrm
+https://arxiv.org/abs/1906.03109
+
+
 
 
 
