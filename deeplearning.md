@@ -1888,6 +1888,20 @@ https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-i
 ### !!!!! AlphaFold: Использование ИИ для научных открытий
 https://habr.com/ru/company/otus/blog/453848/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Generative Adversarial Networks (GANs introduction)
+https://www.kaggle.com/jesucristo/gan-introduction
+
+### !!!!!@@@@@$$$$$%%%%%88888***** How to Develop a GAN for Generating Handwritten Digits
+https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
+
+### !!!!!@@@@@$$$$$%%%%%88888***** Progressive Growing of GANs for Improved Quality, Stability, and Variation
+http://research.nvidia.com/publication/2017-10_Progressive-Growing-of
+https://github.com/tkarras/progressive_growing_of_gans
+
+
+
+
+
 
 
 
