@@ -129,7 +129,8 @@ https://ai.facebook.com/blog/dlrm-an-advanced-open-source-deep-learning-recommen
 https://github.com/facebookresearch/dlrm
 https://arxiv.org/abs/1906.03109
 
-
+### Powerful and efficient Computer Vision Annotation Tool (CVAT)
+https://github.com/opencv/cvat
 
 
 
