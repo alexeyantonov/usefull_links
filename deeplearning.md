@@ -1901,6 +1901,9 @@ https://github.com/tkarras/progressive_growing_of_gans
 ### An Introduction to Super Resolution using Deep Learning
 https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d
 
+### How to Explore the GAN Latent Space When Generating Faces
+https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/
+
 
 
 
