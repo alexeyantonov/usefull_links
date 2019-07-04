@@ -1904,7 +1904,8 @@ https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-le
 ### How to Explore the GAN Latent Space When Generating Faces
 https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/
 
-
+### !!!!!@@@@@ Beginners Guide to Text Generation using LSTMs
+https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
 
 
 
