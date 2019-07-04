@@ -132,6 +132,8 @@ https://arxiv.org/abs/1906.03109
 ### Powerful and efficient Computer Vision Annotation Tool (CVAT)
 https://github.com/opencv/cvat
 
+### Object Detection Models on TPU
+https://github.com/tensorflow/tpu/tree/master/models/official/detection
 
 
 
