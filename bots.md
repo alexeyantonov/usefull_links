@@ -189,6 +189,8 @@ https://aiversus.ru/about/project
 ### !!!!!@@@@@$$$$$%%%%%888888 An open source library for deep learning end-to-end dialog systems and chatbots.
 https://github.com/deepmipt/DeepPavlov
 
+### Как поощряют разработку навыков для голосовых помощников Google, Amazon и «Яндекс»
+https://vc.ru/services/73754-kak-pooshchryayut-razrabotku-navykov-dlya-golosovyh-pomoshchnikov-google-amazon-i-yandeks
 
 
 
