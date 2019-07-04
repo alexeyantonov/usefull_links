@@ -1898,6 +1898,8 @@ https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-netwo
 http://research.nvidia.com/publication/2017-10_Progressive-Growing-of
 https://github.com/tkarras/progressive_growing_of_gans
 
+### An Introduction to Super Resolution using Deep Learning
+https://medium.com/beyondminds/an-introduction-to-super-resolution-using-deep-learning-f60aff9a499d
 
 
 
