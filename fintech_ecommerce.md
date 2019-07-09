@@ -315,8 +315,8 @@ https://incrussia.ru/understand/ostrovok-pokoya-v-tsifrovom-vihre-kak-prilozheni
 ### Как сохранить баланс между работой и жизнью (и построить бизнес на $1 млрд)
 https://spark.ru/startup/redaktsiya-spark-ru/blog/47746/kak-sohranit-balans-mezhdu-rabotoj-i-zhizniu-i-postroit-biznes-na-1-mlrd
 
-
-
+### Сервис «Тинькофф Инвестиции» начал использовать искусственный интеллект для анализа ценных бумаг
+https://hightech.fm/2019/07/08/tink-ai
 
 
 
