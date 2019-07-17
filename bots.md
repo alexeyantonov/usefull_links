@@ -192,6 +192,10 @@ https://github.com/deepmipt/DeepPavlov
 ### Как поощряют разработку навыков для голосовых помощников Google, Amazon и «Яндекс»
 https://vc.ru/services/73754-kak-pooshchryayut-razrabotku-navykov-dlya-golosovyh-pomoshchnikov-google-amazon-i-yandeks
 
+### ПОСМОТРЕТЬ
+https://gist.github.com/bakirillov
+https://gist.github.com/bakirillov/113e05acd33b7bd4cb12712bbbdc7bef
+https://gist.github.com/bakirillov/e66d6769858453d2a90f7b6031fb5e23
 
 
 
