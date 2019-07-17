@@ -468,6 +468,59 @@ https://stanford.edu/~shervine/teaching/cs-221/cheatsheet-reflex-models
 ### !!!!!@@@@@$$$$$%%%%%88888***** Boosting Machine Learning Tutorial | Adaptive Boosting, Gradient Boosting, XGBoost | Edureka
 https://www.youtube.com/watch?v=kho6oANGu_A
 
+### This repository is a one-stop-shop for Data Science and Machine Learning Study Materials compiled from various platforms
+https://github.com/HasanShaukat/StudyMaterials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
