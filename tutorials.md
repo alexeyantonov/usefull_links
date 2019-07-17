@@ -1092,8 +1092,10 @@ https://www.kaggle.com/maxwell110/beginner-s-guide-to-audio-data-2
 ### NLP – это весело! Обработка естественного языка на Python
 https://proglib.io/p/fun-nlp/
 
-
-
+### !!!!!@@@@@ AI-Based Photo Restoration
+https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7
+https://habr.com/ru/company/mailru/blog/459696/?mobile=no
+https://habr.com/ru/company/mailru/blog/453872/
 
 
 
