@@ -1918,7 +1918,8 @@ https://habr.com/ru/company/mailru/blog/453872/
 ### Распознавание речи русского языка используя Tensorflow, обучаясь на базе Voxforge
 https://github.com/sovse/Rus-SpeechRecognition-LSTM-CTC-VoxForge
 
-
+### Keras implementation of RetinaNet object detection
+https://github.com/fizyr/keras-retinanet
 
 
 
