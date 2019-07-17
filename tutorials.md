@@ -1089,6 +1089,8 @@ https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
 ### Beginner's Guide to Audio Data 2
 https://www.kaggle.com/maxwell110/beginner-s-guide-to-audio-data-2
 
+### NLP – это весело! Обработка естественного языка на Python
+https://proglib.io/p/fun-nlp/
 
 
 
