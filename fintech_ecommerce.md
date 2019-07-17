@@ -318,8 +318,8 @@ https://spark.ru/startup/redaktsiya-spark-ru/blog/47746/kak-sohranit-balans-mezh
 ### Сервис «Тинькофф Инвестиции» начал использовать искусственный интеллект для анализа ценных бумаг
 https://hightech.fm/2019/07/08/tink-ai
 
-
-
+### Тройная слежка: на создание системы распознавания лиц в Москве претендуют компании, связанные с «Ростехом» и Сбербанком
+https://thebell.io/trojnaya-slezhka-na-sozdanie-sistemy-raspoznavaniya-lits-v-moskve-pretenduyut-kompanii-svyazannye-s-rostehom-i-sberbankom/
 
 
 
