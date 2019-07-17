@@ -190,6 +190,10 @@ https://habr.com/ru/company/avito/blog/439206/
 ### How I got to Top 10 in Spacenet 4 Challenge
 https://spark-in.me/post/spacenet4
 
+### !!!!!@@@@@$$$$$%%%%%88888
+https://github.com/PavelOstyakov
+https://github.com/PavelOstyakov/toxic
+https://github.com/PavelOstyakov/predictions_balancing
 
 
 
