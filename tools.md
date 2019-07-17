@@ -138,6 +138,46 @@ https://github.com/tensorflow/tpu/tree/master/models/official/detection
 ### DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)
 https://github.com/iperov/DeepFaceLab
 
+### Распознавание речи русского языка используя Tensorflow, обучаясь на базе Voxforge
+https://github.com/sovse/Rus-SpeechRecognition-LSTM-CTC-VoxForge
+
+### !!!!!@@@@@ fast image augmentation library and easy to use wrapper around other libraries
+https://github.com/albu/albumentations
+
+### Keras implementation of RetinaNet object detection
+https://github.com/fizyr/keras-retinanet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
