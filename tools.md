@@ -135,7 +135,8 @@ https://github.com/opencv/cvat
 ### Object Detection Models on TPU
 https://github.com/tensorflow/tpu/tree/master/models/official/detection
 
-
+### DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md)
+https://github.com/iperov/DeepFaceLab
 
 
 
