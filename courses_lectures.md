@@ -481,6 +481,13 @@ https://github.com/HasanShaukat/StudyMaterials
 ### !!!!!@@@@@$$$$$%%%%%88888***** Machine Learning Freelancing https://youtu.be/6M04ZTLE_O4
 ### !!!!!@@@@@$$$$$%%%%%88888***** Code from video: https://github.com/philtabor/Youtube-Code-Repository
 
+### !!!!!@@@@@$$$$$%%%%%88888***** New fast.ai course: A Code-First Introduction to Natural Language Processing
+https://www.fast.ai/2019/07/08/fastai-nlp/
+https://github.com/fastai/course-nlp
+https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
+
+### !!!!!@@@@@$$$$$%%%%%88888***** Какая математика мне понадобится, чтобы стать Data Scientist?
+https://blog.skillfactory.ru/nauka-o-dannyh-data-science/math_for_ds/?utm_source=vk&utm_medium=social_add&utm_campaign=mashinnoe_obuchenie_ai_big_data&utm_term=dst&utm_content=math_for_ds
 
 
 
