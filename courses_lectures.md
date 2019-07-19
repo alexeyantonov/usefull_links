@@ -471,6 +471,16 @@ https://www.youtube.com/watch?v=kho6oANGu_A
 ### This repository is a one-stop-shop for Data Science and Machine Learning Study Materials compiled from various platforms
 https://github.com/HasanShaukat/StudyMaterials
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Simple Deep Q Network w/Pytorch: https://youtu.be/UlJzzLYgYoE
+### !!!!!@@@@@$$$$$%%%%%88888***** Reinforcement Learning Crash Course: https://youtu.be/sOiNMW8k4T0
+### !!!!!@@@@@$$$$$%%%%%88888***** Policy Gradients w/Tensorflow: https://youtu.be/UT9pQjVhcaU
+### !!!!!@@@@@$$$$$%%%%%88888***** Deep Q Learning w/Tensorflow https://youtu.be/3Ggq_zoRGP4
+### !!!!!@@@@@$$$$$%%%%%88888***** Code Your Own RL Environments https://youtu.be/vmrqpHldAQ0
+### !!!!!@@@@@$$$$$%%%%%88888***** How to Spec a Deep Learning PC: https://youtu.be/xsnVlMWQj8o
+### !!!!!@@@@@$$$$$%%%%%88888***** Deep Q Learning w/ Pytorch: https://youtu.be/RfNxXlO6BiA
+### !!!!!@@@@@$$$$$%%%%%88888***** Machine Learning Freelancing https://youtu.be/6M04ZTLE_O4
+### !!!!!@@@@@$$$$$%%%%%88888***** Code from video: https://github.com/philtabor/Youtube-Code-Repository
+
 
 
 
