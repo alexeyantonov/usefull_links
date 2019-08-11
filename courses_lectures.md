@@ -489,6 +489,8 @@ https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9
 ### !!!!!@@@@@$$$$$%%%%%88888***** Какая математика мне понадобится, чтобы стать Data Scientist?
 https://blog.skillfactory.ru/nauka-o-dannyh-data-science/math_for_ds/?utm_source=vk&utm_medium=social_add&utm_campaign=mashinnoe_obuchenie_ai_big_data&utm_term=dst&utm_content=math_for_ds
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon
+https://www.youtube.com/watch?v=tYYVSEHq-io
 
 
 
