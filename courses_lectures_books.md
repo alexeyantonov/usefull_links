@@ -501,7 +501,8 @@ https://ciir.cs.umass.edu/downloads/SEIRiP.pdf
 ### !!!!!@@@@@$$$$$%%%%%88888***** https://paperswithcode.com/
 https://paperswithcode.com/
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Mathematics for Machine Learning
+https://mml-book.github.io/
 
 
 
