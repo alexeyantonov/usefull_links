@@ -492,10 +492,14 @@ https://blog.skillfactory.ru/nauka-o-dannyh-data-science/math_for_ds/?utm_source
 ### !!!!!@@@@@$$$$$%%%%%88888***** Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon
 https://www.youtube.com/watch?v=tYYVSEHq-io
 
+### !!!!! An Introduction to Information Retrieval
+https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf
 
+### Search Engines / Information Retrieval in Practice
+https://ciir.cs.umass.edu/downloads/SEIRiP.pdf
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** https://paperswithcode.com/
+https://paperswithcode.com/
 
 
 
