@@ -1924,6 +1924,8 @@ https://github.com/fizyr/keras-retinanet
 ### !!!!!@@@@@$$$$$%%%%%88888***** Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon
 https://www.youtube.com/watch?v=tYYVSEHq-io
 
+### Наглядно объясняем операцию свертки в моделях глубокого обучения
+https://proglib.io/p/convolution/
 
 
 
