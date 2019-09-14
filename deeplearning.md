@@ -1927,9 +1927,14 @@ https://www.youtube.com/watch?v=tYYVSEHq-io
 ### Наглядно объясняем операцию свертки в моделях глубокого обучения
 https://proglib.io/p/convolution/
 
+### How to get your own image classifier / region labelling model without annotation
+https://medium.com/@slizhikova.a.v/how-to-get-your-own-image-classifier-region-labelling-model-without-annotation-d95aabbd8599
 
+### Анна Дубовик, «Газпром нефть» — о том, как обучить нейросеть диагностике рака, и почему точность 98% — это ложь
+https://hightech.fm/2019/09/13/dubovik
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation
+https://github.com/ashual/scene_generation
 
 
 
