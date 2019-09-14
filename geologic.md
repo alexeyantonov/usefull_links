@@ -13,4 +13,5 @@ http://geologyandpython.com/
 ### MyCarta
 https://mycarta.wordpress.com/
 
-
+### Streamlined Collaboration for Geoscientists
+https://www.enthought.com/product/canopy-geoscience/
