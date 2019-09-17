@@ -458,4 +458,5 @@ https://blog.dti.team/issledovanie-rynka-dronov/
 ### This document will instruct you to install Ubuntu 15.10 on the Chuwi Vi8 tablet. To make it boot on its own, and add support for hardware.
 https://github.com/Manouchehri/vi8/blob/master/Ubuntu_instructions.md
 
-
+### Best Cores for each Console
+https://www.reddit.com/r/RetroArch/comments/859gx3/best_cores_for_each_console/
