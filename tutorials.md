@@ -1103,7 +1103,8 @@ https://telegra.ph/Haker---Robotiziruem-SMM-Kak-nauchit-nejroset-predskazyvat-us
 ### Лайфхаки редактора Unity 3D. Часть 1: Атрибуты
 https://habr.com/ru/post/331042/
 
-
+### Tutorial: Using Notebooks with PixieDust for Fast, Flexible, and Easier Data Analysis and Experimentation
+https://github.com/pixiedust/pixiedust/wiki/Tutorial:-Using-Notebooks-with-PixieDust-for-Fast,-Flexible,-and-Easier-Data-Analysis-and-Experimentation
 
 
 
