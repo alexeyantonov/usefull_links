@@ -160,6 +160,8 @@ https://github.com/pixiedust/pixiedust/wiki/Tutorial:-Using-Notebooks-with-Pixie
 ### !!!!!@@@@@$$$$$%%%%%888888 Open MMLab Detection Toolbox and Benchmark
 https://github.com/open-mmlab/mmdetection
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Rapid research framework for PyTorch. The researcher's version of Keras
+https://github.com/williamFalcon/pytorch-lightning
 
 
 
