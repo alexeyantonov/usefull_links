@@ -147,8 +147,8 @@ https://github.com/albu/albumentations
 ### Keras implementation of RetinaNet object detection
 https://github.com/fizyr/keras-retinanet
 
-
-
+### opensourse passwd management tool
+https://bitwarden.com/
 
 
 
