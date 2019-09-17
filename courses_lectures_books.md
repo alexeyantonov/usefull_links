@@ -504,7 +504,8 @@ https://paperswithcode.com/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Mathematics for Machine Learning
 https://mml-book.github.io/
 
-
+### !!!!!@@@@@ Курс лекций «Основы цифровой обработки сигналов»
+https://habr.com/ru/post/460445/
 
 
 
