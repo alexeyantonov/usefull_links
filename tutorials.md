@@ -1097,6 +1097,8 @@ https://medium.com/@fedor.kitashov/ai-based-photo-restoration-6e41469ce0d7
 https://habr.com/ru/company/mailru/blog/459696/?mobile=no
 https://habr.com/ru/company/mailru/blog/453872/
 
+### Хакер - Роботизируем SMM. Как научить нейросеть предсказывать успешность постов в соцсети
+https://telegra.ph/Haker---Robotiziruem-SMM-Kak-nauchit-nejroset-predskazyvat-uspeshnost-postov-v-socseti-09-11
 
 
 
