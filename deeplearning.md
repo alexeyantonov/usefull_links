@@ -1936,9 +1936,17 @@ https://hightech.fm/2019/09/13/dubovik
 ### !!!!!@@@@@$$$$$%%%%%88888***** A PyTorch implementation of the paper: Specifying Object Attributes and Relations in Interactive Scene Generation
 https://github.com/ashual/scene_generation
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Rapid research framework for PyTorch. The researcher's version of Keras
+https://github.com/williamFalcon/pytorch-lightning
 
+### Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation
+https://github.com/taki0112/UGATIT
 
+### !!!!!@@@@@ PyTorch Starter (U-Net ResNet)
+https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
 
+### !!!!!@@@@@ Keras Starter (U-Net)
+https://www.kaggle.com/ateplyuk/keras-starter-u-net/notebook
 
 
 
