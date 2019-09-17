@@ -157,7 +157,8 @@ https://github.com/yunabe/lgo?source=post_page-----93fbf089aff1-----------------
 ### Tutorial: Using Notebooks with PixieDust for Fast, Flexible, and Easier Data Analysis and Experimentation
 https://github.com/pixiedust/pixiedust/wiki/Tutorial:-Using-Notebooks-with-PixieDust-for-Fast,-Flexible,-and-Easier-Data-Analysis-and-Experimentation
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Open MMLab Detection Toolbox and Benchmark
+https://github.com/open-mmlab/mmdetection
 
 
 
