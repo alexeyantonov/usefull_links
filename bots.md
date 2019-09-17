@@ -197,6 +197,8 @@ https://gist.github.com/bakirillov
 https://gist.github.com/bakirillov/113e05acd33b7bd4cb12712bbbdc7bef
 https://gist.github.com/bakirillov/e66d6769858453d2a90f7b6031fb5e23
 
+### !!!!!@@@@@ Телега для датасайентиста
+https://habr.com/ru/company/ods/blog/462141/
 
 
 
