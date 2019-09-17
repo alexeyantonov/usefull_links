@@ -195,8 +195,14 @@ https://github.com/PavelOstyakov
 https://github.com/PavelOstyakov/toxic
 https://github.com/PavelOstyakov/predictions_balancing
 
+### APTOS Blindness Detection - EDA and Keras ResNet50
+https://www.kaggle.com/dimitreoliveira/aptos-blindness-detection-eda-and-keras-resnet50
 
+### !!!!!@@@@@ PyTorch Starter (U-Net ResNet)
+https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
 
+### !!!!!@@@@@ Keras Starter (U-Net)
+https://www.kaggle.com/ateplyuk/keras-starter-u-net/notebook
 
 
 
