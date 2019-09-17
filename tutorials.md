@@ -1100,7 +1100,8 @@ https://habr.com/ru/company/mailru/blog/453872/
 ### Хакер - Роботизируем SMM. Как научить нейросеть предсказывать успешность постов в соцсети
 https://telegra.ph/Haker---Robotiziruem-SMM-Kak-nauchit-nejroset-predskazyvat-uspeshnost-postov-v-socseti-09-11
 
-
+### Лайфхаки редактора Unity 3D. Часть 1: Атрибуты
+https://habr.com/ru/post/331042/
 
 
 
