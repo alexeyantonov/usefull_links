@@ -1948,7 +1948,14 @@ https://www.kaggle.com/ateplyuk/pytorch-starter-u-net-resnet
 ### !!!!!@@@@@ Keras Starter (U-Net)
 https://www.kaggle.com/ateplyuk/keras-starter-u-net/notebook
 
+### Применение сиамских нейросетей в поиске
+https://habr.com/ru/company/mailru/blog/468075/
 
+### Хакер - Машинное зрение на Python. Учим нейросеть отличать медведей от слонов
+https://telegra.ph/Haker---Mashinnoe-zrenie-na-Python-Uchim-nejroset-otlichat-medvedej-ot-slonov-09-23
+
+### Хакер - Голые факты. Как нейросеть DeepNude раздевает женщин на фото
+https://telegra.ph/Haker---Golye-fakty-Kak-nejroset-DeepNude-razdevaet-zhenshchin-na-foto-09-18
 
 
 
