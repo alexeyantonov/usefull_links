@@ -1106,8 +1106,11 @@ https://habr.com/ru/post/331042/
 ### Tutorial: Using Notebooks with PixieDust for Fast, Flexible, and Easier Data Analysis and Experimentation
 https://github.com/pixiedust/pixiedust/wiki/Tutorial:-Using-Notebooks-with-PixieDust-for-Fast,-Flexible,-and-Easier-Data-Analysis-and-Experimentation
 
+### Элементарная симуляция кастомного физического взаимодействия на python + matplotlib
+https://habr.com/ru/post/467803/
 
-
+### !!!!!@@@@@ 50 оттенков matplotlib — The Master Plots (с полным кодом на Python)
+https://habr.com/ru/post/468295/
 
 
 
