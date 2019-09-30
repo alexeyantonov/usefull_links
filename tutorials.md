@@ -1118,8 +1118,8 @@ https://www.youtube.com/watch?v=USjZcfj8yxE
 ### !!!!!@@@@@$$$$$%%%%%888888 Summaries, Notes, and Reviews from Books nate liason have Read
 https://www.nateliason.com/notes
 
-
-
+### !!!!!@@@@@ Basic Math for Data Science | Statistics | Probability | Mathematics
+https://www.youtube.com/watch?v=XwS2WTP1PI0
 
 
 
