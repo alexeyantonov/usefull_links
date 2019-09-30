@@ -507,6 +507,8 @@ https://mml-book.github.io/
 ### !!!!!@@@@@ Курс лекций «Основы цифровой обработки сигналов»
 https://habr.com/ru/post/460445/
 
+### !!!!!@@@@@ Basic Math for Data Science | Statistics | Probability | Mathematics
+https://www.youtube.com/watch?v=XwS2WTP1PI0
 
 
 
