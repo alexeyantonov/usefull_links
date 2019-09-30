@@ -1112,7 +1112,11 @@ https://habr.com/ru/post/467803/
 ### !!!!!@@@@@ 50 оттенков matplotlib — The Master Plots (с полным кодом на Python)
 https://habr.com/ru/post/468295/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Learn Git In 15 Minutes
+https://www.youtube.com/watch?v=USjZcfj8yxE
 
+### !!!!!@@@@@$$$$$%%%%%888888 Summaries, Notes, and Reviews from Books nate liason have Read
+https://www.nateliason.com/notes
 
 
 
