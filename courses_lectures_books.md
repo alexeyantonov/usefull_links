@@ -510,6 +510,11 @@ https://habr.com/ru/post/460445/
 ### !!!!!@@@@@ Basic Math for Data Science | Statistics | Probability | Mathematics
 https://www.youtube.com/watch?v=XwS2WTP1PI0
 
+### !!!!!@@@@@ PyTorch Lectures
+https://www.youtube.com/watch?v=SKq-pmkekTk
+https://github.com/hunkim/PyTorchZeroToAll
+https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M
+
 
 
 
