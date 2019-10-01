@@ -515,8 +515,8 @@ https://www.youtube.com/watch?v=SKq-pmkekTk
 https://github.com/hunkim/PyTorchZeroToAll
 https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M
 
-
-
+### Data Mining: Practical Machine Learning Tools and Techniques
+https://www.cs.waikato.ac.nz/ml/weka/
 
 
 
