@@ -1121,8 +1121,8 @@ https://www.nateliason.com/notes
 ### !!!!!@@@@@ Basic Math for Data Science | Statistics | Probability | Mathematics
 https://www.youtube.com/watch?v=XwS2WTP1PI0
 
-
-
+### !!!!!@@@@@ Как мы получили +50% пользователелей за час и уронили прод (marketing)
+https://news.russianhackers.org/emovi/
 
 
 
