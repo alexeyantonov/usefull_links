@@ -518,8 +518,8 @@ https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M
 ### Data Mining: Practical Machine Learning Tools and Techniques
 https://www.cs.waikato.ac.nz/ml/weka/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Лекции по Go
+https://www.youtube.com/watch?v=kClQ7rM5uBY
 
 
 
