@@ -1124,7 +1124,8 @@ https://www.youtube.com/watch?v=XwS2WTP1PI0
 ### !!!!!@@@@@ Как мы получили +50% пользователелей за час и уронили прод (marketing)
 https://news.russianhackers.org/emovi/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Как поступить на PhD программу по машинному обучению
+https://habr.com/ru/company/ods/blog/424589/
 
 
 
