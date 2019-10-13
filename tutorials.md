@@ -1133,7 +1133,8 @@ https://habr.com/ru/company/ods/blog/426227/
 ### !!!!!@@@@@$$$$$%%%%%888888 A ten-minute introduction to sequence-to-sequence learning in Keras
 https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 
-
+### !!!!!@@@@@ Word2vec Tutorial
+https://rare-technologies.com/word2vec-tutorial
 
 
 
