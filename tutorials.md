@@ -1130,7 +1130,8 @@ https://habr.com/ru/company/ods/blog/424589/
 ### !!!!!@@@@@$$$$$%%%%%888888 Как правильно «фармить» Kaggle
 https://habr.com/ru/company/ods/blog/426227/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 A ten-minute introduction to sequence-to-sequence learning in Keras
+https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 
 
 
