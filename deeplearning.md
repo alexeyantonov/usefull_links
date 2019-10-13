@@ -1963,6 +1963,8 @@ https://generated.photos/?ref=producthunt
 ### !!!!!@@@@@$$$$$%%%%%88888***** A mix of GAN implementations including progressive growing
 https://github.com/facebookresearch/pytorch_GAN_zoo
 
+### !!!!!@@@@@ Word2vec Tutorial
+https://rare-technologies.com/word2vec-tutorial
 
 
 
