@@ -1127,7 +1127,8 @@ https://news.russianhackers.org/emovi/
 ### !!!!!@@@@@$$$$$%%%%%888888 Как поступить на PhD программу по машинному обучению
 https://habr.com/ru/company/ods/blog/424589/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Как правильно «фармить» Kaggle
+https://habr.com/ru/company/ods/blog/426227/
 
 
 
