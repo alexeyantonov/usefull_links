@@ -15,3 +15,15 @@ https://mycarta.wordpress.com/
 
 ### Streamlined Collaboration for Geoscientists
 https://www.enthought.com/product/canopy-geoscience/
+
+### работа с сейсмикой
+https://github.com/equinor/xtgeo
+
+### работа с LAS
+https://github.com/kinverarity1/lasio
+
+### тоже для LAS 
+https://github.com/agile-geoscience/welly
+
+### для резервуар инженеров 
+https://github.com/equinor/libecl
