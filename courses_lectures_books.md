@@ -521,9 +521,19 @@ https://www.cs.waikato.ac.nz/ml/weka/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Лекции по Go
 https://www.youtube.com/watch?v=kClQ7rM5uBY
 
+### !!!!!@@@@@$$$$$%%%%%88888***** "Data Mining in Action Course", Moscow Institute of Physics and Technologies
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016
+https://www.youtube.com/watch?v=CN3jazuiprQ
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Python for data analysis course at Sberbank Technology
+https://github.com/vkantor/teaching-sbt-python
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Technical ML course for Sberbank Technologies
+https://github.com/vkantor/SBT_MachineLearning
+https://github.com/vkantor/sbt_ml_2018_spring
 
+### !!!!!@@@@@$$$$$%%%%%88888***** DEEP LEARNING НА ПАЛЬЦАХ
+https://dlcourse.ai/
 
 
 
