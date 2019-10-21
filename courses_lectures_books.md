@@ -535,7 +535,8 @@ https://github.com/vkantor/sbt_ml_2018_spring
 ### !!!!!@@@@@$$$$$%%%%%88888***** DEEP LEARNING НА ПАЛЬЦАХ
 https://dlcourse.ai/
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Анализ данных на Python в примерах и задачах
+https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7
 
 
 
