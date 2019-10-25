@@ -27,3 +27,15 @@ https://github.com/agile-geoscience/welly
 
 ### для резервуар инженеров 
 https://github.com/equinor/libecl
+
+### всякие идеи
+https://events.agilescientific.com/event/force-2019/ideas
+
+### сейсмика приеры
+https://github.com/agile-geoscience/seisplot
+
+### еще сейсмика
+https://github.com/agile-geoscience/geobinder
+
+### Подсчет запасов
+https://github.com/agile-geoscience/geocomp-1day/tree/master/notebooks
