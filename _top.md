@@ -46,6 +46,8 @@ https://github.com/rushter/MLAlgorithms
 ### !!!!! J.P.Morgan’s massive guide to machine learning and big data jobs in finance
 http://news.efinancialcareers.com/uk-en/285249/machine-learning-and-big-data-j-p-morgan/
 
+### !!!!! сессии вопросов и ответов про поступление в математическую аспирантуру в Штаты
+https://www.reddit.com/r/math/comments/dl2ms2/rmaths_eleventh_graduate_school_panel/
 
 
 
