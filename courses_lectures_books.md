@@ -538,7 +538,8 @@ https://dlcourse.ai/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Анализ данных на Python в примерах и задачах
 https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Хорошие описания различных алгоритмов и понятий (StatQuest)
+https://www.youtube.com/user/joshstarmer/videos
 
 
 
