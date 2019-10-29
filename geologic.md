@@ -39,3 +39,8 @@ https://github.com/agile-geoscience/geobinder
 
 ### Подсчет запасов
 https://github.com/agile-geoscience/geocomp-1day/tree/master/notebooks
+
+### Geophysical Tutorials for 2016
+https://github.com/seg/tutorials-2016
+
+
