@@ -125,6 +125,9 @@ https://arxiv.org/abs/1811.10052
 https://arxiv.org/abs/1904.06236
 https://github.com/MIPT-Oulu/OAProgression
 
+### !!!!!@@@@@@ Identifying diabetic retinopathy using convolutional neural networks
+https://www.youtube.com/watch?v=pMGLFlgqxuY
+https://github.com/gregwchase/dsi-capstone
 
 
 
