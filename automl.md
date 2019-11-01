@@ -24,7 +24,9 @@ https://medium.com/@alxmamaev/how-to-build-automl-from-scratch-ce45a4b51e0f
 ### AutoML: Methods, Systems, Challenges (new book)
 https://www.automl.org/book/
 
-
+### Keras Tuner
+https://twitter.com/fchollet/status/1189992078991708160?s=21
+https://keras-team.github.io/keras-tuner/
 
 
 
