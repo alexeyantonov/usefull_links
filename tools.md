@@ -166,6 +166,10 @@ https://github.com/williamFalcon/pytorch-lightning
 ### !!!!! nsh: A More Secure and Convenient Remote Shell than SSH
 https://www.hackernoon.com/nsh-a-new-kind-of-remote-shell-that-is-more-secure-and-convenient-than-ssh-zw4o3404
 
+### Keras Tuner
+https://twitter.com/fchollet/status/1189992078991708160?s=21
+https://keras-team.github.io/keras-tuner/
+
 
 
 
