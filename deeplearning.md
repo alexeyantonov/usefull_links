@@ -1966,6 +1966,9 @@ https://github.com/facebookresearch/pytorch_GAN_zoo
 ### !!!!!@@@@@ Word2vec Tutorial
 https://rare-technologies.com/word2vec-tutorial
 
+### Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)
+https://www.youtube.com/watch?v=5ECD8J3dvDQ
+
 
 
 
