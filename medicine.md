@@ -129,7 +129,8 @@ https://github.com/MIPT-Oulu/OAProgression
 https://www.youtube.com/watch?v=pMGLFlgqxuY
 https://github.com/gregwchase/dsi-capstone
 
-
+### Сбербанк хочет разработать помощника врача с ИИ. Он сможет ставить диагнозы и предлагать лечение
+https://incrussia.ru/news/sber-health-ai/
 
 
 
