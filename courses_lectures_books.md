@@ -541,10 +541,12 @@ https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3
 ### !!!!!@@@@@$$$$$%%%%%88888***** Хорошие описания различных алгоритмов и понятий (StatQuest)
 https://www.youtube.com/user/joshstarmer/videos
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Байесовские методы в машинном обучении
+https://www.youtube.com/watch?v=Ejsr3S79gcQ&list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw
+http://www.machinelearning.ru/wiki/index.php?title=%D0%91%D0%BC%D0%BC%D0%BE#.D0.9B.D0.B8.D1.82.D0.B5.D1.80.D0.B0.D1.82.D1.83.D1.80.D0.B0
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** The Probability and Statistics Cookbook
+http://statistics.zone/
 
 
 
