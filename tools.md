@@ -170,7 +170,8 @@ https://www.hackernoon.com/nsh-a-new-kind-of-remote-shell-that-is-more-secure-an
 https://twitter.com/fchollet/status/1189992078991708160?s=21
 https://keras-team.github.io/keras-tuner/
 
-
+### Person Remover
+https://github.com/javirk/Person_remover
 
 
 
