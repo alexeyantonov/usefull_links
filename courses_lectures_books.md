@@ -548,6 +548,8 @@ http://www.machinelearning.ru/wiki/index.php?title=%D0%91%D0%BC%D0%BC%D0%BE#.D0.
 ### !!!!!@@@@@$$$$$%%%%%88888***** The Probability and Statistics Cookbook
 http://statistics.zone/
 
+### Monte Carlo
+https://www.youtube.com/watch?v=9M_KPXwnrlE
 
 
 
