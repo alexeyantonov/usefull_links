@@ -1969,7 +1969,11 @@ https://rare-technologies.com/word2vec-tutorial
 ### Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)
 https://www.youtube.com/watch?v=5ECD8J3dvDQ
 
+### DeepFake-туториал: создаем собственный дипфейк в DeepFaceLab
+https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab-2019-11-16
 
+### Building a state-of-the-art card fraud detection system in 9 months
+https://medium.com/revolut/building-a-state-of-the-art-card-fraud-detection-system-in-9-months-96463d7f652d
 
 
 
