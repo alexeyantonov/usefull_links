@@ -46,3 +46,26 @@ https://github.com/seg/tutorials-2016
 ### Чтение проприетарного geoprobe
 https://github.com/joferkington/python-geoprobe
 
+### Сейсмика
+https://bruges.readthedocs.io/source/install.html
+
+### EAGE E-Lecture: Seismic interpretation with deep learning by Anders U. Waldeland
+https://www.youtube.com/watch?v=lm85Ap4OstM&list=PL5WVjEM5-IVnB2Nx6xLtBHxAYLRrfiS08&index=14&t=0s&app=desktop
+
+### Tutorial: Convolutional Neural Networks for Automated Seismic Interpretation
+https://github.com/waldeland/CNN-for-ASI
+
+### Advanced 3D Seismic Visualizations in Python | SciPy 2014 | Joe Kington
+https://www.youtube.com/watch?v=PFOd01fqcyQ
+
+
+
+
+
+
+
+
+
+
+
+
