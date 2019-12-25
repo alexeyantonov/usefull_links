@@ -58,8 +58,18 @@ https://github.com/waldeland/CNN-for-ASI
 ### Advanced 3D Seismic Visualizations in Python | SciPy 2014 | Joe Kington
 https://www.youtube.com/watch?v=PFOd01fqcyQ
 
+### Madagascar is an open-source software package for multidimensional data analysis and reproducible computational experiments
+http://www.ahay.org/wiki/Main_Page
 
+### Seismic data analysis
+https://wiki.seg.org/wiki/Main_Page
+https://wiki.seg.org/wiki/Parihaka-3D
 
+### This is open repository for Aramco Upstream Solution Technathon 2019 
+https://github.com/aramcoinnovations/technathon2019
+
+### Using synthetic datasets to train an end-to-end CNN for 3D fault segmentation
+https://github.com/xinwucwp/faultSeg
 
 
 
