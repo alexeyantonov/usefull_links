@@ -200,7 +200,12 @@ https://gist.github.com/bakirillov/e66d6769858453d2a90f7b6031fb5e23
 ### !!!!!@@@@@ Телега для датасайентиста
 https://habr.com/ru/company/ods/blog/462141/
 
+### Пишем простой граббер для Telegram чатов на Python
+https://proglib.io/p/pishem-prostoy-grabber-dlya-telegram-chatov-na-python-2019-11-06
 
+### !!!!!@@@@@ Пишем Telegram бот для учёта расходов с Python, Asyncio/Aiogram, SQLite и Docker
+https://www.youtube.com/watch?v=Kh16iosOTIQ
+https://github.com/alexey-goloburdin/telegram-finance-bot
 
 
 
