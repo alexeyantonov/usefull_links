@@ -1,4 +1,6 @@
-# Выступления на pydata
+# Выступления на pydata, ods тренировки и не только
+https://ods.ai/awards/2019/
+
 ### Diagnosing Machine Learning Models 
 https://www.youtube.com/watch?v=ZD8LA3n6YvI&feature=youtu.be
 
