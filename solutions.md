@@ -1,4 +1,6 @@
 # Решения
+https://ods.ai/awards/2019/
+
 http://dsguide.biz/competitions/
 
 http://blog.kaggle.com/2016/06/01/home-depot-product-search-relevance-winners-interview-3rd-place-team-turing-test-igor-kostia-chenglong/
