@@ -1975,7 +1975,8 @@ https://proglib.io/p/deepfake-tutorial-sozdaem-sobstvennyy-dipfeyk-v-deepfacelab
 ### Building a state-of-the-art card fraud detection system in 9 months
 https://medium.com/revolut/building-a-state-of-the-art-card-fraud-detection-system-in-9-months-96463d7f652d
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Generating Sentiment-aware Visual Stories using Cross-modal Music Translation
+https://github.com/deepsing-ai/deepsing
 
 
 
