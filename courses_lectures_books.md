@@ -551,6 +551,8 @@ http://statistics.zone/
 ### Monte Carlo
 https://www.youtube.com/watch?v=9M_KPXwnrlE
 
+### Python prog HSE
+https://www.youtube.com/channel/UCr-KbmZWfDyTbqT_clZmhfw/videos
 
 
 
