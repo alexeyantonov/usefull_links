@@ -1978,8 +1978,12 @@ https://medium.com/revolut/building-a-state-of-the-art-card-fraud-detection-syst
 ### !!!!!@@@@@$$$$$%%%%%88888***** Generating Sentiment-aware Visual Stories using Cross-modal Music Translation
 https://github.com/deepsing-ai/deepsing
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Огромный открытый датасет русской речи версия 1.0
+https://habr.com/ru/post/474462/
+https://www.youtube.com/watch?v=QtUwhA5oVNE
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Проект Lacmus: как компьютерное зрение помогает спасать потерявшихся людей
+https://habr.com/ru/company/ods/blog/483616/
 
 
 
