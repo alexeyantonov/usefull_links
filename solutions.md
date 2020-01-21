@@ -209,7 +209,8 @@ https://www.kaggle.com/ateplyuk/keras-starter-u-net/notebook
 ### 
 https://www.kaggle.com/lopuhin/mercari-golf-0-3875-cv-in-75-loc-1900-s
 
-
+### Как мы победили с помощью CatBoost и AutoML
+https://www.youtube.com/watch?v=cTnWvYJJRCY
 
 
 
