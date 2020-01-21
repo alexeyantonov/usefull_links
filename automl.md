@@ -28,6 +28,7 @@ https://www.automl.org/book/
 https://twitter.com/fchollet/status/1189992078991708160?s=21
 https://keras-team.github.io/keras-tuner/
 
-
+### Как мы победили с помощью CatBoost и AutoML (есть ссылки в видео)
+https://www.youtube.com/watch?v=cTnWvYJJRCY
 
 
