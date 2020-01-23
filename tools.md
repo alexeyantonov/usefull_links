@@ -176,7 +176,8 @@ https://github.com/javirk/Person_remover
 ### !!!!!@@@@@$$$$$%%%%%88888***** Generating Sentiment-aware Visual Stories using Cross-modal Music Translation
 https://github.com/deepsing-ai/deepsing
 
-
+### Поиск данных
+https://datasetsearch.research.google.com/
 
 
 
