@@ -554,6 +554,16 @@ https://www.youtube.com/watch?v=9M_KPXwnrlE
 ### Python prog HSE
 https://www.youtube.com/channel/UCr-KbmZWfDyTbqT_clZmhfw/videos
 
+### The Personal MBA Recommended Reading List: The 99 Best Business Books
+https://personalmba.com/best-business-books/
+
+### Лекции по машинному обучению (пока не смотрел)
+https://www.youtube.com/watch?v=Mu1Zb_bbfBM&list=PL6-BrcpR2C5RYoCAmC8VQp_rxSh0i_6C6
+
+### !!!!!@@@@@$$$$$%%%%%88888***** A Step by Step Backpropagation Example
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+
+
 
 
 
