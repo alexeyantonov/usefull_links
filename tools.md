@@ -182,10 +182,14 @@ https://datasetsearch.research.google.com/
 ### A hyperparameter optimization framework
 https://github.com/optuna/optuna
 
+### !!!!! Wiki Art realisation
+https://colab.research.google.com/drive/15USumPMJm7FltksM75DDWuSYdmTQUNN1#scrollTo=7Pm3DwMStLLB
 
+### WikiArt StyleGAN2 Conditional Model (look upward)
+https://archive.org/details/wikiart-stylegan2-conditional-model
 
-
-
+### Automatic 3D Ken Burns Effect from a Single Image
+https://github.com/JonathanFly/3d-ken-burns/blob/master/3D_Ken_Burns_HighResolution.ipynb
 
 
 
