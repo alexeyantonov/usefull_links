@@ -1985,7 +1985,11 @@ https://www.youtube.com/watch?v=QtUwhA5oVNE
 ### !!!!!@@@@@$$$$$%%%%%88888***** Проект Lacmus: как компьютерное зрение помогает спасать потерявшихся людей
 https://habr.com/ru/company/ods/blog/483616/
 
+### An IPython notebook showing the basics of implementing gradient descent and stochastic gradient descent in Python
+https://github.com/dtnewman/gradient_descent
 
+### Darknet Weights to TensorFlow 
+https://github.com/jinyu121/DW2TF
 
 
 
