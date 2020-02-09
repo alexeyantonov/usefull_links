@@ -191,7 +191,8 @@ https://archive.org/details/wikiart-stylegan2-conditional-model
 ### Automatic 3D Ken Burns Effect from a Single Image
 https://github.com/JonathanFly/3d-ken-burns/blob/master/3D_Ken_Burns_HighResolution.ipynb
 
-
+### HiPlot - High dimensional Interactive Plotting
+https://github.com/facebookresearch/hiplot
 
 
 
