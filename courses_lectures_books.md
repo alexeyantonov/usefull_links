@@ -563,10 +563,11 @@ https://www.youtube.com/watch?v=Mu1Zb_bbfBM&list=PL6-BrcpR2C5RYoCAmC8VQp_rxSh0i_
 ### !!!!!@@@@@$$$$$%%%%%88888***** A Step by Step Backpropagation Example
 https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** лекции по обучению с подкреплением от deeppavlov.ai
+https://www.youtube.com/channel/UCJ-6K2HGA0hpQytlSM7FBVQ
 
-
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Хорошие лекции по компьютерному зрению и сеткам
+https://stepik.org/course/50352
 
 
 
