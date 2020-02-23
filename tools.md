@@ -194,6 +194,8 @@ https://github.com/JonathanFly/3d-ken-burns/blob/master/3D_Ken_Burns_HighResolut
 ### HiPlot - High dimensional Interactive Plotting
 https://github.com/facebookresearch/hiplot
 
+### This repository contains the codes for LipGAN. LipGAN was published as a part of the paper titled "Towards Automatic Face-to-Face Translation"
+https://github.com/Rudrabha/LipGAN
 
 
 
