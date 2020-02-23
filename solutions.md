@@ -212,6 +212,10 @@ https://www.kaggle.com/lopuhin/mercari-golf-0-3875-cv-in-75-loc-1900-s
 ### Как мы победили с помощью CatBoost и AutoML
 https://www.youtube.com/watch?v=cTnWvYJJRCY
 
-
+### Time series met AutoML (Codalab Automated Time Series Regression)
+https://www.youtube.com/watch?v=fAFWkpBLmHg&feature=youtu.be
+https://gh.mltrainings.ru/presentations/Vorotyntsev_CodalabAutoML.pdf
+https://github.com/DenisVorotyntsev/AutoSeries
+https://towardsdatascience.com/automl-for-time-series-forecasting-6caaf194d268
 
 
