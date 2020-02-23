@@ -578,8 +578,8 @@ http://szeliski.org/Book/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Классификация, регрессия и другие алгоритмы Data Mining с использованием R (Шитиков В. К., Мастицкий С. Э.)
 https://ranalytics.github.io/data-mining/index.html
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** NN
+https://www.3blue1brown.com/neural-networks
 
 
 
