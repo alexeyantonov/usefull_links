@@ -1144,7 +1144,8 @@ https://github.com/brendonhall/facies_classification
 https://www.crewes.org/ForOurSponsors/ConferenceAbstracts/2019/CSEG/Guarido_CSEG_2019.pdf
 https://library.seg.org/doi/10.1190/tle35100906.1
 
-
+### !!!!!@@@@@ The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
+https://jalammar.github.io/illustrated-bert/
 
 
 
