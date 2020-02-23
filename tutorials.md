@@ -1146,6 +1146,6 @@ https://library.seg.org/doi/10.1190/tle35100906.1
 
 ### !!!!!@@@@@ The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)
 https://jalammar.github.io/illustrated-bert/
-
+https://habr.com/ru/post/487358/
 
 
