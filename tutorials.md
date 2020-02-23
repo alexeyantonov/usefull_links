@@ -1148,4 +1148,25 @@ https://library.seg.org/doi/10.1190/tle35100906.1
 https://jalammar.github.io/illustrated-bert/
 https://habr.com/ru/post/487358/
 
+### 99% точность в классификации цифр на Keras
+https://teletype.in/@python_academy/-Le7H6lW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
