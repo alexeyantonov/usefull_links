@@ -74,6 +74,13 @@ https://github.com/xinwucwp/faultSeg
 ### Docker for Geoscientists
 http://geologyandpython.com/docker.html
 
+### !!!!!@@@@@$$$$$%%%%%888888 Geophysical Tutorial: Facies Classification using Machine Learning and Python
+https://github.com/seg
+http://blog.enthought.com/general/geophysical-tutorial-facies-classification-using-machine-learning-and-python/
+http://library.seg.org/doi/pdfplus/10.1190/tle35100906.1
+https://github.com/brendonhall/facies_classification
+https://www.crewes.org/ForOurSponsors/ConferenceAbstracts/2019/CSEG/Guarido_CSEG_2019.pdf
+https://library.seg.org/doi/10.1190/tle35100906.1
 
 
 
