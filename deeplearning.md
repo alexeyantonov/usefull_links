@@ -1991,7 +1991,11 @@ https://github.com/dtnewman/gradient_descent
 ### Darknet Weights to TensorFlow 
 https://github.com/jinyu121/DW2TF
 
+### !!!!!@@@@@$$$$$%%%%%88888***** StyleGAN2 - Official TensorFlow Implementation
+https://github.com/rolux/stylegan2encoder
 
+### This repository contains the codes for LipGAN. LipGAN was published as a part of the paper titled "Towards Automatic Face-to-Face Translation"
+https://github.com/Rudrabha/LipGAN
 
 
 
