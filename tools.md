@@ -197,7 +197,8 @@ https://github.com/facebookresearch/hiplot
 ### This repository contains the codes for LipGAN. LipGAN was published as a part of the paper titled "Towards Automatic Face-to-Face Translation"
 https://github.com/Rudrabha/LipGAN
 
-
+### Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
+https://github.com/jasonmayes/Real-Time-Person-Removal
 
 
 
