@@ -575,6 +575,8 @@ https://projects.iq.harvard.edu/stat110/strategic-practice-problems
 ### !!!!!@@@@@$$$$$%%%%%88888***** Computer Vision: Algorithms and Applications
 http://szeliski.org/Book/
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Классификация, регрессия и другие алгоритмы Data Mining с использованием R (Шитиков В. К., Мастицкий С. Э.)
+https://ranalytics.github.io/data-mining/index.html
 
 
 
