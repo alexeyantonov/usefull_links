@@ -569,6 +569,11 @@ https://www.youtube.com/channel/UCJ-6K2HGA0hpQytlSM7FBVQ
 ### !!!!!@@@@@$$$$$%%%%%88888***** Хорошие лекции по компьютерному зрению и сеткам
 https://stepik.org/course/50352
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Statistics 110: Probability
+https://projects.iq.harvard.edu/stat110/strategic-practice-problems
+
+### !!!!!@@@@@$$$$$%%%%%88888***** Computer Vision: Algorithms and Applications
+http://szeliski.org/Book/
 
 
 
