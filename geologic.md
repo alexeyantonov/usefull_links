@@ -82,7 +82,9 @@ https://github.com/brendonhall/facies_classification
 https://www.crewes.org/ForOurSponsors/ConferenceAbstracts/2019/CSEG/Guarido_CSEG_2019.pdf
 https://library.seg.org/doi/10.1190/tle35100906.1
 
-
+### Collection of geophysical notes in the form of IPython/Jupyter notebooks.
+https://github.com/aadm/geophysical_notes
+https://github.com/aadm?tab=repositories
 
 
 
