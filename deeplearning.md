@@ -1997,7 +1997,9 @@ https://github.com/rolux/stylegan2encoder
 ### This repository contains the codes for LipGAN. LipGAN was published as a part of the paper titled "Towards Automatic Face-to-Face Translation"
 https://github.com/Rudrabha/LipGAN
 
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Trading with recurrent actor-critic reinforcement learning
+https://github.com/evgps/a3c_trading
+https://arxiv.org/abs/2002.11523v1
 
 
 
