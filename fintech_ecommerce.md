@@ -321,6 +321,9 @@ https://hightech.fm/2019/07/08/tink-ai
 ### Тройная слежка: на создание системы распознавания лиц в Москве претендуют компании, связанные с «Ростехом» и Сбербанком
 https://thebell.io/trojnaya-slezhka-na-sozdanie-sistemy-raspoznavaniya-lits-v-moskve-pretenduyut-kompanii-svyazannye-s-rostehom-i-sberbankom/
 
+### Y Combinator выпустил руководство для стартаперов. Оно поможет привлечь инвестиции
+https://incrussia.ru/news/y-combinator-rukovodstvo/
+https://www.ycombinator.com/resources/series-a-guide
 
 
 
