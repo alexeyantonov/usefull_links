@@ -1151,8 +1151,15 @@ https://habr.com/ru/post/487358/
 ### 99% точность в классификации цифр на Keras
 https://teletype.in/@python_academy/-Le7H6lW
 
+### Kubernetes for Full-Stack Developers
+https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Как сжать модель fastText в 100 раз
+https://habr.com/ru/post/489474/
+https://github.com/avidale/compress-fasttext
+https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-google-colab-cd59ab75959e
+https://github.com/natasha/navec
+https://arxiv.org/abs/1607.04606
 
 
 
