@@ -581,9 +581,11 @@ https://ranalytics.github.io/data-mining/index.html
 ### !!!!!@@@@@$$$$$%%%%%88888***** NN
 https://www.3blue1brown.com/neural-networks
 
+### !!!!!@@@@@ 100+ Free Data Science Books
+https://www.learndatasci.com/free-data-science-books/
 
-
-
+### !!!!!@@@@@$$$$$%%%%%88888***** Probability: Theory and Examples. 5th Edition
+https://services.math.duke.edu/~rtd/PTE/pte.html
 
 
 
