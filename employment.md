@@ -45,4 +45,6 @@ https://github.com/iamtodor/data-science-interview-questions-and-answers
 ### Рекрутеры Microsoft назвали 5 правил идеального резюме
 https://incrussia.ru/news/5-resume/
 
+### Собеседование и семь гномов: задачи с интервью в IT-компаниях
+https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniyah-2020-02-22
 
