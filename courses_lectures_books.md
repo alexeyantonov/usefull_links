@@ -587,6 +587,8 @@ https://www.learndatasci.com/free-data-science-books/
 ### !!!!!@@@@@$$$$$%%%%%88888***** Probability: Theory and Examples. 5th Edition
 https://services.math.duke.edu/~rtd/PTE/pte.html
 
+### !!!!!@@@@@$$$$$%%%%%88888***** Natural Language Processing
+https://www.youtube.com/watch?v=fNxaJsNG3-s
 
 
 
