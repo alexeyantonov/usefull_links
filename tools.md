@@ -200,6 +200,9 @@ https://github.com/Rudrabha/LipGAN
 ### Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 https://github.com/jasonmayes/Real-Time-Person-Removal
 
+### 
+https://t.me/NeuralShit/939
+https://colab.research.google.com/github/znah/notebooks/blob/master/taichi_colab.ipynb
 
 
 
