@@ -204,7 +204,11 @@ https://github.com/jasonmayes/Real-Time-Person-Removal
 https://t.me/NeuralShit/939
 https://colab.research.google.com/github/znah/notebooks/blob/master/taichi_colab.ipynb
 
+### StyleGAN2-Face-Modificator
+https://github.com/tg-bomze/StyleGAN2-Face-Modificator
 
+### PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
+https://shunsukesaito.github.io/PIFu/
 
 
 
