@@ -590,7 +590,8 @@ https://services.math.duke.edu/~rtd/PTE/pte.html
 ### !!!!!@@@@@$$$$$%%%%%88888***** Natural Language Processing
 https://www.youtube.com/watch?v=fNxaJsNG3-s
 
-
+### Машинное обучение и доказательный алготрейдинг
+https://online.fa.ru/courses/course-v1:fa+machinelearn+2019/about
 
 
 
