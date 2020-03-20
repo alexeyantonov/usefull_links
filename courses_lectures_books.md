@@ -593,7 +593,11 @@ https://www.youtube.com/watch?v=fNxaJsNG3-s
 ### Машинное обучение и доказательный алготрейдинг
 https://online.fa.ru/courses/course-v1:fa+machinelearn+2019/about
 
+### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+https://www.coursera.org/learn/introduction-tensorflow
 
+### !!!!!@@@@@$$$$$%%%%%88888***** LEARN MACHINE LEARNING SKILLS WITH AN AI
+https://korbit.ai/machinelearning
 
 
 
