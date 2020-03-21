@@ -210,7 +210,8 @@ https://github.com/tg-bomze/StyleGAN2-Face-Modificator
 ### PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
 https://shunsukesaito.github.io/PIFu/
 
-
+### !!!!!@@@@@$$$$$%%%%%88888*****  A game theoretic approach to explain the output of any machine learning model
+https://github.com/slundberg/shap
 
 
 
