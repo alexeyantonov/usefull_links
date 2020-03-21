@@ -325,6 +325,8 @@ https://thebell.io/trojnaya-slezhka-na-sozdanie-sistemy-raspoznavaniya-lits-v-mo
 https://incrussia.ru/news/y-combinator-rukovodstvo/
 https://www.ycombinator.com/resources/series-a-guide
 
+### Как история платежного сервиса RBK.money влияет на бренд
+https://lenta.ru/articles/2020/03/16/rbkm/
 
 
 
