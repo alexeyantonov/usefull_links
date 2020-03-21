@@ -599,10 +599,20 @@ https://www.coursera.org/learn/introduction-tensorflow
 ### !!!!!@@@@@$$$$$%%%%%88888***** LEARN MACHINE LEARNING SKILLS WITH AN AI
 https://korbit.ai/machinelearning
 
+### !!!!!@@@@@$$$$$%%%%%88888***** A game theoretic approach to explain the output of any machine learning model
+https://github.com/slundberg/shap
 
+### !!!!!@@@@@$$$$$%%%%%88888***** LEARN MACHINE LEARNING SKILLS WITH AN AI
+https://korbit.ai/machinelearning
 
+### Linux Kernel Teaching
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
 
+### Эти 5 дополнительных построений решат любую задачу про трапецию
+https://zen.yandex.ru/media/pouchi/eti-5-dopolnitelnyh-postroenii-reshat-liubuiu-zadachu-pro-trapeciiu-5dad8a79e3062c00ae5eb5c7
 
+### !!!!!@@@@@$$$$$%%%%%88888***** ОТДЕЛЬНЫЕ ТЕМЫ МАТЕМАТИЧЕСКОГО АНАЛИЗА
+http://www.rkarasev.ru/common/upload/an_explanations.pdf
 
 
 
