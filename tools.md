@@ -210,12 +210,14 @@ https://github.com/tg-bomze/StyleGAN2-Face-Modificator
 ### PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
 https://shunsukesaito.github.io/PIFu/
 
-### !!!!!@@@@@$$$$$%%%%%88888*****  A game theoretic approach to explain the output of any machine learning model
+### !!!!!@@@@@$$$$$%%%%%88888***** A game theoretic approach to explain the output of any machine learning model
 https://github.com/slundberg/shap
 
+### Modeling daytime changes in high resolution photographs
+https://saic-mdal.github.io/HiDT/
 
-
-
+### A Tensorflow implementation of AnimeGAN for fast photo animation ! This is the Open source of the paper <AnimeGAN: a novel lightweight GAN for photo animation>, which uses the GAN framwork to transform real-world photos into anime images
+https://github.com/TachibanaYoshino/AnimeGAN/
 
 
 
