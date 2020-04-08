@@ -460,3 +460,6 @@ https://github.com/Manouchehri/vi8/blob/master/Ubuntu_instructions.md
 
 ### Best Cores for each Console
 https://www.reddit.com/r/RetroArch/comments/859gx3/best_cores_for_each_console/
+
+### 7 лучших читалок книг для Android, iOS и десктопа
+https://proglib.io/p/7-luchshih-chitalok-knig-formatov-epub-i-fb2-dlya-android-ios-i-desktopa-2020-03-09
