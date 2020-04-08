@@ -620,7 +620,8 @@ http://cs241.cs.illinois.edu/coursebook/index.html
 ### !!!!!@@@@@$$$$$%%%%%88888***** General statistics, mathematical programming, and numerical/scientific computing scripts and notebooks in Python 
 https://github.com/tirthajyoti/Stats-Maths-with-Python
 
-
+### CS50’s Introduction to Artificial Intelligence with Python
+https://cs50.harvard.edu/ai/
 
 
 
