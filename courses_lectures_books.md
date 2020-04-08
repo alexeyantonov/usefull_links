@@ -614,6 +614,8 @@ https://zen.yandex.ru/media/pouchi/eti-5-dopolnitelnyh-postroenii-reshat-liubuiu
 ### !!!!!@@@@@$$$$$%%%%%88888***** ОТДЕЛЬНЫЕ ТЕМЫ МАТЕМАТИЧЕСКОГО АНАЛИЗА
 http://www.rkarasev.ru/common/upload/an_explanations.pdf
 
+### !!!!!@@@@@$$$$$%%%%%88888***** System programming book
+http://cs241.cs.illinois.edu/coursebook/index.html
 
 
 
