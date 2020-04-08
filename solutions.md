@@ -218,4 +218,6 @@ https://gh.mltrainings.ru/presentations/Vorotyntsev_CodalabAutoML.pdf
 https://github.com/DenisVorotyntsev/AutoSeries
 https://towardsdatascience.com/automl-for-time-series-forecasting-6caaf194d268
 
-
+### sber covid-19
+https://github.com/tyz910/sberbank-covid19/blob/master/Predict.ipynb
+https://github.com/vlomme/sberbank-covid19-forecast-2020
