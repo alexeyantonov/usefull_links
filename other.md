@@ -463,3 +463,10 @@ https://www.reddit.com/r/RetroArch/comments/859gx3/best_cores_for_each_console/
 
 ### 7 лучших читалок книг для Android, iOS и десктопа
 https://proglib.io/p/7-luchshih-chitalok-knig-formatov-epub-i-fb2-dlya-android-ios-i-desktopa-2020-03-09
+
+### 46 китайских словарей в *.DSL
+https://blog.wtigga.com/chinese-dicts-dsl/
+
+
+
+
