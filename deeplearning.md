@@ -2001,8 +2001,11 @@ https://github.com/Rudrabha/LipGAN
 https://github.com/evgps/a3c_trading
 https://arxiv.org/abs/2002.11523v1
 
+### Обзор четырёх популярных NLP-моделей
+https://proglib.io/p/obzor-chetyreh-populyarnyh-nlp-modeley-2020-04-21
 
-
+### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
+https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 
 
