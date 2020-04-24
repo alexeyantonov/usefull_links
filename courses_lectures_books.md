@@ -623,6 +623,8 @@ https://github.com/tirthajyoti/Stats-Maths-with-Python
 ### CS50’s Introduction to Artificial Intelligence with Python
 https://cs50.harvard.edu/ai/
 
+### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
+https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 
 
