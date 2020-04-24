@@ -1161,8 +1161,11 @@ https://medium.com/@vasnetsov93/shrinking-fasttext-embeddings-so-that-it-fits-go
 https://github.com/natasha/navec
 https://arxiv.org/abs/1607.04606
 
+### !!!!! Что делают в Computer Vision и как этому научиться
+https://www.youtube.com/watch?v=zzVtEXRxwK4
 
-
+### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
+https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 
 
