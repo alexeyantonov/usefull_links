@@ -1167,7 +1167,8 @@ https://www.youtube.com/watch?v=zzVtEXRxwK4
 ### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
-
+### Анимация графиков в Python за 4 шага
+https://proglib.io/p/animaciya-grafikov-v-python-za-4-shaga-2020-04-27
 
 
 
