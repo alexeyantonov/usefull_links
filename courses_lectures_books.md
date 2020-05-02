@@ -623,10 +623,11 @@ https://github.com/tirthajyoti/Stats-Maths-with-Python
 ### CS50’s Introduction to Artificial Intelligence with Python
 https://cs50.harvard.edu/ai/
 
-### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
+### !!!!!@@@@@$$$$$%%%%%888888 Data Science Cheat Sheets 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Сборник переведенных статей по курсу МО
+https://drive.google.com/file/d/1xMejDTwDvXUnyiJi8FdTixa9eQ7IOnEc/view
 
 
 
