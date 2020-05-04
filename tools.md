@@ -222,6 +222,8 @@ https://github.com/TachibanaYoshino/AnimeGAN/
 ### !!!!!@@@@@$$$$$%%%%%88888***** AI Toolkit for Healthcare Imaging https://monai.io/
 https://github.com/Project-MONAI/MONAI
 
+### Созвонимся в зуме? А может, лучше в хэнгаутсе? «Медуза» рассказывает о сервисах для видеозвонков, которые безопаснее, чем Zoom
+https://meduza.io/video/2020/05/04/sozvonimsya-v-zume-a-mozhet-luchshe-v-hengautse
 
 
 
