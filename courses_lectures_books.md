@@ -629,9 +629,11 @@ https://github.com/abhat222/Data-Science--Cheat-Sheet
 ### !!!!!@@@@@$$$$$%%%%%888888 Сборник переведенных статей по курсу МО
 https://drive.google.com/file/d/1xMejDTwDvXUnyiJi8FdTixa9eQ7IOnEc/view
 
+### !!!!!@@@@@$$$$$%%%%%888888 Машинное обучение, основной поток, лекции (2020)
+https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj
 
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 Машинное обучение, основной поток, семинары (2020)
+https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z
 
 
 
