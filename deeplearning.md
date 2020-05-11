@@ -2007,8 +2007,11 @@ https://proglib.io/p/obzor-chetyreh-populyarnyh-nlp-modeley-2020-04-21
 ### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
-
-
+### Unet Segmentation in Keras TensorFlow
+https://www.youtube.com/watch?v=M3EZS__Z_XE
+code: https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow/blob/master/unet-segmentation.ipynb
+data: https://www.kaggle.com/c/data-science-bowl-2018
+paper: https://arxiv.org/abs/1505.04597
 
 
 
