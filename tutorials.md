@@ -1170,6 +1170,15 @@ https://github.com/abhat222/Data-Science--Cheat-Sheet
 ### Анимация графиков в Python за 4 шага
 https://proglib.io/p/animaciya-grafikov-v-python-za-4-shaga-2020-04-27
 
+### Unet Segmentation in Keras TensorFlow
+https://www.youtube.com/watch?v=M3EZS__Z_XE
+code: https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow/blob/master/unet-segmentation.ipynb
+data: https://www.kaggle.com/c/data-science-bowl-2018
+paper: https://arxiv.org/abs/1505.04597
+
+
+
+
 
 
 
