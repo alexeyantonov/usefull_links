@@ -635,8 +635,14 @@ https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj
 ### !!!!!@@@@@$$$$$%%%%%888888 Машинное обучение, основной поток, семинары (2020)
 https://www.youtube.com/playlist?list=PL4_hYwCyhAvYPOWn6e44RKxEfRWEsPA1z
 
+### Keras - Python Deep Learning Neural Network API
+https://www.youtube.com/watch?v=8j3mmr2coQ8&list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL&index=1
 
+### Paper Review Calls 011 -- U-Net: Convolutional Networks for Biomedical Image Segmentation (UNet)
+https://www.youtube.com/watch?v=E1Y8HZcpm-I
 
+### Machine Learning Foundations (by google)
+https://www.youtube.com/watch?v=_Z9TRANg4c0&list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&index=1
 
 
 
