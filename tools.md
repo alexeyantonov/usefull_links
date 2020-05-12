@@ -225,7 +225,8 @@ https://github.com/Project-MONAI/MONAI
 ### Созвонимся в зуме? А может, лучше в хэнгаутсе? «Медуза» рассказывает о сервисах для видеозвонков, которые безопаснее, чем Zoom
 https://meduza.io/video/2020/05/04/sozvonimsya-v-zume-a-mozhet-luchshe-v-hengautse
 
-
+### Убираем шумы нейросетью RTX VOICE без карты с RTX
+https://www.youtube.com/watch?v=qkMicirtWO8
 
 
 
