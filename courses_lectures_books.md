@@ -644,6 +644,9 @@ https://www.youtube.com/watch?v=E1Y8HZcpm-I
 ### Machine Learning Foundations (by google)
 https://www.youtube.com/watch?v=_Z9TRANg4c0&list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV&index=1
 
+### Школа Машинного обучения (физтех)
+https://miptmlschool.github.io/index.html
+https://github.com/miptmlschool/mlschl
 
 
 
