@@ -215,7 +215,7 @@ https://github.com/google-research/google-research/tree/master/meena
 ### Пишем бота для Instagram на Python
 https://proglib.io/p/pishem-bota-dlya-instagram-na-python-2020-04-10
 
-
+https://www.youtube.com/watch?v=_lqAQxdBapI
 
 
 
