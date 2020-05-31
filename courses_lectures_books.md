@@ -648,7 +648,7 @@ https://www.youtube.com/watch?v=_Z9TRANg4c0&list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBr
 https://miptmlschool.github.io/index.html
 https://github.com/miptmlschool/mlschl
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 https://github.com/rougier/scientific-visualization-book
 
 
 
