@@ -231,4 +231,5 @@ https://www.youtube.com/watch?v=qkMicirtWO8
 ### 30 самых удивительных проектов по машинному обучению
 https://rb.ru/story/30-ml-projects/
 
-
+### Avatars for Zoom, Skype and other video-conferencing apps
+https://github.com/alievk/avatarify
