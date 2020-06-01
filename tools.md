@@ -228,7 +228,7 @@ https://meduza.io/video/2020/05/04/sozvonimsya-v-zume-a-mozhet-luchshe-v-hengaut
 ### Убираем шумы нейросетью RTX VOICE без карты с RTX
 https://www.youtube.com/watch?v=qkMicirtWO8
 
-
-
+### 30 самых удивительных проектов по машинному обучению
+https://rb.ru/story/30-ml-projects/
 
 
