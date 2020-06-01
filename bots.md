@@ -217,7 +217,8 @@ https://proglib.io/p/pishem-bota-dlya-instagram-na-python-2020-04-10
 
 https://www.youtube.com/watch?v=_lqAQxdBapI
 
-
-
+### Пишем Telegram бот для учёта расходов с Python, Asyncio/Aiogram, SQLite и Docker
+https://www.youtube.com/watch?v=Kh16iosOTIQ
+https://github.com/alexey-goloburdin/telegram-finance-bot
 
 
