@@ -221,4 +221,6 @@ https://www.youtube.com/watch?v=_lqAQxdBapI
 https://www.youtube.com/watch?v=Kh16iosOTIQ
 https://github.com/alexey-goloburdin/telegram-finance-bot
 
+### Пишем реальный TELEGRAM бот на Python | БД + Парсинг
+https://www.youtube.com/watch?v=bXxa9IkAPew
 
