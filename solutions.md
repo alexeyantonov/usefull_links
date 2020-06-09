@@ -221,3 +221,4 @@ https://towardsdatascience.com/automl-for-time-series-forecasting-6caaf194d268
 ### sber covid-19
 https://github.com/tyz910/sberbank-covid19/blob/master/Predict.ipynb
 https://github.com/vlomme/sberbank-covid19-forecast-2020
+https://www.youtube.com/watch?v=wYDMYt135no
