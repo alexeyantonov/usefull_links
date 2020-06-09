@@ -91,6 +91,7 @@ https://transform2020.sched.com/event/cD5T/tutorial-geologic-image-processing-wi
 https://github.com/joferkington/geo_image_processing_tutorial
 
 https://transform2020.sched.com/event/cD5x/tutorial-intro-to-interactive-visualization-in-jupyter-for-well-data
+https://github.com/simpeg/transform-2020-tutorial/
 
 https://transform2020.sched.com/event/c7Js/tutorial-geospatial-analysis-in-python
 https://github.com/mtb-za/transform-2020-spatial-in-python/
