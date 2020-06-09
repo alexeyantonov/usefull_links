@@ -86,6 +86,13 @@ https://library.seg.org/doi/10.1190/tle35100906.1
 https://github.com/aadm/geophysical_notes
 https://github.com/aadm?tab=repositories
 
+### transform 2020
+https://transform2020.sched.com/event/cD5T/tutorial-geologic-image-processing-with-python
+https://github.com/joferkington/geo_image_processing_tutorial
 
+https://transform2020.sched.com/event/cD5x/tutorial-intro-to-interactive-visualization-in-jupyter-for-well-data
+
+https://transform2020.sched.com/event/c7Js/tutorial-geospatial-analysis-in-python
+https://github.com/mtb-za/transform-2020-spatial-in-python/
 
 
