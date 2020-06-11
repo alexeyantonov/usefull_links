@@ -95,6 +95,7 @@ https://github.com/simpeg/transform-2020-tutorial/
 
 https://transform2020.sched.com/event/c7Js/tutorial-geospatial-analysis-in-python
 https://github.com/mtb-za/transform-2020-spatial-in-python/
+https://www.youtube.com/watch?v=jZ7Sj9cnnso
 
 ### Geophysics for Practicing Geoscientists
 https://gpg.geosci.xyz/
