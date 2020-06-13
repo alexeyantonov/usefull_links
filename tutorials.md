@@ -1179,6 +1179,8 @@ paper: https://arxiv.org/abs/1505.04597
 ### Mask RCNN with Keras and Tensorflow playlist
 https://www.youtube.com/watch?v=2TikTv6PWDw&list=PLX-LrBk6h3wRAF22jBUxDgOvyhIgLN4Cg
 
+### Deploy a Machine Learning Pipeline to the Cloud Using a Docker Container
+https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.html
 
 
 
