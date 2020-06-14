@@ -654,7 +654,8 @@ https://github.com/rougier/scientific-visualization-book
 ### !!!!!@@@@@$$$$$%%%%%888888 DeepMind courses
 https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/playlists
 
-
+### Deep Learning Crash Course
+https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07
 
 
 
