@@ -657,6 +657,8 @@ https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/playlists
 ### Deep Learning Crash Course
 https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07
 
+### Python Machine Learning & AI Mega Course - Learn 4 Different Areas of ML & AI
+https://www.youtube.com/watch?v=WFr2WgN9_xE
 
 
 
