@@ -100,3 +100,10 @@ https://www.youtube.com/watch?v=jZ7Sj9cnnso
 ### Geophysics for Practicing Geoscientists
 https://gpg.geosci.xyz/
 
+### !!!!! TRANSFORM 2020 - Final presentations of the hackathon projects and wrap-up
+https://www.youtube.com/watch?v=VRoSIjqDj-g
+https://github.com/softwareunderground/swung-org/blob/master/events/transform2020.md
+
+
+
+
