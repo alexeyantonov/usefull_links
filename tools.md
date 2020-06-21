@@ -233,3 +233,16 @@ https://rb.ru/story/30-ml-projects/
 
 ### Avatars for Zoom, Skype and other video-conferencing apps
 https://github.com/alievk/avatarify
+
+### GPT-3: Language Models are Few-Shot Learners
+https://github.com/openai/gpt-3
+https://arxiv.org/abs/2005.14165
+
+### Лицевой Депикселизатор
+https://colab.research.google.com/github/tg-bomze/Face-Depixelizer/blob/master/Face_Depixelizer_Rus.ipynb
+https://github.com/tg-bomze/Face-Depixelizer
+
+
+
+
+
