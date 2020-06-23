@@ -242,7 +242,9 @@ https://arxiv.org/abs/2005.14165
 https://colab.research.google.com/github/tg-bomze/Face-Depixelizer/blob/master/Face_Depixelizer_Rus.ipynb
 https://github.com/tg-bomze/Face-Depixelizer
 
-
+### Sebastien Fischman - Pytorch-TabNet: Beating XGBoost on Tabular Data Using Deep Learning
+https://www.youtube.com/watch?v=ysBaZO8YmX8
+https://github.com/dreamquark-ai/tabnet
 
 
 
