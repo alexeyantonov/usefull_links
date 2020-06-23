@@ -246,5 +246,14 @@ https://github.com/tg-bomze/Face-Depixelizer
 https://www.youtube.com/watch?v=ysBaZO8YmX8
 https://github.com/dreamquark-ai/tabnet
 
+### DETR: End-to-End Object Detection with Transformers (Paper Explained)
+https://www.youtube.com/watch?v=T35ba_VXkMY
+https://github.com/facebookresearch/detr
+https://arxiv.org/abs/2005.12872
+
+
+
+
+
 
 
