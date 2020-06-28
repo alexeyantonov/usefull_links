@@ -663,7 +663,8 @@ https://www.youtube.com/watch?v=WFr2WgN9_xE
 ### Abhishek Thakur
 https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 A list of programming tutorials in which learners build an application from scratch. These tutorials are divided into different primary programming languages. Some have intermixed technologies and languages.
+https://github.com/tuvtran/project-based-learning
 
 
 
