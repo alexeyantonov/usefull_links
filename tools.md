@@ -251,7 +251,11 @@ https://www.youtube.com/watch?v=T35ba_VXkMY
 https://github.com/facebookresearch/detr
 https://arxiv.org/abs/2005.12872
 
+### !!!!!@@@@@$$$$$%%%%%888888 PyTorch implementation of TabNet paper https://arxiv.org/pdf/1908.07442.pdf
+https://github.com/dreamquark-ai/tabnet
 
+### !!!!!@@@@@$$$$$%%%%%888888 DE⫶TR: End-to-End Object Detection with Transformers
+https://github.com/facebookresearch/detr
 
 
 
