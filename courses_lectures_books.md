@@ -660,7 +660,8 @@ https://www.youtube.com/playlist?list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07
 ### Python Machine Learning & AI Mega Course - Learn 4 Different Areas of ML & AI
 https://www.youtube.com/watch?v=WFr2WgN9_xE
 
-
+### Abhishek Thakur
+https://www.youtube.com/channel/UCBPRJjIWfyNG4X-CRbnv78A
 
 
 
