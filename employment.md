@@ -50,3 +50,6 @@ https://proglib.io/p/sobesedovanie-i-sem-gnomov-zadachi-s-intervyu-v-it-kompaniy
 
 ###
 https://dtf.ru/indie/142437-istoriya-solo-razrabotchika-i-sozdanie-igry-ashley-the-emptiness-inside
+
+### Archakov Blog
+https://www.youtube.com/channel/UCdldbhAwO16vjnDwACTs5gQ
