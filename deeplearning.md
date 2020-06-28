@@ -2019,7 +2019,8 @@ https://github.com/dreamquark-ai/tabnet
 ### !!!!!@@@@@$$$$$%%%%%888888 DE⫶TR: End-to-End Object Detection with Transformers
 https://github.com/facebookresearch/detr
 
-
+### Implementing original U-Net from scratch using PyTorch
+https://www.youtube.com/watch?v=u1loyDCoGbE
 
 
 
