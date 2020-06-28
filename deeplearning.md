@@ -2004,7 +2004,7 @@ https://arxiv.org/abs/2002.11523v1
 ### Обзор четырёх популярных NLP-моделей
 https://proglib.io/p/obzor-chetyreh-populyarnyh-nlp-modeley-2020-04-21
 
-### !!!!!@@@@@$$$$$%%%%%888888  Data Science Cheat Sheets 
+### !!!!!@@@@@$$$$$%%%%%888888 Data Science Cheat Sheets 
 https://github.com/abhat222/Data-Science--Cheat-Sheet
 
 ### Unet Segmentation in Keras TensorFlow
@@ -2013,7 +2013,11 @@ code: https://github.com/nikhilroxtomar/UNet-Segmentation-in-Keras-TensorFlow/bl
 data: https://www.kaggle.com/c/data-science-bowl-2018
 paper: https://arxiv.org/abs/1505.04597
 
+### !!!!!@@@@@$$$$$%%%%%888888 PyTorch implementation of TabNet paper https://arxiv.org/pdf/1908.07442.pdf
+https://github.com/dreamquark-ai/tabnet
 
+### !!!!!@@@@@$$$$$%%%%%888888 DE⫶TR: End-to-End Object Detection with Transformers
+https://github.com/facebookresearch/detr
 
 
 
