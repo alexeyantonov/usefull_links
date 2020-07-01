@@ -225,3 +225,35 @@ https://www.youtube.com/watch?v=wYDMYt135no
 
 ### Kaggle Competition - House Prices: Advanced Regression Techniques
 https://www.youtube.com/watch?v=vtm35gVP8JU
+
+### Live- Implementation of End To End Kaggle Machine Learning Project With Deployment
+https://www.youtube.com/watch?v=p_tpQSY1aTs
+
+### Live Session-Implementing Deep Learning Project From Scratch To Deployment- Heroku(Car Brand Class)
+https://www.youtube.com/watch?v=Ie4-AOpPxBg
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
