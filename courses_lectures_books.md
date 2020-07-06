@@ -674,7 +674,11 @@ http://wiki.cs.hse.ru/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1
 https://github.com/esokolov/ml-course-hse 
 https://github.com/nadiinchi/ml_hse_nes_2019
 
+### 30 Largest TensorFlow Datasets for Machine Learning
+https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
 
+### Live Project-Stock Sentiment Analysis using News Headlines Machine Learning
+https://www.youtube.com/watch?v=HsI5YF6uxGs
 
 
 
