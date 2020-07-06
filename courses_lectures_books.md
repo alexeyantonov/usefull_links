@@ -669,6 +669,12 @@ https://github.com/tuvtran/project-based-learning
 ### Sebastian Raschka | Learning scikit learn - An Introduction to Machine Learning in Python
 https://www.youtube.com/watch?v=9fOWryQq9J8
 
+### !!!!!@@@@@$$$$$%%%%%888888 Учебные курсы факультета компьютерных наук
+http://wiki.cs.hse.ru/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+https://github.com/esokolov/ml-course-hse 
+https://github.com/nadiinchi/ml_hse_nes_2019
+
+
 
 
 
