@@ -232,6 +232,9 @@ https://www.youtube.com/watch?v=p_tpQSY1aTs
 ### Live Session-Implementing Deep Learning Project From Scratch To Deployment- Heroku(Car Brand Class)
 https://www.youtube.com/watch?v=Ie4-AOpPxBg
 
+### Как задетектить Deepfake и выиграть $500k — Селим Сефербеков
+https://www.youtube.com/watch?v=fg8lKeJZ7vA
+https://github.com/selimsef/dfdc_deepfake_challenge
 
 
 
