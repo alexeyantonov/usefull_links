@@ -680,6 +680,8 @@ https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
 ### Live Project-Stock Sentiment Analysis using News Headlines Machine Learning
 https://www.youtube.com/watch?v=HsI5YF6uxGs
 
+### [Летняя школа]: Искусственный интеллект: состояние и прорывы, тренды и вызовы
+https://www.youtube.com/watch?v=htdowVCrA9k
 
 
 
