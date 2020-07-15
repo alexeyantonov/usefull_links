@@ -1185,8 +1185,19 @@ https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.
 ### [Code] How to use Facebook's DETR object detection algorithm in Python (Full Tutorial)
 https://www.youtube.com/watch?v=LfUsGv-ESbc
 
+### Training custom YOLO v3 object detection model
+https://www.youtube.com/watch?v=j-CfVrhR4Zo
 
+### Train custom object detection model with YOLO V5
+https://www.youtube.com/watch?v=NU9Xr_NYslo
 
+### Wavelets and Multiresolution Analysis
+https://www.youtube.com/watch?v=y7KLbd7n75g
+
+### Albumentations Framework: a fast image augmentations library | Interview with Dr. Vladimir Iglovikov
+https://www.youtube.com/watch?v=JS9xol0VmA4
+https://www.kaggle.com/corochann/bengali-albumentations-data-augmentation-tutorial
+https://www.kaggle.com/alexanderliao/image-augmentation-demo-with-albumentation
 
 
 
