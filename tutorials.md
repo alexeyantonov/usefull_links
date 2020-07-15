@@ -1199,6 +1199,8 @@ https://www.youtube.com/watch?v=JS9xol0VmA4
 https://www.kaggle.com/corochann/bengali-albumentations-data-augmentation-tutorial
 https://www.kaggle.com/alexanderliao/image-augmentation-demo-with-albumentation
 
+### YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)
+https://www.youtube.com/watch?v=mmj3nxGT2YQ
 
 
 
