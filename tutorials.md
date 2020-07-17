@@ -1202,8 +1202,11 @@ https://www.kaggle.com/alexanderliao/image-augmentation-demo-with-albumentation
 ### YOLOv4 in the CLOUD: Build and Train Custom Object Detector (FREE GPU)
 https://www.youtube.com/watch?v=mmj3nxGT2YQ
 
+### Create YOLO (v5) Dataset for Custom Object Detection using OpenCV, PyTorch and Python Tutorial
+https://www.youtube.com/watch?v=NsxDrEJTgRw
+https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5-using-pytorch-and-python/
 
-
-
+### Object Detection on Custom Dataset with YOLO (v5) | Fine-tuning with PyTorch and Python Tutorial
+https://www.youtube.com/watch?v=XNRzZkZ-Byg
 
 
