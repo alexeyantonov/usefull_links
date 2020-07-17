@@ -261,5 +261,9 @@ https://github.com/facebookresearch/detr
 https://github.com/techx/quill
 https://github.com/HackMIT
 
+### collection of optimizers for PyTorch
+https://github.com/jettify/pytorch-optimizer
+https://pytorch-optimizer.readthedocs.io/en/latest/
+
 
 
