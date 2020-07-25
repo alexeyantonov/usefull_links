@@ -683,7 +683,8 @@ https://www.youtube.com/watch?v=HsI5YF6uxGs
 ### [Летняя школа]: Искусственный интеллект: состояние и прорывы, тренды и вызовы
 https://www.youtube.com/watch?v=htdowVCrA9k
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 ODS #wheretostart recommendations
+https://github.com/open-data-science/ultimate_posts/tree/master/where_to_start
 
 
 
