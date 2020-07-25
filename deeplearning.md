@@ -2022,7 +2022,13 @@ https://github.com/facebookresearch/detr
 ### Implementing original U-Net from scratch using PyTorch
 https://www.youtube.com/watch?v=u1loyDCoGbE
 
+### (Re)Discovering Protein Structure and Function Through Language Modeling
+https://blog.einstein.ai/provis/
+https://arxiv.org/abs/2006.15222
+https://github.com/salesforce/provis
 
+### Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups
+https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6
 
 
 
