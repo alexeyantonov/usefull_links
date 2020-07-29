@@ -467,6 +467,17 @@ https://proglib.io/p/7-luchshih-chitalok-knig-formatov-epub-i-fb2-dlya-android-i
 ### 46 китайских словарей в *.DSL
 https://blog.wtigga.com/chinese-dicts-dsl/
 
+### How To Create A Video Chat App With WebRTC
+https://www.youtube.com/watch?v=DvlyzDZDEq4
+https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
+
+
+
+
+
+
+
+
 
 
 
