@@ -686,6 +686,11 @@ https://www.youtube.com/watch?v=htdowVCrA9k
 ### !!!!!@@@@@$$$$$%%%%%888888 ODS #wheretostart recommendations
 https://github.com/open-data-science/ultimate_posts/tree/master/where_to_start
 
+### Какая математика нужна в анализе данных? Для обучения нейронной сети?
+https://www.youtube.com/watch?v=g-kMyED62c0
+
+### Мощь Python на все случаи жизни: анализ данных и решение бизнес-задач.
+https://www.youtube.com/watch?v=A_mdL2NfyQI
 
 
 
