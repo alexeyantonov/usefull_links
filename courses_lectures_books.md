@@ -692,7 +692,8 @@ https://www.youtube.com/watch?v=g-kMyED62c0
 ### Мощь Python на все случаи жизни: анализ данных и решение бизнес-задач.
 https://www.youtube.com/watch?v=A_mdL2NfyQI
 
-
+### Статистика, прикладной поток (3 курс, осень 2019)
+https://www.youtube.com/playlist?list=PL4_hYwCyhAvZvgkhCpw0XFqkSoJnMcm4X
 
 
 
