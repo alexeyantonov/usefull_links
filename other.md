@@ -471,7 +471,8 @@ https://blog.wtigga.com/chinese-dicts-dsl/
 https://www.youtube.com/watch?v=DvlyzDZDEq4
 https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 
-
+### Боевой Linux. Обзор самых мощных дистрибутивов для пентестов и OSINT
+https://telegra.ph/Haker---Boevoj-Linux-Obzor-samyh-moshchnyh-distributivov-dlya-pentestov-i-OSINT-07-29
 
 
 
