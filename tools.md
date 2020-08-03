@@ -265,5 +265,36 @@ https://github.com/HackMIT
 https://github.com/jettify/pytorch-optimizer
 https://pytorch-optimizer.readthedocs.io/en/latest/
 
+### Начиная с 8:19 настройка докера для DL под мастдай для ламеров
+https://www.youtube.com/watch?v=G6PtQis8GDo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
