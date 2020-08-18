@@ -268,6 +268,9 @@ https://pytorch-optimizer.readthedocs.io/en/latest/
 ### Начиная с 8:19 настройка докера для DL под мастдай для ламеров
 https://www.youtube.com/watch?v=G6PtQis8GDo
 
+### Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark. (segmentation)
+https://github.com/facebookresearch/Detectron2
+
 
 
 
