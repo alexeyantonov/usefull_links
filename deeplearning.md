@@ -2030,7 +2030,8 @@ https://github.com/salesforce/provis
 ### Open Source Growth Benchmarks and the 20 Fastest-Growing OSS Startups
 https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-growing-oss-startups-d3556a669fe6
 
-
+### Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark. (segmentation)
+https://github.com/facebookresearch/Detectron2
 
 
 
