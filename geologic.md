@@ -104,6 +104,8 @@ https://gpg.geosci.xyz/
 https://www.youtube.com/watch?v=VRoSIjqDj-g
 https://github.com/softwareunderground/swung-org/blob/master/events/transform2020.md
 
+### Визуализация и анализ географических данных на языке R
+https://tsamsonov.github.io/r-geo-course/
 
 
 
