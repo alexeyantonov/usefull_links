@@ -695,6 +695,8 @@ https://www.youtube.com/watch?v=A_mdL2NfyQI
 ### Статистика, прикладной поток (3 курс, осень 2019)
 https://www.youtube.com/playlist?list=PL4_hYwCyhAvZvgkhCpw0XFqkSoJnMcm4X
 
+### Визуализация и анализ географических данных на языке R
+https://tsamsonov.github.io/r-geo-course/
 
 
 
