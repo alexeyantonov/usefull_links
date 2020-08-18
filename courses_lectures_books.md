@@ -698,17 +698,21 @@ https://www.youtube.com/playlist?list=PL4_hYwCyhAvZvgkhCpw0XFqkSoJnMcm4X
 ### Визуализация и анализ географических данных на языке R
 https://tsamsonov.github.io/r-geo-course/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Tips N Tricks #2: Setting up development environment for machine learning (w/o docker)
+https://www.youtube.com/watch?v=N9lo_UxSkWA
 
+### CRISP-DM: проверенная методология для Data Scientist-ов
+https://habr.com/ru/company/lanit/blog/328858/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Talks # 9: Vladimir Iglovikov; Detecting Masked Faces In The Pandemic World
+https://www.youtube.com/watch?v=VAg8pMJRbgA
 
+### Check out this collection of machine learning concept cheat sheets based on Stanord CS 229 material, including supervised and unsupervised learning, neural networks, tips & tricks, probability & stats, and algebra & calculus.
+https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html
+https://roboticsbiz.com/machine-learning-cheat-sheets-compilation-2020/
 
-
-
-
-
-
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 Сборник статей для курса от gewissta
+https://drive.google.com/file/d/1xMejDTwDvXUnyiJi8FdTixa9eQ7IOnEc/view
 
 
 
