@@ -1209,8 +1209,21 @@ https://www.curiousily.com/posts/object-detection-on-custom-dataset-with-yolo-v5
 ### Object Detection on Custom Dataset with YOLO (v5) | Fine-tuning with PyTorch and Python Tutorial
 https://www.youtube.com/watch?v=XNRzZkZ-Byg
 
-### Начиная с 8:19 настройка докера для DL под мастдай для ламеров
+### Начиная с 8:19 настройка докера для DL под мастдай для ламеров (не работает)
 https://www.youtube.com/watch?v=G6PtQis8GDo
+
+### !!!!!@@@@@$$$$$%%%%%888888 Tips N Tricks #2: Setting up development environment for machine learning (w/o docker)
+https://www.youtube.com/watch?v=N9lo_UxSkWA
+
+### https://www.tomshardware.com/how-to/use-raspberry-pi-as-pc-webcam
+https://www.tomshardware.com/how-to/use-raspberry-pi-as-pc-webcam
+
+### LaTeX Tutorial
+https://www.youtube.com/watch?v=VhmkLrOjLsw
+
+### !!!!!@@@@@$$$$$%%%%%888888 Talks # 9: Vladimir Iglovikov; Detecting Masked Faces In The Pandemic World
+https://www.youtube.com/watch?v=VAg8pMJRbgA
+
 
 
 
