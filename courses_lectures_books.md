@@ -714,8 +714,12 @@ https://roboticsbiz.com/machine-learning-cheat-sheets-compilation-2020/
 ### !!!!!@@@@@$$$$$%%%%%888888 Сборник статей для курса от gewissta
 https://drive.google.com/file/d/1xMejDTwDvXUnyiJi8FdTixa9eQ7IOnEc/view
 
+### !!!!!@@@@@$$$$$%%%%%888888 Программы по алгебре и геометрии
+https://drive.google.com/file/d/1x-ZvcXxY-lSRtMf_1k_eWm4ywzBZRoyD/view
+https://drive.google.com/file/d/1UiS1hcVXUHE8JP9N1y-4LOiEXaQudfxT/view
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Прогнозирование временных рядов
+https://www.youtube.com/watch?v=u433nrxdf5k
 
 
 
