@@ -132,6 +132,8 @@ https://github.com/gregwchase/dsi-capstone
 ### Сбербанк хочет разработать помощника врача с ИИ. Он сможет ставить диагнозы и предлагать лечение
 https://incrussia.ru/news/sber-health-ai/
 
+### Deep Learning in Medical Science
+https://www.youtube.com/watch?v=EP5cs7urLYI
 
 
 
