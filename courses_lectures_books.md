@@ -721,7 +721,8 @@ https://drive.google.com/file/d/1UiS1hcVXUHE8JP9N1y-4LOiEXaQudfxT/view
 ### !!!!!@@@@@$$$$$%%%%%888888 Прогнозирование временных рядов
 https://www.youtube.com/watch?v=u433nrxdf5k
 
-
+### Statistic for beginners | Statistics for Data Science
+https://www.youtube.com/watch?v=hjZJIVWHnPE
 
 
 
