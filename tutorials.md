@@ -1224,8 +1224,11 @@ https://www.youtube.com/watch?v=VhmkLrOjLsw
 ### !!!!!@@@@@$$$$$%%%%%888888 Talks # 9: Vladimir Iglovikov; Detecting Masked Faces In The Pandemic World
 https://www.youtube.com/watch?v=VAg8pMJRbgA
 
+### Data Science Workflows using Docker Containers
+https://www.youtube.com/watch?v=oO8n3y23b6M
 
-
+### Docker For Data Scientists
+https://www.youtube.com/watch?v=0qG_0CPQhpg
 
 
 
