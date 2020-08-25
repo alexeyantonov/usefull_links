@@ -328,6 +328,9 @@ https://www.ycombinator.com/resources/series-a-guide
 ### Как история платежного сервиса RBK.money влияет на бренд
 https://lenta.ru/articles/2020/03/16/rbkm/
 
+### This is the original implementation of our paper, A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (arXiv:1706.10059), together with a toolkit of portfolio management research.
+https://github.com/ZhengyaoJiang/PGPortfolio
+
 
 
 
