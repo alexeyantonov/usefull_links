@@ -2033,6 +2033,8 @@ https://medium.com/runacapital/open-source-growth-benchmarks-and-the-20-fastest-
 ### Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark. (segmentation)
 https://github.com/facebookresearch/Detectron2
 
+### This is the original implementation of our paper, A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (arXiv:1706.10059), together with a toolkit of portfolio management research.
+https://github.com/ZhengyaoJiang/PGPortfolio
 
 
 
