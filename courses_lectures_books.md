@@ -724,6 +724,11 @@ https://www.youtube.com/watch?v=u433nrxdf5k
 ### Statistic for beginners | Statistics for Data Science
 https://www.youtube.com/watch?v=hjZJIVWHnPE
 
+### Анализ временных рядов с помощью R
+https://ranalytics.github.io/tsa-with-r/
+
+
+
 
 
 
