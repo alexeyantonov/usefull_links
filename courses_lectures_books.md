@@ -727,7 +727,8 @@ https://www.youtube.com/watch?v=hjZJIVWHnPE
 ### Анализ временных рядов с помощью R
 https://ranalytics.github.io/tsa-with-r/
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Теория вероятностей и математическая статистика
+http://bdemeshev.github.io/pr201/
 
 
 
