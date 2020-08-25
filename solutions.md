@@ -236,7 +236,12 @@ https://www.youtube.com/watch?v=Ie4-AOpPxBg
 https://www.youtube.com/watch?v=fg8lKeJZ7vA
 https://github.com/selimsef/dfdc_deepfake_challenge
 
+### Great results on audio classification with fastai library
+https://medium.com/@etown/great-results-on-audio-classification-with-fastai-library-ccaf906c5f52
 
+### Practical-Deep-Learning-Applied-to-Time-Series
+https://github.com/oguiza/Practical-Deep-Learning-Applied-to-Time-Series/blob/master/GAF%20normalization.ipynb
+https://github.com/oguiza?tab=repositories
 
 
 
