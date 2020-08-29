@@ -107,5 +107,6 @@ https://github.com/softwareunderground/swung-org/blob/master/events/transform202
 ### Визуализация и анализ географических данных на языке R
 https://tsamsonov.github.io/r-geo-course/
 
-
+### What Geoscientists should know about Machine Learning - with Mr. Rocky Roden
+https://www.youtube.com/watch?v=2qDPabON6dI&feature=youtu.be
 
