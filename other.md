@@ -474,6 +474,19 @@ https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC
 ### Боевой Linux. Обзор самых мощных дистрибутивов для пентестов и OSINT
 https://telegra.ph/Haker---Boevoj-Linux-Obzor-samyh-moshchnyh-distributivov-dlya-pentestov-i-OSINT-07-29
 
+### Как заснуть за 2 минуты в любой ситуации — метод американских военных пилотов
+https://incrussia.ru/understand/2-minutes-to-midnight/
+
+
+
+
+
+
+
+
+
+
+
 
 
 
