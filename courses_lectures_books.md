@@ -730,6 +730,10 @@ https://ranalytics.github.io/tsa-with-r/
 ### !!!!!@@@@@$$$$$%%%%%888888 Теория вероятностей и математическая статистика
 http://bdemeshev.github.io/pr201/
 
+### Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)
+https://www.youtube.com/watch?v=gT8-wDPLOBg
+
+
 
 
 
