@@ -2036,7 +2036,12 @@ https://github.com/facebookresearch/Detectron2
 ### This is the original implementation of our paper, A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (arXiv:1706.10059), together with a toolkit of portfolio management research.
 https://github.com/ZhengyaoJiang/PGPortfolio
 
+### CenterHMR: a bottom-up single-shot method for multi-person 3D mesh recovery from a single image
+https://github.com/Arthur151/CenterHMR
 
+###  Более двух тысяч команд улучшали нашу нейросеть для поиска дефектов на металле
+https://vc.ru/severstal/151039-kaggle
+https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114394
 
 
 
