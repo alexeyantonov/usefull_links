@@ -1230,7 +1230,8 @@ https://www.youtube.com/watch?v=oO8n3y23b6M
 ### Docker For Data Scientists
 https://www.youtube.com/watch?v=0qG_0CPQhpg
 
-
+### Boxcox transform on train & test data
+https://www.kaggle.com/rtatman/boxcox-transform-on-train-test-data
 
 
 
