@@ -280,7 +280,8 @@ https://www.youtube.com/watch?v=0qG_0CPQhpg
 ### CenterHMR: a bottom-up single-shot method for multi-person 3D mesh recovery from a single image
 https://github.com/Arthur151/CenterHMR
 
-
+### Open Source conversational AI
+https://rasa.com/
 
 
 
