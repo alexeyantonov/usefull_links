@@ -243,7 +243,12 @@ https://medium.com/@etown/great-results-on-audio-classification-with-fastai-libr
 https://github.com/oguiza/Practical-Deep-Learning-Applied-to-Time-Series/blob/master/GAF%20normalization.ipynb
 https://github.com/oguiza?tab=repositories
 
+###  Более двух тысяч команд улучшали нашу нейросеть для поиска дефектов на металле
+https://vc.ru/severstal/151039-kaggle
+https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114394
 
+###
+https://github.com/rctatman
 
 
 
