@@ -116,7 +116,8 @@ https://github.com/KyleMylonakis/GeoSeg
 ### Tutorial: Getting started with Python
 https://www.youtube.com/watch?v=iIOMiN8Cacs
 
-
+### 3D Structural Geological Modeling in Python with Gempy - Tutorial
+https://www.youtube.com/watch?v=fZtqywW3ZmI
 
 
 
