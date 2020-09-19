@@ -250,6 +250,10 @@ https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114394
 ###
 https://github.com/rctatman
 
+### 11th Place Solution of Global Wheat Detection (https://ods.ai/tracks/ml-trainings-df2020/35c1ef04-7e43-461f-8da2-6f48a04a149f)
+https://www.kaggle.com/c/global-wheat-detection
+https://github.com/amirassov/kaggle-global-wheat-detection
+https://www.youtube.com/watch?v=P6kpxUb1GiY&feature=emb_logo
 
 
 
