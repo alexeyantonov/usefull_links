@@ -53,3 +53,6 @@ https://dtf.ru/indie/142437-istoriya-solo-razrabotchika-i-sozdanie-igry-ashley-t
 
 ### Archakov Blog
 https://www.youtube.com/channel/UCdldbhAwO16vjnDwACTs5gQ
+
+### Как мы строили компанию в Кремниевой долине
+https://habr.com/ru/company/near/blog/519634/
