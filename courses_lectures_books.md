@@ -733,7 +733,9 @@ http://bdemeshev.github.io/pr201/
 ### Talks # 10: Tanishq Abraham; What are CycleGANs? (a novel deep learning tool in pathology)
 https://www.youtube.com/watch?v=gT8-wDPLOBg
 
-
+### Algorithms for Convex Optimization
+https://convex-optimization.github.io/
+https://convex-optimization.github.io/ACO-v1.pdf
 
 
 
