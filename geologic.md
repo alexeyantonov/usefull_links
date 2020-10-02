@@ -129,7 +129,8 @@ https://github.com/blasscoc/easy-as
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 https://xeek.ai/challenges/force-seismic/overview
 
-
+### Cegal Tools package - Loading and Visualising well log data
+https://github.com/cegaltools/cegaltools
 
 
 
