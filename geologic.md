@@ -119,6 +119,10 @@ https://www.youtube.com/watch?v=iIOMiN8Cacs
 ### 3D Structural Geological Modeling in Python with Gempy - Tutorial
 https://www.youtube.com/watch?v=fZtqywW3ZmI
 
+### A collection of notebooks exploring ideas for the Force 2020 Lithology Classification Challenge
+https://github.com/brendonhall/FORCE-2020-Lithology
+https://xeek.ai/challenges/force-well-logs/overview
+
 
 
 
