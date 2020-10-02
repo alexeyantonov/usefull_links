@@ -124,6 +124,7 @@ https://github.com/brendonhall/FORCE-2020-Lithology
 https://xeek.ai/challenges/force-well-logs/overview
 https://lnkd.in/gUD7gRZ
 https://hub.gke2.mybinder.org/user/mycarta-force-2-t-lithology-eda-ykab0eks/tree
+https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks/-/raw/master/Force%202020-%20CegalWells%20EDA.ipynb
 
 ### This is a series of tutorial notebooks that demonstrates how to get started doing machine learning on seismic data. It is inspired by the Force 2020 Machine Learning Contest.
 https://github.com/blasscoc/easy-as
