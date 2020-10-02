@@ -122,6 +122,7 @@ https://www.youtube.com/watch?v=fZtqywW3ZmI
 ### A collection of notebooks exploring ideas for the Force 2020 Lithology Classification Challenge
 https://github.com/brendonhall/FORCE-2020-Lithology
 https://xeek.ai/challenges/force-well-logs/overview
+https://lnkd.in/gUD7gRZ
 
 ### This is a series of tutorial notebooks that demonstrates how to get started doing machine learning on seismic data. It is inspired by the Force 2020 Machine Learning Contest.
 https://github.com/blasscoc/easy-as
