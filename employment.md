@@ -63,6 +63,30 @@ https://www.youtube.com/watch?v=vDU827keTII
 ### Being a Digital Nomad
 https://www.youtube.com/watch?v=ifQKv03NLAA
 
+### Career development from a developer to a manager
+https://www.youtube.com/watch?v=dkp3we-9vWs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
