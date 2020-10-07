@@ -56,3 +56,14 @@ https://www.youtube.com/channel/UCdldbhAwO16vjnDwACTs5gQ
 
 ### Как мы строили компанию в Кремниевой долине
 https://habr.com/ru/company/near/blog/519634/
+
+### Getting a Job in Analytics
+https://www.youtube.com/watch?v=vDU827keTII
+
+
+
+
+
+
+
+
