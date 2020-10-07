@@ -60,6 +60,8 @@ https://habr.com/ru/company/near/blog/519634/
 ### Getting a Job in Analytics
 https://www.youtube.com/watch?v=vDU827keTII
 
+### Being a Digital Nomad
+https://www.youtube.com/watch?v=ifQKv03NLAA
 
 
 
