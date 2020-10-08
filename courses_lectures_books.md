@@ -737,7 +737,8 @@ https://www.youtube.com/watch?v=gT8-wDPLOBg
 https://convex-optimization.github.io/
 https://convex-optimization.github.io/ACO-v1.pdf
 
-
+### Байесовские методы в машинном обучении
+https://www.youtube.com/watch?v=Ejsr3S79gcQ
 
 
 
