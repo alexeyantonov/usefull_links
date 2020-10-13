@@ -283,6 +283,8 @@ https://github.com/Arthur151/CenterHMR
 ### Open Source conversational AI
 https://rasa.com/
 
+### !!!!!@@@@@$$$$$%%%%%888888 DEvol - Deep Neural Network Evolution
+https://github.com/joeddav/devol
 
 
 
