@@ -2043,8 +2043,14 @@ https://github.com/Arthur151/CenterHMR
 https://vc.ru/severstal/151039-kaggle
 https://www.kaggle.com/c/severstal-steel-defect-detection/discussion/114394
 
+### !!!!!@@@@@$$$$$%%%%%888888 DEvol - Deep Neural Network Evolution
+https://github.com/joeddav/devol
 
+### Awesome Pruning
+https://github.com/he-y/Awesome-Pruning
 
+### Weight Agnostic Neural Networks
+https://weightagnostic.github.io/
 
 
 
