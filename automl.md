@@ -31,4 +31,6 @@ https://keras-team.github.io/keras-tuner/
 ### Как мы победили с помощью CatBoost и AutoML (есть ссылки в видео)
 https://www.youtube.com/watch?v=cTnWvYJJRCY
 
+### Auto-PyTorch
+https://github.com/automl/Auto-PyTorch
 
