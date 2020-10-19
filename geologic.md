@@ -130,6 +130,9 @@ https://nbviewer.jupyter.org/urls/gitlab.com/hilde.tveit.haland/public-notebooks
 https://github.com/blasscoc/easy-as
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 https://xeek.ai/challenges/force-seismic/overview
+https://github.com/xinwucwp/faultSeg
+https://github.com/satyakees/FaultNet
+https://github.com/dhale/ipf/tree/master/src/ipf
 
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
