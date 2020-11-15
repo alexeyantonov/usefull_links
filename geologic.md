@@ -137,7 +137,21 @@ https://github.com/dhale/ipf/tree/master/src/ipf
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
 
+### Datafest 2020
+Сергей Цимфер: Выделение сейсмических горизонтов
+https://www.youtube.com/watch?v=0z2m-0gmqMo
+Neural Differential Equations based Reduced Order Model for Fast and Scalable Reservoir Simulation
+https://www.youtube.com/watch?v=uO4AWGZQGvQ
+Евгений Барабошкин: Подготовка данных для задачи классификации изображений горных пород
+https://www.youtube.com/watch?v=VbjVGQduys0
+Тимур Бикмухаметов: Как заставить ML работать и причем тут физика. Примеры из нефтегазовой отрасли
+https://www.youtube.com/watch?v=qbXo7rl51qY
+Антонина Арефина: Машинное обучение в задачах сейсмической обработки Газпром Нефти
+https://www.youtube.com/watch?v=rrGf5unkZeU
+Семён Косяченко: Прогнозирование осложнений в процессе бурения нефтегазовых скважин
+https://www.youtube.com/watch?v=w-60n9PeIOk
 
+https://github.com/gazprom-neft
 
 
 
