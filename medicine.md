@@ -135,6 +135,11 @@ https://incrussia.ru/news/sber-health-ai/
 ### Deep Learning in Medical Science
 https://www.youtube.com/watch?v=EP5cs7urLYI
 
+### Ekaterina Kondratyeva: Assessing the performance of the AI systems
+https://www.youtube.com/watch?v=78CpdYTquxQ
+
+### Ruslan Aliev: Automatic detection of focal cortical dysplasia
+https://www.youtube.com/watch?v=njX0ZOCyVc8
 
 
 
