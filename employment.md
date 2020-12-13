@@ -69,7 +69,8 @@ https://www.youtube.com/watch?v=dkp3we-9vWs
 ### AMA Questions to the recruiter
 https://www.youtube.com/watch?v=H3GE7bT7YMg
 
-
+### Как я поступал в 18 университетов США
+https://habr.com/ru/post/469275/
 
 
 
