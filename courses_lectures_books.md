@@ -746,7 +746,8 @@ https://github.com/lysukhin/edu
 ### !!!!!@@@@@$$$$$%%%%%888888 DEEP LEARNING
 https://atcold.github.io/pytorch-Deep-Learning/
 
-
+### дифгем в картинках
+https://www.semanticscholar.org/paper/A-pictorial-introduction-to-differential-geometry%2C-Gratus/21a2ff3c467bd6fecc73c6f06e9019ce1e763cd4
 
 
 
