@@ -743,6 +743,8 @@ https://www.youtube.com/watch?v=Ejsr3S79gcQ
 ### !!!!!@@@@@$$$$$%%%%%888888 Образовательные материалы по различным дисциплинам
 https://github.com/lysukhin/edu
 
+### !!!!!@@@@@$$$$$%%%%%888888 DEEP LEARNING
+https://atcold.github.io/pytorch-Deep-Learning/
 
 
 
