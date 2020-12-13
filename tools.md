@@ -286,7 +286,8 @@ https://rasa.com/
 ### !!!!!@@@@@$$$$$%%%%%888888 DEvol - Deep Neural Network Evolution
 https://github.com/joeddav/devol
 
-
+### Depix is a tool for recovering passwords from pixelized screenshots
+https://github.com/beurtschipper/Depix
 
 
 
