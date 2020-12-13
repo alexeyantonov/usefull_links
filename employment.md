@@ -72,7 +72,8 @@ https://www.youtube.com/watch?v=H3GE7bT7YMg
 ### Как я поступал в 18 университетов США
 https://habr.com/ru/post/469275/
 
-
+### !!!!! Data Science Interviews
+https://github.com/alexeygrigorev/data-science-interviews
 
 
 
