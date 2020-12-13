@@ -2052,7 +2052,8 @@ https://github.com/he-y/Awesome-Pruning
 ### Weight Agnostic Neural Networks
 https://weightagnostic.github.io/
 
-
+### Russian GPT-2
+https://github.com/mgrankin/ru_transformers
 
 
 
