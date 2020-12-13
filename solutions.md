@@ -255,7 +255,8 @@ https://www.kaggle.com/c/global-wheat-detection
 https://github.com/amirassov/kaggle-global-wheat-detection
 https://www.youtube.com/watch?v=P6kpxUb1GiY&feature=emb_logo
 
-
+### Here is solution for 4th place on LeaderBoard. More info: https://agro-code.ru/datascience/ (есть работа с time series)
+https://github.com/Hack4snack/AgroHack_DS_Cup
 
 
 
