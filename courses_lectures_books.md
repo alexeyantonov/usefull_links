@@ -740,6 +740,9 @@ https://convex-optimization.github.io/ACO-v1.pdf
 ### Байесовские методы в машинном обучении
 https://www.youtube.com/watch?v=Ejsr3S79gcQ
 
+### Курс по рекомендательным системам
+https://www.youtube.com/watch?v=M65RLMfEsaM
+
 
 
 
