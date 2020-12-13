@@ -261,6 +261,8 @@ https://github.com/Hack4snack/AgroHack_DS_Cup
 ### Facies Classification
 https://github.com/mardani72/Facies-Classification-Machine-Learning/blob/master/Facies_Classification_Various_ML_Final.ipynb
 
+### FORCE 2020 Machine Learning Competition
+https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 
 
 
