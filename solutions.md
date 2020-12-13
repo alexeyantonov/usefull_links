@@ -258,7 +258,8 @@ https://www.youtube.com/watch?v=P6kpxUb1GiY&feature=emb_logo
 ### Here is solution for 4th place on LeaderBoard. More info: https://agro-code.ru/datascience/ (есть работа с time series)
 https://github.com/Hack4snack/AgroHack_DS_Cup
 
-
+### Facies Classification
+https://github.com/mardani72/Facies-Classification-Machine-Learning/blob/master/Facies_Classification_Various_ML_Final.ipynb
 
 
 
