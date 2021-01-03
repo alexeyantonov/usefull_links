@@ -155,7 +155,8 @@ https://github.com/gazprom-neft
 
 https://github.com/softwareunderground/swung-org/blob/master/events/transform2020.md
 
-
+### Прогнозирование обводнённости скважин с помощью методов машинного обучения
+https://habr.com/ru/post/533470/
 
 
 
