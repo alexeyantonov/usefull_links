@@ -758,7 +758,8 @@ https://www.youtube.com/watch?v=DeORzP0go5I&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfM
 ### !!!!!@@@@@$$$$$%%%%%888888 DeepLearningSchool
 https://www.youtube.com/c/DeepLearningSchool/videos
 
-
+### ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ - Обучение с подкреплением - Аналитический сборник No7
+https://drive.google.com/file/d/1oQSX8rk4lvtXmuJvM5qdJuYgXJtUtHhH/view
 
 
 
