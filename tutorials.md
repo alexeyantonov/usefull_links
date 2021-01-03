@@ -1233,6 +1233,8 @@ https://www.youtube.com/watch?v=0qG_0CPQhpg
 ### Boxcox transform on train & test data
 https://www.kaggle.com/rtatman/boxcox-transform-on-train-test-data
 
+### How to Build a Machine Learning App (Streamlit + Scikit-learn in Python)
+https://www.youtube.com/watch?v=eT3JMZagMnE
 
 
 
