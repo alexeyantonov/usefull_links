@@ -749,13 +749,14 @@ https://atcold.github.io/pytorch-Deep-Learning/
 ### дифгем в картинках
 https://www.semanticscholar.org/paper/A-pictorial-introduction-to-differential-geometry%2C-Gratus/21a2ff3c467bd6fecc73c6f06e9019ce1e763cd4
 
+### !!!!!@@@@@$$$$$%%%%%888888 Recordings from STAT 451: Introduction to Machine Learning Machine Learning (FS 2020) at University Wisconsin-Madison
+https://sebastianraschka.com/resources/ml-lectures-1.html
 
+### Time Series Talk : Autocorrelation and Partial Autocorrelation
+https://www.youtube.com/watch?v=DeORzP0go5I&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3
 
-
-
-
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 DeepLearningSchool
+https://www.youtube.com/c/DeepLearningSchool/videos
 
 
 
