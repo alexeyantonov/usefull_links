@@ -772,8 +772,7 @@ https://www.youtube.com/watch?v=pTnEG_WGd2Q
 
 ### !!!!! Ng's new course
 http://cs229.stanford.edu/syllabus-autumn2018.html
-
-
+https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
 
 
