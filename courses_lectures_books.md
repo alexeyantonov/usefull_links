@@ -777,6 +777,14 @@ https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfV
 ### Технологии вместо головы
 https://www.vtimes.io/2020/12/18/tehnologii-vmesto-golovi-a2092
 
+### !!!!!@@@@@$$$$$%%%%%888888 Как стать финансово грамотным человеком (ниже список ссылок на всякий случай)
+https://telegra.ph/Kak-stat-finansovo-gramotnym-07-17
+https://quote.rbc.ru/amp/news/5e8203a99a7947cb5aa02a89
+https://amp.rbc.ru/rbcnews/money/20/04/2016/571671409a7947ea31864a36
+https://lifehacker.ru/20-kursov-o-finansax/
+https://moneystrands.com/15-personal-finance-courses-you-can-take-online-for-free/
+https://www.forbes.ru/finansy-i-investicii/359503-likbez-po-finansam-kakie-onlayn-kursy-stoit-proyti-investoru
+http://www.financecourseguide.com/steps-to-taking-a-finance-course.html
 
 
 
