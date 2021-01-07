@@ -767,6 +767,8 @@ https://www.youtube.com/watch?v=pdcqBzVlq3w&list=PLwdBkWbW0oHEUmY07a0G5jabP_fWfG
 ### !!!!!@@@@@$$$$$%%%%%888888 Лекции по catboost
 https://www.youtube.com/watch?v=OpQpYi_LtTQ
 
+### !!!!! Learn Mathematics from START to FINISH
+https://www.youtube.com/watch?v=pTnEG_WGd2Q
 
 
 
