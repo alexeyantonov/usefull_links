@@ -764,8 +764,8 @@ https://drive.google.com/file/d/1oQSX8rk4lvtXmuJvM5qdJuYgXJtUtHhH/view
 ### !!!!!@@@@@$$$$$%%%%%888888 Курс Николенко
 https://www.youtube.com/watch?v=pdcqBzVlq3w&list=PLwdBkWbW0oHEUmY07a0G5jabP_fWfGQet
 
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 Лекции по catboost
+https://www.youtube.com/watch?v=OpQpYi_LtTQ
 
 
 
