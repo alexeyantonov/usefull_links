@@ -774,7 +774,8 @@ https://www.youtube.com/watch?v=pTnEG_WGd2Q
 http://cs229.stanford.edu/syllabus-autumn2018.html
 https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 
-
+### Технологии вместо головы
+https://www.vtimes.io/2020/12/18/tehnologii-vmesto-golovi-a2092
 
 
 
