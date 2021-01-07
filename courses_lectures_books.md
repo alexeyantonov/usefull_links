@@ -770,8 +770,8 @@ https://www.youtube.com/watch?v=OpQpYi_LtTQ
 ### !!!!! Learn Mathematics from START to FINISH
 https://www.youtube.com/watch?v=pTnEG_WGd2Q
 
-
-
+### !!!!! Ng's new course
+http://cs229.stanford.edu/syllabus-autumn2018.html
 
 
 
