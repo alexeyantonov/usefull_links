@@ -786,7 +786,8 @@ https://moneystrands.com/15-personal-finance-courses-you-can-take-online-for-fre
 https://www.forbes.ru/finansy-i-investicii/359503-likbez-po-finansam-kakie-onlayn-kursy-stoit-proyti-investoru
 http://www.financecourseguide.com/steps-to-taking-a-finance-course.html
 
-
+### Kubernetes 101
+https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD
 
 
 
