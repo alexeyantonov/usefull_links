@@ -75,7 +75,9 @@ https://habr.com/ru/post/469275/
 ### !!!!! Data Science Interviews
 https://github.com/alexeygrigorev/data-science-interviews
 
-
+### Проверьте свои навыки: 26 вопросов и ответов с собеседований по Data Science
+https://proglib.io/p/proverte-svoi-navyki-26-voprosov-i-otvetov-s-sobesedovaniy-po-data-science-2021-01-18
+https://proglib.io/p/proverte-svoi-navyki-eshche-26-voprosov-s-sobesedovaniy-po-data-science-s-otvetami-2021-01-19
 
 
 
