@@ -795,10 +795,11 @@ https://medium.com/nuances-of-programming/%D0%B1%D0%B0%D0%B9%D0%B5%D1%81%D0%BE%D
 ### Линейная алгебра в Python
 https://zen.yandex.ru/media/id/5e048b1b2b616900b081f1d9/lineinaia-algebra-v-python-600ea1bc052efe27dfca4cdc
 
+### !!!!! Байесовская статистика для специалистов по данным
+https://nuancesprog.ru/p/11172/
 
-
-
-
+### !!!!! Введение в метод Монте-Карло по схеме цепей Маркова
+https://nuancesprog.ru/p/11204/
 
 
 
