@@ -801,8 +801,8 @@ https://nuancesprog.ru/p/11172/
 ### !!!!! Введение в метод Монте-Карло по схеме цепей Маркова
 https://nuancesprog.ru/p/11204/
 
-
-
+### Хотите знать, как устроен Биткоин (и другие криптовалюты)?
+https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
 
 
