@@ -158,6 +158,9 @@ https://github.com/softwareunderground/swung-org/blob/master/events/transform202
 ### Прогнозирование обводнённости скважин с помощью методов машинного обучения
 https://habr.com/ru/post/533470/
 
+### 10 вопросов дата-сайентисту Научно-Технического Центра «Газпром нефти»
+https://ntc.gazprom-neft.ru/press-center/news/10-voprosov-data-sayentistu-nauchno-tekhnicheskogo-tsentra-gazprom-nefti-video/
+
 
 
 
