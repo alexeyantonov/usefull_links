@@ -331,6 +331,44 @@ https://lenta.ru/articles/2020/03/16/rbkm/
 ### This is the original implementation of our paper, A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem (arXiv:1706.10059), together with a toolkit of portfolio management research.
 https://github.com/ZhengyaoJiang/PGPortfolio
 
+### Как «Ревущий Котёнок» с Reddit заработал 28 500% на акциях GameStop: объясняю простым языком 
+https://vc.ru/finance/201843-kak-revushchiy-kotenok-s-reddit-zarabotal-28-500-na-akciyah-gamestop-obyasnyayu-prostym-yazykom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
