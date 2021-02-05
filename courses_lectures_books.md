@@ -804,7 +804,9 @@ https://nuancesprog.ru/p/11204/
 ### Хотите знать, как устроен Биткоин (и другие криптовалюты)?
 https://www.youtube.com/watch?v=bBC-nXj3Ng4
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 CS 329S: Machine Learning Systems Design
+https://stanford-cs329s.github.io/
+https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/preview?pru=AAABd5R4xq8*UaGMGAfzp46KVodlqsqrLQ
 
 
 
