@@ -2055,6 +2055,11 @@ https://weightagnostic.github.io/
 ### Russian GPT-2
 https://github.com/mgrankin/ru_transformers
 
+### !!!!!@@@@@$$$$$%%%%%888888 Семантическая сегментация
+https://www.youtube.com/watch?v=tIqndofykgc&t=0s
+https://www.youtube.com/watch?v=yEuIV5FsRMs&t=0s
+https://www.youtube.com/watch?v=K73tZxH9nvE&t=0s
+
 
 
 
