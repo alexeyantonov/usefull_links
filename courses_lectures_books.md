@@ -808,7 +808,10 @@ https://www.youtube.com/watch?v=bBC-nXj3Ng4
 https://stanford-cs329s.github.io/
 https://docs.google.com/document/d/1b9iuZiDEGVLHyMmnf6w2y1aN6yWQhAyqk3GHlpI9q6M/preview?pru=AAABd5R4xq8*UaGMGAfzp46KVodlqsqrLQ
 
-
+### !!!!!@@@@@$$$$$%%%%%888888 Семантическая сегментация
+https://www.youtube.com/watch?v=tIqndofykgc&t=0s
+https://www.youtube.com/watch?v=yEuIV5FsRMs&t=0s
+https://www.youtube.com/watch?v=K73tZxH9nvE&t=0s
 
 
 
