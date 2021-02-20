@@ -813,8 +813,9 @@ https://www.youtube.com/watch?v=tIqndofykgc&t=0s
 https://www.youtube.com/watch?v=yEuIV5FsRMs&t=0s
 https://www.youtube.com/watch?v=K73tZxH9nvE&t=0s
 
-
-
+### !!!!!@@@@@$$$$$%%%%%888888 Прикладные задачи анализа данных (МГУ ВМК ММП 2020)
+https://www.youtube.com/playlist?list=PLaRUeIuewv8CMFox0oEjlyePUhUmo-x0h
+https://github.com/Dyakonov/PZAD
 
 
 
