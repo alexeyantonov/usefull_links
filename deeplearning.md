@@ -2060,6 +2060,8 @@ https://www.youtube.com/watch?v=tIqndofykgc&t=0s
 https://www.youtube.com/watch?v=yEuIV5FsRMs&t=0s
 https://www.youtube.com/watch?v=K73tZxH9nvE&t=0s
 
+### Сегментация изображений на острие науки (Евгений Нижибицкий, Rambler&Co)
+https://www.youtube.com/watch?v=soE8r0inDpU
 
 
 
