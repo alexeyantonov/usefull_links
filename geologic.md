@@ -133,6 +133,7 @@ https://xeek.ai/challenges/force-seismic/overview
 https://github.com/xinwucwp/faultSeg
 https://github.com/satyakees/FaultNet
 https://github.com/dhale/ipf/tree/master/src/ipf
+https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/tree/master/
 
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
