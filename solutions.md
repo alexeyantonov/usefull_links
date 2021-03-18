@@ -265,7 +265,7 @@ https://github.com/mardani72/Facies-Classification-Machine-Learning/blob/master/
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 https://github.com/brendonhall/FORCE-2020-Lithology/blob/master/notebooks/02-Map-View.ipynb
 
-
+https://habr.com/ru/company/yandex/blog/547622/
 
 
 
