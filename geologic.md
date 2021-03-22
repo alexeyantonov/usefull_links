@@ -162,7 +162,7 @@ https://habr.com/ru/post/533470/
 ### 10 вопросов дата-сайентисту Научно-Технического Центра «Газпром нефти»
 https://ntc.gazprom-neft.ru/press-center/news/10-voprosov-data-sayentistu-nauchno-tekhnicheskogo-tsentra-gazprom-nefti-video/
 
-
+https://github.com/Apress/machine-learning-oil-gas-industry
 
 
 
