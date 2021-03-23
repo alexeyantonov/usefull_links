@@ -267,7 +267,11 @@ https://github.com/brendonhall/FORCE-2020-Lithology/blob/master/notebooks/02-Map
 
 https://habr.com/ru/company/yandex/blog/547622/
 
-
+### Решение задачи по предсказанию уровня реки АМУР
+https://www.youtube.com/watch?v=aIburZfoeAY
+https://github.com/RaevskyDN/aij2020-amur-noflood-public
+https://github.com/alxmamaev/no_flood_with_ai
+https://github.com/AntivistRock/no_Flood_with_AI
 
 
 
