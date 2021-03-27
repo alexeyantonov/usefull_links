@@ -264,6 +264,8 @@ https://github.com/mardani72/Facies-Classification-Machine-Learning/blob/master/
 ### FORCE 2020 Machine Learning Competition
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 https://github.com/brendonhall/FORCE-2020-Lithology/blob/master/notebooks/02-Map-View.ipynb
+https://github.com/aywandji/machine-predicted-lithology
+https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8
 
 https://habr.com/ru/company/yandex/blog/547622/
 
