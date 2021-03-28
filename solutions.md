@@ -275,7 +275,8 @@ https://github.com/RaevskyDN/aij2020-amur-noflood-public
 https://github.com/alxmamaev/no_flood_with_ai
 https://github.com/AntivistRock/no_Flood_with_AI
 
-
+### Кейс: Хабиб vs МакГрегор или Распознавание лиц на Python
+https://tproger.ru/articles/kejs-habib-vs-makgregor-ili-raspoznavanie-lic-na-python/
 
 
 
