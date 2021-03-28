@@ -134,6 +134,9 @@ https://github.com/xinwucwp/faultSeg
 https://github.com/satyakees/FaultNet
 https://github.com/dhale/ipf/tree/master/src/ipf
 https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/tree/master/
+https://github.com/aywandji/machine-predicted-lithology
+https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
+https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8?usp=sharing
 
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
