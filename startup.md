@@ -10,7 +10,9 @@ https://medium.com/letavc/russian-speaking-founders-who-raised-10m-in-2020-50d4f
 ### Elolve обзор заявки YCombinator. Ничего не понятно, но про челенджи
 https://www.youtube.com/watch?v=f7lfqlxMp1A
 
-
+### Как написать заявку в YCombinator
+https://www.youtube.com/watch?v=3R7KZAyPxZA
+https://www.youtube.com/watch?v=AVjPtHKdYVY
 
 
 
