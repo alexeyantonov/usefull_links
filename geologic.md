@@ -164,6 +164,14 @@ https://ntc.gazprom-neft.ru/press-center/news/10-voprosov-data-sayentistu-nauchn
 
 https://github.com/Apress/machine-learning-oil-gas-industry
 
+### Intro to seismic, salt, and how to geophysics
+https://www.kaggle.com/jesperdramsch/intro-to-seismic-salt-and-how-to-geophysics/output#Data-Exploration
+
+### !!!!! Log Facies: NN Bayesian Optimization
+https://www.kaggle.com/imeintanis/log-facies-nn-bayesian-optimization
+
+### Facies Classification with Machine Learning
+https://www.kaggle.com/iykekings/facies-classification-with-machine-learning
 
 
 
