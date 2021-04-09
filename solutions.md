@@ -278,7 +278,9 @@ https://github.com/AntivistRock/no_Flood_with_AI
 ### Кейс: Хабиб vs МакГрегор или Распознавание лиц на Python
 https://tproger.ru/articles/kejs-habib-vs-makgregor-ili-raspoznavanie-lic-na-python/
 
-
+### Farm Pin Crop Detection Challenge
+https://zindi.africa/competitions/farm-pin-crop-detection-challenge
+https://github.com/simongrest/farm-pin-crop-detection-challenge
 
 
 
