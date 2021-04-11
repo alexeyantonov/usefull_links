@@ -282,7 +282,9 @@ https://tproger.ru/articles/kejs-habib-vs-makgregor-ili-raspoznavanie-lic-na-pyt
 https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 https://github.com/simongrest/farm-pin-crop-detection-challenge
 
+https://github.com/deepakrana47/Wheat-quality-detector-2/tree/master/dataset5_dep_on_4
 
+https://github.com/px39n/Awesome-Precision-Agriculture
 
 
 
