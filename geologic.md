@@ -137,6 +137,7 @@ https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-litho
 https://github.com/aywandji/machine-predicted-lithology
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
 https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8?usp=sharing
+https://github.com/olawaleibrahim
 
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
