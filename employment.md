@@ -79,6 +79,15 @@ https://github.com/alexeygrigorev/data-science-interviews
 https://proglib.io/p/proverte-svoi-navyki-26-voprosov-i-otvetov-s-sobesedovaniy-po-data-science-2021-01-18
 https://proglib.io/p/proverte-svoi-navyki-eshche-26-voprosov-s-sobesedovaniy-po-data-science-s-otvetami-2021-01-19
 
+### system design interview
+https://www.educative.io/courses/machine-learning-system-design
+https://github.com/donnemartin/system-design-primer
+https://fall2019.fullstackdeeplearning.com/
+https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
+http://patrickhalina.com/posts/ml-systems-design-interview-guide/
+
+
+
 
 
 
