@@ -85,7 +85,7 @@ https://github.com/donnemartin/system-design-primer
 https://fall2019.fullstackdeeplearning.com/
 https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/
 http://patrickhalina.com/posts/ml-systems-design-interview-guide/
-
+https://apolomodov.medium.com/software-design-books-743be52e4c71
 
 
 
