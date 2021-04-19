@@ -138,6 +138,7 @@ https://github.com/aywandji/machine-predicted-lithology
 https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition/tree/master/lithology_competition
 https://drive.google.com/drive/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8?usp=sharing
 https://github.com/olawaleibrahim
+https://github.com/olawaleibrahim/2020_FORCE_Lithology_Prediction/blob/main/NN.ipynb
 
 ### Cegal Tools package - Loading and Visualising well log data
 https://github.com/cegaltools/cegaltools
@@ -177,7 +178,9 @@ https://www.kaggle.com/imeintanis/log-facies-nn-bayesian-optimization
 ### Facies Classification with Machine Learning
 https://www.kaggle.com/iykekings/facies-classification-with-machine-learning
 
-
+###
+https://www.youtube.com/watch?v=w3pu0H3dXe8
+https://github.com/gimli-org/transform2021
 
 
 
