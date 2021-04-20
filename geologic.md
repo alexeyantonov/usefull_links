@@ -182,8 +182,9 @@ https://www.kaggle.com/iykekings/facies-classification-with-machine-learning
 https://www.youtube.com/watch?v=w3pu0H3dXe8
 https://github.com/gimli-org/transform2021
 
-
-
+### Tutorial: Big data lithology prediction with machine learning
+https://www.youtube.com/watch?v=TBa791rkIDE
+https://github.com/olawaleibrahim
 
 
 
