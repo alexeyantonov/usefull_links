@@ -295,8 +295,11 @@ https://medium.com/nuances-of-programming/%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B1%
 ### Notion
 https://www.youtube.com/playlist?list=PLeUPJETj_wpLQn3Gd-YiJ5Bco8N1eWbME
 
+### Parallel work with pandas
+https://github.com/nalepae/pandarallel
 
-
+### 10 забавных расширений VS Code для разработчиков
+https://proglib.io/p/10-zabavnyh-rasshireniy-vs-code-dlya-razrabotchikov-2021-05-14
 
 
 
