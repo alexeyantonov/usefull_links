@@ -1239,6 +1239,8 @@ https://www.youtube.com/watch?v=eT3JMZagMnE
 ### https://www.youtube.com/watch?v=ZhnJ1bkIWWk
 https://www.youtube.com/watch?v=ZhnJ1bkIWWk
 
+### Делаем DeepFake на коленке: пошаговое практическое руководство
+https://proglib.io/p/delaem-deepfake-na-kolenke-poshagovoe-prakticheskoe-rukovodstvo-2021-05-31
 
 
 
