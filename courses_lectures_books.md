@@ -824,12 +824,14 @@ https://www.youtube.com/playlist?list=PLVF5PzSHILHTcO89xQvyomRZIiCA2XLgN
 ### Оценка моделей ML/DL: матрица ошибок, Accuracy, Precision и Recall
 https://pythonru.com/baza-znanij/metriki-accuracy-precision-i-recall
 
-### PostgreSQL. Основы языка SQL
+### !!!!!@@@@@$$$$$%%%%%888888 PostgreSQL. Основы языка SQL
 https://postgrespro.ru/education/books/sqlprimer
 
-### Работа с PostgreSQL
+### !!!!!@@@@@$$$$$%%%%%888888 Работа с PostgreSQL
 https://postgresql.leopard.in.ua/
 
+### !!!!!@@@@@$$$$$%%%%%888888 Machine Learning Crash Course
+https://developers.google.com/machine-learning/crash-course/
 
 
 
