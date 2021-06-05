@@ -87,7 +87,7 @@ https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-l
 http://patrickhalina.com/posts/ml-systems-design-interview-guide/
 https://apolomodov.medium.com/software-design-books-743be52e4c71
 
-
+https://platform.stratascratch.com/coding
 
 
 
