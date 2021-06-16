@@ -186,7 +186,8 @@ https://github.com/gimli-org/transform2021
 https://www.youtube.com/watch?v=TBa791rkIDE
 https://github.com/olawaleibrahim
 
-
+### DIGITAL UPSTREAM: Цифровая трансформация отрасли
+https://www.youtube.com/watch?v=bshiYk0RdxQ
 
 
 
