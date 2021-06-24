@@ -833,7 +833,8 @@ https://postgresql.leopard.in.ua/
 ### !!!!!@@@@@$$$$$%%%%%888888 Machine Learning Crash Course
 https://developers.google.com/machine-learning/crash-course/
 
-
+### A friendly introduction to linear algebra for ML (ML Tech Talks)
+https://www.youtube.com/watch?v=LlKAna21fLE
 
 
 
