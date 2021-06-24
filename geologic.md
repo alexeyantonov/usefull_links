@@ -189,9 +189,12 @@ https://github.com/olawaleibrahim
 ### DIGITAL UPSTREAM: Цифровая трансформация отрасли
 https://www.youtube.com/watch?v=bshiYk0RdxQ
 
+### A-Tour-of-Oil-Industry-ML
+https://github.com/bysarmad/A-Tour-of-Oil-Industry-ML
 
-
-
+### Oil and gas repo
+https://github.com/potokrm/oil-and-gas
+https://github.com/topics/oil-and-gas
 
 
 
