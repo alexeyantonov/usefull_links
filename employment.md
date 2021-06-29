@@ -90,7 +90,8 @@ https://apolomodov.medium.com/software-design-books-743be52e4c71
 https://platform.stratascratch.com/coding
 
 ### на канале разборы задач с собеседований
-https://www.youtube.com/watch?v=qH7rq7p8N5s
+https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA
+https://www.youtube.com/watch?v=vaD3ZFFNwhM
 
 
 
