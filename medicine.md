@@ -141,6 +141,8 @@ https://www.youtube.com/watch?v=78CpdYTquxQ
 ### Ruslan Aliev: Automatic detection of focal cortical dysplasia
 https://www.youtube.com/watch?v=njX0ZOCyVc8
 
+### https://www.youtube.com/watch?v=nVYOugbSgTg
+https://www.youtube.com/watch?v=nVYOugbSgTg
 
 
 
