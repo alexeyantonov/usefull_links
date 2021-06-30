@@ -93,6 +93,8 @@ https://platform.stratascratch.com/coding
 https://www.youtube.com/playlist?list=PLVD3APpfd1tuXrXBWAntLx4tNaONro5dA
 https://www.youtube.com/watch?v=vaD3ZFFNwhM
 
+### там же - резюме
+https://www.youtube.com/watch?v=vx-x-yXXE9I
 
 
 
