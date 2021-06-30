@@ -95,6 +95,7 @@ https://www.youtube.com/watch?v=vaD3ZFFNwhM
 
 ### там же - резюме
 https://www.youtube.com/watch?v=vx-x-yXXE9I
+https://drive.google.com/file/d/1RS06YjcV4GoxZD0EOI3chzw9UgH20o4F/view
 
 
 
