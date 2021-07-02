@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=f7lfqlxMp1A
 https://www.youtube.com/watch?v=3R7KZAyPxZA
 https://www.youtube.com/watch?v=AVjPtHKdYVY
 
+### Даниил Охлопков | Data platform for startups
+https://www.youtube.com/watch?v=FjGj_0yMAfI
 
 
 
