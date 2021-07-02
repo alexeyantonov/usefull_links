@@ -196,7 +196,8 @@ https://github.com/bysarmad/A-Tour-of-Oil-Industry-ML
 https://github.com/potokrm/oil-and-gas
 https://github.com/topics/oil-and-gas
 
-
+### Применение алгоритмов компьютерного зрения в геологии
+https://www.youtube.com/watch?v=GvovRaiCK2M
 
 
 
