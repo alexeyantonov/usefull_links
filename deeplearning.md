@@ -2070,7 +2070,8 @@ https://www.youtube.com/playlist?list=PLVF5PzSHILHTcO89xQvyomRZIiCA2XLgN
 ### YOLO! Используем нейросеть, чтобы следить за людьми и разгадывать капчу
 https://telegra.ph/Haker---YOLO-Ispolzuem-nejroset-chtoby-sledit-za-lyudmi-i-razgadyvat-kapchu-04-18
 
-
+### Generative Adversarial Networks and TF-GAN (ML Tech Talks)
+https://www.youtube.com/watch?v=qvBhp0e-Kuc
 
 
 
