@@ -97,7 +97,11 @@ https://www.youtube.com/watch?v=vaD3ZFFNwhM
 https://www.youtube.com/watch?v=vx-x-yXXE9I
 https://drive.google.com/file/d/1RS06YjcV4GoxZD0EOI3chzw9UgH20o4F/view
 
+### Работа программистом в Нидерландах (Амстердаме) и в России (Самаре): заплата, условия труда
+https://www.youtube.com/watch?v=2zTDwQE8WRg
 
+### Как программисту найти работу в Нидерландах / Прохождение интервью
+https://www.youtube.com/watch?v=7eISU2fMmWw
 
 
 
