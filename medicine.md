@@ -141,10 +141,11 @@ https://www.youtube.com/watch?v=78CpdYTquxQ
 ### Ruslan Aliev: Automatic detection of focal cortical dysplasia
 https://www.youtube.com/watch?v=njX0ZOCyVc8
 
-### https://www.youtube.com/watch?v=nVYOugbSgTg
+### Евгений Никитин | Про разные виды проблем с данными в сфере здравоохранения
 https://www.youtube.com/watch?v=nVYOugbSgTg
 
-
+### Евгений Никитин | Оценка ML-моделей на медицинских данных
+https://www.youtube.com/watch?v=sdJ6SwiRDg8
 
 
 
