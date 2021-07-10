@@ -199,7 +199,8 @@ https://github.com/topics/oil-and-gas
 ### Применение алгоритмов компьютерного зрения в геологии
 https://www.youtube.com/watch?v=GvovRaiCK2M
 
-
+### Сергей Бехтин | Как из одной инициативы ML4SG вырос маленький стартап
+https://www.youtube.com/watch?v=2xqW2tiLtmU
 
 
 
