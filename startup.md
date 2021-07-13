@@ -17,6 +17,8 @@ https://www.youtube.com/watch?v=AVjPtHKdYVY
 ### Даниил Охлопков | Data platform for startups
 https://www.youtube.com/watch?v=FjGj_0yMAfI
 
+### Как b2b-компаниям найти зарубежных клиентов с помощью LinkedIn
+https://www.youtube.com/watch?v=GKi4OkGmZLI
 
 
 
