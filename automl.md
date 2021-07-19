@@ -34,3 +34,5 @@ https://www.youtube.com/watch?v=cTnWvYJJRCY
 ### Auto-PyTorch
 https://github.com/automl/Auto-PyTorch
 
+### LightAutoML: подход BlackBox
+https://www.youtube.com/watch?v=hr8GbPOHaEE
