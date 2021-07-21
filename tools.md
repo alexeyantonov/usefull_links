@@ -301,6 +301,8 @@ https://github.com/nalepae/pandarallel
 ### 10 забавных расширений VS Code для разработчиков
 https://proglib.io/p/10-zabavnyh-rasshireniy-vs-code-dlya-razrabotchikov-2021-05-14
 
+### Иван Лазаревич | Компрессия нейронных сетей без перетренировки путём послойной калибрации в OpenVINO
+https://www.youtube.com/watch?v=SaMXWV73Nwo
 
 
 
