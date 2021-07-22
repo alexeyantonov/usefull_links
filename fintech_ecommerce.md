@@ -334,8 +334,8 @@ https://github.com/ZhengyaoJiang/PGPortfolio
 ### Как «Ревущий Котёнок» с Reddit заработал 28 500% на акциях GameStop: объясняю простым языком 
 https://vc.ru/finance/201843-kak-revushchiy-kotenok-s-reddit-zarabotal-28-500-na-akciyah-gamestop-obyasnyayu-prostym-yazykom
 
-
-
+### Блокчейн для чайников: Ультимативный гайд 
+https://dtf.ru/flood/757034-blokcheyn-dlya-chaynikov-ultimativnyy-gayd
 
 
 
