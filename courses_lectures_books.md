@@ -836,6 +836,8 @@ https://developers.google.com/machine-learning/crash-course/
 ### A friendly introduction to linear algebra for ML (ML Tech Talks)
 https://www.youtube.com/watch?v=LlKAna21fLE
 
+### Функан Хелемский
+https://www.youtube.com/watch?v=U_HQLRGab-o&list=PLcsjsqLLSfNB1j4xWmas2EtbESDReq82N
 
 
 
