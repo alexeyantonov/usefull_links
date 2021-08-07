@@ -103,7 +103,8 @@ https://www.youtube.com/watch?v=2zTDwQE8WRg
 ### Как программисту найти работу в Нидерландах / Прохождение интервью
 https://www.youtube.com/watch?v=7eISU2fMmWw
 
-
+### Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем
+https://habr.com/ru/company/yandex/blog/564132/
 
 
 
