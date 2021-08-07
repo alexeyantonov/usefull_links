@@ -304,6 +304,8 @@ https://proglib.io/p/10-zabavnyh-rasshireniy-vs-code-dlya-razrabotchikov-2021-05
 ### Иван Лазаревич | Компрессия нейронных сетей без перетренировки путём послойной калибрации в OpenVINO
 https://www.youtube.com/watch?v=SaMXWV73Nwo
 
+### Awesome Public Datasets
+https://github.com/awesomedata/awesome-public-datasets
 
 
 
