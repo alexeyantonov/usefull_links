@@ -839,7 +839,8 @@ https://www.youtube.com/watch?v=LlKAna21fLE
 ### Функан Хелемский
 https://www.youtube.com/watch?v=U_HQLRGab-o&list=PLcsjsqLLSfNB1j4xWmas2EtbESDReq82N
 
-
+### Основы SQL
+https://www.youtube.com/watch?v=uGKIXTUjZbc&list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT
 
 
 
