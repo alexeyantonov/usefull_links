@@ -842,8 +842,13 @@ https://www.youtube.com/watch?v=U_HQLRGab-o&list=PLcsjsqLLSfNB1j4xWmas2EtbESDReq
 ### Основы SQL
 https://www.youtube.com/watch?v=uGKIXTUjZbc&list=PLtPJ9lKvJ4oh5SdmGVusIVDPcELrJ2bsT
 
+### SwiftUI Weather App 1: Introduction and Overview of the Weather App Playlist and Course
+https://www.youtube.com/watch?v=FA4ksgVip9E
+https://www.youtube.com/watch?v=PrMeiWhjqpc
+https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
 
-
+### !!!!! Swift 4 c нуля
+https://www.youtube.com/watch?v=aN0I1QRRki8
 
 
 
