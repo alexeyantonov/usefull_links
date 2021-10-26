@@ -307,7 +307,8 @@ https://www.youtube.com/watch?v=SaMXWV73Nwo
 ### Awesome Public Datasets
 https://github.com/awesomedata/awesome-public-datasets
 
-
+### !!!!! labml.ai Annotated PyTorch Paper Implementations
+https://nn.labml.ai/
 
 
 
