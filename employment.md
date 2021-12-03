@@ -106,6 +106,9 @@ https://www.youtube.com/watch?v=7eISU2fMmWw
 ### Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем
 https://habr.com/ru/company/yandex/blog/564132/
 
+### Introduction to Machine Learning Interviews Book
+https://huyenchip.com/ml-interviews-book/
+https://github.com/chiphuyen/ml-interviews-book
 
 
 
