@@ -202,7 +202,8 @@ https://www.youtube.com/watch?v=GvovRaiCK2M
 ### Сергей Бехтин | Как из одной инициативы ML4SG вырос маленький стартап
 https://www.youtube.com/watch?v=2xqW2tiLtmU
 
-
+### LumenStone Dataset
+https://imaging.cs.msu.ru/en/research/geology/lumenstone
 
 
 
