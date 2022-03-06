@@ -205,11 +205,14 @@ https://www.youtube.com/watch?v=2xqW2tiLtmU
 ### LumenStone Dataset
 https://imaging.cs.msu.ru/en/research/geology/lumenstone
 
+### Machine learning framework for reservoir simulation.
+https://github.com/Skoltech-CHR/DeepField
 
+### CNN for Fault Recognition
+https://github.com/anyuzoey/CNNforFaultInterpretation
 
-
-
-
+### 3-D seismic interpretation with deep learning: a set of Python tutorials
+https://github.com/thilowrona/seismic_deep_learning
 
 
 
