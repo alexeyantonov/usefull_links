@@ -3,6 +3,9 @@
 ### !!!!! Текст сообщения из чата ODS и ссылка на него:"Может кому-то будет полезен лайфхак: возникла задача в короткие сроки прокачать человека с почти нулевым бекграундом в программировании и нулевым в ML до состояния осмысленного рисерча. Была поставлена задача имплементировать все статьи из списка по порядку на :pytorch:, пока не наступит просветление (или список не закончится). Потребовался всего месяц с небольшим, чтобы человек научился читать, имплементировать и местами даже анализировать результаты статей."
 https://opendatascience.slack.com/messages/C047H3N8L/convo/C047H3N8L-1520445318.000067/
 
+# !!!!! It's hard to keep up with the latest and greatest in machine learning. Here's a selection of survey papers summarizing the advances in the field.
+https://github.com/eugeneyan/ml-surveys
+
 ### all kinds of NN
 http://www.asimovinstitute.org/neural-network-zoo/
 
@@ -2073,8 +2076,9 @@ https://telegra.ph/Haker---YOLO-Ispolzuem-nejroset-chtoby-sledit-za-lyudmi-i-raz
 ### Generative Adversarial Networks and TF-GAN (ML Tech Talks)
 https://www.youtube.com/watch?v=qvBhp0e-Kuc
 
-
-
+### Few-Shot Head Swapping in the Wild (CVPR 2022 Oral)
+https://github.com/jmliu88/heser
+https://arxiv.org/abs/2204.13100
 
 
 
