@@ -2080,8 +2080,8 @@ https://www.youtube.com/watch?v=qvBhp0e-Kuc
 https://github.com/jmliu88/heser
 https://arxiv.org/abs/2204.13100
 
-
-
+### Deploying DL models with Kubernetes and Kubeflow
+https://www.youtube.com/watch?v=3EkN-LIDnyo
 
 
 
