@@ -2083,7 +2083,8 @@ https://arxiv.org/abs/2204.13100
 ### Deploying DL models with Kubernetes and Kubeflow
 https://www.youtube.com/watch?v=3EkN-LIDnyo
 
-
+### Nice lectures on DL
+https://www.youtube.com/@dlvu6202/playlists
 
 
 
