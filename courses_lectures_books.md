@@ -850,6 +850,8 @@ https://www.raywenderlich.com/4161005-mvvm-with-combine-tutorial-for-ios
 ### !!!!! Swift 4 c нуля
 https://www.youtube.com/watch?v=aN0I1QRRki8
 
+### Nice lectures on DL
+https://www.youtube.com/@dlvu6202/playlists
 
 
 
